@@ -55,4 +55,9 @@
 	
 	ABOUT_COPYRIGHT = "ProSwitcher is © 2009-2010 Ryan Petrich and Grant Paul and is licensed under the GNU LGPL.";
 	
+	NO_APPS_RUNNING = "No Apps Running";
+	
+	WELCOME_TITLE = "Welcome To ProSwitcher";
+	WELCOME_MESSAGE = "To change settings or to setup gestures, go to the Settings app.\n\n(c) 2009 Ryan Petrich and Grant Paul\nLGPL Licensed";
+	WELCOME_CONTINUE_BUTTON = "Continue";
 }
