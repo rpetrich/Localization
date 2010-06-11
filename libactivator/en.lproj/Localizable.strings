@@ -16,6 +16,12 @@
 	MORE_ACTIONS = "More Actions";
 	MORE_ACTIONS_DETAIL = "Get more actions via Cydia";
 	N_ADDITIONAL_EVENTS = "%i additional events";
+	RESET_SETTINGS = "Reset Settings";
+	RESET_SETTINGS_DETAIL = "Return all settings to the default values";
+	RESET_ALERT_TITLE = "Reset Activator Settings";
+	RESET_ALERT_MESSAGE = "Are you sure you wish to reset Activator settings to defaults?\nYour device will respring if you continue.";
+	RESET_ALERT_CANCEL = "Cancel";
+	RESET_ALERT_CONTINUE = "Reset";
 	
 	/* Modes */
 	
