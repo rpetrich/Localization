@@ -16,6 +16,13 @@ UNASSIGNED = "(non assegnato)";
 MORE_ACTIONS = "Altre azioni";
 MORE_ACTIONS_DETAIL = "Scarica altre azioni da Cydia";
 N_ADDITIONAL_EVENTS = "%i eventi ";
+RESET_SETTINGS = "Ripristina impostazioni";
+RESET_SETTINGS_DETAIL = "Reimposta tutti i valori predefiniti";
+RESET_ALERT_TITLE = "Ripristina impostazioni";
+RESET_ALERT_MESSAGE = "Sei sicuro di voler reimpostare le impostazioni di Activator come predefinite? Il dispositivo effettuerà un respring se continui";
+RESET_ALERT_CANCEL = "Annulla";
+RESET_ALERT_CONTINUE = "Reimposta";
+
  
 /* Modes */
  
@@ -112,6 +119,9 @@ MODE_DESCRIPTION_lockscreen = "Bloccato con lockscreen visibile";
 "LISTENER_GROUP_TITLE_Lock Screen" = "Lockscreen";
  
 /* Listener Names */
+
+"LISTENER_DESCRIPTION_application" = "Attiva applicazione";
+
  
 "LISTENER_TITLE_libactivator.system.homebutton" = "Pulsante home";
 "LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Simula il pulsante home";
