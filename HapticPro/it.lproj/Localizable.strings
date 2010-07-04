@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Activates HapticPro only from the keyboard's modifier keys.</key>
+	<string>Attiva HapticPro solo per i tasti di modifica della tastiera.</string>
+	<key>Add Click Sounds</key>
+	<string>Aggiungi suono click</string>
+	<key>Adjust the strength of the vibration.</key>
+	<string>Regola l'intensità della vibrazione.</string>
+	<key>Are you sure you wish to reset HapticPro to the default settings?</key>
+	<string>Sei sicuro di voler reimpostare HapticPro con le impostazioni predefinite?</string>
+	<key>Buttons</key>
+	<string>Bottoni</string>
+	<key>Cancel</key>
+	<string>Annulla</string>
+	<key>Control the duration of each type of haptic feedback independently.</key>
+	<string>Controlla la durata di ogni tipo di feedback tattile indipendentemente.</string>
+	<key>Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing.</key>
+	<string>A causa delle limitazioni dell'iPhone OS 3.0, HapticPro verrà disabilitato durante la riproduzione audio.</string>
+	<key>Duration</key>
+	<string>Durata</string>
+	<key>Duration Factor Pressed</key>
+	<string>Durata fattore pressione</string>
+	<key>Duration Factor Released</key>
+	<string>Durata fattore rilascio</string>
+	<key>Duration Factor Repeated</key>
+	<string>Durata fattore ripetizione</string>
+	<key>Enable keyboard click sounds on regular buttons.</key>
+	<string>Abilita il suono click della tastiera sui bottoni normali.</string>
+	<key>Enable/disable haptic feedback based on the status of the ringer switch.</key>
+	<string>Abilita/disabilita il feedback tattile in base allo stato dell'interruttore della suoneria.</string>
+	<key>HapticPro-Advanced</key>
+	<string>Impostazioni avanzate</string>
+	<key>Has no effect on the iPhone 3G</key>
+	<string>Non ha effetto su iPhone 3G</string>
+	<key>Intensity</key>
+	<string>Intensità</string>
+	<key>Key Pressed</key>
+	<string>Pressione tasto</string>
+	<key>Key Released</key>
+	<string>Rilascio tasto</string>
+	<key>Key Repeated</key>
+	<string>Ripetizione tasto</string>
+	<key>Keyboard</key>
+	<string>Tastiera</string>
+	<key>Only Special Keys</key>
+	<string>Solo tasti speciali</string>
+	<key>Reset</key>
+	<string>Reimposta</string>
+	<key>Reset to Defaults</key>
+	<string>Reimposta come predefinito</string>
+	<key>Ringer Switch</key>
+	<string>Interruttore suoneria</string>
+	<key>Table Cells</key>
+	<string>Celle tabella</string>
+	<key>Test Keyboard</key>
+	<string>Prova la tastiera</string>
+	<key>Trigger Controls</key>
+	<string>Controlli</string>
+	<key>Trigger Events</key>
+	<string>Eventi</string>
+	<key>Trigger In Ring</key>
+	<string>In suoneria</string>
+	<key>Trigger In Silent</key>
+	<string>In silenzioso</string>
+	<key>Web Links</key>
+	<string>Collegamenti</string>
+</dict>
+</plist>
