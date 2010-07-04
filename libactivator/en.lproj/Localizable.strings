@@ -23,6 +23,9 @@
 	RESET_ALERT_CANCEL = "Cancel";
 	RESET_ALERT_CONTINUE = "Reset";
 	
+	ENABLED = "Enabled";
+	DISABLED = "Disabled";
+	
 	/* Modes */
 	
 	MODE_TITLE_all = "Anywhere";
@@ -46,6 +49,7 @@
 	"EVENT_GROUP_TITLE_Home Button" = "Home Button";
 	"EVENT_GROUP_TITLE_Sleep Button" = "Sleep Button";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "Volume Buttons";
+	"EVENT_GROUP_TITLE_Headset Button" = "Headset Button";
 	
 	/* Events */
 	
@@ -109,6 +113,9 @@
 	"EVENT_TITLE_libactivator.volume.up-down" = "Up, Down";
 	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Press volume up, then down";	
 	
+	"EVENT_TITLE_libactivator.headset-button.press.single" = "Single Press";
+	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Press headset button once";	
+	
 	/* Listener Groups */
 	
 	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
@@ -116,9 +123,11 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "User Applications";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "Lock Screen";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings Toggles";
 	
 	/* Listener Names */
 	
+	"LISTENER_DESCRIPTION_toggle" = "Activate/deactivate toggle";
 	"LISTENER_DESCRIPTION_application" = "Activate application";
 	
 	"LISTENER_TITLE_libactivator.system.homebutton" = "Home Button";
@@ -146,8 +155,11 @@
 	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Save screen contents to photos";
 
 	"LISTENER_TITLE_libactivator.system.voice-control" = "Voice Control";
-	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Activate Voice Control (3GS only)";
+	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Activate Voice Control";
 
+	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Activate Switcher";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Show application switcher";
+	
 	
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod Controls";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Show now playing popup";
@@ -170,5 +182,15 @@
 	
 	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "Lock/Unlock";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Toggle showing lock screen";
+	
+	
+	"LISTENER_TITLE_toggle_3G" = "3G";
+	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
+	"LISTENER_TITLE_toggle_Data" = "Data";
+	"LISTENER_TITLE_toggle_Location" = "Location";
+	"LISTENER_TITLE_toggle_Phone" = "Phone";
+	"LISTENER_TITLE_toggle_SSH" = "SSH";
+	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
+	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
 	
 }
