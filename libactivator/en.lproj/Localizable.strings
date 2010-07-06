@@ -116,6 +116,9 @@
 	"EVENT_TITLE_libactivator.headset-button.press.single" = "Single Press";
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Press headset button once";	
 	
+	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Short Hold";
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Press and hold headset button";	
+	
 	/* Listener Groups */
 	
 	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
