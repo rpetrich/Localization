@@ -23,6 +23,9 @@
 	RESET_ALERT_CANCEL = "取消";
 	RESET_ALERT_CONTINUE = "重置";
 	
+	ENABLED = "启用";
+	DISABLED = "禁用";
+	
 	/* Modes */
 	
 	MODE_TITLE_all = "任何地方";
@@ -46,6 +49,7 @@
 	"EVENT_GROUP_TITLE_Home Button" = "Home 按钮";
 	"EVENT_GROUP_TITLE_Sleep Button" = "Sleep 按钮";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "音量按钮";
+	"EVENT_GROUP_TITLE_Headset Button" = "线控按钮";
 	
 	/* Events */
 	
@@ -108,7 +112,13 @@
 	
 	"EVENT_TITLE_libactivator.volume.up-down" = "上, 下";
 	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "按一下向上音量按钮，然后按向下音量按钮";	
+
+    "EVENT_TITLE_libactivator.headset-button.press.single" = "按一次";
+	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "按一次线控按钮";	
 	
+	"EVENT_TITLE_libactivator.headset-button.hold.short" = "短按";
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按住线控按钮";	
+		
 	/* Listener Groups */
 	
 	"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
@@ -116,9 +126,13 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "用户应用程序";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "锁屏";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 开关";
 	
 	/* Listener Names */
 	
+	"LISTENER_DESCRIPTION_toggle" = "启动/关闭 开关";
+	"LISTENER_DESCRIPTION_application" = "启动应用程序";
+
 	"LISTENER_TITLE_libactivator.system.homebutton" = "Home 按钮";
 	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "模拟按下一次 home 按钮";
 
@@ -146,6 +160,9 @@
 	"LISTENER_TITLE_libactivator.system.voice-control" = "音量控制";
 	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "激活音量控制 (仅适用 3GS)";
 
+	"LISTENER_TITLE_libactivator.system.activate-switcher" = "启动切换器";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "显示应用程序切换器";
+
 	
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "显示正在播放界面";
@@ -168,5 +185,15 @@
 	
 	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "锁定/解锁";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "切换显示锁屏界面";
+
+	
+	"LISTENER_TITLE_toggle_3G" = "3G";
+	"LISTENER_TITLE_toggle_Bluetooth" = "蓝牙";
+	"LISTENER_TITLE_toggle_Data" = "数据";
+	"LISTENER_TITLE_toggle_Location" = "位置";
+	"LISTENER_TITLE_toggle_Phone" = "电话";
+	"LISTENER_TITLE_toggle_SSH" = "SSH";
+	"LISTENER_TITLE_toggle_Syslog" = "日志";
+	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";	
 	
 }
