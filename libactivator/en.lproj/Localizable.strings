@@ -15,6 +15,8 @@
 	UNASSIGNED = "(unassigned)";
 	MORE_ACTIONS = "More Actions";
 	MORE_ACTIONS_DETAIL = "Get more actions via Cydia";
+	DONATE = "Donate";
+	DONATE_DETAIL = "Contribute via PayPal";
 	N_ADDITIONAL_EVENTS = "%i additional events";
 	RESET_SETTINGS = "Reset Settings";
 	RESET_SETTINGS_DETAIL = "Return all settings to the default values";
