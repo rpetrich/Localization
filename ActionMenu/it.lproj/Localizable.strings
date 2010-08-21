@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AM</key>
+	<string>AM</string>
+	<key>Actions</key>
+	<string>Azioni</string>
+	<key>Add Favorite</key>
+	<string>Aggiungi</string>
+	<key>Add Favorite...</key>
+	<string>Aggiungi preferito...</string>
+	<key>Cancel</key>
+	<string>Annulla</string>
+	<key>Clear</key>
+	<string>Pulisci</string>
+	<key>Clear History</key>
+	<string>Pulisci cronologia</string>
+	<key>Confirm</key>
+	<string>Conferma</string>
+	<key>Copy All</key>
+	<string>Copia tutto</string>
+	<key>Create</key>
+	<string>Crea</string>
+	<key>Debug</key>
+	<string>Debug</string>
+	<key>Delete Favorite</key>
+	<string>Elimina preferito</string>
+	<key>Dial</key>
+	<string>Chiama</string>
+	<key>Dictionary</key>
+	<string>Dizionario</string>
+	<key>Donate with PayPal</key>
+	<string>Dona con PayPal</string>
+	<key>Enabled</key>
+	<string>Attivo</string>
+	<key>Enter the new favorite details</key>
+	<string>Inserisci i dettagli del nuovo preferito</string>
+	<key>Extended Support</key>
+	<string>Supporto esteso</string>
+	<key>Favorites</key>
+	<string>Preferiti</string>
+	<key>Find</key>
+	<string>Trova</string>
+	<key>Find In Page</key>
+	<string>Trova nella pagina</string>
+	<key>Find Next</key>
+	<string>Trova successivo</string>
+	<key>Find Previous</key>
+	<string>Trova precedente</string>
+	<key>History</key>
+	<string>Cronologia</string>
+	<key>Left to Right</key>
+	<string>Da sinistra a destra</string>
+	<key>Lookup</key>
+	<string>Ricerca</string>
+	<key>More Actions...</key>
+	<string>Atre azioni...</string>
+	<key>New Favorite</key>
+	<string>Nuovo preferito</string>
+	<key>Next</key>
+	<string>Successivo</string>
+	<key>Not Found</key>
+	<string>Non trovato</string>
+	<key>OFF</key>
+	<string>Non attivo</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ON</key>
+	<string>Attivo</string>
+	<key>Open in Safari</key>
+	<string>Apri in safari</string>
+	<key>PM</key>
+	<string>PM</string>
+	<key>Pasteboard Favorites</key>
+	<string>Tabella preferiti</string>
+	<key>Pasteboard History</key>
+	<string>Tabella cronologia</string>
+	<key>Preferred Client</key>
+	<string>Client preferito</string>
+	<key>Previous</key>
+	<string>Precedente</string>
+	<key>Right to Left</key>
+	<string>Da destra a sinistra</string>
+	<key>Scroll</key>
+	<string>Scorri</string>
+	<key>Search</key>
+	<string>Cerca</string>
+	<key>Sorted</key>
+	<string>Ordina</string>
+	<key>TRANSLATION_ABOUT</key>
+	<string>Tradotto da Sagitt</string>
+	<key>Translate</key>
+	<string>Traduttore</string>
+	<key>Tweet</key>
+	<string>Tweet</string>
+	<key>Use Icons</key>
+	<string>Usa icone</string>
+	<key>Wikipedia</key>
+	<string>Wikipedia</string>
+	<key>all-day</key>
+	<string>tutti-i-giorni</string>
+	<key>biteSMS</key>
+	<string>biteSMS</string>
+	<key>by</key>
+	<string>da</string>
+	<key>lap</key>
+	<string>giro</string>
+	<key>on</key>
+	<string>su</string>
+	<key>Close</key>
+	<string>Chiudi</string>
+	<key>Cut</key>
+	<string>Taglia</string>
+	<key>Copy</key>
+	<string>Copia</string>
+	<key>Paste</key>
+	<string>Incolla</string>
+	<key>Select</key>
+	<string>Seleziona</string>
+	<key>Select All</key>
+	<string>Seleziona tutto</string>
+	<key>Locate</key>
+	<string>Localizza</string>
+	<key>Error retrieving location!</key>
+	<string>Errore durante il recupero dei dati della localizzazione</string>
+	<key>Estimated Accuracy:</key>
+	<string>Precisione stimata:</string>
+	<key>%@ meters</key>
+	<string>%@ metri</string>
+	<key>My Location on Google Maps</key>
+	<string>La mia posizione su Google Maps</string>
+</dict>
+</plist>
