@@ -76,4 +76,6 @@
 	Error = Error;
 	"Unable to submit your pastie." = "Unable to submit your pastie.";
 	"No Search Results" = "No Search Results";
+	
+	"Edit Favorite" = "Edit Favorite";
 }
