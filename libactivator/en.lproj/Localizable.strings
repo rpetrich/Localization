@@ -125,8 +125,8 @@
 	"EVENT_TITLE_libactivator.volume.up-down" = "Up, Down";
 	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Press volume up, then down";	
 	
-	"EVENT_TITLE_libactivator.volume.both-press" = "Both Press";
-	"EVENT_DESCRIPTION_libactivator.volume.both-press" = "Press both buttons simultaneously";	
+	"EVENT_TITLE_libactivator.volume.both.press" = "Both Press";
+	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Press both buttons simultaneously";	
 	
 	"EVENT_TITLE_libactivator.volume.down.hold.short" = "Down Short Hold";
 	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "Press and hold down button";	
