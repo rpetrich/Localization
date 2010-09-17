@@ -1,0 +1,30 @@
+{
+	
+	ACTIVATION_METHODS = "Metodi di attivazione";
+	HOME_BUTTON = "Pulsante home";
+	DOUBLE_HOME_BUTTON = "Doppio tap home";
+	SPRINGBOARD_ICON = "Icona springboard";
+	SPRINGBOARD_PINCH = "Riduci in springboard";
+	SPRINGBOARD_SPREAD = "Allarga in springboard";
+	
+	VISIBLE_ELEMENTS = "Elementi visibili";
+	COLUMNS = "Colonne";
+	ONE = "Una";
+	TWO = "Due";
+	THREE = "Tre";
+	FOUR = "Quattro";
+	FIVE = "Cinque";
+	AUTO = "Automatico";
+	DOCK = "Dock";
+	SEARCH_PAGE = "Pagina ricerca";
+	ANIMATED = "Animazione";
+	REVERSE_ORDER = "Ordine inverso";
+	SHOW_AS_HOME_SCREEN = "Prima della home";
+
+	BADGE_STYLE = "Stile badge";
+	BADGE_STYLE_HIDDEN = "Nascosto";
+	BADGE_STYLE_ON_ICONS = "Sulle icone";
+	BADGE_STYLE_ON_PAGES = "Sulle pagine";
+	BADGE_STYLE_ON_BOTH = "Su entrambi";
+	
+}
