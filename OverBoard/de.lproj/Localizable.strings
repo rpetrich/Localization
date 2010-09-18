@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTIVATOR</key>
+	<string>Activator</string>
+	<key>ALERT_CANCEL</key>
+	<string>Abbrechen</string>
+	<key>ALERT_OK</key>
+	<string>OK</string>
+	<key>ALERT_REASSIGN</key>
+	<string>Neu zuweisen</string>
+	<key>ALERT_VALUE_AND</key>
+	<string> und </string>
+	<key>ALREADY_ASSIGNED_TO</key>
+	<string>Bereits zugewiesen
+%@</string>
+	<key>AT_LEAST_ONE_ASSIGNMENT_REQUIRED</key>
+	<string>Mindestens ein Ereignis
+muss zugewiesen werden %@</string>
+	<key>CANT_DEACTIVATE_REMAINING</key>
+	<string>Verbleibendes Ereignis
+kann nicht deaktiviert werden.</string>
+	<key>CURRENTLY_ASSIGNED_TO</key>
+	<string>Derzeit zugewiesen:</string>
+	<key>DISABLED</key>
+	<string>Deaktiviert</string>
+	<key>DONATE</key>
+	<string>Spenden</string>
+	<key>DONATE_DETAIL</key>
+	<string>Via PayPal beitragen</string>
+	<key>ENABLED</key>
+	<string>Aktiviert</string>
+	<key>EVENT_DESCRIPTION_libactivator.headset-button.hold.short</key>
+	<string>Drücken und Halten Kopfhörer Button</string>
+	<key>EVENT_DESCRIPTION_libactivator.headset-button.press.single</key>
+	<string>Kopfhörer Button einmal drücken</string>
+	<key>EVENT_DESCRIPTION_libactivator.lock.hold.short</key>
+	<string>Drücken und halten Schlaf Button</string>
+	<key>EVENT_DESCRIPTION_libactivator.lock.press.double</key>
+	<string>Drücken Sleep Button schnell zweimal</string>
+	<key>EVENT_DESCRIPTION_libactivator.menu.hold.short</key>
+	<string>Drücken und halten Home Button</string>
+	<key>EVENT_DESCRIPTION_libactivator.menu.press.at-springboard</key>
+	<string>Drücken Home Button im SpringBoard</string>
+	<key>EVENT_DESCRIPTION_libactivator.menu.press.double</key>
+	<string>Drücken Home Button schnell zweimal</string>
+	<key>EVENT_DESCRIPTION_libactivator.menu.press.single</key>
+	<string>Drücken Home Button einmal</string>
+	<key>EVENT_DESCRIPTION_libactivator.motion.shake</key>
+	<string>Gerät hin und her schütteln</string>
+	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom</key>
+	<string>Ziehen von unten nach oben</string>
+	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom-left</key>
+	<string>Ziehen von links unten nach oben</string>
+	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom-right</key>
+	<string>Ziehen von rechts unten nach oben</string>
+	<key>EVENT_DESCRIPTION_libactivator.springboard.pinch</key>
+	<string>zwei Finger zusammendrücken</string>
+	<key>EVENT_DESCRIPTION_libactivator.springboard.spread</key>
+	<string>zwei Finger auseinanderziehen</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.hold</key>
+	<string>Tippen und halten Sie auf der Status Bar</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.swipe.down</key>
+	<string>Streichen von der Status Bar nach unten</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.swipe.left</key>
+	<string>Streichen auf der Status Bar nach links</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.swipe.right</key>
+	<string>Streichen auf der Status Bar nach rechts</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.tap.double</key>
+	<string>Doppelt tippen auf der Status Bar</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.both.press</key>
+	<string>Drücken Sie beide Tasten gleichzeitig</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.display-tap</key>
+	<string>Tippen Sie auf Lautstärke Achtung Anzeige</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.down-up</key>
+	<string>Lautstärke Button drücken unten -&gt; oben</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.down.hold.short</key>
+	<string>Drücken und halten des Leiser Button</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice</key>
+	<string>Schnellen Ton-Aus-Schalter an/aus und wieder zurück</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.up-down</key>
+	<string>Lautstärke Button drücken oben -&gt; unten</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.up.hold.short</key>
+	<string>Drücken und halten des Lauter Button</string>
+	<key>EVENT_GROUP_TITLE_Headset Button</key>
+	<string>Kopfhörer Button</string>
+	<key>EVENT_GROUP_TITLE_Home Button</key>
+	<string>Home Button</string>
+	<key>EVENT_GROUP_TITLE_Motion</key>
+	<string>Bewegung</string>
+	<key>EVENT_GROUP_TITLE_Sleep Button</key>
+	<string>Schlaf Button</string>
+	<key>EVENT_GROUP_TITLE_Slide In Gesture</key>
+	<string>Bildschirmrand streichen</string>
+	<key>EVENT_GROUP_TITLE_SpringBoard</key>
+	<string>SpringBoard</string>
+	<key>EVENT_GROUP_TITLE_Status Bar</key>
+	<string>Status Bar</string>
+	<key>EVENT_GROUP_TITLE_Volume Buttons</key>
+	<string>Lautstärke Buttons</string>
+	<key>EVENT_TITLE_libactivator.headset-button.hold.short</key>
+	<string>Kurzes halten</string>
+	<key>EVENT_TITLE_libactivator.headset-button.press.single</key>
+	<string>Einzelnes drücken</string>
+	<key>EVENT_TITLE_libactivator.lock.hold.short</key>
+	<string>Kurzes halten</string>
+	<key>EVENT_TITLE_libactivator.lock.press.double</key>
+	<string>Doppelt drücken</string>
+	<key>EVENT_TITLE_libactivator.menu.hold.short</key>
+	<string>Kurzes halten</string>
+	<key>EVENT_TITLE_libactivator.menu.press.at-springboard</key>
+	<string>Einzelnes drücken SpringBoard</string>
+	<key>EVENT_TITLE_libactivator.menu.press.double</key>
+	<string>Doppelt drücken</string>
+	<key>EVENT_TITLE_libactivator.menu.press.single</key>
+	<string>Einzelnes drücken</string>
+	<key>EVENT_TITLE_libactivator.motion.shake</key>
+	<string>Gerät schütteln</string>
+	<key>EVENT_TITLE_libactivator.slide-in.bottom</key>
+	<string>Vom unteren Bildschirmrand</string>
+	<key>EVENT_TITLE_libactivator.slide-in.bottom-left</key>
+	<string>Vom unteren Bildschirmrand links</string>
+	<key>EVENT_TITLE_libactivator.slide-in.bottom-right</key>
+	<string>Vom unteren Bildschirmrand rechts</string>
+	<key>EVENT_TITLE_libactivator.springboard.pinch</key>
+	<string>Icon zusammendrücken</string>
+	<key>EVENT_TITLE_libactivator.springboard.spread</key>
+	<string>Icon auseinanderziehen</string>
+	<key>EVENT_TITLE_libactivator.statusbar.hold</key>
+	<string>Halten</string>
+	<key>EVENT_TITLE_libactivator.statusbar.swipe.down</key>
+	<string>Abwärts streichen</string>
+	<key>EVENT_TITLE_libactivator.statusbar.swipe.left</key>
+	<string>Nach Links streichen</string>
+	<key>EVENT_TITLE_libactivator.statusbar.swipe.right</key>
+	<string>Nach Rechts streichen</string>
+	<key>EVENT_TITLE_libactivator.statusbar.tap.double</key>
+	<string>Doppelt tippen</string>
+	<key>EVENT_TITLE_libactivator.volume.both.press</key>
+	<string>Beide drücken</string>
+	<key>EVENT_TITLE_libactivator.volume.display-tap</key>
+	<string>Anzeige tippen</string>
+	<key>EVENT_TITLE_libactivator.volume.down-up</key>
+	<string>Unten, Oben</string>
+	<key>EVENT_TITLE_libactivator.volume.down.hold.short</key>
+	<string>Leiser kurz halten</string>
+	<key>EVENT_TITLE_libactivator.volume.toggle-mute-twice</key>
+	<string>Lautlos Schalter zweimal umschalten</string>
+	<key>EVENT_TITLE_libactivator.volume.up-down</key>
+	<string>Oben, Unten</string>
+	<key>EVENT_TITLE_libactivator.volume.up.hold.short</key>
+	<string>Lauter kurz halten</string>
+	<key>LISTENER_DESCRIPTION_application</key>
+	<string>Anwendung starten</string>
+	<key>LISTENER_DESCRIPTION_libactivator.ipod.music-controls</key>
+	<string>Zeigt jetzt spielt Popup</string>
+	<key>LISTENER_DESCRIPTION_libactivator.ipod.next-track</key>
+	<string>Springt zum nächsten Titel</string>
+	<key>LISTENER_DESCRIPTION_libactivator.ipod.previous-track</key>
+	<string>Springt zu vorherigen Titel</string>
+	<key>LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback</key>
+	<string>Schaltet zwischen Play/Pause</string>
+	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss</key>
+	<string>Bildschirmsperre deaktivieren</string>
+	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.show</key>
+	<string>Bildschirmsperre aktivieren</string>
+	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.toggle</key>
+	<string>Bildschirmsperre an/aus</string>
+	<key>LISTENER_DESCRIPTION_libactivator.phone.contacts</key>
+	<string>Startet Telefon, Registerkarte Kontakte</string>
+	<key>LISTENER_DESCRIPTION_libactivator.phone.favorites</key>
+	<string>Startet Telefon, Registerkarte Favoriten</string>
+	<key>LISTENER_DESCRIPTION_libactivator.phone.keypad</key>
+	<string>Startet Telefon, Registerkarte Tastatur</string>
+	<key>LISTENER_DESCRIPTION_libactivator.phone.recents</key>
+	<string>Startet Telefon, Registerkarte Anrufe</string>
+	<key>LISTENER_DESCRIPTION_libactivator.phone.voicemail</key>
+	<string>Startet Telefon, Registerkarte Sprachwahl</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.activate-switcher</key>
+	<string>Taskmanager anzeigen</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.homebutton</key>
+	<string>Home Button simulieren</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.powerdown</key>
+	<string>Das Gerät sofort ausschalten</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.reboot</key>
+	<string>Das Gerät sofort neustarten</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.respring</key>
+	<string>Das SpringBoard neustarten</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.safemode</key>
+	<string>In den Abgesicherten Modus</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar</key>
+	<string>Zeigt die Standard-Media-Kontrollen</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.sleepbutton</key>
+	<string>Schlaf Button simulieren</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.spotlight</key>
+	<string>Aktivieret SpringBoard's Suchseite</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.take-screenshot</key>
+	<string>Speichert Bildschirminhalte in Fotos</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.voice-control</key>
+	<string>Aktiviert Sprachsteuerung</string>
+	<key>LISTENER_DESCRIPTION_toggle</key>
+	<string>Aktiviert/Deaktiviert Schalter</string>
+	<key>LISTENER_GROUP_TITLE_Lock Screen</key>
+	<string>Sperrbildschirm</string>
+	<key>LISTENER_GROUP_TITLE_Phone</key>
+	<string>Telefon</string>
+	<key>LISTENER_GROUP_TITLE_SBSettings Toggles</key>
+	<string>SBSettings Schalter</string>
+	<key>LISTENER_GROUP_TITLE_System Actions</key>
+	<string>System Aktionen</string>
+	<key>LISTENER_GROUP_TITLE_System Applications</key>
+	<string>System Anwendungen</string>
+	<key>LISTENER_GROUP_TITLE_User Applications</key>
+	<string>User Programme</string>
+	<key>LISTENER_GROUP_TITLE_iPod</key>
+	<string>iPod</string>
+	<key>LISTENER_TITLE_libactivator.ipod.music-controls</key>
+	<string>iPod Steuerelemente</string>
+	<key>LISTENER_TITLE_libactivator.ipod.next-track</key>
+	<string>Nächster Titel</string>
+	<key>LISTENER_TITLE_libactivator.ipod.previous-track</key>
+	<string>Vorheriger Titel</string>
+	<key>LISTENER_TITLE_libactivator.ipod.toggle-playback</key>
+	<string>Play/Pause</string>
+	<key>LISTENER_TITLE_libactivator.lockscreen.dismiss</key>
+	<string>Entsperrt Gerät</string>
+	<key>LISTENER_TITLE_libactivator.lockscreen.show</key>
+	<string>Sperrt Gerät</string>
+	<key>LISTENER_TITLE_libactivator.lockscreen.toggle</key>
+	<string>Sperren/Entsperren</string>
+	<key>LISTENER_TITLE_libactivator.phone.contacts</key>
+	<string>Kontakte zeigen</string>
+	<key>LISTENER_TITLE_libactivator.phone.favorites</key>
+	<string>Favoriten zeigen</string>
+	<key>LISTENER_TITLE_libactivator.phone.keypad</key>
+	<string>Tastatur zeigen</string>
+	<key>LISTENER_TITLE_libactivator.phone.recents</key>
+	<string>Anrufe zeigen</string>
+	<key>LISTENER_TITLE_libactivator.phone.voicemail</key>
+	<string>Sprachwahl zeigen</string>
+	<key>LISTENER_TITLE_libactivator.system.activate-switcher</key>
+	<string>Aktiviert Taskmanager</string>
+	<key>LISTENER_TITLE_libactivator.system.homebutton</key>
+	<string>Home Button</string>
+	<key>LISTENER_TITLE_libactivator.system.powerdown</key>
+	<string>Ausschalten</string>
+	<key>LISTENER_TITLE_libactivator.system.reboot</key>
+	<string>Neustarten</string>
+	<key>LISTENER_TITLE_libactivator.system.respring</key>
+	<string>SB Neustarten</string>
+	<key>LISTENER_TITLE_libactivator.system.safemode</key>
+	<string>Abgesicherter Modus</string>
+	<key>LISTENER_TITLE_libactivator.system.show-now-playing-bar</key>
+	<string>"jetzt spielt" Bar zeigen</string>
+	<key>LISTENER_TITLE_libactivator.system.sleepbutton</key>
+	<string>Schlafen-Button</string>
+	<key>LISTENER_TITLE_libactivator.system.spotlight</key>
+	<string>SB Suche</string>
+	<key>LISTENER_TITLE_libactivator.system.take-screenshot</key>
+	<string>Bildschirmfoto machen</string>
+	<key>LISTENER_TITLE_libactivator.system.voice-control</key>
+	<string>Sprachsteuerung</string>
+	<key>LISTENER_TITLE_toggle_3G</key>
+	<string>3G</string>
+	<key>LISTENER_TITLE_toggle_Bluetooth</key>
+	<string>Bluetooth</string>
+	<key>LISTENER_TITLE_toggle_Data</key>
+	<string>Daten</string>
+	<key>LISTENER_TITLE_toggle_Location</key>
+	<string>Ort</string>
+	<key>LISTENER_TITLE_toggle_Phone</key>
+	<string>Telefon</string>
+	<key>LISTENER_TITLE_toggle_SSH</key>
+	<string>SSH</string>
+	<key>LISTENER_TITLE_toggle_Syslog</key>
+	<string>Syslog</string>
+	<key>LISTENER_TITLE_toggle_Wi-Fi</key>
+	<string>Wi-Fi</string>
+	<key>LOCALIZATION_ABOUT</key>
+	<string>André Paetzold - (srt10coupe) http://i.srt10coupe.de/</string>
+	<key>MODE_DESCRIPTION_all</key>
+	<string></string>
+	<key>MODE_DESCRIPTION_application</key>
+	<string>Wenn eine Anwendung sichtbar ist</string>
+	<key>MODE_DESCRIPTION_lockscreen</key>
+	<string>Bildschirmsperre ist sichtbar</string>
+	<key>MODE_DESCRIPTION_springboard</key>
+	<string>Wenn Springboard-Icons sichtbar sind</string>
+	<key>MODE_TITLE_all</key>
+	<string>Überall</string>
+	<key>MODE_TITLE_application</key>
+	<string>Programmen</string>
+	<key>MODE_TITLE_lockscreen</key>
+	<string>Gesperrt</string>
+	<key>MODE_TITLE_springboard</key>
+	<string>Home Bildschirm</string>
+	<key>MORE_ACTIONS</key>
+	<string>Weitere Aktionen</string>
+	<key>MORE_ACTIONS_DETAIL</key>
+	<string>Weitere Aktionen über Cydia erhalten</string>
+	<key>N_ADDITIONAL_EVENTS</key>
+	<string>%i zusätzliche Ereignisse</string>
+	<key>OUT_OF_DATE_MESSAGE</key>
+	<string>Activator funktioniert am besten auf eine moderne Version von iOS.
+Bitte beachten Sie Aktualisierungen.</string>
+	<key>OUT_OF_DATE_TITLE</key>
+	<string>System Version veraltet</string>
+	<key>RESET_ALERT_CANCEL</key>
+	<string>Abbrechen</string>
+	<key>RESET_ALERT_CONTINUE</key>
+	<string>zurücksetzen</string>
+	<key>RESET_ALERT_MESSAGE</key>
+	<string>Sind Sie sicher, dass Sie Activator-Einstellungen auf die Standardwerte zurücksetzen möchten? 
+Ihr Gerät wird respring, wenn Sie fortsetzen.</string>
+	<key>RESET_ALERT_TITLE</key>
+	<string>Activator-Einstellungen zurücksetzen</string>
+	<key>RESET_SETTINGS</key>
+	<string>zurücksetzen der Einstellungen</string>
+	<key>RESET_SETTINGS_DETAIL</key>
+	<string>Alles auf Standardwerte zurücksetzen</string>
+	<key>TOO_NEW_MESSAGE</key>
+	<string>Activator ist mit dieser Version von iOS nicht getestet.
+Einige Features funktionieren möglicherweise nicht wie vorgesehen.</string>
+	<key>TOO_NEW_TITLE</key>
+	<string>System Version zu neu</string>
+	<key>UNASSIGNED</key>
+	<string>(nicht zugewiesen)</string>
+	<key>VERSION_PROMPT_CONTINUE</key>
+	<string>Weiter</string>
+	<key>VERSION_PROMPT_IGNORE</key>
+	<string>Ignorieren</string>
+	<key>VERSION_PROMPT_MORE_INFO</key>
+	<string>Mehr Informationen</string>
+</dict>
+</plist>
