@@ -1,0 +1,243 @@
+{
+	LOCALIZATION_ABOUT = "繁體中文：Merlin";
+	
+	/* Settings Controller */
+	
+	CANT_DEACTIVATE_REMAINING = "不能停用保留啟動動作";
+	AT_LEAST_ONE_ASSIGNMENT_REQUIRED = "至少一個啟動動作必須分配給\n%@";
+	ALERT_OK = "確定";
+	ALERT_VALUE_AND = " 和 ";
+	ALREADY_ASSIGNED_TO = "已分配給\n%@";
+	ALERT_CANCEL = "取消";
+	ALERT_REASSIGN = "重新分配";
+	ACTIVATOR = "Activator 設定";
+	CURRENTLY_ASSIGNED_TO = "當前分配給:";
+	UNASSIGNED = "【未分配】";
+	MORE_ACTIONS = "更多動作";
+	MORE_ACTIONS_DETAIL = "從 Cydia 中獲取更多動作";
+	DONATE = "捐助";
+	DONATE_DETAIL = "通過 PayPal 捐助";
+	N_ADDITIONAL_EVENTS = "%i 個額外觸發";
+	RESET_SETTINGS = "重置";
+	RESET_SETTINGS_DETAIL = "重設所有設定為預設";
+	RESET_ALERT_TITLE = "重置 Activator 設定";
+	RESET_ALERT_MESSAGE = "您確定要將 Activator 的設定還原為預設嗎？\n\n如果選擇繼續，您的設備將會從\"主畫面\"螢幕登出。";
+	RESET_ALERT_CANCEL = "取消";
+	RESET_ALERT_CONTINUE = "重置";
+	
+	ENABLED = "啟用";
+	DISABLED = "禁用";
+	
+	OUT_OF_DATE_TITLE = "系統版本過於陳舊";
+	OUT_OF_DATE_MESSAGE = "Activator 在新 iOS 系統上工作更好。\n請考慮更新系統。";
+	
+	TOO_NEW_TITLE = "系統版本太新";
+	TOO_NEW_MESSAGE = "Activator 未在該版本的 iOS 上測試過。\n某些功能可能無法正常使用。";
+	
+	VERSION_PROMPT_MORE_INFO = "更多資訊";
+	VERSION_PROMPT_IGNORE = "忽略";
+	VERSION_PROMPT_CONTINUE = "繼續";
+	
+	/* Modes */
+	
+	MODE_TITLE_all = "任何地方";
+	MODE_DESCRIPTION_all = "所有地方都適用";
+	
+	MODE_TITLE_springboard = "在\"主畫面\"螢幕";
+	MODE_DESCRIPTION_springboard = "可以看到\"主畫面\"螢幕應用程式圖像時";
+	
+	MODE_TITLE_application = "在程式中";
+	MODE_DESCRIPTION_application = "在一個運行中的應用程式裡";
+	
+	MODE_TITLE_lockscreen = "在\"鎖定\"螢幕";
+	MODE_DESCRIPTION_lockscreen = "處於\"鎖定\"螢幕時";
+	
+	/* Event Groups */
+	
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "手勢";
+	"EVENT_GROUP_TITLE_Motion" = "動作";
+	"EVENT_GROUP_TITLE_SpringBoard" = "\"主畫面\"螢幕";
+	"EVENT_GROUP_TITLE_Status Bar" = "頂部狀態列";
+	"EVENT_GROUP_TITLE_Home Button" = "\"主畫面\"按鈕";
+	"EVENT_GROUP_TITLE_Sleep Button" = "電源鍵";
+	"EVENT_GROUP_TITLE_Volume Buttons" = "音量按鈕";
+	"EVENT_GROUP_TITLE_Headset Button" = "耳機中央按鈕";
+	
+	/* Events */
+	
+	"EVENT_TITLE_libactivator.lock.hold.short" = "按住";
+	"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "按住電源鍵";
+	
+	"EVENT_TITLE_libactivator.lock.press.double" = "按兩下";
+	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "快速按兩下電源鍵";
+	
+	"EVENT_TITLE_libactivator.menu.hold.short" = "按住";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "按住\"主畫面\"按鈕";
+	
+	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "在\"主畫面\"螢幕按一下";
+	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "在\"主畫面\"螢幕時按一下\"主畫面\"按鈕";
+	
+	"EVENT_TITLE_libactivator.menu.press.double" = "按兩下";
+	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "快速按兩下\"主畫面\"按鈕";
+
+	"EVENT_TITLE_libactivator.menu.press.single" = "按一下";
+	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "按一下\"主畫面\"按鈕";
+	
+	"EVENT_TITLE_libactivator.motion.shake" = "晃動設備";
+	"EVENT_DESCRIPTION_libactivator.motion.shake" = "晃一晃，搖一搖！";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom" = "從螢幕底部";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "由螢幕底部向上滑動";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "從螢幕左下";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "由螢幕左下向上滑動";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "從螢幕右下";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "由螢幕右下向上滑動";
+	
+	"EVENT_TITLE_libactivator.springboard.pinch" = "往內撥動手指";
+	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "在\"主畫面\"螢幕往內撥動兩隻手指";
+	
+	"EVENT_TITLE_libactivator.springboard.spread" = "往外撥動手指";
+	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "在\"主畫面\"螢幕往外撥動兩隻手指";
+	
+	"EVENT_TITLE_libactivator.statusbar.hold" = "按住";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "按住頂部狀態列";
+	
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "向下拖動";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "頂部從狀態列向下拖動";
+	
+	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "向左拖動";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "在頂部狀態列向左拖動";
+	
+	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "向右拖動";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "在頂部狀態列向右拖動";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double" = "按兩下";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "按兩下頂部狀態列";
+	
+	"EVENT_TITLE_libactivator.volume.display-tap" = "點擊音量顯示視窗";
+	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "按一下音量按鈕後點擊螢幕中音量提示框";
+	
+	"EVENT_TITLE_libactivator.volume.down-up" = "下鍵＞上鍵";
+	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "先按下音量按鈕，再按上音量按鈕";	
+	
+	"EVENT_TITLE_libactivator.volume.up-down" = "上鍵＞上鍵";
+	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "先按下音量按鈕，再按上音量按鈕";	
+	
+	"EVENT_TITLE_libactivator.volume.both.press" = "同時按";
+	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "同時按下兩個音量按鈕";	
+	
+	"EVENT_TITLE_libactivator.volume.down.hold.short" = "按住下鍵";
+	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "按住下音量按鈕";	
+	
+	"EVENT_TITLE_libactivator.volume.up.hold.short" = "按住上鍵";
+	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "按住上音量按鈕";	
+	
+	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "撥動兩下\"響鈴 / 靜音\"切換按鈕";
+	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "撥動一下\"響鈴 / 靜音\"切換按鈕然後還原";	
+	
+	"EVENT_TITLE_libactivator.headset-button.press.single" = "按一下";
+	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "按一下耳機中央按鈕";	
+	
+	"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住";
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按一下耳機中央按鈕";	
+	
+	/* Listener Groups */
+	
+	"LISTENER_GROUP_TITLE_System Actions" = "系統動作";
+	"LISTENER_GROUP_TITLE_System Applications" = "系統應用程式";
+	"LISTENER_GROUP_TITLE_User Applications" = "使用者應用程式";
+	"LISTENER_GROUP_TITLE_iPod" = "iPod";
+	"LISTENER_GROUP_TITLE_Lock Screen" = "\"鎖定\"螢幕";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 開關";
+	"LISTENER_GROUP_TITLE_Phone" = "電話";
+	
+	/* Listener Names */
+	
+	"LISTENER_DESCRIPTION_toggle" = "打開/關閉開關";
+	"LISTENER_DESCRIPTION_application" = "啟動該應用程式";
+	
+	"LISTENER_TITLE_libactivator.system.homebutton" = "\"主畫面\"按鈕";
+	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "類比按一下\"主畫面\"按鈕";
+
+	"LISTENER_TITLE_libactivator.system.powerdown" = "關機";
+	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "關閉設備電源";
+	
+	"LISTENER_TITLE_libactivator.system.reboot" = "重新啟動";
+	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "重新開機設備";
+	
+	"LISTENER_TITLE_libactivator.system.respring" = "重啟\"主畫面\"螢幕";
+	"LISTENER_DESCRIPTION_libactivator.system.respring" = "重新載入\"主畫面\"螢幕";
+	
+	"LISTENER_TITLE_libactivator.system.safemode" = "安全模式";
+	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "重新載入\"主畫面\"螢幕到安全模式";
+	
+	"LISTENER_TITLE_libactivator.system.sleepbutton" = "電源鍵";
+	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "類比按一下電源鍵";
+	
+	"LISTENER_TITLE_libactivator.system.spotlight" = "Spotlight 搜索";
+	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "啟動 Spotlight 搜尋網頁面";
+
+	"LISTENER_TITLE_libactivator.system.take-screenshot" = "拍攝螢幕快照";
+	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "保存當前螢幕內容到相機膠捲";
+
+	"LISTENER_TITLE_libactivator.system.voice-control" = "語音控制";
+	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "啟動語音控制";
+
+	"LISTENER_TITLE_libactivator.system.activate-switcher" = "啟動多工列";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "顯示多工列(應用程式切換器)";
+	
+	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "顯示正在播放螢幕";
+	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "顯示標準音頻/視頻控制";
+	
+	
+	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
+	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "顯示正在播放快顯視窗";
+	
+	"LISTENER_TITLE_libactivator.ipod.next-track" = "下一首";
+	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "跳到下一個曲目";
+	
+	"LISTENER_TITLE_libactivator.ipod.previous-track" = "上一首";
+	"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "回到上一個曲目";
+	
+	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "播放/暫停";
+	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "播放或暫停 iPod";
+	
+	
+	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "解鎖螢幕";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "解除螢幕鎖定";
+	
+	"LISTENER_TITLE_libactivator.lockscreen.show" = "\"鎖定\"螢幕";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "顯示\"鎖定\"螢幕";
+	
+	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "鎖屏/解鎖";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "切換\"鎖定\"螢幕和\"主畫面\"螢幕";
+	
+
+	"LISTENER_TITLE_libactivator.phone.contacts" = "顯示聯絡資訊";
+	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "打開電話的聯絡資訊";
+	
+	"LISTENER_TITLE_libactivator.phone.favorites" = "顯示個人收藏";
+	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "打開電話的常用號碼";
+	
+	"LISTENER_TITLE_libactivator.phone.keypad" = "顯示數字鍵盤";
+	"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "打開電話的數字鍵盤";
+	
+	"LISTENER_TITLE_libactivator.phone.recents" = "顯示通話記錄";
+	"LISTENER_DESCRIPTION_libactivator.phone.recents" = "打開電話的通話記錄";
+	
+	"LISTENER_TITLE_libactivator.phone.voicemail" = "顯示語音信箱";
+	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "打開電話的語音信箱";
+	
+	
+	"LISTENER_TITLE_toggle_3G" = "3G";
+	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
+	"LISTENER_TITLE_toggle_Data" = "行動資料";
+	"LISTENER_TITLE_toggle_Location" = "定位服務";
+	"LISTENER_TITLE_toggle_Phone" = "電話";
+	"LISTENER_TITLE_toggle_SSH" = "SSH";
+	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
+	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
+	
+}
