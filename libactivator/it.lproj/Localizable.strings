@@ -24,6 +24,7 @@
 	RESET_ALERT_MESSAGE = "Sei sicuro di voler ripristinare le impostazioni predefinite di Activator?\nSe continui il dispositivo effettuerà un respring.";
 	RESET_ALERT_CANCEL = "Annulla";
 	RESET_ALERT_CONTINUE = "Reimposta";
+	MULTIPLE_ASSIGNMENTS = "(multipli)";
 
 	ENABLED = "Abilitato";
 	DISABLED = "Disabilitato";
@@ -62,6 +63,7 @@
 	"EVENT_GROUP_TITLE_Sleep Button" = "Pulsante power";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "Pulsanti volume";
 	"EVENT_GROUP_TITLE_Headset Button" = "Pulsanti auricolari";
+	"EVENT_GROUP_TITLE_Lock Screen" = "Lockscreen";
 
 	/* Events */
 
@@ -142,6 +144,9 @@
 
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Pressione breve";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Mantenere premuto il pulsante auricolare";	
+
+	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Doppia pressione orologio";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Premere due volte sulla zona ora/data";
 
 	/* Listener Groups */
 
