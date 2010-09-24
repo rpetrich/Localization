@@ -24,6 +24,7 @@
 	RESET_ALERT_MESSAGE = "Are you sure you wish to reset Activator settings to defaults?\nYour device will respring if you continue.";
 	RESET_ALERT_CANCEL = "Cancel";
 	RESET_ALERT_CONTINUE = "Reset";
+	MULTIPLE_ASSIGNMENTS = "(multiple)";
 	
 	ENABLED = "Enabled";
 	DISABLED = "Disabled";
@@ -62,6 +63,7 @@
 	"EVENT_GROUP_TITLE_Sleep Button" = "Sleep Button";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "Volume Buttons";
 	"EVENT_GROUP_TITLE_Headset Button" = "Headset Button";
+	"EVENT_GROUP_TITLE_Lock Screen" = "Lock Screen";
 	
 	/* Events */
 	
@@ -142,6 +144,9 @@
 	
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Short Hold";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Press and hold headset button";	
+	
+	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Double Tap Clock";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Double-tap clock/date area";
 	
 	/* Listener Groups */
 	
