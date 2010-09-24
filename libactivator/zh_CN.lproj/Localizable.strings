@@ -135,13 +135,13 @@
 	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "按住上音量按钮";	
 	
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "拨动两下响铃/静音开关";
-	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "波动一下响铃/静音开关然后还原";	
+	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "拨动一下响铃/静音开关然后还原"; 
 	
 	"EVENT_TITLE_libactivator.headset-button.press.single" = "按一下";
-	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "按一下耳机中央按钮";	
+	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "按一下耳机中央按钮";    
 	
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住";
-	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按一下耳机中央按钮";	
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按一下耳机中央按钮";      
 	
 	/* Listener Groups */
 	
@@ -240,4 +240,5 @@
 	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
 	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
 	
+	"© 2009-2010 Ryan Petrich" = "© 2009-2010 瑞安·佩特里奇";
 }

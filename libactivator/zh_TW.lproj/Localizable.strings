@@ -240,4 +240,5 @@
 	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
 	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
 	
+	"© 2009-2010 Ryan Petrich" = "© 2009-2010 瑞安•佩特裡奇";
 }

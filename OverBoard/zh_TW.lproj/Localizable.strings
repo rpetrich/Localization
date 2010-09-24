@@ -1,0 +1,32 @@
+{
+
+	ACTIVATION_METHODS = "啟動方式";
+	HOME_BUTTON = "“主畫面”按鈕";
+	DOUBLE_HOME_BUTTON = "按兩下“主畫面”按鈕";
+	SPRINGBOARD_ICON = "“主畫面”圖標";
+	SPRINGBOARD_PINCH = "“主畫面”往內撥動手指";
+	SPRINGBOARD_SPREAD = "“主畫面”往外撥動手指";
+
+	VISIBLE_ELEMENTS = "可見元素";
+	COLUMNS = "圖標列數";
+	ONE = "一";
+	TWO = "二";
+	THREE = "三";
+	FOUR = "四";
+	FIVE = "五";
+	AUTO = "自動";
+	DOCK = "Dock";
+	SEARCH_PAGE = "搜尋頁面";
+	ANIMATED = "動畫過渡";
+	REVERSE_ORDER = "倒序顯示";
+	SHOW_AS_HOME_SCREEN = "顯示“主畫面”";
+
+	BADGE_STYLE = "標記風格";
+	BADGE_STYLE_HIDDEN = "隱藏";
+	BADGE_STYLE_ON_ICONS = "圖標上";
+	BADGE_STYLE_ON_PAGES = "頁面上";
+	BADGE_STYLE_ON_BOTH = "兩個上";
+
+	PLAY_SOUNDS = "播放聲音";
+
+}

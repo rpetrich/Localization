@@ -1,0 +1,63 @@
+{
+	PROSWITCHER = ProSwitcher;
+
+	/* Settings Controller */
+
+	ACTIVATION_METHODS = "激活方式";
+
+	BECOME_HOME_SCREEN = "显示主屏幕";
+	BECOME_HOME_SCREEN_DISABLED = "禁用";
+	BECOME_HOME_SCREEN_ENABLED = "启用";
+	BECOME_HOME_SCREEN_BACKGROUND = "背景";
+
+	SHOW_ICON = "显示图标";
+
+	DISPLAY_GROUP = "显示";
+	SHOW_APPLICATION_TITLE = "应用程序标题";
+	SHOW_BADGES = "显示标记";
+	ZOOM_ACTIVE_CARD = "放大活动面板";
+	SHOW_CLOSE_BUTTON = "关闭按钮";
+	EMPTY_TAP_TO_CLOSE = "点击空白关闭";
+
+	ROUNDED_CORNERS = "圆边角";
+	ROUNDED_CORNERS_NONE = "禁用";
+	ROUNDED_CORNERS_SMALL = "小";
+	ROUNDED_CORNERS_MEDIUM = "中";
+	ROUNDED_CORNERS_LARGE = "大";
+
+	SHOW_PAGE_CONTROL = "页面点图标";
+	SHOW_SPRINGBOARD_CARD = "主屏幕面板";
+	SHOW_DEFAULT_APPS = "显示默认应用程序";
+	SWIPE_TO_CLOSE = "滑动关闭";
+
+	EMPTY_STYLE = "空白样式";
+	EMPTY_STYLE_TEXT = "文本";
+	EMPTY_STYLE_BLANK = "空白";
+	EMPTY_STYLE_DISABLED = "禁用";
+
+	SNAPSHOT_INSET = "可见面板";
+	SNAPSHOT_INSET_40 = "三";
+	SNAPSHOT_INSET_0 = "一";
+
+	TAPS_TO_ACTIVATE = "点击以激活";
+	TAPS_TO_ACTIVATE_SINGLE = "一";
+	TAPS_TO_ACTIVATE_DOUBLE = "二";
+
+	THEMING_GROUP = "主题";
+
+	THEMED_ICONS = "主题图标";
+	SHOW_DOCK = "显示 Dock";
+	DIM_BACKGROUND = "暗化背景";
+
+	BACKGROUND_STYLE = "背景样式";
+	BACKGROUND_STYLE_NONE = "透明";
+	BACKGROUND_STYLE_IMAGE = "主题";
+
+	ABOUT_COPYRIGHT = "版权所有 © 2009-2010 瑞安·佩特里奇和格兰特·保罗，基于 GNU LGPL 授权。";
+
+	NO_APPS_RUNNING = "无运行中程序";
+
+	WELCOME_TITLE = "欢迎使用 ProSwitcher";
+	WELCOME_MESSAGE = "请在设置中配置 ProSwitcher 或设定手势。\n\n(c) 2009 瑞安·佩特里奇和格兰特·保罗\nLGPL 授权";
+	WELCOME_CONTINUE_BUTTON = "继续";
+}
