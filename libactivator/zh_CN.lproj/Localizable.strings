@@ -24,6 +24,7 @@
 	RESET_ALERT_MESSAGE = "您确定要将 Activator 的设置还原为默认吗？\n\n如果选择继续，您的设备将会从主屏幕注销。";
 	RESET_ALERT_CANCEL = "取消";
 	RESET_ALERT_CONTINUE = "重置";
+	MULTIPLE_ASSIGNMENTS = "【多个】";
 	
 	ENABLED = "启用";
 	DISABLED = "禁用";
@@ -62,6 +63,7 @@
 	"EVENT_GROUP_TITLE_Sleep Button" = "电源按钮";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "音量按钮";
 	"EVENT_GROUP_TITLE_Headset Button" = "耳机中央按钮";
+	"EVENT_GROUP_TITLE_Lock Screen" = "锁定屏幕";
 	
 	/* Events */
 	
@@ -143,6 +145,9 @@
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按一下耳机中央按钮";      
 	
+	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "双击时钟";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "双击时钟/日期区域";
+		
 	/* Listener Groups */
 	
 	"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
