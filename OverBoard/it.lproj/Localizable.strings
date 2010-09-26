@@ -1,4 +1,35 @@
-"Clear Icon Cache" = "Pulisci cache icone"
-"Clear Icon Cache?" = "Pulire cache delle icone?"
+{
 
-check the lenght of last string!
+	ACTIVATION_METHODS = "Metodi di attivazione";
+	HOME_BUTTON = "Pulsante home";
+	DOUBLE_HOME_BUTTON = "Doppia pressione home";
+	SPRINGBOARD_ICON = "Icona SpringBoard";
+	SPRINGBOARD_PINCH = "Comprimi SpringBoard";
+	SPRINGBOARD_SPREAD = "Allarga SpringBoard";
+
+	VISIBLE_ELEMENTS = "Elementi visibili";
+	COLUMNS = "Colonne";
+	ONE = "Una";
+	TWO = "Due";
+	THREE = "Tre";
+	FOUR = "Quattro";
+	FIVE = "Cinque";
+	AUTO = "Auto";
+	DOCK = "Dock";
+	SEARCH_PAGE = "Pagina ricerca";
+	ANIMATED = "Animazioni";
+	REVERSE_ORDER = "Ordine inverso";
+	SHOW_AS_HOME_SCREEN = "Prima della home";
+
+	BADGE_STYLE = "Stile badge";
+	BADGE_STYLE_HIDDEN = "Nascosti";
+	BADGE_STYLE_ON_ICONS = "Sulle icone";
+	BADGE_STYLE_ON_PAGES = "Sulle pagine";
+	BADGE_STYLE_ON_BOTH = "Su entrambi";
+
+	PLAY_SOUNDS = "Esegui suoni";
+
+	"CLEAR_ICON_CACHE" = "Pulisci cache icone";
+	"CLEAR_ICON_CACHE_QUESTION" = "Pulire cache delle icone?";
+
+}

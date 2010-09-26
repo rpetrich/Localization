@@ -28,5 +28,8 @@
 	BADGE_STYLE_ON_BOTH = "On Both";
 	
 	PLAY_SOUNDS = "Play Sounds";
+
+	"CLEAR_ICON_CACHE" = "Clear Icon Cache";
+	"CLEAR_ICON_CACHE_QUESTION" = "Clear Icon Cache?";
 	
 }
