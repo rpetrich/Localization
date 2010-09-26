@@ -32,4 +32,7 @@
 	"CLEAR_ICON_CACHE" = "Clear Icon Cache";
 	"CLEAR_ICON_CACHE_QUESTION" = "Clear Icon Cache?";
 	
+	CONTINUE = "Continue";
+	CANCEL = "Cancel";
+	
 }
