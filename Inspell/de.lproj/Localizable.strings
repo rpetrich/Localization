@@ -1,0 +1,42 @@
+{
+	"Correct" = "Korrekt";
+	"Add To Dictionary" = "Ins Wörterbuch aufnehmen";
+	"Cancel" = "Abbrechen";
+
+	"Enabled" = "Aktiv";
+	"Language" = "Sprache";
+	"Use Heuristics" = "Verwende Heuristiken";
+	"Clear User Dictionary" = "Benutzerwörterbuch leeren";
+
+	"OK" = "OK";
+	"Visit" = "Besuchen";
+	
+	"Are you sure you wish to clear your user dictionary?" = "Bist du sicher, dass das Benutzerwörterbuch geleert werden soll?";
+	"Clear" = "Leeren";
+	
+	"Autocorrections" = "Autokorrektur";
+	"Add Correction..." = "Füge Korrektur hinzu...";
+	"Create" = "Erstellen";
+	"Enter the new autocorrection details" = "Gib die neuen Autokorrekturdetails ein";
+	"Input" = "Eingabe";
+	"Output" = "Ausgabe";
+	"Tap to Edit" = "Berühren zum Ändern";
+	"Correction" = "Korrektur";
+	"Save" = "Speichern";
+	"Enter the updated autocorrection details" = "Gib die aktualisierten Autokorrekturdetails ein";
+	
+	"Input Text Is Blank" = "Der Eingabetext ist leer";
+	"Input text must be entered to create an autocorrect rule" = "Der Eingabetext muss angegeben werden um eine Autokorrekturregel zu erstellen";
+	"Invalid Characters" = "Ungültige Zeichen";
+	"Input text may contain only numbers and letters" = "Der Eingabetext darf nur Buchstaben und Ziffern enthalten";
+	"Output Text Is Blank" = "Der Ausgabetext ist leer";
+	"Output text must be entered to create an autocorrect rule" = "Der Ausgabetext muss angegeben werden um eine Autokorrekturregel zu erstellen";
+	"Delete Correction" = "Lösche Korrektur";
+	
+	"Style" = "Stil";
+	"Squiggly Underline" = "Wellen-Unterstrich";
+	"Solid Underline" = "Durchgezogener Unterstrich";
+	"Dashed Underline" = "Unterbrochener Unterstrich";
+	"Shaded Box" = "Schattierter Rahmen";
+	
+}
