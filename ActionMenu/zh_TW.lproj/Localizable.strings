@@ -1,0 +1,85 @@
+{
+	"Action Menu" = "動作菜單";	
+
+	"OK" = "確定";
+	"Cancel" = "取消";
+	"ON" = "開";
+	"OFF" = "關";
+	"all-day" = "全天";
+	"AM" = "上午";
+	"PM" = "下午";
+	"by" = "由";
+	"on" = "在";
+	"lap" = "重疊";
+	"Enabled" = "啟用";
+	"Use Icons" = "使用圖示";
+	"Actions" = "動作";
+	"More Actions..." = "更多動作";
+	"Donate with PayPal" = "通過 PayPal 捐助";
+	"Copy All" = "全部拷貝";
+	"Debug" = "排錯";
+	"Dial" = "撥打";
+	"Favorites" = "收藏";
+	"History" = "歷史記錄";
+	"Lookup" = "查閱";
+	"Scroll" = "滾動";
+	"Tweet" = "Tweet";
+	"Pasteboard Favorites" = "剪貼板收藏";
+	"Delete Favorite" = "刪除收藏";
+	"Add Favorite..." = "添加收藏…";
+	"Add Favorite" = "添加收藏";
+	"Create" = "創建";
+	"Enter the new favorite details" = "請輸入新收藏詳情";
+	"Open in Safari" = "在 Safari 中打開";
+	"Search" = "搜尋";
+	"Wikipedia" = "維基百科";
+	"Dictionary" = "辭典";
+	"Translate" = "翻譯";
+	"Find" = "查找";
+	"Find In Page" = "在本頁查找";
+	"Find Next" = "查找下一個";
+	"Find Previous" = "查找上一個";
+	"Next" = "下一個";
+	"Previous" = "上一個";
+	"Not Found" = "未找到";
+	"Clear" = "清理";
+	"Confirm" = "確定";
+	"Pasteboard History" = "剪貼板歷史記錄";
+
+	"Right to Left" = "右至左";
+	"Left to Right" = "左至右";
+	"Sorted" = "已排序";
+	"New Favorite" = "新收藏";
+	"biteSMS" = "biteSMS";
+	"Extended Support" = "擴展支持";
+	"TRANSLATION_ABOUT" = "繁體中文：Merlin";
+
+	"Preferred Client" = "首選用戶端";
+
+	"Clear History" = "清理歷史記錄";
+	"Close" = "關閉";
+
+	"Cut" = "剪切";
+	"Copy" = "拷貝";
+	"Paste" = "貼上";
+	"Select" = "選擇";
+	"Select All" = "全選";
+
+	"Locate" = "定位";
+	"Error retrieving location!" = "無法獲取地理位置！";
+	"Estimated Accuracy:" = "預測精確度：";
+	"%ld meters" = "%ld 米";
+	"My Location on Google Maps" = "Google 地圖上的我的位置";
+	"Pastie" = "Pastie";
+	"Send to Pastie" = "發送到 Pastie";
+	"Paste Complete" = "貼上完成";
+	"The URL has been copied to your clipboard." = "該 URL 地址已被拷貝到剪貼板。";
+	"Continue" = "繼續";
+	"Error" = "錯誤";
+	"Unable to submit your pastie." = "無法提交您的 pastie.";
+	"No Search Results" = "無搜尋結果";
+
+	"Edit Favorite" = "編輯收藏";
+	"To Top" = "到頂部";
+	"To Bottom" = "到底部";
+}
