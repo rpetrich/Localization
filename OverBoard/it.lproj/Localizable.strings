@@ -32,4 +32,7 @@
 	"CLEAR_ICON_CACHE" = "Pulisci cache icone";
 	"CLEAR_ICON_CACHE_QUESTION" = "Pulire cache delle icone?";
 
+	CONTINUE = "Continua";
+	CANCEL = "Annulla";
+
 }
