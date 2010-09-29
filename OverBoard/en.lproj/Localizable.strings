@@ -35,4 +35,9 @@
 	CONTINUE = "Continue";
 	CANCEL = "Cancel";
 	
+	BACKGROUND_STYLE = "Background Style";
+	THEME_BACKGROUND = "Theme Background";
+	SYSTEM_WALLPAPER = "System Wallpaper";
+	THEME = "Theme";
+	WALLPAPER = "Wallpaper";
 }
