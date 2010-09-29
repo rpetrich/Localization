@@ -29,4 +29,10 @@
 
 	PLAY_SOUNDS = "播放聲音";
 
+	"CLEAR_ICON_CACHE" = "清理圖標快取區";
+	"CLEAR_ICON_CACHE_QUESTION" = "清理圖標快取取？";
+
+	CONTINUE = "繼續";
+	CANCEL = "取消";
+
 }

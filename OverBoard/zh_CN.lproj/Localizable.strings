@@ -29,4 +29,10 @@
 
 	PLAY_SOUNDS = "播放声音";
 
+	"CLEAR_ICON_CACHE" = "清理图标缓存";
+	"CLEAR_ICON_CACHE_QUESTION" = "清理图标缓存？";
+
+	CONTINUE = "继续";
+	CANCEL = "取消";
+
 }
