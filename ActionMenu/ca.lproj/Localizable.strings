@@ -1,0 +1,83 @@
+{
+	OK = OK;
+	Cancel = Cancel•lar;
+	ON = ON;
+	OFF = OFF;
+	"all-day" = "tot el dia";
+	AM = AM;
+	PM = PM;
+	by = de;
+	on = en;
+	lap = lap;
+	Enabled = Activat;
+	"Use Icons" = "Utilitzar icones";
+	Actions = Accionss;
+	"More Actions..." = "Més Accions...";
+	"Donate with PayPal" = "Donar amb PayPal";
+	"Copy All" = "Copiar tot";
+	"Debug" = "Debug";
+	"Dial" = "Trucar";
+	Favorites = Preferits;
+	History = Historial;
+	Lookup = Buscar;
+	Scroll = Scroll;
+	Tweet = Tweet;
+	"Pasteboard Favorites" = "Preferits del Portapapers";
+	"Delete Favorite" = "Esborrar Preferit";
+	"Add Favorite..." = "Afegir Preferit...";
+	"Add Favorite" = "Afegir Preferit";
+	Create = Crear;
+	"Enter the new favorite details" = "Afegir detalls del nou preferit";
+	"Open in Safari" = "Obrir en el Safari";
+	Search = Buscar;
+	Wikipedia = Wikipedia;
+	Dictionary = Diccionari;
+	Translate = Traduir;
+	Find = Buscar;
+	"Find In Page" = "Buscar a la página";
+	"Find Next" = "Buscar Següent";
+	"Find Previous" = "Buscar Anterior";
+	Next = Següent;
+	Previous = Anterior;
+	"Not Found" = "No trobat";
+	Clear = Borrar tot;
+	Confirm = Confirmar;
+	"Pasteboard History" = "Historial del Portapapers";
+
+	"Right to Left" = "Dreta a Esquerra";
+	"Left to Right" = "Esquerra a Dreta";
+	"Sorted" = "Ordenats";
+	"New Favorite" = "Nou Preferit";
+	"biteSMS" = "biteSMS";
+	"Extended Support" = "Suport Estès";
+	"TRANSLATION_ABOUT" = "Traduït per winfis";
+
+	"Preferred Client" = "Client Preferit";
+
+	"Clear History" = "Esborrar Historial";
+	Close = Tancar;
+
+	Cut = Tallar;
+	Copy = Copiar;
+	Paste = Enganxar;
+	Select = Seleccionar;
+	"Select All" = "Seleccionar tot";
+
+	Locate = Localitzar;
+	"Error retrieving location!" = "Error durant la localització!";
+	"Estimated Accuracy:" = "Precisió estimada:";
+	"%ld meters" = "%ld metres";
+	"My Location on Google Maps" = "La meva posició al Google Maps";
+	Pastie = Pastie;
+	"Send to Pastie" = "Envia a Pastie";
+	"Paste Complete" = "Enganxat completado";
+	"The URL has been copied to your clipboard." = "La URL s’ha copiat al seu portapapers.";
+	Continue = Continuar;
+	Error = Error;
+	"Unable to submit your pastie." = "Impossible introduir el seu pastie.";
+	"No Search Results" = "Cap Resultat";
+
+	"Edit Favorite" = "Editar Preferits";
+	"To Top" = "A l’inici";
+	"To Bottom" = "Al final";
+}
