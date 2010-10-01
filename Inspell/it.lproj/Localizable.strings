@@ -42,4 +42,6 @@
 	"Secondary" = "Secondario";
 	"(None)" = "(Nessuno)";
 	"(none)" = "(nessuno)";
+
+	"Add..." = "Aggiungi...";
 }
