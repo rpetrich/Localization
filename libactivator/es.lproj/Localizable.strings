@@ -24,6 +24,7 @@
 	RESET_ALERT_MESSAGE = "¿Seguro que quiere resetear los ajustes a los valores por defecto?\nSu dispositivo hará respring si continúa.";
 	RESET_ALERT_CANCEL = "Cancelar";
 	RESET_ALERT_CONTINUE = "Resetear";
+	MULTIPLE_ASSIGNMENTS = "(múltiples)";
 	
 	ENABLED = "Activado";
 	DISABLED = "Desactivado";
@@ -62,6 +63,7 @@
 	"EVENT_GROUP_TITLE_Sleep Button" = "Botón reposo";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "Botones de volumen";
 	"EVENT_GROUP_TITLE_Headset Button" = "Botón del auricular";
+	"EVENT_GROUP_TITLE_Lock Screen" = "Pantalla de bloqueo";
 	
 	/* Events */
 	
@@ -141,7 +143,11 @@
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Pulsa una vez el botón de auriculares";	
 	
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Pulsación corta";
-	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Mantén pulsado el botón de auriculares";	
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Mantén pulsado el botón de auriculares";
+	
+	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Tocar dos veces";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Toca 2 veces en el área del reloj";
+
 	
 	/* Listener Groups */
 	
