@@ -160,7 +160,7 @@
 
 	/* Listener Names */
 
-	"LISTENER_DESCRIPTION_toggle" = "Attiva/disattiva il pulsante";
+	"LISTENER_DESCRIPTION_toggle" = "Attiva/disattiva l'interruttore";
 	"LISTENER_DESCRIPTION_application" = "Attiva applicazione";
 
 	"LISTENER_TITLE_libactivator.system.homebutton" = "Pulsante home";
