@@ -34,5 +34,10 @@
 
 	CONTINUE = "继续";
 	CANCEL = "取消";
-
+	
+	BACKGROUND_STYLE = "背景样式";
+	THEME_BACKGROUND = "主题背景";
+	SYSTEM_WALLPAPER = "系统壁纸";
+	THEME = "主题";
+	WALLPAPER = "壁纸";
 }

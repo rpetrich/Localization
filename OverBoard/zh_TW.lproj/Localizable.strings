@@ -35,4 +35,9 @@
 	CONTINUE = "繼續";
 	CANCEL = "取消";
 
+	BACKGROUND_STYLE = "背景式樣";
+	THEME_BACKGROUND = "佈景背景";
+	SYSTEM_WALLPAPER = "系統牆紙";
+	THEME = "佈景";
+	WALLPAPER = "牆紙";
 }
