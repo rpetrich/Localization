@@ -196,6 +196,9 @@
 	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Show Now Playing Bar";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Show the standard media controls";
 	
+	"LISTENER_TITLE_libactivator.system.nothing" = "Do Nothing";
+	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "Suppress original action";
+	
 	
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod Controls";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Show now playing popup";
