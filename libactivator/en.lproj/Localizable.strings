@@ -148,6 +148,12 @@
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Double Tap Clock";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Double-tap clock/date area";
 	
+	"EVENT_TITLE_libactivator.power.connected" = "Connected";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "Begin receiving A/C power";
+
+	"EVENT_TITLE_libactivator.power.disconnected" = "Disonnected";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Stop receiving A/C power";
+
 	/* Listener Groups */
 	
 	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
@@ -157,6 +163,7 @@
 	"LISTENER_GROUP_TITLE_Lock Screen" = "Lock Screen";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings Toggles";
 	"LISTENER_GROUP_TITLE_Phone" = "Phone";
+	"LISTENER_GROUP_TITLE_Power" = "Power";
 	
 	/* Listener Names */
 	
