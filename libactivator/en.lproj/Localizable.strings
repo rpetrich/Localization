@@ -39,6 +39,18 @@
 	VERSION_PROMPT_IGNORE = "Ignore";
 	VERSION_PROMPT_CONTINUE = "Continue";
 	
+	/* Menus */
+	
+	MENUS = "Menus";
+	MENUS_DETAIL = "Manage custom Activator menus";
+	
+	ADD_NEW_MENU = "Add New Menu";
+	NEW_MENU = "New Menu";
+	MENU_TITLE = "Menu Title";
+	ADD = "Add";
+	ADD_ACTION = "Add Action";
+	ACTION = "Action";
+	
 	/* Modes */
 	
 	MODE_TITLE_all = "Anywhere";
