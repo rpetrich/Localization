@@ -38,7 +38,19 @@
 	VERSION_PROMPT_MORE_INFO = "更多資訊";
 	VERSION_PROMPT_IGNORE = "忽略";
 	VERSION_PROMPT_CONTINUE = "繼續";
-	
+
+	/* Menus */
+
+	MENUS = "項目單";
+	MENUS_DETAIL = "管理 Activator 自定義項目單";
+
+	ADD_NEW_MENU = "添加項目單";
+	NEW_MENU = "新項目單";
+	MENU_TITLE = "項目單標題";
+	ADD = "添加";
+	ADD_ACTION = "添加動作";
+	ACTION = "動作";
+
 	/* Modes */
 	
 	MODE_TITLE_all = "任何地方";
@@ -124,8 +136,8 @@
 	"EVENT_TITLE_libactivator.volume.down-up" = "下鍵＞上鍵";
 	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "先按下音量按鈕，再按上音量按鈕";	
 	
-	"EVENT_TITLE_libactivator.volume.up-down" = "上鍵＞上鍵";
-	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "先按下音量按鈕，再按上音量按鈕";	
+	"EVENT_TITLE_libactivator.volume.up-down" = "上鍵＞下鍵";
+	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "先按上音量按鈕，再按下音量按鈕";	
 	
 	"EVENT_TITLE_libactivator.volume.both.press" = "同時按";
 	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "同時按下兩個音量按鈕";	
@@ -147,6 +159,12 @@
 
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "雙擊時鐘";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "雙擊時鐘/日期區域";
+
+	"EVENT_TITLE_libactivator.power.connected" = "已連接";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "正使用外接供電";
+
+	"EVENT_TITLE_libactivator.power.disconnected" = "已斷開";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "已停止外接供電";
 		
 	/* Listener Groups */
 	
@@ -196,6 +214,8 @@
 	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "顯示正在播放螢幕";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "顯示標準音樂/影片控制";
 	
+	"LISTENER_TITLE_libactivator.system.nothing" = "無事件";
+	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "停用原始動作";
 	
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "顯示正在播放快顯視窗";

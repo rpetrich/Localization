@@ -1,8 +1,8 @@
 {
 	LOCALIZATION_ABOUT = "简体中文：Merlin";
-	
+
 	/* Settings Controller */
-	
+
 	CANT_DEACTIVATE_REMAINING = "不能停用保留激活动作";
 	AT_LEAST_ONE_ASSIGNMENT_REQUIRED = "至少一个激活动作必须分配给\n%@";
 	ALERT_OK = "确定";
@@ -25,36 +25,48 @@
 	RESET_ALERT_CANCEL = "取消";
 	RESET_ALERT_CONTINUE = "重置";
 	MULTIPLE_ASSIGNMENTS = "【多个】";
-	
+
 	ENABLED = "启用";
 	DISABLED = "禁用";
-	
+
 	OUT_OF_DATE_TITLE = "系统版本过于陈旧";
 	OUT_OF_DATE_MESSAGE = "Activator 在新 iOS 系统上工作更好。\n请考虑更新系统。";
-	
+
 	TOO_NEW_TITLE = "系统版本太新";
 	TOO_NEW_MESSAGE = "Activator 未在该版本的 iOS 上测试过。\n某些功能可能无法正常使用。";
-	
+
 	VERSION_PROMPT_MORE_INFO = "更多信息";
 	VERSION_PROMPT_IGNORE = "忽略";
 	VERSION_PROMPT_CONTINUE = "继续";
-	
+
+	/* Menus */
+
+	MENUS = "菜单";
+	MENUS_DETAIL = "管理 Activator 自定义菜单";
+
+	ADD_NEW_MENU = "添加菜单";
+	NEW_MENU = "新菜单";
+	MENU_TITLE = "菜单标题";
+	ADD = "添加";
+	ADD_ACTION = "添加动作";
+	ACTION = "动作";
+
 	/* Modes */
-	
+
 	MODE_TITLE_all = "任何地方";
 	MODE_DESCRIPTION_all = "所有地方都适用";
-	
+
 	MODE_TITLE_springboard = "在主屏幕";
 	MODE_DESCRIPTION_springboard = "可以看到主屏幕应用程序图标时";
-	
+
 	MODE_TITLE_application = "在程序中";
 	MODE_DESCRIPTION_application = "在一个运行中的应用程序里";
-	
+
 	MODE_TITLE_lockscreen = "在锁屏界面";
 	MODE_DESCRIPTION_lockscreen = "处于锁屏界面时";
-	
+
 	/* Event Groups */
-	
+
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "手势";
 	"EVENT_GROUP_TITLE_Motion" = "动作";
 	"EVENT_GROUP_TITLE_SpringBoard" = "主屏幕";
@@ -64,92 +76,98 @@
 	"EVENT_GROUP_TITLE_Volume Buttons" = "音量按钮";
 	"EVENT_GROUP_TITLE_Headset Button" = "耳机中央按钮";
 	"EVENT_GROUP_TITLE_Lock Screen" = "锁定屏幕";
-	
+
 	/* Events */
-	
+
 	"EVENT_TITLE_libactivator.lock.hold.short" = "按住";
 	"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "按住电源按钮";
-	
+
 	"EVENT_TITLE_libactivator.lock.press.double" = "按两下";
 	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "快速按两下电源按钮";
-	
+
 	"EVENT_TITLE_libactivator.menu.hold.short" = "按住";
 	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "按住主屏幕按钮";
-	
+
 	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "在主屏幕按一下";
 	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "在主屏幕时按一下主屏幕按钮";
-	
+
 	"EVENT_TITLE_libactivator.menu.press.double" = "按两下";
 	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "快速按两下主屏幕按钮";
 
 	"EVENT_TITLE_libactivator.menu.press.single" = "按一下";
 	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "按一下主屏幕按钮";
-	
+
 	"EVENT_TITLE_libactivator.motion.shake" = "晃动设备";
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "晃一晃，摇一摇！";
-	
+
 	"EVENT_TITLE_libactivator.slide-in.bottom" = "从屏幕底部";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "由屏幕底部向上滑动";
-	
+
 	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "从屏幕左下";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "由屏幕左下向上滑动";
-	
+
 	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "从屏幕右下";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "由屏幕右下向上滑动";
-	
+
 	"EVENT_TITLE_libactivator.springboard.pinch" = "合拢手指";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "在主屏幕合拢两只手指";
-	
+
 	"EVENT_TITLE_libactivator.springboard.spread" = "张开手指";
 	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "在主屏幕张开两只手指";
-	
+
 	"EVENT_TITLE_libactivator.statusbar.hold" = "按住";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "按住顶部状态栏";
-	
+
 	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "向下拖动";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "顶部从状态栏向下拖动";
-	
+
 	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "向左拖动";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "在顶部状态栏向左拖动";
-	
+
 	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "向右拖动";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "在顶部状态栏向右拖动";
 
 	"EVENT_TITLE_libactivator.statusbar.tap.double" = "双击";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "双击顶部状态栏";
-	
+
 	"EVENT_TITLE_libactivator.volume.display-tap" = "点击音量显示窗口";
 	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "按一下音量按钮后点击屏幕中音量提示框";
-	
+
 	"EVENT_TITLE_libactivator.volume.down-up" = "下键＞上键";
 	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "先按下音量按钮，再按上音量按钮";	
-	
-	"EVENT_TITLE_libactivator.volume.up-down" = "上键＞上键";
-	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "先按下音量按钮，再按上音量按钮";	
-	
+
+	"EVENT_TITLE_libactivator.volume.up-down" = "上键＞下键";
+	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "先按上音量按钮，再按下音量按钮";	
+
 	"EVENT_TITLE_libactivator.volume.both.press" = "同时按";
 	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "同时按下两个音量按钮";	
-	
+
 	"EVENT_TITLE_libactivator.volume.down.hold.short" = "按住下键";
 	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "按住下音量按钮";	
-	
+
 	"EVENT_TITLE_libactivator.volume.up.hold.short" = "按住上键";
 	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "按住上音量按钮";	
-	
+
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "拨动两下响铃/静音开关";
 	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "拨动一下响铃/静音开关然后还原"; 
-	
+
 	"EVENT_TITLE_libactivator.headset-button.press.single" = "按一下";
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "按一下耳机中央按钮";    
-	
+
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按一下耳机中央按钮";      
-	
+
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "双击时钟";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "双击时钟/日期区域";
-		
-	/* Listener Groups */
 	
+	"EVENT_TITLE_libactivator.power.connected" = "已连接";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "正使用外接供电";
+
+	"EVENT_TITLE_libactivator.power.disconnected" = "已断开";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "已停止外接供电";
+	
+	/* Listener Groups */
+
 	"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
 	"LISTENER_GROUP_TITLE_System Applications" = "系统应用程序";
 	"LISTENER_GROUP_TITLE_User Applications" = "用户应用程序";
@@ -157,30 +175,30 @@
 	"LISTENER_GROUP_TITLE_Lock Screen" = "锁屏";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 开关";
 	"LISTENER_GROUP_TITLE_Phone" = "电话";
-	
+
 	/* Listener Names */
-	
+
 	"LISTENER_DESCRIPTION_toggle" = "打开/关闭开关";
 	"LISTENER_DESCRIPTION_application" = "启动该应用程序";
-	
+
 	"LISTENER_TITLE_libactivator.system.homebutton" = "主屏幕按钮";
 	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "模拟按一下主屏幕按钮";
 
 	"LISTENER_TITLE_libactivator.system.powerdown" = "关机";
 	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "关闭设备电源";
-	
+
 	"LISTENER_TITLE_libactivator.system.reboot" = "重新启动";
 	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "重新启动设备";
-	
+
 	"LISTENER_TITLE_libactivator.system.respring" = "注销主屏幕";
 	"LISTENER_DESCRIPTION_libactivator.system.respring" = "重新加载主屏幕";
-	
+
 	"LISTENER_TITLE_libactivator.system.safemode" = "安全模式";
 	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "重新加载主屏幕到安全模式";
-	
+
 	"LISTENER_TITLE_libactivator.system.sleepbutton" = "电源按钮";
 	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "模拟按一下电源按钮";
-	
+
 	"LISTENER_TITLE_libactivator.system.spotlight" = "Spotlight 搜索";
 	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "激活 Spotlight 搜索页面";
 
@@ -192,50 +210,52 @@
 
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "激活多任务栏";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "显示多任务栏(应用程序切换器)";
-	
+
 	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "显示正在播放屏幕";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "显示标准音频/视频控制";
-	
-	
+
+	"LISTENER_TITLE_libactivator.system.nothing" = "无事件";
+	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "停用原始动作";
+
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "显示正在播放弹出窗口";
-	
+
 	"LISTENER_TITLE_libactivator.ipod.next-track" = "下一首";
 	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "跳到下一个曲目";
-	
+
 	"LISTENER_TITLE_libactivator.ipod.previous-track" = "上一首";
 	"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "回到上一个曲目";
-	
+
 	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "播放/暂停";
 	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "播放或暂停 iPod";
-	
-	
+
+
 	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "解锁屏幕";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "解除屏幕锁定";
-	
+
 	"LISTENER_TITLE_libactivator.lockscreen.show" = "锁定屏幕";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "显示锁屏界面";
-	
+
 	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "锁屏/解锁";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "切换锁定屏幕和主屏幕";
-	
+
 
 	"LISTENER_TITLE_libactivator.phone.contacts" = "显示通讯录";
 	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "打开电话的通讯录";
-	
+
 	"LISTENER_TITLE_libactivator.phone.favorites" = "显示个人收藏";
 	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "打开电话的个人搜藏";
-	
+
 	"LISTENER_TITLE_libactivator.phone.keypad" = "显示拨号键盘";
 	"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "打开电话的拨号键盘";
-	
+
 	"LISTENER_TITLE_libactivator.phone.recents" = "显示最近通话";
 	"LISTENER_DESCRIPTION_libactivator.phone.recents" = "打开电话的最近通话";
-	
+
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "显示语音留言";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "打开电话的语音留言";
-	
-	
+
+
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "蓝牙";
 	"LISTENER_TITLE_toggle_Data" = "蜂窝数据";
@@ -244,6 +264,6 @@
 	"LISTENER_TITLE_toggle_SSH" = "SSH";
 	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
 	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
-	
+
 	"© 2009-2010 Ryan Petrich" = "© 2009-2010 瑞安·佩特里奇";
 }
