@@ -1,4 +1,4 @@
-﻿{
+{
 	LOCALIZATION_ABOUT = "Traducido por ErMasLoko";
 	
 	/* Settings Controller */
@@ -38,7 +38,20 @@
 	VERSION_PROMPT_MORE_INFO = "Mas información";
 	VERSION_PROMPT_IGNORE = "Ignorar";
 	VERSION_PROMPT_CONTINUE = "Continuar";
+
+       /* Menus */
 	
+	MENUS = "Menús";
+	MENUS_DETAIL = "Administrar menús personalizados";
+	
+	ADD_NEW_MENU = "Añadir nuevo menú";
+	NEW_MENU = "Nuevo menú";
+	MENU_TITLE = "Título del menú";
+	ADD = "Añadir";
+	ADD_ACTION = "Añadir acción";
+	ACTION = "Acción";
+	
+
 	/* Modes */
 	
 	MODE_TITLE_all = "En cualquier lugar";
@@ -147,7 +160,12 @@
 	
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Tocar dos veces";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Toca 2 veces en el área del reloj";
+	
+	"EVENT_TITLE_libactivator.power.connected" = "Conectado";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "Cuando se conecta el cargador";
 
+	"EVENT_TITLE_libactivator.power.disconnected" = "Desconectado";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Cuando se desconecta el cargador";
 	
 	/* Listener Groups */
 	
@@ -158,6 +176,7 @@
 	"LISTENER_GROUP_TITLE_Lock Screen" = "Pantalla de bloqueo";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Funciones de SBSettings";
 	"LISTENER_GROUP_TITLE_Phone" = "Teléfono";
+	"LISTENER_GROUP_TITLE_Power" = "Cargador";
 	
 	/* Listener Names */
 
@@ -206,6 +225,8 @@
 	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Barra de música";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Muestra los controles multimedia";
 	
+       "LISTENER_TITLE_libactivator.system.nothing" = "No hacer nada";
+	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "Suprime la acción original";
 	
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "Controles iPod";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Muestra la ventana de controles";
