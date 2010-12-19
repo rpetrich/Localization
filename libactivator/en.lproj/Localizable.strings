@@ -163,7 +163,7 @@
 	"EVENT_TITLE_libactivator.power.connected" = "Connected";
 	"EVENT_DESCRIPTION_libactivator.power.connected" = "Begin receiving A/C power";
 
-	"EVENT_TITLE_libactivator.power.disconnected" = "Disonnected";
+	"EVENT_TITLE_libactivator.power.disconnected" = "Disconnected";
 	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Stop receiving A/C power";
 
 	/* Listener Groups */
