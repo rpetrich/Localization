@@ -76,6 +76,7 @@
 	"EVENT_GROUP_TITLE_Volume Buttons" = "Volume Buttons";
 	"EVENT_GROUP_TITLE_Headset Button" = "Headset Button";
 	"EVENT_GROUP_TITLE_Lock Screen" = "Lock Screen";
+	"EVENT_GROUP_TITLE_Power" = "Power";
 	
 	/* Events */
 	
