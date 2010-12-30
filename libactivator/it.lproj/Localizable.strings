@@ -39,6 +39,18 @@
 	VERSION_PROMPT_IGNORE = "Ignora";
 	VERSION_PROMPT_CONTINUE = "Continua";
 
+	/* Menus */
+
+	MENUS = "Menu";
+	MENUS_DETAIL = "Gestisci i menu personalizzati";
+
+	ADD_NEW_MENU = "Aggiungi un nuovo menu";
+	NEW_MENU = "Nuovo menu";
+	MENU_TITLE = "Titolo menu";
+	ADD = "Aggiungi";
+	ADD_ACTION = "Aggiungi azione";
+	ACTION = "Azione";
+
 	/* Modes */
 
 	MODE_TITLE_all = "Sempre";
@@ -148,6 +160,12 @@
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Doppia pressione orologio";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Premere due volte sulla zona ora/data";
 
+	"EVENT_TITLE_libactivator.power.connected" = "Connesso";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "All'inizio di ricezione di corrente";
+
+	"EVENT_TITLE_libactivator.power.disconnected" = "Disconnesso";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Al termine di ricezione di corrente";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "Azioni sistema";
@@ -157,6 +175,7 @@
 	"LISTENER_GROUP_TITLE_Lock Screen" = "Lockscreen";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Pulsanti di SBSettings";
 	"LISTENER_GROUP_TITLE_Phone" = "Telefono";
+	"LISTENER_GROUP_TITLE_Power" = "Corrente";
 
 	/* Listener Names */
 
@@ -195,6 +214,9 @@
 
 	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Mostra barra iPod";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Mostra i controlli multimediali";
+
+	"LISTENER_TITLE_libactivator.system.nothing" = "Nessuna azione";
+	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "Sopprime l'azione originale";
 
 
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "Controlli iPod";
