@@ -1,70 +1,70 @@
 {
-	LOCALIZATION_ABOUT = "繁體中文：Merlin";
+	"LOCALIZATION_ABOUT" = "繁體中文：Merlin";
 	
 	/* Settings Controller */
 	
-	CANT_DEACTIVATE_REMAINING = "不能停用保留啟動動作";
-	AT_LEAST_ONE_ASSIGNMENT_REQUIRED = "至少一個啟動動作必須分配給\n%@";
-	ALERT_OK = "確定";
-	ALERT_VALUE_AND = " 和 ";
-	ALREADY_ASSIGNED_TO = "已分配給\n%@";
-	ALERT_CANCEL = "取消";
-	ALERT_REASSIGN = "重新分配";
-	ACTIVATOR = "Activator 設定";
-	CURRENTLY_ASSIGNED_TO = "當前分配給:";
-	UNASSIGNED = "【未分配】";
-	MORE_ACTIONS = "更多動作";
-	MORE_ACTIONS_DETAIL = "從 Cydia 中獲取更多動作";
-	DONATE = "捐助";
-	DONATE_DETAIL = "通過 PayPal 捐助";
-	N_ADDITIONAL_EVENTS = "%i 個額外觸發";
-	RESET_SETTINGS = "重置";
-	RESET_SETTINGS_DETAIL = "重設所有設定為預設";
-	RESET_ALERT_TITLE = "重置 Activator 設定";
-	RESET_ALERT_MESSAGE = "您確定要將 Activator 的設定還原為預設嗎？\n\n如果選擇繼續，您的設備將會從“主畫面”螢幕登出。";
-	RESET_ALERT_CANCEL = "取消";
-	RESET_ALERT_CONTINUE = "重置";
-	MULTIPLE_ASSIGNMENTS = "【多個】";
+	"CANT_DEACTIVATE_REMAINING" = "不能停用保留啟動動作";
+	"AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "至少一個啟動動作必須分配給\n%@";
+	"ALERT_OK" = "確定";
+	"ALERT_VALUE_AND" = " 和 ";
+	"ALREADY_ASSIGNED_TO" = "已分配給\n%@";
+	"ALERT_CANCEL" = "取消";
+	"ALERT_REASSIGN" = "重新分配";
+	"ACTIVATOR" = "Activator 設定";
+	"CURRENTLY_ASSIGNED_TO" = "當前分配給:";
+	"UNASSIGNED" = "【未分配】";
+	"MORE_ACTIONS" = "更多動作";
+	"MORE_ACTIONS_DETAIL" = "從 Cydia 中獲取更多動作";
+	"DONATE" = "捐助";
+	"DONATE_DETAIL" = "通過 PayPal 捐助";
+	"N_ADDITIONAL_EVENTS" = "%i 個額外觸發";
+	"RESET_SETTINGS" = "重置";
+	"RESET_SETTINGS_DETAIL" = "重設所有設定為預設";
+	"RESET_ALERT_TITLE" = "重置 Activator 設定";
+	"RESET_ALERT_MESSAGE" = "您確定要將 Activator 的設定還原為預設嗎？\n\n如果選擇繼續，您的設備將會從“主畫面”螢幕登出。";
+	"RESET_ALERT_CANCEL" = "取消";
+	"RESET_ALERT_CONTINUE" = "重置";
+	"MULTIPLE_ASSIGNMENTS" = "【多個】";
 	
-	ENABLED = "啟用";
-	DISABLED = "禁用";
+	"ENABLED" = "啟用";
+	"DISABLED" = "禁用";
 	
-	OUT_OF_DATE_TITLE = "系統版本過於陳舊";
-	OUT_OF_DATE_MESSAGE = "Activator 在新 iOS 系統上工作更好。\n請考慮更新系統。";
+	"OUT_OF_DATE_TITLE" = "系統版本過於陳舊";
+	"OUT_OF_DATE_MESSAGE" = "Activator 在新 iOS 系統上工作更好。\n請考慮更新系統。";
 	
-	TOO_NEW_TITLE = "系統版本太新";
-	TOO_NEW_MESSAGE = "Activator 未在該版本的 iOS 上測試過。\n某些功能可能無法正常使用。";
+	"TOO_NEW_TITLE" = "系統版本太新";
+	"TOO_NEW_MESSAGE" = "Activator 未在該版本的 iOS 上測試過。\n某些功能可能無法正常使用。";
 	
-	VERSION_PROMPT_MORE_INFO = "更多資訊";
-	VERSION_PROMPT_IGNORE = "忽略";
-	VERSION_PROMPT_CONTINUE = "繼續";
+	"VERSION_PROMPT_MORE_INFO" = "更多資訊";
+	"VERSION_PROMPT_IGNORE" = "忽略";
+	"VERSION_PROMPT_CONTINUE" = "繼續";
 
 	/* Menus */
 
-	MENUS = "項目單";
-	MENUS_DETAIL = "管理 Activator 自定義項目單";
+	"MENUS" = "項目單";
+	"MENUS_DETAIL" = "管理 Activator 自定義項目單";
 
-	ADD_NEW_MENU = "添加項目單";
-	NEW_MENU = "新項目單";
-	MENU_TITLE = "項目單標題";
-	ADD = "添加";
-	CANCEL = "取消";
-	ADD_ACTION = "添加動作";
-	ACTION = "動作";
+	"ADD_NEW_MENU" = "添加項目單";
+	"NEW_MENU" = "新項目單";
+	"MENU_TITLE" = "項目單標題";
+	"ADD" = "添加";
+	"CANCEL" = "取消";
+	"ADD_ACTION" = "添加動作";
+	"ACTION" = "動作";
 
 	/* Modes */
 	
-	MODE_TITLE_all = "任何地方";
-	MODE_DESCRIPTION_all = "所有地方都適用";
+	"MODE_TITLE_all" = "任何地方";
+	"MODE_DESCRIPTION_all" = "所有地方都適用";
 	
-	MODE_TITLE_springboard = "在“主畫面”螢幕";
-	MODE_DESCRIPTION_springboard = "可以看到“主畫面”螢幕應用程式圖像時";
+	"MODE_TITLE_springboard" = "在“主畫面”螢幕";
+	"MODE_DESCRIPTION_springboard" = "可以看到“主畫面”螢幕應用程式圖像時";
 	
-	MODE_TITLE_application = "在程式中";
-	MODE_DESCRIPTION_application = "在一個運行中的應用程式裡";
+	"MODE_TITLE_application" = "在程式中";
+	"MODE_DESCRIPTION_application" = "在一個運行中的應用程式裡";
 	
-	MODE_TITLE_lockscreen = "在“鎖定”螢幕";
-	MODE_DESCRIPTION_lockscreen = "處於“鎖定”螢幕時";
+	"MODE_TITLE_lockscreen" = "在“鎖定”螢幕";
+	"MODE_DESCRIPTION_lockscreen" = "處於“鎖定”螢幕時";
 	
 	/* Event Groups */
 	
@@ -167,9 +167,9 @@
 
 	"EVENT_TITLE_libactivator.power.disconnected" = "已斷開";
 	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "已停止外接供電";
-		
+
 	/* Listener Groups */
-	
+
 	"LISTENER_GROUP_TITLE_System Actions" = "系統動作";
 	"LISTENER_GROUP_TITLE_System Applications" = "系統應用程式";
 	"LISTENER_GROUP_TITLE_User Applications" = "使用者應用程式";
@@ -257,7 +257,12 @@
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "顯示語音信箱";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "打開電話的語音信箱";
 	
-	
+	"LISTENER_TITLE_com.jmeosbn.appquit-all" = "退出全部程式";
+	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-all" = "退出全部運行中的程式";
+
+	"LISTENER_TITLE_com.jmeosbn.appquit-current" = "退出當前程式";
+	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-current" = "退出當前運行中的程式";
+
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
 	"LISTENER_TITLE_toggle_Data" = "行動資料";
@@ -266,6 +271,8 @@
 	"LISTENER_TITLE_toggle_SSH" = "SSH";
 	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
 	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
+	
+	"IN_CYDIA_WARNING" = "在 Cydia 安裝軟體時進行其他操作會有潛在的危險。";
 	
 	"© 2009-2010 Ryan Petrich" = "© 2009-2010 瑞安•佩特裡奇";
 }

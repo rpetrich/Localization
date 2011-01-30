@@ -1,70 +1,70 @@
 {
-	LOCALIZATION_ABOUT = "简体中文：Merlin";
+	"LOCALIZATION_ABOUT" = "简体中文：Merlin";
 
 	/* Settings Controller */
 
-	CANT_DEACTIVATE_REMAINING = "不能停用保留激活动作";
-	AT_LEAST_ONE_ASSIGNMENT_REQUIRED = "至少一个激活动作必须分配给\n%@";
-	ALERT_OK = "确定";
-	ALERT_VALUE_AND = " 和 ";
-	ALREADY_ASSIGNED_TO = "已分配给\n%@";
-	ALERT_CANCEL = "取消";
-	ALERT_REASSIGN = "重新分配";
-	ACTIVATOR = "Activator 配置";
-	CURRENTLY_ASSIGNED_TO = "当前分配给:";
-	UNASSIGNED = "【未分配】";
-	MORE_ACTIONS = "更多动作";
-	MORE_ACTIONS_DETAIL = "从 Cydia 中获取更多动作";
-	DONATE = "捐助";
-	DONATE_DETAIL = "通过 PayPal 捐助";
-	N_ADDITIONAL_EVENTS = "%i 个额外触发";
-	RESET_SETTINGS = "重置";
-	RESET_SETTINGS_DETAIL = "重设所有配置为默认";
-	RESET_ALERT_TITLE = "重设 Activator 配置";
-	RESET_ALERT_MESSAGE = "您确定要将 Activator 的设置还原为默认吗？\n\n如果选择继续，您的设备将会从主屏幕注销。";
-	RESET_ALERT_CANCEL = "取消";
-	RESET_ALERT_CONTINUE = "重置";
-	MULTIPLE_ASSIGNMENTS = "【多个】";
+	"CANT_DEACTIVATE_REMAINING" = "不能停用保留激活动作";
+	"AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "至少一个激活动作必须分配给\n%@";
+	"ALERT_OK" = "确定";
+	"ALERT_VALUE_AND" = " 和 ";
+	"ALREADY_ASSIGNED_TO" = "已分配给\n%@";
+	"ALERT_CANCEL" = "取消";
+	"ALERT_REASSIGN" = "重新分配";
+	"ACTIVATOR" = "Activator 配置";
+	"CURRENTLY_ASSIGNED_TO" = "当前分配给:";
+	"UNASSIGNED" = "【未分配】";
+	"MORE_ACTIONS" = "更多动作";
+	"MORE_ACTIONS_DETAIL" = "从 Cydia 中获取更多动作";
+	"DONATE" = "捐助";
+	"DONATE_DETAIL" = "通过 PayPal 捐助";
+	"N_ADDITIONAL_EVENTS" = "%i 个额外触发";
+	"RESET_SETTINGS" = "重置";
+	"RESET_SETTINGS_DETAIL" = "重设所有配置为默认";
+	"RESET_ALERT_TITLE" = "重设 Activator 配置";
+	"RESET_ALERT_MESSAGE" = "您确定要将 Activator 的设置还原为默认吗？\n\n如果选择继续，您的设备将会从主屏幕注销。";
+	"RESET_ALERT_CANCEL" = "取消";
+	"RESET_ALERT_CONTINUE" = "重置";
+	"MULTIPLE_ASSIGNMENTS" = "【多个】";
 
-	ENABLED = "启用";
-	DISABLED = "禁用";
+	"ENABLED" = "启用";
+	"DISABLED" = "禁用";
 
-	OUT_OF_DATE_TITLE = "系统版本过于陈旧";
-	OUT_OF_DATE_MESSAGE = "Activator 在新 iOS 系统上工作更好。\n请考虑更新系统。";
+	"OUT_OF_DATE_TITLE" = "系统版本过于陈旧";
+	"OUT_OF_DATE_MESSAGE" = "Activator 在新 iOS 系统上工作更好。\n请考虑更新系统。";
 
-	TOO_NEW_TITLE = "系统版本太新";
-	TOO_NEW_MESSAGE = "Activator 未在该版本的 iOS 上测试过。\n某些功能可能无法正常使用。";
+	"TOO_NEW_TITLE" = "系统版本太新";
+	"TOO_NEW_MESSAGE" = "Activator 未在该版本的 iOS 上测试过。\n某些功能可能无法正常使用。";
 
-	VERSION_PROMPT_MORE_INFO = "更多信息";
-	VERSION_PROMPT_IGNORE = "忽略";
-	VERSION_PROMPT_CONTINUE = "继续";
+	"VERSION_PROMPT_MORE_INFO" = "更多信息";
+	"VERSION_PROMPT_IGNORE" = "忽略";
+	"VERSION_PROMPT_CONTINUE" = "继续";
 
 	/* Menus */
 
-	MENUS = "菜单";
-	MENUS_DETAIL = "管理 Activator 自定义菜单";
+	"MENUS" = "菜单";
+	"MENUS_DETAIL" = "管理 Activator 自定义菜单";
 
-	ADD_NEW_MENU = "添加菜单";
-	NEW_MENU = "新菜单";
-	MENU_TITLE = "菜单标题";
-	ADD = "添加";
-	CANCEL = "取消";
-	ADD_ACTION = "添加动作";
-	ACTION = "动作";
+	"ADD_NEW_MENU" = "添加菜单";
+	"NEW_MENU" = "新菜单";
+	"MENU_TITLE" = "菜单标题";
+	"ADD" = "添加";
+	"CANCEL" = "取消";
+	"ADD_ACTION" = "添加动作";
+	"ACTION" = "动作";
 
 	/* Modes */
 
-	MODE_TITLE_all = "任何地方";
-	MODE_DESCRIPTION_all = "所有地方都适用";
+	"MODE_TITLE_all" = "任何地方";
+	"MODE_DESCRIPTION_all" = "所有地方都适用";
 
-	MODE_TITLE_springboard = "在主屏幕";
-	MODE_DESCRIPTION_springboard = "可以看到主屏幕应用程序图标时";
+	"MODE_TITLE_springboard" = "在主屏幕";
+	"MODE_DESCRIPTION_springboard" = "可以看到主屏幕应用程序图标时";
 
-	MODE_TITLE_application = "在程序中";
-	MODE_DESCRIPTION_application = "在一个运行中的应用程序里";
+	"MODE_TITLE_application" = "在程序中";
+	"MODE_DESCRIPTION_application" = "在一个运行中的应用程序里";
 
-	MODE_TITLE_lockscreen = "在锁屏界面";
-	MODE_DESCRIPTION_lockscreen = "处于锁屏界面时";
+	"MODE_TITLE_lockscreen" = "在锁屏界面";
+	"MODE_DESCRIPTION_lockscreen" = "处于锁屏界面时";
 
 	/* Event Groups */
 
@@ -257,6 +257,14 @@
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "显示语音留言";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "打开电话的语音留言";
 
+	"LISTENER_TITLE_com.bigboss.sbsettings" = "SBSettings";
+	"LISTENER_DESCRIPTION_com.bigboss.sbsettings" = "激活 SBSettings 窗口";
+
+	"LISTENER_TITLE_com.jmeosbn.appquit-all" = "退出全部程序";
+	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-all" = "退出全部运行中的程序";
+
+	"LISTENER_TITLE_com.jmeosbn.appquit-current" = "退出当前程序";
+	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-current" = "退出当前运行中的程序";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "蓝牙";
@@ -266,6 +274,8 @@
 	"LISTENER_TITLE_toggle_SSH" = "SSH";
 	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
 	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
+
+	"IN_CYDIA_WARNING" = "在 Cydia 安装软件时进行其它操作会有潜在的危险。";
 
 	"© 2009-2010 Ryan Petrich" = "© 2009-2010 瑞安·佩特里奇";
 }
