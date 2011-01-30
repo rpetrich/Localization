@@ -48,6 +48,7 @@
 	NEW_MENU = "新項目單";
 	MENU_TITLE = "項目單標題";
 	ADD = "添加";
+	CANCEL = "取消";
 	ADD_ACTION = "添加動作";
 	ACTION = "動作";
 

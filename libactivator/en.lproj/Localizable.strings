@@ -49,6 +49,7 @@
 	MENU_TITLE = "Menu Title";
 	ADD = "Add";
 	ADD_ACTION = "Add Action";
+	CANCEL = "Cancel";
 	ACTION = "Action";
 	
 	/* Modes */

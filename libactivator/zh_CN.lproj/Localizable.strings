@@ -48,6 +48,7 @@
 	NEW_MENU = "新菜单";
 	MENU_TITLE = "菜单标题";
 	ADD = "添加";
+	CANCEL = "取消";
 	ADD_ACTION = "添加动作";
 	ACTION = "动作";
 
