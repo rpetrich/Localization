@@ -6,6 +6,7 @@
 	"CANT_DEACTIVATE_REMAINING" = "不能停用保留啟動動作";
 	"AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "至少一個啟動動作必須分配給\n%@";
 	"ALERT_OK" = "確定";
+	"ALERT_IGNORE" = "忽略";
 	"ALERT_VALUE_AND" = " 和 ";
 	"ALREADY_ASSIGNED_TO" = "已分配給\n%@";
 	"ALERT_CANCEL" = "取消";

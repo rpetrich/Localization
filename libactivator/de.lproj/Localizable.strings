@@ -8,6 +8,8 @@
 	<string>Abbrechen</string>
 	<key>ALERT_OK</key>
 	<string>OK</string>
+	<key>ALERT_IGNORE</key>
+	<string>Ignorieren</string>
 	<key>ALERT_REASSIGN</key>
 	<string>Neu zuweisen</string>
 	<key>ALERT_VALUE_AND</key>

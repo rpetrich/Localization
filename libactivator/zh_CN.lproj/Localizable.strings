@@ -6,6 +6,7 @@
 	"CANT_DEACTIVATE_REMAINING" = "不能停用保留激活动作";
 	"AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "至少一个激活动作必须分配给\n%@";
 	"ALERT_OK" = "确定";
+	"ALERT_IGNORE" = "忽略";
 	"ALERT_VALUE_AND" = " 和 ";
 	"ALREADY_ASSIGNED_TO" = "已分配给\n%@";
 	"ALERT_CANCEL" = "取消";

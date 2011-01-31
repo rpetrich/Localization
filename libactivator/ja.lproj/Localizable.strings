@@ -4,6 +4,7 @@
 "ADD_ACTION" = "新規設定";
 "ADD_NEW_MENU" = "新規メニュー作成";
 "ALERT_CANCEL" = "キャンセル";
+"ALERT_IGNORE" = "無視";
 "ALERT_OK" = "了解";
 "ALERT_REASSIGN" = "再設定して下さい";
 "ALERT_VALUE_AND" = " と ";

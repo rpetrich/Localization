@@ -6,6 +6,7 @@
 	CANT_DEACTIVATE_REMAINING = "No se pueden desactivar\nlos eventos restantes";
 	AT_LEAST_ONE_ASSIGNMENT_REQUIRED = "Al menos un evento debe ser \nasignado a %@";
 	ALERT_OK = "Aceptar";
+	ALERT_IGNORE = "Ignorar";
 	ALERT_VALUE_AND = " y ";
 	ALREADY_ASSIGNED_TO = "Ya está asignada a\n%@";
 	ALERT_CANCEL = "Cancelar";

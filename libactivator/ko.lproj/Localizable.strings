@@ -6,6 +6,7 @@
 	CANT_DEACTIVATE_REMAINING = "남은 이벤트를\n비활성화할 수 없습니다.";
 	AT_LEAST_ONE_ASSIGNMENT_REQUIRED = "최소 한개의 이벤트가\n%@에 설정되어야 합니다.";
 	ALERT_OK = "OK";
+	ALERT_IGNORE = "무시";
 	ALERT_VALUE_AND = " 그리고 ";
 	ALREADY_ASSIGNED_TO = "다음 그룹에 이미 설정되었습니다.\n%@";
 	ALERT_CANCEL = "취소";
