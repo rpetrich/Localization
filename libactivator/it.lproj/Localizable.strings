@@ -50,6 +50,7 @@
 	MENU_TITLE = "Titolo menu";
 	ADD = "Aggiungi";
 	ADD_ACTION = "Aggiungi azione";
+	CANCEL = "Annulla";
 	ACTION = "Azione";
 
 	/* Modes */
@@ -77,6 +78,7 @@
 	"EVENT_GROUP_TITLE_Volume Buttons" = "Pulsanti volume";
 	"EVENT_GROUP_TITLE_Headset Button" = "Pulsanti auricolari";
 	"EVENT_GROUP_TITLE_Lock Screen" = "Lockscreen";
+	"EVENT_GROUP_TITLE_Power" = "Alimentazione";
 
 	/* Events */
 
@@ -229,7 +231,7 @@
 	"LISTENER_TITLE_libactivator.ipod.previous-track" = "Traccia precedente";
 	"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "Ritorna al brano precedente";
 
-	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Play/Pause";
+	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Play/Pausa";
 	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Alterna l'esecuzione iPod";
 
 
@@ -268,4 +270,5 @@
 	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
 	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
 
+	IN_CYDIA_WARNING = "E' potenzialmente pericoloso eseguire delle azioni mentre è in corso un'installazione di un software da Cydia.";
 }
