@@ -55,7 +55,7 @@
 
 	/* Modes */
 
-	MODE_TITLE_all = "Sempre";
+	MODE_TITLE_all = "Ovunque";
 	MODE_DESCRIPTION_all = "";
 
 	MODE_TITLE_springboard = "Nella schemata home";
@@ -176,7 +176,7 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "Applicazioni utente";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "Lockscreen";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Pulsanti di SBSettings";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Switch di SBSettings";
 	"LISTENER_GROUP_TITLE_Phone" = "Telefono";
 	"LISTENER_GROUP_TITLE_Power" = "Alimentazione";
 
