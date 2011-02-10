@@ -158,7 +158,7 @@
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "按一下耳机中央按钮";    
 
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住";
-	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按一下耳机中央按钮";      
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按住耳机中央按钮";      
 
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "双击时钟";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "双击时钟/日期区域";
@@ -232,7 +232,6 @@
 	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "播放/暂停";
 	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "播放或暂停 iPod";
 
-
 	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "解锁屏幕";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "解除屏幕锁定";
 
@@ -258,14 +257,19 @@
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "显示语音留言";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "打开电话的语音留言";
 
-	"LISTENER_TITLE_com.bigboss.sbsettings" = "SBSettings";
-	"LISTENER_DESCRIPTION_com.bigboss.sbsettings" = "激活 SBSettings 窗口";
+	/* Third Party Listerners */
+
+	"LISTENER_TITLE_com.jmeosbn.appquit-current" = "退出当前程序";
+	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-current" = "退出当前运行中的程序";
 
 	"LISTENER_TITLE_com.jmeosbn.appquit-all" = "退出全部程序";
 	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-all" = "退出全部运行中的程序";
 
-	"LISTENER_TITLE_com.jmeosbn.appquit-current" = "退出当前程序";
-	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-current" = "退出当前运行中的程序";
+	"LISTENER_TITLE_jp.ashikase.backgrounder" = "Backgrounder";
+	"LISTENER_DESCRIPTION_jp.ashikase.backgrounder" = "在后台运行应用程序";
+
+	"LISTENER_TITLE_com.bigboss.sbsettings" = "SBSettings";
+	"LISTENER_DESCRIPTION_com.bigboss.sbsettings" = "激活 SBSettings 窗口";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "蓝牙";
@@ -277,6 +281,4 @@
 	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
 
 	"IN_CYDIA_WARNING" = "在 Cydia 安装软件时进行其它操作会有潜在的危险。";
-
-	"© 2009-2011 Ryan Petrich" = "© 2009-2011 瑞安·佩特里奇";
 }
