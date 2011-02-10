@@ -158,7 +158,7 @@
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "按一下耳機中央按鈕";	
 	
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住";
-	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按一下耳機中央按鈕";	
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按住耳機中央按鈕";	
 
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "雙擊時鐘";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "雙擊時鐘/日期區域";
@@ -232,7 +232,6 @@
 	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "播放/暫停";
 	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "播放或暫停 iPod";
 	
-	
 	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "解鎖螢幕";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "解除螢幕鎖定";
 	
@@ -242,7 +241,6 @@
 	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "鎖屏/解鎖";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "切換“鎖定”螢幕和“主畫面”螢幕";
 	
-
 	"LISTENER_TITLE_libactivator.phone.contacts" = "顯示聯絡資訊";
 	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "打開電話的聯絡資訊";
 	
@@ -258,11 +256,19 @@
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "顯示語音信箱";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "打開電話的語音信箱";
 	
+	/* Third Party Listerners */
+
 	"LISTENER_TITLE_com.jmeosbn.appquit-all" = "退出全部程式";
 	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-all" = "退出全部運行中的程式";
 
 	"LISTENER_TITLE_com.jmeosbn.appquit-current" = "退出當前程式";
 	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-current" = "退出當前運行中的程式";
+
+	"LISTENER_TITLE_jp.ashikase.backgrounder" = "Backgrounder";
+	"LISTENER_DESCRIPTION_jp.ashikase.backgrounder" = "在後台運行應用程式";
+
+	"LISTENER_TITLE_com.bigboss.sbsettings" = "SBSettings";
+	"LISTENER_DESCRIPTION_com.bigboss.sbsettings" = "激活 SBSettings 窗口";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
@@ -274,6 +280,4 @@
 	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
 	
 	"IN_CYDIA_WARNING" = "在 Cydia 安裝軟體時進行其他操作會有潛在的危險。";
-	
-	"© 2009-2011 Ryan Petrich" = "© 2009-2011 瑞安•佩特裡奇";
 }
