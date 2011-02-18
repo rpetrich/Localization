@@ -66,7 +66,7 @@ kann nicht deaktiviert werden.</string>
 	<key>EVENT_DESCRIPTION_libactivator.power.connected</key>
 	<string>Netzstecker beim einstecken</string>
 	<key>EVENT_DESCRIPTION_libactivator.power.disconnected</key>
-	<string>Netzstecker beim rausziehen</string>
+	<string>Netzstecker beim entfernen</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom</key>
 	<string>Ziehen von unten nach oben</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom-left</key>
