@@ -2,14 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>ACTION</key>
+	<string>Aktion</string>
 	<key>ACTIVATOR</key>
 	<string>Activator</string>
+	<key>ADD</key>
+	<string>Hinzufügen</string>
+	<key>ADD_ACTION</key>
+	<string>Aktion hinzufügen</string>
+	<key>ADD_NEW_MENU</key>
+	<string>Neues Menü hinzufügen</string>
 	<key>ALERT_CANCEL</key>
 	<string>Abbrechen</string>
-	<key>ALERT_OK</key>
-	<string>OK</string>
 	<key>ALERT_IGNORE</key>
 	<string>Ignorieren</string>
+	<key>ALERT_OK</key>
+	<string>OK</string>
 	<key>ALERT_REASSIGN</key>
 	<string>Neu zuweisen</string>
 	<key>ALERT_VALUE_AND</key>
@@ -20,6 +28,8 @@
 	<key>AT_LEAST_ONE_ASSIGNMENT_REQUIRED</key>
 	<string>Mindestens ein Ereignis
 muss zugewiesen werden %@</string>
+	<key>CANCEL</key>
+	<string>Abbruch</string>
 	<key>CANT_DEACTIVATE_REMAINING</key>
 	<string>Verbleibendes Ereignis
 kann nicht deaktiviert werden.</string>
@@ -52,7 +62,11 @@ kann nicht deaktiviert werden.</string>
 	<key>EVENT_DESCRIPTION_libactivator.menu.press.single</key>
 	<string>Drücken Home Button einmal</string>
 	<key>EVENT_DESCRIPTION_libactivator.motion.shake</key>
-	<string>Gerät hin und her schütteln</string>
+	<string>Schütteln</string>
+	<key>EVENT_DESCRIPTION_libactivator.power.connected</key>
+	<string>Netzstecker beim einstecken</string>
+	<key>EVENT_DESCRIPTION_libactivator.power.disconnected</key>
+	<string>Netzstecker beim rausziehen</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom</key>
 	<string>Ziehen von unten nach oben</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom-left</key>
@@ -95,6 +109,8 @@ kann nicht deaktiviert werden.</string>
 	<string>Sperrbildschirm</string>
 	<key>EVENT_GROUP_TITLE_Motion</key>
 	<string>Bewegung</string>
+	<key>EVENT_GROUP_TITLE_Power</key>
+	<string>Netzkabel</string>
 	<key>EVENT_GROUP_TITLE_Sleep Button</key>
 	<string>Schlaf Button</string>
 	<key>EVENT_GROUP_TITLE_Slide In Gesture</key>
@@ -125,6 +141,10 @@ kann nicht deaktiviert werden.</string>
 	<string>Einzelnes drücken</string>
 	<key>EVENT_TITLE_libactivator.motion.shake</key>
 	<string>Gerät schütteln</string>
+	<key>EVENT_TITLE_libactivator.power.connected</key>
+	<string>Verbunden</string>
+	<key>EVENT_TITLE_libactivator.power.disconnected</key>
+	<string>Getrennt</string>
 	<key>EVENT_TITLE_libactivator.slide-in.bottom</key>
 	<string>Vom unteren Bildschirmrand</string>
 	<key>EVENT_TITLE_libactivator.slide-in.bottom-left</key>
@@ -159,6 +179,8 @@ kann nicht deaktiviert werden.</string>
 	<string>Unten, Oben</string>
 	<key>EVENT_TITLE_libactivator.volume.up.hold.short</key>
 	<string>Lauter kurz halten</string>
+	<key>IN_CYDIA_WARNING</key>
+	<string>Es ist gefährlich, Aktionen auszuführen, während Cydia Software installiert.</string>
 	<key>LISTENER_DESCRIPTION_application</key>
 	<string>Anwendung starten</string>
 	<key>LISTENER_DESCRIPTION_libactivator.ipod.music-controls</key>
@@ -189,6 +211,8 @@ kann nicht deaktiviert werden.</string>
 	<string>Taskmanager anzeigen</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.homebutton</key>
 	<string>Home Button simulieren</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.nothing</key>
+	<string>Unterdrückt ursprüngliche Aktion</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.powerdown</key>
 	<string>Das Gerät sofort ausschalten</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.reboot</key>
@@ -213,6 +237,8 @@ kann nicht deaktiviert werden.</string>
 	<string>Sperrbildschirm</string>
 	<key>LISTENER_GROUP_TITLE_Phone</key>
 	<string>Telefon</string>
+	<key>LISTENER_GROUP_TITLE_Power</key>
+	<string>Netzkabel</string>
 	<key>LISTENER_GROUP_TITLE_SBSettings Toggles</key>
 	<string>SBSettings Schalter</string>
 	<key>LISTENER_GROUP_TITLE_System Actions</key>
@@ -251,6 +277,8 @@ kann nicht deaktiviert werden.</string>
 	<string>Aktiviert Taskmanager</string>
 	<key>LISTENER_TITLE_libactivator.system.homebutton</key>
 	<string>Home Button</string>
+	<key>LISTENER_TITLE_libactivator.system.nothing</key>
+	<string>Nichts tun</string>
 	<key>LISTENER_TITLE_libactivator.system.powerdown</key>
 	<string>Ausschalten</string>
 	<key>LISTENER_TITLE_libactivator.system.reboot</key>
@@ -287,6 +315,12 @@ kann nicht deaktiviert werden.</string>
 	<string>Wi-Fi</string>
 	<key>LOCALIZATION_ABOUT</key>
 	<string>André Paetzold - (srt10coupe) http://i.srt10coupe.de/</string>
+	<key>MENUS</key>
+	<string>Menüs</string>
+	<key>MENUS_DETAIL</key>
+	<string>Benutzerdefinierte Activator Menüs</string>
+	<key>MENU_TITLE</key>
+	<string>Menü Titel</string>
 	<key>MODE_DESCRIPTION_all</key>
 	<string></string>
 	<key>MODE_DESCRIPTION_application</key>
@@ -309,6 +343,8 @@ kann nicht deaktiviert werden.</string>
 	<string>Weitere Aktionen über Cydia erhalten</string>
 	<key>MULTIPLE_ASSIGNMENTS</key>
 	<string>(mehrfach)</string>
+	<key>NEW_MENU</key>
+	<string>Neues Mneü</string>
 	<key>N_ADDITIONAL_EVENTS</key>
 	<string>%i zusätzliche Ereignisse</string>
 	<key>OUT_OF_DATE_MESSAGE</key>
