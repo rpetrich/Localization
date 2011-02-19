@@ -1,274 +1,274 @@
 {
-	LOCALIZATION_ABOUT = "zYx";
-	
-	/* Settings Controller */
-	
-	CANT_DEACTIVATE_REMAINING = "Nie można wyłšczyć\npozostałego zdarzenia";
-	AT_LEAST_ONE_ASSIGNMENT_REQUIRED = "Co najmniej jedno zdarzenie musi zostać\nprzypisane do %@";
-	ALERT_OK = "OK";
-	ALERT_IGNORE = "Ignoruj";
-	ALERT_VALUE_AND = " oraz ";
-	ALREADY_ASSIGNED_TO = "Już przypisany do\n%@";
-	ALERT_CANCEL = "Anuluj";
-	ALERT_REASSIGN = "Przypisz";
-	ACTIVATOR = "Activator";
-	CURRENTLY_ASSIGNED_TO = "Aktualnie przypisany do:";
-	UNASSIGNED = "(nie przypisany)";
-	MORE_ACTIONS = "Więcej Akcji";
-	MORE_ACTIONS_DETAIL = "Pobierz więcej Akcji przez Cydię";
-	DONATE = "Wesprzyj";
-	DONATE_DETAIL = "Wspomórz przez PayPal";
-	N_ADDITIONAL_EVENTS = "%i dodatkowych zdarzeń";
-	RESET_SETTINGS = "Skasuj Ustawienia";
-	RESET_SETTINGS_DETAIL = "Przywróć ustawienia do wartoci domylnych";
-	RESET_ALERT_TITLE = "Skasuj Ustawienia Activator'a";
-	RESET_ALERT_MESSAGE = "Jeste pewny, że chcesz skasować ustawienia Activator'a do wartoci domylnych?\nJeli kontynuujesz, SpringBoard zostanie zrestartowany.";
-	RESET_ALERT_CANCEL = "Anuluj";
-	RESET_ALERT_CONTINUE = "Reset";
-	MULTIPLE_ASSIGNMENTS = "(wielu)";
-	
-	ENABLED = "Włšczony";
-	DISABLED = "Wyłšczony";
-	
-	OUT_OF_DATE_TITLE = "Wersja Systemu Jest Przestarzała";
-	OUT_OF_DATE_MESSAGE = "Activator działa najlepiej na najnowszych wersjach iOS.\nProszę Pomyl o Aktualizacji.";
-	
-	TOO_NEW_TITLE = "Wersja Systemu Jest Za Nowa";
-	TOO_NEW_MESSAGE = "Activator nie był testowany na tej wersji iOS.\nPewne fukcje mogš nie działać jak powinny.";
-	
-	VERSION_PROMPT_MORE_INFO = "Więcej Informacji";
-	VERSION_PROMPT_IGNORE = "Ignoruj";
-	VERSION_PROMPT_CONTINUE = "Kontynuuj";
-	
-	/* Menus */
-	
-	MENUS = "Menu";
-	MENUS_DETAIL = "Zarzšdzaj własnymi menu Activator-a";
-	
-	ADD_NEW_MENU = "Dodaj Nowe Menu";
-	NEW_MENU = "Nowe Menu";
-	MENU_TITLE = "Tytuł Menu";
-	ADD = "Dodaj";
-	ADD_ACTION = "Dodaj Akcję";
-	CANCEL = "Anuluj";
-	ACTION = "Akcja";
-	
-	/* Modes */
-	
-	MODE_TITLE_all = "Wszędzie";
-	MODE_DESCRIPTION_all = "Wszędzie";
-	
-	MODE_TITLE_springboard = "Na Ekranie Poczštkowym";
-	MODE_DESCRIPTION_springboard = "Kiedy ikony SpringBoard sš widoczne";
-	
-	MODE_TITLE_application = "W Aplikacji";
-	MODE_DESCRIPTION_application = "Kiedy aplikacja jest widoczna";
-	
-	MODE_TITLE_lockscreen = "Na Zabl. Ekranie";
-	MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczny";
-	
-	/* Event Groups */
-	
-	"EVENT_GROUP_TITLE_Slide In Gesture" = "Gesty przęcišgania palca na ekran";
-	"EVENT_GROUP_TITLE_Motion" = "Ruch";
-	"EVENT_GROUP_TITLE_SpringBoard" = "Ekran Poczštkowy";
-	"EVENT_GROUP_TITLE_Status Bar" = "Pasek Statusu";
-	"EVENT_GROUP_TITLE_Home Button" = "Przycisk poczštek (Home)";
-	"EVENT_GROUP_TITLE_Sleep Button" = "Przycisk usypianie/wł/wył";
-	"EVENT_GROUP_TITLE_Volume Buttons" = "Przyciski Głonoci";
-	"EVENT_GROUP_TITLE_Headset Button" = "Przycisk zestawu słuchawkowego";
-	"EVENT_GROUP_TITLE_Lock Screen" = "Zablokowany Ekran";
-	"EVENT_GROUP_TITLE_Power" = "Zasilanie";
-	
-	/* Events */
-	
-	"EVENT_TITLE_libactivator.lock.hold.short" = "Krótkie przytrzymanie";
-	"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "Nacinij i przytrzymaj przycisk usypianie/wł/wył";
-	
-	"EVENT_TITLE_libactivator.lock.press.double" = "Podwójne nacinięcie";
-	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "Szybko nacinij przycisk usypiania/wł/wył dwa razy";
-	
-	"EVENT_TITLE_libactivator.menu.hold.short" = "Krótkie Przytrzymanie";
-	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Nacinij i przytrzymaj przycisk poczštek (home)";
-	
-	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "Pojedyncze nacinięcie";
-	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Nacinij przycisk poczštek (home), kiedy na ekranie poczštkowym";
-	
-	"EVENT_TITLE_libactivator.menu.press.double" = "Podwójne nacinięcie";
-	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "Szybko nacinij przycisk poczštkowy (home) dwa razy";
+LOCALIZATION_ABOUT = "zYx";
 
-	"EVENT_TITLE_libactivator.menu.press.single" = "Pojedyncze nacinięcie";
-	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "Nacinij przycisk poczštkowy (home) tylko raz";
-	
-	"EVENT_TITLE_libactivator.motion.shake" = "Potrzšnij urzšdzenie";
-	"EVENT_DESCRIPTION_libactivator.motion.shake" = "Wstrzšniete nie mieszane!";
-	
-	"EVENT_TITLE_libactivator.slide-in.bottom" = "Z dołu ekranu";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Przecišgnij palca na ekran od dołu";
-	
-	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Z dolnego-prawego rogu ekranu";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Przecišgnij palca na ekran z dolnego-prawego rogu ekranu";
-	
-	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Z dolnego-lewego rogu ekranu";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Przecišgnij palca na ekran z dolnego-lewego rogu";
-	
-	"EVENT_TITLE_libactivator.springboard.pinch" = "Złap ikony";
-	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Złap ikony ekranu poczštkowego dwoma palcami";
-	
-	"EVENT_TITLE_libactivator.springboard.spread" = "Rozcišgnij ikony";
-	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "Rozcišgnij ikony ekranu poczštkowego dwoma palcami";
-	
-	"EVENT_TITLE_libactivator.statusbar.hold" = "Przytrzymaj";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Tapnij na pasku statusu i przytrzymaj";
-	
-	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Przecišgnij w dół";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Tapnij na pasku statusu i przecišgnij w dół";
-	
-	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Przecišgnij w lewo";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Tapnij na pasku statusu i przecišgnij w lewo";
-	
-	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "Przecišgnij w prawo";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Tapnij na pasku statusu i przecišgnij w prawo";
+/* Settings Controller */
 
-	"EVENT_TITLE_libactivator.statusbar.tap.double" = "Podwójne tapnięcie";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Podwójne tapnięcie paska statusu";
-	
-	"EVENT_TITLE_libactivator.volume.display-tap" = "Tapnięcie powiadomienia głonoci";
-	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "Tapnij okno powiadomienia o głonoci";
-	
-	"EVENT_TITLE_libactivator.volume.down-up" = "Down, Up";
-	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "Press volume down, then up";	
-	
-	"EVENT_TITLE_libactivator.volume.up-down" = "+, -";
-	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Nacinij przycisk zgłaszania, potem ciszania";	
-	
-	"EVENT_TITLE_libactivator.volume.both.press" = "Nacinięcie + i -";
-	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Nacinij oba przyciski jednoczenie";	
-	
-	"EVENT_TITLE_libactivator.volume.down.hold.short" = "Krótkie przytrzymanie -";
-	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "Nacinij i przytrzymaj przycisk ciszania (-)";	
-	
-	"EVENT_TITLE_libactivator.volume.up.hold.short" = "Krótkie przytrzymanie +";
-	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Nacinij i przytrzymaj przycisk zgłaniania (+)";	
-	
-	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Przęłšcznik wyciszania tam i z powrotem";
-	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Przełšcz przełšcznik wyciszania tam i z powrotem";	
-	
-	"EVENT_TITLE_libactivator.headset-button.press.single" = "Pojedyncze nacinięcie";
-	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Nacinij przycisk zest. sł. raz";	
-	
-	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Krótkie przytrzymanie";
-	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Nacinij i przytrzymaj przycisk zest. sł.";	
-	
-	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Podwójne tapnięcie zegarka";
-	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Podwójne tapnięcie obszaru zegarka";
-	
-	"EVENT_TITLE_libactivator.power.connected" = "Połšczony";
-	"EVENT_DESCRIPTION_libactivator.power.connected" = "Rozpocznij odbieranie zasilania A/C";
+CANT_DEACTIVATE_REMAINING = "Nie można wyłączyć\npozostałego zdarzenia";
+AT_LEAST_ONE_ASSIGNMENT_REQUIRED = "Co najmniej jedno zdarzenie musi zostać\nprzypisane do %@";
+ALERT_OK = "OK";
+ALERT_IGNORE = "Ignoruj";
+ALERT_VALUE_AND = " oraz ";
+ALREADY_ASSIGNED_TO = "Już przypisany do\n%@";
+ALERT_CANCEL = "Anuluj";
+ALERT_REASSIGN = "Przypisz";
+ACTIVATOR = "Activator";
+CURRENTLY_ASSIGNED_TO = "Aktualnie przypisany do:";
+UNASSIGNED = "(nie przypisany)";
+MORE_ACTIONS = "Więcej Akcji";
+MORE_ACTIONS_DETAIL = "Pobierz więcej Akcji przez Cydię";
+DONATE = "Wesprzyj";
+DONATE_DETAIL = "Wspomórz przez PayPal";
+N_ADDITIONAL_EVENTS = "%i dodatkowych zdarzeń";
+RESET_SETTINGS = "Skasuj Ustawienia";
+RESET_SETTINGS_DETAIL = "Przywróć ustawienia do wartości domyślnych";
+RESET_ALERT_TITLE = "Przywróć ustawienia Activatora";
+RESET_ALERT_MESSAGE = "Jesteś pewien, że chcesz przywrócić ustawienia Activatora do wartości domyślnych?\nJeśli potwierdzisz, SpringBoard zostanie zrestartowany.";
+RESET_ALERT_CANCEL = "Anuluj";
+RESET_ALERT_CONTINUE = "Reset";
+MULTIPLE_ASSIGNMENTS = "(wielu)";
 
-	"EVENT_TITLE_libactivator.power.disconnected" = "Rozłšczoy";
-	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Koniec pobierania zasilania A/C";
+ENABLED = "Włączony";
+DISABLED = "Wyłączony";
 
-	/* Listener Groups */
-	
-	"LISTENER_GROUP_TITLE_System Actions" = "Systemowe Akcje";
-	"LISTENER_GROUP_TITLE_System Applications" = "Aplikacje Systemowe";
-	"LISTENER_GROUP_TITLE_User Applications" = "Aplikacje Użytkownika";
-	"LISTENER_GROUP_TITLE_iPod" = "iPod";
-	"LISTENER_GROUP_TITLE_Lock Screen" = "Zablokowany Ekran";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Przełšczniki SBSettings";
-	"LISTENER_GROUP_TITLE_Phone" = "Telefon";
-	"LISTENER_GROUP_TITLE_Power" = "Zasilanie";
-	
-	/* Listener Names */
-	
-	"LISTENER_DESCRIPTION_toggle" = "Przełšcznik Włšcz/Wyłšcz";
-	"LISTENER_DESCRIPTION_application" = "Włšcz aplikacje";
-	
-	"LISTENER_TITLE_libactivator.system.homebutton" = "Przycisk Home";
-	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Symuluje przycinięcie przycisku Poczštek (Home)";
+OUT_OF_DATE_TITLE = "Wersja systemu jest przestarzała";
+OUT_OF_DATE_MESSAGE = "Activator działa najlepiej na najnowszych wersjach iOS.\nProszę Pomyśl o Aktualizacji.";
 
-	"LISTENER_TITLE_libactivator.system.powerdown" = "Wyłšcz";
-	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Natychmiastowo wyłšcza urzšdzenie";
-	
-	"LISTENER_TITLE_libactivator.system.reboot" = "Restart";
-	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "Natychmiastowy Restart Urzšdzenia";
-	
-	"LISTENER_TITLE_libactivator.system.respring" = "Zrestartuje SpringBoard";
-	"LISTENER_DESCRIPTION_libactivator.system.respring" = "Zrestartuje SpringBoard normalnie";
-	
-	"LISTENER_TITLE_libactivator.system.safemode" = "Safe Mode";
-	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "Włšcza tryb awaryjny SpringBoard";
-	
-	"LISTENER_TITLE_libactivator.system.sleepbutton" = "Przycisk Sleep";
-	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Symuluje przycinięcie przycisku Sleep/Wł/Wył";
-	
-	"LISTENER_TITLE_libactivator.system.spotlight" = "Spotlight";
-	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Pokazuje strone wyszukiwania SpringBoard";
+TOO_NEW_TITLE = "Wersja systemu jest zbyt nowa";
+TOO_NEW_MESSAGE = "Activator nie był testowany na tej wersji iOS.\nPewne fukcje mogą nie działać jak powinny.";
 
-	"LISTENER_TITLE_libactivator.system.take-screenshot" = "Zrzut z ekranu";
-	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Zapisz zrzut z ekranu do zdjęć";
+VERSION_PROMPT_MORE_INFO = "Więcej Informacji";
+VERSION_PROMPT_IGNORE = "Ignoruj";
+VERSION_PROMPT_CONTINUE = "Kontynuuj";
 
-	"LISTENER_TITLE_libactivator.system.voice-control" = "Kontrola Głosem";
-	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Włšcza kontrolę głosem";
+/* Menus */
 
-	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Pokaż pasek aplikacji";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Pokauje pasek aplikacji w tle";
-	
-	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Pokaż pasek Teraz Odtwarzane";
-	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Pokaż standardowe kontrolki odtwarzacza multimedialnego";
-	
-	"LISTENER_TITLE_libactivator.system.nothing" = "Nic nie rób";
-	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "Anuluje alcje";
-	
-	
-	"LISTENER_TITLE_libactivator.ipod.music-controls" = "Kontrolki iPod-a";
-	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Pokaż powiadomienie Teraz Odtwarzane";
-	
-	"LISTENER_TITLE_libactivator.ipod.next-track" = "Następny Utwór";
-	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "Przełšcza do następnego utworu";
-	
-	"LISTENER_TITLE_libactivator.ipod.previous-track" = "Poprzedni Utwór";
-	"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "Wraca do poprzedniego utworu";
-	
-	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Play/Pause";
-	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Przełšcza odtwarzanie iPod-a";
-	
-	
-	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Odblokuj Urzšdzenie";
-	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Ignoruj zabl. ekran";
-	
-	"LISTENER_TITLE_libactivator.lockscreen.show" = "Zablokuj Urzšdzenie";
-	"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "Pokaż zablokowany ekran";
-	
-	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "Zablokuj/Odblokuj";
-	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Przełšcz pokazywanie Zabl. Ekranu";
-	
+MENUS = "Menu";
+MENUS_DETAIL = "Zarządzaj własnymi menu Activatora";
 
-	"LISTENER_TITLE_libactivator.phone.contacts" = "Pokaż Kontakty";
-	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Uruchom telefon na karcie Kontakty";
-	
-	"LISTENER_TITLE_libactivator.phone.favorites" = "Pokaż Ulubione";
-	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "Uruchom telefon na karcie Ulubione";
-	
-	"LISTENER_TITLE_libactivator.phone.keypad" = "Pokaż Przyciski";
-	"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "Uruchom telefon na karcie Przyciski";
-	
-	"LISTENER_TITLE_libactivator.phone.recents" = "Pokaż Ostatnie";
-	"LISTENER_DESCRIPTION_libactivator.phone.recents" = "Uruchom telefon na karcie Ostatnie";
-	
-	"LISTENER_TITLE_libactivator.phone.voicemail" = "Pokaż Pocztę Głosowš";
-	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Uruchom telefon na karcie Poczta Głosowa";
-	
-	
-	"LISTENER_TITLE_toggle_3G" = "3G";
-	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
-	"LISTENER_TITLE_toggle_Data" = "Dane";
-	"LISTENER_TITLE_toggle_Location" = "Usługi lokalizacji";
-	"LISTENER_TITLE_toggle_Phone" = "Telefon";
-	"LISTENER_TITLE_toggle_SSH" = "SSH";
-	"LISTENER_TITLE_toggle_Syslog" = "System log";
-	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
-	
-	IN_CYDIA_WARNING = "To może być potencjalnie niebezpieczne podczas gdy Cydia instaluje pakiety.";
+ADD_NEW_MENU = "Dodaj nowe menu";
+NEW_MENU = "Nowe menu";
+MENU_TITLE = "Tytuł menu";
+ADD = "Dodaj";
+ADD_ACTION = "Dodaj akcję";
+CANCEL = "Anuluj";
+ACTION = "Akcja";
+
+/* Modes */
+
+MODE_TITLE_all = "Wszędzie";
+MODE_DESCRIPTION_all = "Wszędzie";
+
+MODE_TITLE_springboard = "Na ekranie początkowym";
+MODE_DESCRIPTION_springboard = "Kiedy ikony SpringBoard są widoczne";
+
+MODE_TITLE_application = "W aplikacji";
+MODE_DESCRIPTION_application = "Kiedy aplikacja jest widoczna";
+
+MODE_TITLE_lockscreen = "Na Zabl. Ekranie";
+MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczny";
+
+/* Event Groups */
+
+"EVENT_GROUP_TITLE_Slide In Gesture" = "Gesty przęciągania palca na ekran";
+"EVENT_GROUP_TITLE_Motion" = "Ruch";
+"EVENT_GROUP_TITLE_SpringBoard" = "Ekran Początkowy";
+"EVENT_GROUP_TITLE_Status Bar" = "Pasek Statusu";
+"EVENT_GROUP_TITLE_Home Button" = "Przycisk początek (Home)";
+"EVENT_GROUP_TITLE_Sleep Button" = "Przycisk usypianie/wł/wył";
+"EVENT_GROUP_TITLE_Volume Buttons" = "Przyciski głośności";
+"EVENT_GROUP_TITLE_Headset Button" = "Przycisk zestawu słuchawkowego";
+"EVENT_GROUP_TITLE_Lock Screen" = "Zablokowany Ekran";
+"EVENT_GROUP_TITLE_Power" = "Zasilanie";
+
+/* Events */
+
+"EVENT_TITLE_libactivator.lock.hold.short" = "Krótkie przytrzymanie";
+"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "Naciśnij i przytrzymaj przycisk usypianie/wł/wył";
+
+"EVENT_TITLE_libactivator.lock.press.double" = "Podwójne naciśnięcie";
+"EVENT_DESCRIPTION_libactivator.lock.press.double" = "Szybko naciśnij przycisk usypiania/wł/wył dwa razy";
+
+"EVENT_TITLE_libactivator.menu.hold.short" = "Krótkie przytrzymanie";
+"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Naciśnij i przytrzymaj przycisk początek (home)";
+
+"EVENT_TITLE_libactivator.menu.press.at-springboard" = "Pojedyncze naciśnięcie";
+"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Naciśnij przycisk początek (home), kiedy na ekranie początkowym";
+
+"EVENT_TITLE_libactivator.menu.press.double" = "Podwójne naciśnięcie";
+"EVENT_DESCRIPTION_libactivator.menu.press.double" = "Szybko naciśnij przycisk początkowy (home) dwa razy";
+
+"EVENT_TITLE_libactivator.menu.press.single" = "Pojedyncze naciśnięcie";
+"EVENT_DESCRIPTION_libactivator.menu.press.single" = "Naciśnij przycisk początkowy (home) tylko raz";
+
+"EVENT_TITLE_libactivator.motion.shake" = "Potrząśnij urządzenie";
+"EVENT_DESCRIPTION_libactivator.motion.shake" = "Wstrząśnięte nie mieszane!";
+
+"EVENT_TITLE_libactivator.slide-in.bottom" = "Z dołu ekranu";
+"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Przeciągnij palec na ekran od dołu";
+
+"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Z dolnego-prawego rogu ekranu";
+"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Przeciągnij palca na ekran z dolnego-prawego rogu ekranu";
+
+"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Z dolnego-lewego rogu ekranu";
+"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Przeciągnij palca na ekran z dolnego-lewego rogu";
+
+"EVENT_TITLE_libactivator.springboard.pinch" = "Uszczypnij ikony";
+"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Uszczypnij ikony ekranu początkowego dwoma palcami";
+
+"EVENT_TITLE_libactivator.springboard.spread" = "Rozciągnij ikony";
+"EVENT_DESCRIPTION_libactivator.springboard.spread" = "Rozciągnij ikony ekranu początkowego dwoma palcami";
+
+"EVENT_TITLE_libactivator.statusbar.hold" = "Przytrzymaj";
+"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Puknij pasek statusu i przytrzymaj";
+
+"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Przeciągnij w dół";
+"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Puknij pasek statusu i przeciągnij w dół";
+
+"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Przeciągnij w lewo";
+"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Puknij pasek statusu i przeciągnij w lewo";
+
+"EVENT_TITLE_libactivator.statusbar.swipe.right" = "Przeciągnij w prawo";
+"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Puknij pasek statusu i przeciągnij w prawo";
+
+"EVENT_TITLE_libactivator.statusbar.tap.double" = "Podwójne puknięcie";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Podwójne puknięcie paska statusu";
+
+"EVENT_TITLE_libactivator.volume.display-tap" = "Puknięcie powiadomienia głośności";
+"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "Puknij okno powiadomienia o głośności";
+
+"EVENT_TITLE_libactivator.volume.down-up" = "- / +";
+"EVENT_DESCRIPTION_libactivator.volume.down-up" = "Wciśnij głośność -, potem +";
+
+"EVENT_TITLE_libactivator.volume.up-down" = "+, -";
+"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Nacinij przycisk zgłaśniania, potem ściszania";
+
+"EVENT_TITLE_libactivator.volume.both.press" = "Naciśnięcie + i -";
+"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Naciśnij oba przyciski jednocześnie";
+
+"EVENT_TITLE_libactivator.volume.down.hold.short" = "Krótkie przytrzymanie -";
+"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "Naciśnij i przytrzymaj przycisk ściszania (-)";
+
+"EVENT_TITLE_libactivator.volume.up.hold.short" = "Krótkie przytrzymanie +";
+"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Naciśnij i przytrzymaj przycisk zgłaśniania (+)";
+
+"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Przęłącznik wyciszania tam i z powrotem";
+"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Przełącz przełącznik wyciszania tam i z powrotem";
+
+"EVENT_TITLE_libactivator.headset-button.press.single" = "Pojedyncze naciśnięcie";
+"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Naciśnij przycisk zest. sł. raz";
+
+"EVENT_TITLE_libactivator.headset-button.hold.short" = "Krótkie przytrzymanie";
+"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Naciśnij i przytrzymaj przycisk zest. sł.";
+
+"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Podwójne puknięcie zegarka";
+"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Podwójne puknięcie obszaru zegarka";
+
+"EVENT_TITLE_libactivator.power.connected" = "Podłączenie ładowarki";
+"EVENT_DESCRIPTION_libactivator.power.connected" = "Podłączenie ładowarki";
+
+"EVENT_TITLE_libactivator.power.disconnected" = "Odłączenie ładowarki";
+"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Odłączenie ładowarki";
+
+/* Listener Groups */
+
+"LISTENER_GROUP_TITLE_System Actions" = "Akcje systemowe";
+"LISTENER_GROUP_TITLE_System Applications" = "Aplikacje systemowe";
+"LISTENER_GROUP_TITLE_User Applications" = "Aplikacje użytkownika";
+"LISTENER_GROUP_TITLE_iPod" = "iPod";
+"LISTENER_GROUP_TITLE_Lock Screen" = "Zablokowany ekran";
+"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Przełączniki SBSettings";
+"LISTENER_GROUP_TITLE_Phone" = "Telefon";
+"LISTENER_GROUP_TITLE_Power" = "Zasilanie";
+
+/* Listener Names */
+
+"LISTENER_DESCRIPTION_toggle" = "Przełącznik Włącz/Wyłącz";
+"LISTENER_DESCRIPTION_application" = "Włącz aplikacje";
+
+"LISTENER_TITLE_libactivator.system.homebutton" = "Przycisk Home";
+"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Symuluje przyciśnięcie przycisku początek (Home)";
+
+"LISTENER_TITLE_libactivator.system.powerdown" = "Wyłącz";
+"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Natychmiastowo wyłącza urządzenie";
+
+"LISTENER_TITLE_libactivator.system.reboot" = "Restart";
+"LISTENER_DESCRIPTION_libactivator.system.reboot" = "Natychmiastowy restart urządzenia";
+
+"LISTENER_TITLE_libactivator.system.respring" = "Restartuje SpringBoard";
+"LISTENER_DESCRIPTION_libactivator.system.respring" = "Zrestartuje SpringBoard normalnie";
+
+"LISTENER_TITLE_libactivator.system.safemode" = "Tryb awaryjny (Safe Mode)";
+"LISTENER_DESCRIPTION_libactivator.system.safemode" = "Włącza tryb awaryjny SpringBoard";
+
+"LISTENER_TITLE_libactivator.system.sleepbutton" = "Przycisk Sleep";
+"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Symuluje przyciśnięcie przycisku Usypianie/Wł/Wył";
+
+"LISTENER_TITLE_libactivator.system.spotlight" = "Spotlight";
+"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Pokazuje strone wyszukiwania SpringBoard";
+
+"LISTENER_TITLE_libactivator.system.take-screenshot" = "Zrzut ekranu";
+"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Zapisz zrzut ekranu do zdjęć";
+
+"LISTENER_TITLE_libactivator.system.voice-control" = "Kontrola głosowa";
+"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Włącza kontrolę głosem";
+
+"LISTENER_TITLE_libactivator.system.activate-switcher" = "Pokaż pasek aplikacji";
+"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Pokazuje pasek aplikacji działających w tle";
+
+"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Pokaż pasek Teraz Odtwarzane";
+"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Pokaż standardowe kontrolki odtwarzacza multimedialnego";
+
+"LISTENER_TITLE_libactivator.system.nothing" = "Nic nie rób";
+"LISTENER_DESCRIPTION_libactivator.system.nothing" = "Anuluje akcje";
+
+
+"LISTENER_TITLE_libactivator.ipod.music-controls" = "Kontrolki iPoda";
+"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Pokaż powiadomienie Teraz Odtwarzane";
+
+"LISTENER_TITLE_libactivator.ipod.next-track" = "Następny utwór";
+"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "Przełącza do następnego utworu";
+
+"LISTENER_TITLE_libactivator.ipod.previous-track" = "Poprzedni utwór";
+"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "Wraca do poprzedniego utworu";
+
+"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Play/Pause";
+"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Przełącza odtwarzanie iPoda";
+
+
+"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Odblokuj Urządzenie";
+"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Ignoruj zabl. ekran";
+
+"LISTENER_TITLE_libactivator.lockscreen.show" = "Zablokuj Urządzenie";
+"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "Pokaż zablokowany ekran";
+
+"LISTENER_TITLE_libactivator.lockscreen.toggle" = "Zablokuj/Odblokuj";
+"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Przełącz pokazywanie zabl. Ekranu";
+
+
+"LISTENER_TITLE_libactivator.phone.contacts" = "Pokaż Kontakty";
+"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Uruchom telefon na karcie Kontakty";
+
+"LISTENER_TITLE_libactivator.phone.favorites" = "Pokaż Ulubione";
+"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "Uruchom telefon na karcie Ulubione";
+
+"LISTENER_TITLE_libactivator.phone.keypad" = "Pokaż klawiaturę telefonu";
+"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "Uruchom telefon na karcie klawiatura";
+
+"LISTENER_TITLE_libactivator.phone.recents" = "Pokaż ostatnie";
+"LISTENER_DESCRIPTION_libactivator.phone.recents" = "Uruchom telefon na karcie ostatnie";
+
+"LISTENER_TITLE_libactivator.phone.voicemail" = "Pokaż pocztę głosową";
+"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Uruchom telefon na karcie poczta głosowa";
+
+
+"LISTENER_TITLE_toggle_3G" = "3G";
+"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
+"LISTENER_TITLE_toggle_Data" = "Dane";
+"LISTENER_TITLE_toggle_Location" = "Usługi lokalizacji";
+"LISTENER_TITLE_toggle_Phone" = "Telefon";
+"LISTENER_TITLE_toggle_SSH" = "SSH";
+"LISTENER_TITLE_toggle_Syslog" = "Log systemowy";
+"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
+
+IN_CYDIA_WARNING = "To może być potencjalnie niebezpieczne podczas gdy Cydia instaluje pakiety.";
 }
