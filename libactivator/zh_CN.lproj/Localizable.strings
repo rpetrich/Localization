@@ -259,17 +259,147 @@
 
 	/* Third Party Listerners */
 
+	"LISTENER_TITLE_ch.ringwald.mouse.middle" = "中键点击";
+	"LISTENER_DESCRIPTION_ch.ringwald.mouse.middle" = "蓝牙鼠标点击中键";
+
+	"LISTENER_TITLE_ch.ringwald.mouse.right" = "右键点击";
+	"LISTENER_DESCRIPTION_ch.ringwald.mouse.right" = "蓝牙鼠标点击右键";
+
+	"LISTENER_TITLE_ch.ringwald.synergymouse.middle" = "中键点击";
+	"LISTENER_DESCRIPTION_ch.ringwald.synergymouse.middle" = "远端鼠标点击中键";
+
+	"LISTENER_TITLE_ch.ringwald.synergymouse.right" = "右键点击";
+	"LISTENER_DESCRIPTION_ch.ringwald.synergymouse.right" = "远端鼠标点击右键";
+
+	"LISTENER_TITLE_com.aaronash.Multifl0w" = "Multifl0w";
+	"LISTENER_DESCRIPTION_com.aaronash.Multifl0w" = "打开 Multifl0w 多任务管理界面";
+
+	"LISTENER_TITLE_com.ashman.lockinfo.hide" = "LockInfo - 锁定屏幕";
+	"LISTENER_DESCRIPTION_com.ashman.lockinfo.hide" = "在锁定屏幕显示或隐藏";
+
+	"LISTENER_TITLE_com.ashman.lockinfo.infoshade" = "LockInfo - 信息遮罩";
+	"LISTENER_DESCRIPTION_com.ashman.lockinfo.infoshade" = "显示或隐藏信息遮罩";
+
+	"LISTENER_TITLE_com.ashman.lockinfo.unlock" = "LockInfo - 解除锁定";
+	"LISTENER_DESCRIPTION_com.ashman.lockinfo.unlock" = "解除锁定设备";
+
+	"LISTENER_TITLE_com.ashman.memtap" = "内存点击";
+	"LISTENER_DESCRIPTION_com.ashman.memtap" = "点击以释放内存";
+
+	"LISTENER_TITLE_com.bigboss.sbsettings" = "SBSettings";
+	"LISTENER_DESCRIPTION_com.bigboss.sbsettings" = "激活 SBSettings 窗口";
+
+	"LISTENER_TITLE_com.bigboss.springflash" = "SpringFlash";
+	"LISTENER_DESCRIPTION_com.bigboss.springflash" = "开关 LED 闪光灯";
+
+	"LISTENER_TITLE_com.booleanmagic.overboard" = "OverBoard";
+	"LISTENER_DESCRIPTION_com.booleanmagic.overboard" = "显示 SpringBoard 概览";
+
+	"LISTENER_TITLE_com.collab.proswitcher" = "ProSwitcher";
+	"LISTENER_DESCRIPTION_com.collab.proswitcher" = "支持应用程序预览的任务管理器";
+
+	"LISTENER_TITLE_com.dapetcu21.MultiCleaner" = "MultiCleaner 退出";
+	"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner" = "退出前台应用程序";
+
+	"LISTENER_TITLE_com.dapetcu21.MultiCleaner_justMin" = "MultiCleaner 最小化";
+	"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner_justMin" = "最小化当前应用程序";
+
+	"LISTENER_TITLE_com.dapetcu21.MultiCleaner_lastClosed" = "MultiCleaner 启动最后";
+	"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner_lastClosed" = "启动最后一个应用程序";
+
+	"LISTENER_TITLE_com.dapetcu21.MultiCleaner_openBar" = "MultiCleaner Toggle Bar";
+	"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner_openBar" = "Toggle the bar";
+
+	"LISTENER_TITLE_com.dapetcu21.MultiCleaner_quitAllApps" = "MultiCleaner 全部退出";
+	"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner_quitAllApps" = "退出全部应用程序";
+
+	"LISTENER_TITLE_com.filippobiga.myvolume" = "我的音量";
+	"LISTENER_DESCRIPTION_com.filippobiga.myvolume" = "设定一个自定义音量大小";
+
+	"LISTENER_TITLE_com.filippobiga.screendim" = "ScreenDim";
+	"LISTENER_DESCRIPTION_com.filippobiga.screendim" = "使屏幕变暗";
+
+	"LISTENER_TITLE_com.gojohnnyboi.gpower_pro" = "GPower";
+	"LISTENER_DESCRIPTION_com.gojohnnyboi.gpower_pro" = "激活电量显示";
+
+	"LISTENER_TITLE_com.infectionfx.hideemall" = "全部隐藏";
+	"LISTENER_DESCRIPTION_com.infectionfx.hideemall" = "全部隐藏！";
+
+	"LISTENER_TITLE_com.intelliborn.tlert" = "Tlert";
+	"LISTENER_DESCRIPTION_com.intelliborn.tlert" = "Tlert 写新信息";
+
+	"LISTENER_TITLE_com.ipa.iWhiteBoard" = "iWhiteBoard";
+	"LISTENER_DESCRIPTION_com.ipa.iWhiteBoard" = "激活 iWhiteBoard 绘画模式";
+
 	"LISTENER_TITLE_com.jmeosbn.appquit-current" = "退出当前程序";
 	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-current" = "退出当前运行中的程序";
+
+	"LISTENER_TITLE_com.kb1ooo.snappy-camera" = "Snappy（默认为相机）";
+	"LISTENER_DESCRIPTION_com.kb1ooo.snappy-camera" = "在任意应用程序内打开相机拍照";
+
+	"LISTENER_TITLE_com.kb1ooo.snappy-video" = "Snappy（默认为视频）";
+	"LISTENER_DESCRIPTION_com.kb1ooo.snappy-video" = "在任意应用程序内打开相机录影";
 
 	"LISTENER_TITLE_com.jmeosbn.appquit-all" = "退出全部程序";
 	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-all" = "退出全部运行中的程序";
 
+	"LISTENER_TITLE_com.nakedproductions.applocket.activator" = "软件盒子";
+	"LISTENER_DESCRIPTION_com.nakedproductions.applocket.activator" = "开关锁定的应用程序";
+
+	"LISTENER_TITLE_com.openhebrew.sbschedule" = "SBSchedule";
+	"LISTENER_DESCRIPTION_com.openhebrew.sbschedule" = "SBSettings 档案";
+
+	"LISTENER_TITLE_com.openhebrew.sbschedulelastschedule" = "SBSchedule 最后设置";
+	"LISTENER_DESCRIPTION_com.openhebrew.sbschedulelastschedule" = "显示最后一次设置";
+
+	"LISTENER_TITLE_com.openhebrew.timekeeper" = "TimeKeeper";
+	"LISTENER_DESCRIPTION_com.openhebrew.timekeeper" = "监控应用程序使用时间";
+
+	"LISTENER_TITLE_com.phoenix.bluselect" = "BluSelect";
+	"LISTENER_DESCRIPTION_com.phoenix.bluselect" = "选择蓝牙网络";
+
+	"LISTENER_TITLE_com.phoenix.mcpro" = "音乐控制 Pro";
+	"LISTENER_DESCRIPTION_com.phoenix.mcpro" = "任务控制";
+
+	"LISTENER_TITLE_com.phoenix.pandoracontrols" = "音乐控制";
+	"LISTENER_DESCRIPTION_com.phoenix.pandoracontrols" = "激活弹窗控制";
+
+	"LISTENER_TITLE_com.phoenix.yfiselect" = "YFiSelect";
+	"LISTENER_DESCRIPTION_com.phoenix.yfiselect" = "选择 WiFi 网络";
+
+	"LISTENER_TITLE_com.stm.mailenhancer" = "邮件增强静音";
+	"LISTENER_DESCRIPTION_com.stm.mailenhancer" = "立即停止声音和语音提示";
+
+	"LISTENER_TITLE_com.whomer.brightnesslistener.down" = "亮度降低";
+	"LISTENER_DESCRIPTION_com.whomer.brightnesslistener.down" = "屏幕亮度降低 10%";
+
+	"LISTENER_TITLE_com.whomer.brightnesslistener.up" = "亮度升高";
+	"LISTENER_DESCRIPTION_com.whomer.brightnesslistener.up" = "屏幕亮度升高 10%";
+
+	"LISTENER_TITLE_com.wrightscs.mobilekiosk" = "Mobile Kiosk";
+	"LISTENER_DESCRIPTION_com.wrightscs.mobilekiosk" = "快捷显示系统信息";
+
+	"LISTENER_TITLE_com.wrightscs.mobileprofileswitcher" = "移动档案切换器";
+	"LISTENER_DESCRIPTION_com.wrightscs.mobileprofileswitcher" = "移动档案的档案切换器";
+
 	"LISTENER_TITLE_jp.ashikase.backgrounder" = "Backgrounder";
 	"LISTENER_DESCRIPTION_jp.ashikase.backgrounder" = "在后台运行应用程序";
 
-	"LISTENER_TITLE_com.bigboss.sbsettings" = "SBSettings";
-	"LISTENER_DESCRIPTION_com.bigboss.sbsettings" = "激活 SBSettings 窗口";
+	"LISTENER_TITLE_jp.tom-go.iShakeLock" = "iShakeLock";
+	"LISTENER_DESCRIPTION_jp.tom-go.iShakeLock" = "锁定/解锁设备的新方式";
+
+	"LISTENER_TITLE_jp.ashikase.lastapp" = "LastApp";
+	"LISTENER_DESCRIPTION_jp.ashikase.lastapp" = "切换到前一个活动的应用程序";
+
+	"LISTENER_TITLE_jp.ashikase.kirikae" = "Kirikae";
+	"LISTENER_DESCRIPTION_jp.ashikase.kirikae" = "任务切换及启动工具";
+
+	"LISTENER_TITLE_net.epelaez.Notified" = "通知";
+	"LISTENER_DESCRIPTION_net.epelaez.Notified" = "您的通知，任何地方";
+
+	"LISTENER_TITLE_us.hannahpappah.incarcerapp" = "IncarcerApp";
+	"LISTENER_DESCRIPTION_us.hannahpappah.incarcerapp" = "禁用主屏幕按钮（基于 Backgrounder）";
+
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "蓝牙";
