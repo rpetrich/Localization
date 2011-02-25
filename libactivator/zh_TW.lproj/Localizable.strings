@@ -212,7 +212,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "啟動語音控制";
 
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "啟動多工列";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "顯示多工列(應用程式切換器)";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "顯示多工列（應用程式切換器）";
 	
 	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "顯示正在播放螢幕";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "顯示標準音樂/影片控制";
