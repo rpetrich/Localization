@@ -130,8 +130,8 @@
 	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "向右拖动";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "在顶部状态栏向右拖动";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.double" = "双击";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "双击顶部状态栏";
+	"EVENT_TITLE_libactivator.statusbar.tap.double" = "按两下";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "按两下顶部状态栏";
 
 	"EVENT_TITLE_libactivator.volume.display-tap" = "点击音量显示窗口";
 	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "按一下音量按钮后点击屏幕中音量提示框";
@@ -160,8 +160,8 @@
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按住耳机中央按钮";      
 
-	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "双击时钟";
-	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "双击时钟/日期区域";
+	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "按两下时钟";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "按两下时钟/日期区域";
 	
 	"EVENT_TITLE_libactivator.power.connected" = "已连接";
 	"EVENT_DESCRIPTION_libactivator.power.connected" = "正使用外接供电";
