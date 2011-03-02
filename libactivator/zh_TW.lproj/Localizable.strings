@@ -160,8 +160,8 @@
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按住耳機中央按鈕";	
 
-	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "雙擊時鐘";
-	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "雙擊時鐘/日期區域";
+	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "按兩下時鐘";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "按兩下時鐘/日期區域";
 
 	"EVENT_TITLE_libactivator.power.connected" = "已連接";
 	"EVENT_DESCRIPTION_libactivator.power.connected" = "正使用外接供電";
