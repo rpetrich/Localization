@@ -270,6 +270,9 @@
 	"LISTENER_TITLE_ch.ringwald.synergymouse.right" = "右鍵點擊";
 	"LISTENER_DESCRIPTION_ch.ringwald.synergymouse.right" = "遠端滑鼠點擊右鍵";
 
+	"LISTENER_TITLE_co.cocoanuts.celeste" = "Celeste";
+	"LISTENER_DESCRIPTION_co.cocoanuts.celeste" = "iOS 藍牙檔案傳送";
+
 	"LISTENER_TITLE_com.aaronash.Multifl0w" = "Multifl0w";
 	"LISTENER_DESCRIPTION_com.aaronash.Multifl0w" = "打開 Multifl0w 多工管理介面";
 
