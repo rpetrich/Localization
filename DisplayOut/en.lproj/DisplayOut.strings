@@ -40,3 +40,7 @@
 "Small" = "Small";
 
 "Native Support" = "Native Support";
+
+"This app" = "This app";
+" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = " appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily.";
+"OK";
