@@ -29,7 +29,7 @@
 "16:9" = "16:9";
 "16:9 Display Stretch" = "16:9 拉伸";
 
-"Horizontal Offset" = "水平偏";
+"Horizontal Offset" = "水平偏移";
 "Vertical Offset" = "竖直偏移";
 
 "Show Taps" = "显示触摸区域";
@@ -42,5 +42,5 @@
 "Native Support" = "原生支持";
 
 "This app" = "该应用程序";
-" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = "似乎原生支持外部显示。\n您最好暂时禁用“显示输出”。";
+" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = "似乎原生支持外部显示输出。\n您最好暂时禁用“显示输出”。";
 "OK" = "确定";
