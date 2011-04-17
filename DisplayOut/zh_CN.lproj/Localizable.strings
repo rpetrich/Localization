@@ -1,25 +1,46 @@
-"1024x768" = "1024×768";
+"Display Out" = "显示输出";
+
+"Enabled" = "启用";
+
+"Orientation" = "显示方向";
+"Follow Interface" = "根据界面";
+"Follow SpringBoard" = "根据 SpringBoard";
+"Landscape Left" = "横屏向左";
+"Landscape Right" = "横屏向右";
+"Portrait" = "竖直";
+"Upside-Down" = "倒置";
+
+"Max Screen Resolution" = "屏幕最大分辨率";
+"480" = "480";
+"640x480 (all)" = "640 × 480（全部）";
+"600" = "600";
+"800x600 (VGA/HDMI)" = "800 × 600（VGA/HDMI）";
+"720p" = "720p";
+"720p (HDMI-only)" = "720p（仅 HDMI）";
+"768p" = "768p";
+"1024x768 (VGA/HDMI)" = "1024 × 768（VGA/HDMI）";
+
+"Scale" = "缩放";
+
+"Aspect Adjust" = "纵横比例调整";
+"Preserve" = "保留";
 "16:10" = "16:10";
 "16:10 Display Stretch" = "16:10 拉伸";
 "16:9" = "16:9";
 "16:9 Display Stretch" = "16:9 拉伸";
-"640x480" = "640×480";
-"800x600" = "800×600";
-"Aspect Adjust" = "纵横比例调整";
-"Display Out" = "显示输出";
-"Enabled" = "启用";
-"Follow Interface" = "根据界面";
-"Follow SpringBoard" = "根据 SpringBoard";
-"Landscape Left" = "横向左";
-"Landscape Right" = "横向右";
+
+"Horizontal Offset" = "水平偏";
+"Vertical Offset" = "竖直偏移";
+
+"Show Taps" = "显示触摸区域";
+
+"Tap Size" = "触摸区域大小";
 "Large" = "大";
-"Max Screen Resolution" = "屏幕最大分辨率";
 "Medium" = "中";
-"Orientation" = "显示方向";
-"Portrait" = "竖直";
-"Preserve" = "保留";
-"Scale" = "缩放";
-"Show Taps" = "显示标签";
 "Small" = "小";
-"Tap Size" = "标签大小";
-"Upside-Down" = "倒置";
+
+"Native Support" = "原生支持";
+
+"This app" = "该应用程序";
+" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = "似乎原生支持外部显示。\n您最好暂时禁用“显示输出”。";
+"OK" = "确定";
