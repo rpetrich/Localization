@@ -39,8 +39,15 @@
 "Medium" = "Medium";
 "Small" = "Small";
 
+"Showing taps may cause flicker" = "Showing taps may cause flicker";
+
+"Experimental" = "Experimental";
+
 "Native Support" = "Native Support";
 
 "This app" = "This app";
 " appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = " appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily.";
 "OK";
+
+"Just Main Content" = "Just Main Content";
+"Shows only the main content on the external display" = "Shows only the main content on the external display";
