@@ -39,8 +39,16 @@
 "Medium" = "中";
 "Small" = "小";
 
+"Showing taps may cause flicker" = "显示触摸区域可能导致闪烁";
+
+"Experimental" = "试验功能";
+
 "Native Support" = "原生支持";
 
 "This app" = "该应用程序";
 " appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = "似乎原生支持外部显示输出。\n您最好暂时禁用“显示输出”。";
 "OK" = "确定";
+
+"Just Main Content" = "仅主要内容";
+
+"Shows only the main content on the external display" = "在外接显示器上仅显示主要内容";
