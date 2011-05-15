@@ -80,4 +80,35 @@
 	"Edit Favorite" = "Edit Favorite";
 	"To Top" = "To Top";
 	"To Bottom" = "To Bottom";
+	
+	"Rich Text For Mail" = "Rich Text For Mail";
+	"Format" = "Format";
+	"Bold" = "Bold";
+	"Italic" = "Italic";
+	"Underline" = "Underline";
+	"Strikethrough" = "Strikethrough";
+	"Image" = "Image";
+	"Text Style" = "Text Style";
+	"Font Size" = "Font Size";
+	"Font Family" = "Font Family";
+	"Text Color" = "Text Color";
+	"Highlight Color" = "Highlight Color";
+	"Black" = "Black";
+	"White" = "White";
+	"Silver" = "Silver";
+	"Gray" = "Gray";
+	"Red" = "Red";
+	"Maroon" = "Maroon";
+	"Yellow" = "Yellow";
+	"Olive" = "Olive";
+	"Lime" = "Lime";
+	"Green" = "Green";
+	"Aqua" = "Aqua";
+	"Teal" = "Teal";
+	"Blue" = "Blue";
+	"Navy" = "Navy";
+	"Fuchsia" = "Fuchsia";
+	"Purple" = "Purple";
+	"None" = "None";
+	"Unknown" = "Unknown";
 }
