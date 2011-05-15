@@ -111,4 +111,8 @@
 	"Purple" = "Purple";
 	"None" = "None";
 	"Unknown" = "Unknown";
+	
+	"Playing" = "Playing";
+	"\"%@\" by %@ " = "\"%@\" by %@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> by <strong>%@</strong> ";
 }
