@@ -16,7 +16,7 @@
 	"Actions" = "动作";
 	"More Actions..." = "更多动作";
 	"Donate with PayPal" = "通过 PayPal 捐助";
-	"Copy All" = "全部复制";
+	"Copy All" = "复制全部";
 	"Debug" = "调试";
 	"Dial" = "呼叫";
 	"Favorites" = "收藏";
@@ -48,7 +48,7 @@
 
 	"Right to Left" = "右至左";
 	"Left to Right" = "左至右";
-	"Sorted" = "已排序";
+	"Sorted" = "排序";
 	"New Favorite" = "新收藏";
 	"biteSMS" = "biteSMS";
 	"Extended Support" = "扩展支持";
@@ -76,10 +76,14 @@
 	"The URL has been copied to your clipboard." = "该 URL 地址已被复制到剪贴板。";
 	"Continue" = "继续";
 	"Error" = "错误";
-	"Unable to submit your pastie." = "无法提交您的 pastie.";
+	"Unable to submit your pastie." = "无法提交您的 Pastie。";
 	"No Search Results" = "无搜索结果";
 
 	"Edit Favorite" = "编辑收藏";
 	"To Top" = "到顶部";
 	"To Bottom" = "到底部";
+
+	"Playing" = "正在播放";
+	"\"%@\" by %@ " = "\"%@\" by %@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> by <strong>%@</strong> ";
 }
