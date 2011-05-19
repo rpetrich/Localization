@@ -83,6 +83,37 @@
 	"To Top" = "到頂部";
 	"To Bottom" = "到底部";
 
+	"Rich Text For Mail" = "多格式文本郵件";
+	"Format" = "格式";
+	"Bold" = "加粗";
+	"Italic" = "傾斜";
+	"Underline" = "下劃綫";
+	"Strikethrough" = "刪除綫";
+	"Image" = "圖像";
+	"Text Style" = "文本樣式";
+	"Font Size" = "字號";
+	"Font Family" = "字體";
+	"Text Color" = "字體顏色";
+	"Highlight Color" = "高亮顏色";
+	"Black" = "黑色";
+	"White" = "白色";
+	"Silver" = "銀色";
+	"Gray" = "灰色";
+	"Red" = "紅色";
+	"Maroon" = "栗色";
+	"Yellow" = "黃色";
+	"Olive" = "橄欖綠";
+	"Lime" = "亮綠";
+	"Green" = "綠色";
+	"Aqua" = "淺綠";
+	"Teal" = "青色";
+	"Blue" = "藍色";
+	"Navy" = "深藍";
+	"Fuchsia" = "紫紅";
+	"Purple" = "紫色";
+	"None" = "無";
+	"Unknown" = "未知";
+
 	"Playing" = "正在播放";
 	"\"%@\" by %@ " = "\"%@\" by %@ ";
 	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> by <strong>%@</strong> ";
