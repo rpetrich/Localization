@@ -16,7 +16,7 @@
 	"Actions" = "動作";
 	"More Actions..." = "更多動作";
 	"Donate with PayPal" = "通過 PayPal 捐助";
-	"Copy All" = "全部拷貝";
+	"Copy All" = "拷貝全部";
 	"Debug" = "排錯";
 	"Dial" = "撥打";
 	"Favorites" = "收藏";
@@ -43,12 +43,12 @@
 	"Previous" = "上一個";
 	"Not Found" = "未找到";
 	"Clear" = "清理";
-	"Confirm" = "確定";
+	"Confirm" = "確認";
 	"Pasteboard History" = "剪貼板歷史記錄";
 
 	"Right to Left" = "右至左";
 	"Left to Right" = "左至右";
-	"Sorted" = "已排序";
+	"Sorted" = "排序";
 	"New Favorite" = "新收藏";
 	"biteSMS" = "biteSMS";
 	"Extended Support" = "擴展支持";
@@ -76,10 +76,14 @@
 	"The URL has been copied to your clipboard." = "該 URL 地址已被拷貝到剪貼板。";
 	"Continue" = "繼續";
 	"Error" = "錯誤";
-	"Unable to submit your pastie." = "無法提交您的 pastie.";
+	"Unable to submit your pastie." = "無法提交您的 Pastie。";
 	"No Search Results" = "無搜尋結果";
 
 	"Edit Favorite" = "編輯收藏";
 	"To Top" = "到頂部";
 	"To Bottom" = "到底部";
+
+	"Playing" = "正在播放";
+	"\"%@\" by %@ " = "\"%@\" by %@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> by <strong>%@</strong> ";
 }
