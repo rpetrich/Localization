@@ -1,0 +1,53 @@
+"Display Out" = "Display Out";
+
+"Enabled" = "Activer";
+
+"Orientation" = "Orientation";
+"Follow Interface" = "Suivre l'Interface";
+"Follow SpringBoard" = "Suivre l'Écran d'Accueil";
+"Landscape Left" = "Paysage Gauche";
+"Landscape Right" = "Paysage Droite";
+"Portrait" = "Portrait";
+"Upside-Down" = "Haut-Bas";
+
+"Max Screen Resolution" = "Résolution d'Écran Maximum";
+"480" = "480";
+"640x480 (all)" = "640x480 (tout)";
+"600" = "600";
+"800x600 (VGA/HDMI)" = "800x600 (VGA/HDMI)";
+"720p" = "720p";
+"720p (HDMI-only)" = "720p (HDMI-only)";
+"768p" = "768p";
+"1024x768 (VGA/HDMI)" = "1024x768 (VGA/HDMI)";
+
+"Scale" = "Échelle";
+
+"Aspect Adjust" = "Aspect Adjust";
+"Preserve" = "Conserver";
+"16:10" = "16:10";
+"16:10 Display Stretch" = "16:10 Étendre l'Écran";
+"16:9" = "16:9";
+"16:9 Display Stretch" = "16:9 Étendre l'Écran";
+
+"Horizontal Offset" = "Décalage Horizontal";
+"Vertical Offset" = "Décalage Vertical";
+
+"Show Taps" = "Afficher les Appuis";
+
+"Tap Size" = "Taille des Appuis";
+"Large" = "Large";
+"Medium" = "Moyen";
+"Small" = "Petit";
+
+"Showing taps may cause flicker" = "Showing taps may cause flicker";
+
+"Experimental" = "Experimentale";
+
+"Native Support" = "Support Natif";
+
+"This app" = "Cette application";
+" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = "semble avoir un support natif des écrans externes.\nVous devriez considerer désactiver Display Out temporairement";
+"OK";
+
+"Just Main Content" = "Contenu Principal Seulement";
+"Shows only the main content on the external display" = "Affiche seulement le contenu principal sur l'écran externe.";
