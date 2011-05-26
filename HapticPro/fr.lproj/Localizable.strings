@@ -20,7 +20,7 @@
 	"Cancel" = "Annuler";
 	"Reset" = "Défaut";
 	
-	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "À cause d'une limitation de la version 3.0 de l'iPhone, HapticPro est désactivé lorsque vous passez de la musique.";
+	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "À cause d'une limitation de la version 3.0 de l'iPhone, HapticPro est désactivé lorsque vous écoutez de la musique.";
 	
 	
 	"Intensity" = "Intensité";
@@ -43,5 +43,5 @@
 	"Duration Factor Pressed" = "Quand est pressé";
 	"Duration Factor Released" = "Quand est relâché";
 	"Duration Factor Repeated" = "Quand est répété";
-	"Control the duration of each type of haptic feedback independently." = "Contrôlez la durée de chaque retour haptique indépendement.";
+	"Control the duration of each type of haptic feedback independently." = "Contrôlez la durée de chaque retour haptique indépendamment.";
 }
