@@ -115,4 +115,12 @@
 	"Playing" = "Playing";
 	"\"%@\" by %@ " = "\"%@\" by %@ ";
 	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> by <strong>%@</strong> ";
+	
+	"Default Actions" = "Default Actions";
+	"Replace" = "Replace";
+	
+	"Link" = "Link";
+	"Insert" = "Insert";
+	"Link Text" = "Link Text";
+	"Link URL" = "Link URL";
 }
