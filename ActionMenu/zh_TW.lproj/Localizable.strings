@@ -117,4 +117,12 @@
 	"Playing" = "正在播放";
 	"\"%@\" by %@ " = "\"%@\" by %@ ";
 	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> by <strong>%@</strong> ";
+
+	"Default Actions" = "預設動作";
+	"Replace" = "替換";
+
+	"Link" = "鏈接";
+	"Insert" = "插入";
+	"Link Text" = "鏈接文本";
+	"Link URL" = "鏈接位址";
 }
