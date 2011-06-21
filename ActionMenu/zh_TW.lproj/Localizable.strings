@@ -14,7 +14,7 @@
 	"Enabled" = "啟用";
 	"Use Icons" = "使用圖示";
 	"Actions" = "動作";
-	"More Actions..." = "更多動作";
+	"More Actions..." = "獲取更多動作";
 	"Donate with PayPal" = "通過 PayPal 捐助";
 	"Copy All" = "拷貝全部";
 	"Debug" = "排錯";
@@ -23,7 +23,7 @@
 	"History" = "歷史記錄";
 	"Lookup" = "查閱";
 	"Scroll" = "滾動";
-	"Tweet" = "Tweet";
+	"Tweet" = "發表到 Tweet";
 	"Pasteboard Favorites" = "剪貼板收藏";
 	"Delete Favorite" = "刪除收藏";
 	"Add Favorite..." = "添加收藏…";
@@ -84,6 +84,7 @@
 	"To Bottom" = "到底部";
 
 	"Rich Text For Mail" = "多格式文本郵件";
+	"RichTextForMail" = "多格式文本郵件";
 	"Format" = "格式";
 	"Bold" = "加粗";
 	"Italic" = "傾斜";
@@ -115,8 +116,8 @@
 	"Unknown" = "未知";
 
 	"Playing" = "正在播放";
-	"\"%@\" by %@ " = "\"%@\" by %@ ";
-	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> by <strong>%@</strong> ";
+	"\"%@\" by %@ " = "“%2$@” 的 %1$@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<strong>%2$@</strong> 的 <em>%1$@</em> ";
 
 	"Default Actions" = "預設動作";
 	"Replace" = "替換";
