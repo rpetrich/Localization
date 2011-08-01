@@ -219,7 +219,10 @@
 	
 	"LISTENER_TITLE_libactivator.system.nothing" = "無事件";
 	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "停用原始動作";
-	
+
+	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "SpringBoard 第一頁";
+	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "訪問第一個圖示頁面";
+
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "顯示正在播放快顯視窗";
 	
