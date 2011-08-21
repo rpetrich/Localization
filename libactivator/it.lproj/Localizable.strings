@@ -221,6 +221,9 @@
 	"LISTENER_TITLE_libactivator.system.nothing" = "Nessuna azione";
 	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "Sopprime l'azione originale";
 
+	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "Prima pagine SpringBoard";
+	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Salta alla prima pagina di icone";
+
 
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "Controlli iPod";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Visualizza la finestra di esecuzione";
