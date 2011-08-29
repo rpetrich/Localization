@@ -1,106 +1,342 @@
-"ACTIVATOR" = "Activator";
-"ALERT_CANCEL" = "İptal";
-"ALERT_OK" = "Tamam";
-"ALERT_REASSIGN" = "Yeniden Ata";
-"ALERT_VALUE_AND" = " ve ";
-"ALREADY_ASSIGNED_TO" = "Zaten şuna atanmış : \n%@";
-"AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "Şuna en azından bir görev atanmalı : %@";
-"CANT_DEACTIVATE_REMAINING" = "Devre dışı bırakılamadı\nkalan olay";
-"CURRENTLY_ASSIGNED_TO" = "Şimdilik Şuna Atanmış :";
-"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "Güç tuşuna basılı tutun";
-"EVENT_DESCRIPTION_libactivator.lock.press.double" = "Güç tuşuna hızlica çift tıklayın";
-"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Ana Ekran tuşuna basılı tutun";
-"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Masaüstündeyken ana ekran tuşuna basın";
-"EVENT_DESCRIPTION_libactivator.menu.press.double" = "Ana ekran tuşuna çift tıklayın";
-"EVENT_DESCRIPTION_libactivator.menu.press.single" = "Ana ekran tuşuna birkere basın";
-"EVENT_DESCRIPTION_libactivator.motion.shake" = "Sarsın ve bırakın!";
-"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Ekranın altına elinizi kaydırın";
-"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Ekranın sol altından elinizi kaydırın";
-"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Ekranın sağ altından elinizi kaydırın";
-"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Masaüstünde ikonlara çimdikleyin";
-"EVENT_DESCRIPTION_libactivator.springboard.spread" = "Masaüstünde ikonlara ayırın";
-"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Durum çubuğuna basılı tutun";
-"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Durum çubuğunu aşşağıya sürükleyin";
-"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Durum çubuğunu sola sürükleyin";
-"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Durum çubuğunu sağa sürükleyin";
-"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Durum çubuğunua çift dokunun";
-"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "Ses göstergesine basın";
-"EVENT_DESCRIPTION_libactivator.volume.down-up" = "Önce sesi kıs, sonra sesi aç tuşlarına";
-"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Önce sesi aç, sonra sesi kıs tuşlarına";
-"EVENT_GROUP_TITLE_Home Button" = "Ana Ekran Tuşu";
-"EVENT_GROUP_TITLE_Motion" = "Hareket Algılayıcı";
-"EVENT_GROUP_TITLE_Sleep Button" = "Güç Tuşu";
-"EVENT_GROUP_TITLE_Slide In Gesture" = "Kaydırmalı Eylemler";
-"EVENT_GROUP_TITLE_SpringBoard" = "Masaüstü";
-"EVENT_GROUP_TITLE_Status Bar" = "Durum Çubuğu";
-"EVENT_GROUP_TITLE_Volume Buttons" = "Ses Tuşlerı";
-"EVENT_TITLE_libactivator.lock.hold.short" = "Kısa Basılı Tut";
-"EVENT_TITLE_libactivator.lock.press.double" = "Çift tıkla";
-"EVENT_TITLE_libactivator.menu.hold.short" = "Kısa Basılı Tut";
-"EVENT_TITLE_libactivator.menu.press.at-springboard" = "Masaüstündeyken Ana Ekran Tuşu";
-"EVENT_TITLE_libactivator.menu.press.double" = "Çift Tıkla";
-"EVENT_TITLE_libactivator.menu.press.single" = "Birkez Bas";
-"EVENT_TITLE_libactivator.motion.shake" = "Cihazı Sars";
-"EVENT_TITLE_libactivator.slide-in.bottom" = "Ekranın Altından";
-"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Ekranın Sol Altından";
-"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Ekranın Sağ Altından";
-"EVENT_TITLE_libactivator.springboard.pinch" = "İkonları Çimdikle";
-"EVENT_TITLE_libactivator.springboard.spread" = "İkonları Ayır";
-"EVENT_TITLE_libactivator.statusbar.hold" = "Basılı Tut";
-"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Aşşağıya Çek";
-"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Sola Çek";
-"EVENT_TITLE_libactivator.statusbar.swipe.right" = "Sağa Çek";
-"EVENT_TITLE_libactivator.statusbar.tap.double" = "Çift Tıkla";
-"EVENT_TITLE_libactivator.volume.display-tap" = "Ses Göstergesine Tıkla";
-"EVENT_TITLE_libactivator.volume.down-up" = "Sesi Kıs, Sesi Aç";
-"EVENT_TITLE_libactivator.volume.up-down" = "Sesi Aç, Sesi Kıs";
-"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Şimdi oynatılıyor penceresini göster";
-"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "Sonraki şarkıya geç";
-"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "Önceki şarkıya geri dön";
-"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "iPod şarkı çalmasını ayarlayın";
-"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Kilit ekranını geç";
-"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "Kilit ekranına git";
-"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Kilit ekranına git (Ekran açık)";
-"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Ana ekran tuşuna basma eylemi";
-"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Cihazı anında kapat";
-"LISTENER_DESCRIPTION_libactivator.system.reboot" = "Cihazı anında yeniden başlat";
-"LISTENER_DESCRIPTION_libactivator.system.respring" = "Masaüstünü yeniden başlat";
-"LISTENER_DESCRIPTION_libactivator.system.safemode" = "Masaüstünü yeniden başlat (Güvenli mod)";
-"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Güç tuşuna basma eylemi";
-"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Masaüstü arama ekranına git";
-"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Ekran görüntüsünü yakala";
-"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Sesle kontrolü aç (sadece 3GS)";
-"LISTENER_GROUP_TITLE_iPod" = "iPod";
-"LISTENER_GROUP_TITLE_Lock Screen" = "Kilit Ekranı";
-"LISTENER_GROUP_TITLE_System Actions" = "Sistem Kontrolleri";
-"LISTENER_GROUP_TITLE_System Applications" = "Sistem Uygulamaları";
-"LISTENER_GROUP_TITLE_User Applications" = "Kullanıcı Uygulamaları";
-"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod Kontrolleri";
-"LISTENER_TITLE_libactivator.ipod.next-track" = "Sonraki Şarkı";
-"LISTENER_TITLE_libactivator.ipod.previous-track" = "Önceki Şarkı";
-"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Oynat/Duraklat";
-"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Kilidi Aç";
-"LISTENER_TITLE_libactivator.lockscreen.show" = "Cihazı Kilitle";
-"LISTENER_TITLE_libactivator.lockscreen.toggle" = "Kilitle (Ekran Açık)";
-"LISTENER_TITLE_libactivator.system.homebutton" = "Ana Ekran Tuşu";
-"LISTENER_TITLE_libactivator.system.powerdown" = "Cihazı Kapat";
-"LISTENER_TITLE_libactivator.system.reboot" = "Cihazı Yeniden Başlat";
-"LISTENER_TITLE_libactivator.system.respring" = "Ana Ekranı Yenile";
-"LISTENER_TITLE_libactivator.system.safemode" = "Güvenli Mod";
-"LISTENER_TITLE_libactivator.system.sleepbutton" = "Güç Tuşu";
-"LISTENER_TITLE_libactivator.system.spotlight" = "Ana Ekran Araması";
-"LISTENER_TITLE_libactivator.system.take-screenshot" = "Ekran Görüntüsü Al";
-"LISTENER_TITLE_libactivator.system.voice-control" = "Sesle Kontrol";
-"LOCALIZATION_ABOUT" = "Türkçeleştirme : uuz23\nwww.appleturk.net";
-"MODE_DESCRIPTION_all" = "";
-"MODE_DESCRIPTION_application" = "Uygulama Gözükürken";
-"MODE_DESCRIPTION_lockscreen" = "Cihaz Kilitliyken ve Kilit Ekranı Görünürken";
-"MODE_DESCRIPTION_springboard" = "Uygulama Simgeleri Gözükürken";
-"MODE_TITLE_all" = "Daima";
-"MODE_TITLE_application" = "Uygulama İçindeyken";
-"MODE_TITLE_lockscreen" = "Kilit Ekranındayken";
-"MODE_TITLE_springboard" = "Masaüstündeyken";
-"MORE_ACTIONS" = "Daha Fazla Eylem";
-"MORE_ACTIONS_DETAIL" = "Cydia'dan daha fazla eylem edin";
-"N_ADDITIONAL_EVENTS" = "%i ek eylem";
-"UNASSIGNED" = "(Atanmış Görev Yok)";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTION</key>
+	<string>Eylem</string>
+	<key>ACTIVATOR</key>
+	<string>Activator</string>
+	<key>ADD</key>
+	<string>Ekle</string>
+	<key>ADD_ACTION</key>
+	<string>Eylem Ekle</string>
+	<key>ADD_NEW_MENU</key>
+	<string>Yeni Menü Ekle</string>
+	<key>ALERT_CANCEL</key>
+	<string>İptal</string>
+	<key>ALERT_OK</key>
+	<string>TAMAM</string>
+	<key>ALERT_REASSIGN</key>
+	<string>Yeniden Ata</string>
+	<key>ALERT_VALUE_AND</key>
+	<string> ve </string>
+	<key>ALREADY_ASSIGNED_TO</key>
+	<string>Zaten şuna atanmış : 
+%@</string>
+	<key>AT_LEAST_ONE_ASSIGNMENT_REQUIRED</key>
+	<string>Şuna en azından bir görev atanmalı : %@</string>
+	<key>CANCEL</key>
+	<string>İptal</string>
+	<key>CANT_DEACTIVATE_REMAINING</key>
+	<string>Devre dışı bırakılamadı
+kalan olay</string>
+	<key>CURRENTLY_ASSIGNED_TO</key>
+	<string>Atanmış Görev:</string>
+	<key>DISABLED</key>
+	<string>Kapatıldı ⊠</string>
+	<key>DONATE</key>
+	<string>Bağış Yap</string>
+	<key>DONATE_DETAIL</key>
+	<string>PayPal ile destek olun</string>
+	<key>ENABLED</key>
+	<string>Açıldı ☑</string>
+	<key>EVENT_DESCRIPTION_libactivator.headset-button.hold.short</key>
+	<string>Kulaklık tuşuna basılı tutun</string>
+	<key>EVENT_DESCRIPTION_libactivator.headset-button.press.single</key>
+	<string>Kulaklık tuşuna bir kez basın</string>
+	<key>EVENT_DESCRIPTION_libactivator.lock.hold.short</key>
+	<string>Güç tuşuna basılı tutun</string>
+	<key>EVENT_DESCRIPTION_libactivator.lock.press.double</key>
+	<string>Güç tuşuna hızlica çift tıklayın</string>
+	<key>EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap</key>
+	<string>Saat/Tarih alanına çift dokunun</string>
+	<key>EVENT_DESCRIPTION_libactivator.menu.hold.short</key>
+	<string>Ana Ekran tuşuna basılı tutun</string>
+	<key>EVENT_DESCRIPTION_libactivator.menu.press.at-springboard</key>
+	<string>Masaüstündeyken ana ekran tuşuna basın</string>
+	<key>EVENT_DESCRIPTION_libactivator.menu.press.double</key>
+	<string>Ana ekran tuşuna çift tıklayın</string>
+	<key>EVENT_DESCRIPTION_libactivator.menu.press.single</key>
+	<string>Ana ekran tuşuna birkere basın</string>
+	<key>EVENT_DESCRIPTION_libactivator.motion.shake</key>
+	<string>Sallayın ve bırakın!</string>
+	<key>EVENT_DESCRIPTION_libactivator.power.connected</key>
+	<string>Elekrtik enerjisi almaya başla</string>
+	<key>EVENT_DESCRIPTION_libactivator.power.disconnected</key>
+	<string>Elekrtik enerjisi almayı bırak</string>
+	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom</key>
+	<string>Ekranın altına elinizi kaydırın</string>
+	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom-left</key>
+	<string>Ekranın sol altından elinizi kaydırın</string>
+	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom-right</key>
+	<string>Ekranın sağ altından elinizi kaydırın</string>
+	<key>EVENT_DESCRIPTION_libactivator.springboard.pinch</key>
+	<string>Masaüstünde ikonlara kıstırın</string>
+	<key>EVENT_DESCRIPTION_libactivator.springboard.spread</key>
+	<string>Masaüstünde ikonlara ayırın</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.hold</key>
+	<string>Durum çubuğuna basılı tutun</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.swipe.down</key>
+	<string>Durum çubuğunu aşşağıya sürükleyin</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.swipe.left</key>
+	<string>Durum çubuğunu sola sürükleyin</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.swipe.right</key>
+	<string>Durum çubuğunu sağa sürükleyin</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.tap.double</key>
+	<string>Durum çubuğunua çift dokunun</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.both.press</key>
+	<string>İki ses tuşunada aynı anda basın</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.display-tap</key>
+	<string>Ses göstergesine basın</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.down-up</key>
+	<string>Önce sesi kıs, sonra sesi aç tuşlarına</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.down.hold.short</key>
+	<string>Ses kısma tuşuna basılı tutun</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice</key>
+	<string>Yandaki anahtarı aç/kapat yapın</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.up-down</key>
+	<string>Önce sesi aç, sonra sesi kıs tuşlarına</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.up.hold.short</key>
+	<string>Ses açma tuşuna basılı tutun</string>
+	<key>EVENT_GROUP_TITLE_Headset Button</key>
+	<string>Kulaklık Tuşu</string>
+	<key>EVENT_GROUP_TITLE_Home Button</key>
+	<string>Ana Ekran Tuşu</string>
+	<key>EVENT_GROUP_TITLE_Lock Screen</key>
+	<string>Kilit Ekranı</string>
+	<key>EVENT_GROUP_TITLE_Motion</key>
+	<string>Hareket Algılayıcı</string>
+	<key>EVENT_GROUP_TITLE_Power</key>
+	<string>Güç</string>
+	<key>EVENT_GROUP_TITLE_Sleep Button</key>
+	<string>Güç Tuşu</string>
+	<key>EVENT_GROUP_TITLE_Slide In Gesture</key>
+	<string>Kaydırmalı Eylemler</string>
+	<key>EVENT_GROUP_TITLE_SpringBoard</key>
+	<string>Masaüstü</string>
+	<key>EVENT_GROUP_TITLE_Status Bar</key>
+	<string>Durum Çubuğu</string>
+	<key>EVENT_GROUP_TITLE_Volume Buttons</key>
+	<string>Ses Tuşları</string>
+	<key>EVENT_TITLE_libactivator.headset-button.hold.short</key>
+	<string>Kısa Basılı Tut</string>
+	<key>EVENT_TITLE_libactivator.headset-button.press.single</key>
+	<string>Bir Kez Bas</string>
+	<key>EVENT_TITLE_libactivator.lock.hold.short</key>
+	<string>Kısa Basılı Tut</string>
+	<key>EVENT_TITLE_libactivator.lock.press.double</key>
+	<string>Çift Tıkla</string>
+	<key>EVENT_TITLE_libactivator.lockscreen.clock.double-tap</key>
+	<string>Saate Çift Tıkla</string>
+	<key>EVENT_TITLE_libactivator.menu.hold.short</key>
+	<string>Kısa Basılı Tut</string>
+	<key>EVENT_TITLE_libactivator.menu.press.at-springboard</key>
+	<string>Masaüstündeyken Ana Ekran Tuşu</string>
+	<key>EVENT_TITLE_libactivator.menu.press.double</key>
+	<string>Çift Tıkla</string>
+	<key>EVENT_TITLE_libactivator.menu.press.single</key>
+	<string>Bir Kez Bas</string>
+	<key>EVENT_TITLE_libactivator.motion.shake</key>
+	<string>Cihazı Salla</string>
+	<key>EVENT_TITLE_libactivator.power.connected</key>
+	<string>Bağla</string>
+	<key>EVENT_TITLE_libactivator.power.disconnected</key>
+	<string>Bağlantıyı Kes</string>
+	<key>EVENT_TITLE_libactivator.slide-in.bottom</key>
+	<string>Ekranın Altından</string>
+	<key>EVENT_TITLE_libactivator.slide-in.bottom-left</key>
+	<string>Ekranın Sol Altından</string>
+	<key>EVENT_TITLE_libactivator.slide-in.bottom-right</key>
+	<string>Ekranın Sağ Altından</string>
+	<key>EVENT_TITLE_libactivator.springboard.pinch</key>
+	<string>İkonları Kıstır</string>
+	<key>EVENT_TITLE_libactivator.springboard.spread</key>
+	<string>İkonları Ayır</string>
+	<key>EVENT_TITLE_libactivator.statusbar.hold</key>
+	<string>Basılı Tut</string>
+	<key>EVENT_TITLE_libactivator.statusbar.swipe.down</key>
+	<string>Aşşağıya Çek</string>
+	<key>EVENT_TITLE_libactivator.statusbar.swipe.left</key>
+	<string>Sola Çek</string>
+	<key>EVENT_TITLE_libactivator.statusbar.swipe.right</key>
+	<string>Sağa Çek</string>
+	<key>EVENT_TITLE_libactivator.statusbar.tap.double</key>
+	<string>Çift Tıkla</string>
+	<key>EVENT_TITLE_libactivator.volume.both.press</key>
+	<string>İkisinede Bas</string>
+	<key>EVENT_TITLE_libactivator.volume.display-tap</key>
+	<string>Ses Göstergesine Tıkla</string>
+	<key>EVENT_TITLE_libactivator.volume.down-up</key>
+	<string>Sesi Kıs, Sesi Aç</string>
+	<key>EVENT_TITLE_libactivator.volume.down.hold.short</key>
+	<string>Ses Kısa Basılı Tut</string>
+	<key>EVENT_TITLE_libactivator.volume.toggle-mute-twice</key>
+	<string>Yandaki Anahtarı Aç/Kapa</string>
+	<key>EVENT_TITLE_libactivator.volume.up-down</key>
+	<string>Sesi Aç, Sesi Kıs</string>
+	<key>EVENT_TITLE_libactivator.volume.up.hold.short</key>
+	<string>Ses Aça Basılı Tut</string>
+	<key>LISTENER_DESCRIPTION_application</key>
+	<string>Uygulamayı Etkinleştir</string>
+	<key>LISTENER_DESCRIPTION_libactivator.ipod.music-controls</key>
+	<string>Şimdi oynatılıyor penceresini göster</string>
+	<key>LISTENER_DESCRIPTION_libactivator.ipod.next-track</key>
+	<string>Sonraki şarkıya geç</string>
+	<key>LISTENER_DESCRIPTION_libactivator.ipod.previous-track</key>
+	<string>Önceki şarkıya geri dön</string>
+	<key>LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback</key>
+	<string>iPod şarkı çalmasını ayarlayın</string>
+	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss</key>
+	<string>Kilit ekranını geç</string>
+	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.show</key>
+	<string>Kilit ekranına git</string>
+	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.toggle</key>
+	<string>Cihazı kilitleyip ekranı açar</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.activate-switcher</key>
+	<string>Uygulama değiştiricisini göster</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.first-springboard-page</key>
+	<string>Masaüstündeki 1. sayfaya git</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.homebutton</key>
+	<string>Ana ekran tuşuna basma eylemi</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.nothing</key>
+	<string>Orjinal eğlemi gerçekleştir</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.powerdown</key>
+	<string>Cihazı anında kapat</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.reboot</key>
+	<string>Cihazı anında yeniden başlat</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.respring</key>
+	<string>Masaüstünü yeniden başlat</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.safemode</key>
+	<string>Masaüstünü yeniden başlat (Güvenli mod)</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar</key>
+	<string>Standart medya kontrollerine git</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.sleepbutton</key>
+	<string>Güç tuşuna basma eylemi</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.spotlight</key>
+	<string>Masaüstü sayfa aramasını etkinleştir</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.take-screenshot</key>
+	<string>Ekran görüntüsünü yakala</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.voice-control</key>
+	<string>Sesle kontrolü etkinleştir</string>
+	<key>LISTENER_DESCRIPTION_toggle</key>
+	<string>Ayarı Aç/Kapat (☑/⊠)</string>
+	<key>LISTENER_GROUP_TITLE_Lock Screen</key>
+	<string>Kilit Ekranı</string>
+	<key>LISTENER_GROUP_TITLE_SBSettings Toggles</key>
+	<string>SBSettings Ayarları</string>
+	<key>LISTENER_GROUP_TITLE_System Actions</key>
+	<string>Sistem İşlemleri</string>
+	<key>LISTENER_GROUP_TITLE_System Applications</key>
+	<string>Sistem Uygulamaları</string>
+	<key>LISTENER_GROUP_TITLE_User Applications</key>
+	<string>Kullanıcı Uygulamaları</string>
+	<key>LISTENER_GROUP_TITLE_iPod</key>
+	<string>iPod</string>
+	<key>LISTENER_TITLE_libactivator.ipod.music-controls</key>
+	<string>iPod Kontrolleri</string>
+	<key>LISTENER_TITLE_libactivator.ipod.next-track</key>
+	<string>Sonraki Parça</string>
+	<key>LISTENER_TITLE_libactivator.ipod.previous-track</key>
+	<string>Önceki Parça</string>
+	<key>LISTENER_TITLE_libactivator.ipod.toggle-playback</key>
+	<string>Oynat/Duraklat</string>
+	<key>LISTENER_TITLE_libactivator.lockscreen.dismiss</key>
+	<string>Kilidi Aç</string>
+	<key>LISTENER_TITLE_libactivator.lockscreen.show</key>
+	<string>Kilitle</string>
+	<key>LISTENER_TITLE_libactivator.lockscreen.toggle</key>
+	<string>Kilitle (ekran açık)</string>
+	<key>LISTENER_TITLE_libactivator.system.activate-switcher</key>
+	<string>Değiştiriciyi Etkinleştir</string>
+	<key>LISTENER_TITLE_libactivator.system.first-springboard-page</key>
+	<string>İlk Sayfa</string>
+	<key>LISTENER_TITLE_libactivator.system.homebutton</key>
+	<string>Ana Ekran Tuşu</string>
+	<key>LISTENER_TITLE_libactivator.system.nothing</key>
+	<string>Hiçbirşey Yapma</string>
+	<key>LISTENER_TITLE_libactivator.system.powerdown</key>
+	<string>Cihazı Kapat</string>
+	<key>LISTENER_TITLE_libactivator.system.reboot</key>
+	<string>Cihazı Yeniden Başlat</string>
+	<key>LISTENER_TITLE_libactivator.system.respring</key>
+	<string>Ana Ekranı Yenile</string>
+	<key>LISTENER_TITLE_libactivator.system.safemode</key>
+	<string>Güvenli Mod</string>
+	<key>LISTENER_TITLE_libactivator.system.show-now-playing-bar</key>
+	<string>Şimdi Çalınıyor Çubuğuna Git</string>
+	<key>LISTENER_TITLE_libactivator.system.sleepbutton</key>
+	<string>Güç Tuşu</string>
+	<key>LISTENER_TITLE_libactivator.system.spotlight</key>
+	<string>Ana Ekran Araması</string>
+	<key>LISTENER_TITLE_libactivator.system.take-screenshot</key>
+	<string>Ekran Görüntüsü Al</string>
+	<key>LISTENER_TITLE_libactivator.system.voice-control</key>
+	<string>Sesle Kontrol</string>
+	<key>LISTENER_TITLE_toggle_3G</key>
+	<string>3G</string>
+	<key>LISTENER_TITLE_toggle_Bluetooth</key>
+	<string>Bluetooth</string>
+	<key>LISTENER_TITLE_toggle_Data</key>
+	<string>Hücresel Veri</string>
+	<key>LISTENER_TITLE_toggle_Location</key>
+	<string>Konum</string>
+	<key>LISTENER_TITLE_toggle_Phone</key>
+	<string>Telefon</string>
+	<key>LISTENER_TITLE_toggle_SSH</key>
+	<string>SSH</string>
+	<key>LISTENER_TITLE_toggle_Syslog</key>
+	<string>Syslog</string>
+	<key>LISTENER_TITLE_toggle_Wi-Fi</key>
+	<string>Wi-Fi</string>
+	<key>LOCALIZATION_ABOUT</key>
+	<string>Türkçeleştirme : uuz23
+www.appleturk.net</string>
+	<key>MENUS</key>
+	<string>Menüler</string>
+	<key>MENUS_DETAIL</key>
+	<string>Özel Activator menüleri yaratın</string>
+	<key>MENU_TITLE</key>
+	<string>Menü İsmi</string>
+	<key>MODE_DESCRIPTION_all</key>
+	<string></string>
+	<key>MODE_DESCRIPTION_application</key>
+	<string>Uygulama Gözükürken</string>
+	<key>MODE_DESCRIPTION_lockscreen</key>
+	<string>Kilit Ekranı Görünürken</string>
+	<key>MODE_DESCRIPTION_springboard</key>
+	<string>Uygulama Simgeleri Gözükürken</string>
+	<key>MODE_TITLE_all</key>
+	<string>Daima</string>
+	<key>MODE_TITLE_application</key>
+	<string>Uygulama İçindeyken</string>
+	<key>MODE_TITLE_lockscreen</key>
+	<string>Kilit Ekranındayken</string>
+	<key>MODE_TITLE_springboard</key>
+	<string>Masa Üstündeyken</string>
+	<key>MORE_ACTIONS</key>
+	<string>Daha Fazla Eylem</string>
+	<key>MORE_ACTIONS_DETAIL</key>
+	<string>Cydia'dan daha fazla eylem edin</string>
+	<key>MULTIPLE_ASSIGNMENTS</key>
+	<string>(Birden Fazla)</string>
+	<key>NEW_MENU</key>
+	<string>Yeni Menü</string>
+	<key>N_ADDITIONAL_EVENTS</key>
+	<string>%i ek eylem</string>
+	<key>RESET_ALERT_CANCEL</key>
+	<string>İptal</string>
+	<key>RESET_ALERT_CONTINUE</key>
+	<string>Sıfırla</string>
+	<key>RESET_ALERT_MESSAGE</key>
+	<string>Activator ayarlarını sıfırlamak istediğinizden emin misiniz?
+Eğer devam ederseniz cihazınızın masaüstü yeniden başlayacak (respring).</string>
+	<key>RESET_ALERT_TITLE</key>
+	<string>Activator Ayarlarını Sıfırla</string>
+	<key>RESET_SETTINGS</key>
+	<string>Ayarları Sıfırla</string>
+	<key>RESET_SETTINGS_DETAIL</key>
+	<string>Tüm ayarları varsayılan değerlere döndür</string>
+	<key>UNASSIGNED</key>
+	<string>(Atanmış Görev Yok)</string>
+</dict>
+</plist>
