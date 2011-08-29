@@ -1,0 +1,63 @@
+{
+	PROSWITCHER = ProSwitcher;
+	
+	/* Settings Controller */
+	
+	"ACTIVATION_METHODS" = "דרכי הפעלה";
+	
+	"BECOME_HOME_SCREEN" = "הפוך למסך הבית";
+	"BECOME_HOME_SCREEN_DISABLED" = "לא פעיל";
+	"BECOME_HOME_SCREEN_ENABLED" = "פעיל";
+	"BECOME_HOME_SCREEN_BACKGROUND" = "רקע";
+	
+	"SHOW_ICON" = "הצג אייקונים";
+	
+	"DISPLAY_GROUP" = "תצוגה";
+	"SHOW_APPLICATION_TITLE" = "כותרת אפליקציה";
+	"SHOW_BADGES" = "הצג תגיות";
+	"ZOOM_ACTIVE_CARD" = "זום על כרטיס פעיל";
+	"SHOW_CLOSE_BUTTON" = "כפתור סגירה";
+	"EMPTY_TAP_TO_CLOSE" = "לחיצה ריקה לסגירה";
+	
+	"ROUNDED_CORNERS" = "פינות מעוגלות";
+	"ROUNDED_CORNERS_NONE" = "ללא";
+	"ROUNDED_CORNERS_SMALL" = "קטן";
+	"ROUNDED_CORNERS_MEDIUM" = "בינוני";
+	"ROUNDED_CORNERS_LARGE" = "גדול";
+	
+	"SHOW_PAGE_CONTROL" = "נקודות עמודים";
+	"SHOW_SPRINGBOARD_CARD" = "כרטיס SpringBoard";
+	"SHOW_DEFAULT_APPS" = "הצג אפליקציות ברירת מחדל";
+	"SWIPE_TO_CLOSE" = "החלק לסגירה";
+	
+	"EMPTY_STYLE" = "עיצוב ריק";
+	"EMPTY_STYLE_TEXT" = "טקסט";
+	"EMPTY_STYLE_BLANK" = "ריק";
+	"EMPTY_STYLE_DISABLED" = "לא פעיל";
+	
+	"SNAPSHOT_INSET" = "כרטיסים נראים";
+	"SNAPSHOT_INSET_40" = "שלושה";
+	"SNAPSHOT_INSET_0" = "אחד";
+	
+	"TAPS_TO_ACTIVATE" = "לחיצות להפעלה";
+	"TAPS_TO_ACTIVATE_SINGLE" = "אחד";
+	"TAPS_TO_ACTIVATE_DOUBLE" = "שתיים";
+	
+	"THEMING_GROUP" = "עיצוב";
+	
+	"THEMED_ICONS" = "אייקונים מעוצבים";
+	"SHOW_DOCK" = "הצג דוק";
+	"DIM_BACKGROUND" = "הכהה רקע";
+	
+	"BACKGROUND_STYLE" = "עיצוב רקע";
+	"BACKGROUND_STYLE_NONE" = "שקוף";
+	"BACKGROUND_STYLE_IMAGE" = "עיצוב";
+	
+	"ABOUT_COPYRIGHT" = "ProSwitcher הינו בזכויות יוצרים של Ryan Petrich ו Grant Paul ותחת רישיון GNU LGPL תורגם ע"י אלי יעבץ © 2009-2011.";
+	
+	"NO_APPS_RUNNING" = "אין אפליקציות פועלות";
+	
+	WELCOME_TITLE = "ברוך הבא אל ProSwitcher";
+	WELCOME_MESSAGE = "כדי לשנות הגדרות או להגדיר מחוות , הכנס אל אפליקצית ההגדרות.\n\nProSwitcher הינו בזכויות יוצרים של Ryan Petrich ו Grant Paul ותחת רישיון GNU LGPL תורגם ע"י אלי יעבץ © 2009-2011";
+	WELCOME_CONTINUE_BUTTON = "המשך";
+}

@@ -1,0 +1,272 @@
+{
+	LOCALIZATION_ABOUT = "";
+	
+	/* Settings Controller */
+	
+	CANT_DEACTIVATE_REMAINING = "남은 이벤트를\n비활성화할 수 없습니다.";
+	AT_LEAST_ONE_ASSIGNMENT_REQUIRED = "최소 한개의 이벤트가\n%@에 설정되어야 합니다.";
+	ALERT_OK = "OK";
+	ALERT_IGNORE = "무시";
+	ALERT_VALUE_AND = " 그리고 ";
+	ALREADY_ASSIGNED_TO = "다음 그룹에 이미 설정되었습니다.\n%@";
+	ALERT_CANCEL = "취소";
+	ALERT_REASSIGN = "재설정";
+	ACTIVATOR = "Activator";
+	CURRENTLY_ASSIGNED_TO = "현재 설정된 기능 :";
+	UNASSIGNED = "(설정되지 않음)";
+	MORE_ACTIONS = "더 많은 액션";
+	MORE_ACTIONS_DETAIL = "Cydia에 다양한 액션이 있습니다.";
+	DONATE = "기부";
+	DONATE_DETAIL = "PayPal로 기부하기";
+	N_ADDITIONAL_EVENTS = "%i 추가 이벤트";
+	RESET_SETTINGS = "설정 초기화";
+	RESET_SETTINGS_DETAIL = "모든 설정을 기본 설정값으로 초기화합니다.";
+	RESET_ALERT_TITLE = "Activator 설정 초기화";
+	RESET_ALERT_MESSAGE = "Activator 설정을 초기화 할까요?\n초기화하면 리스프링이 필요합니다.";
+	RESET_ALERT_CANCEL = "취소";
+	RESET_ALERT_CONTINUE = "초기화";
+	MULTIPLE_ASSIGNMENTS = "(복수)";
+	
+	ENABLED = "활성화";
+	DISABLED = "비활성화";
+	
+	OUT_OF_DATE_TITLE = "이전 시스템 버전";
+	OUT_OF_DATE_MESSAGE = "Activator는 최근 iOS 버전에서 잘 작동합니다.\n업데이트를 고려해보세요.";
+	
+	TOO_NEW_TITLE = "새 시스템 버전";
+	TOO_NEW_MESSAGE = "Activator는 현재 iOS 버전에서 테스트하지 못했습니다.\n일부 기능이 제한될 수 있습니다.";
+	
+	VERSION_PROMPT_MORE_INFO = "더 보기";
+	VERSION_PROMPT_IGNORE = "무시";
+	VERSION_PROMPT_CONTINUE = "계속";
+	
+	/* Menus */
+	
+	MENUS = "메뉴";
+	MENUS_DETAIL = "사용자 설정 Activator 메뉴관리";
+	
+	ADD_NEW_MENU = "새 메뉴 추가";
+	NEW_MENU = "새 메뉴";
+	MENU_TITLE = "메뉴 제목";
+	ADD = "추가";
+	ADD_ACTION = "액션 추가";
+	ACTION = "액션";
+	
+	/* Modes */
+	
+	MODE_TITLE_all = "어디서나";
+	MODE_DESCRIPTION_all = "";
+	
+	MODE_TITLE_springboard = "홈화면에서";
+	MODE_DESCRIPTION_springboard = "스프링보드의 아이콘이 보이는 상태";
+	
+	MODE_TITLE_application = "어플리케이션에서";
+	MODE_DESCRIPTION_application = "어플리케이션이 보이는 상태";
+	
+	MODE_TITLE_lockscreen = "락스크린에서";
+	MODE_DESCRIPTION_lockscreen = "잠금 상태이거나 락스크린이 보이는 상태";
+	
+	/* Event Groups */
+	
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "슬라이드 동작";
+	"EVENT_GROUP_TITLE_Motion" = "행동";
+	"EVENT_GROUP_TITLE_SpringBoard" = "스프링보드";
+	"EVENT_GROUP_TITLE_Status Bar" = "스테이터스 바";
+	"EVENT_GROUP_TITLE_Home Button" = "홈 버튼";
+	"EVENT_GROUP_TITLE_Sleep Button" = "잠자기 버튼";
+	"EVENT_GROUP_TITLE_Volume Buttons" = "볼륨 버튼";
+	"EVENT_GROUP_TITLE_Headset Button" = "헤드셋 버튼";
+	"EVENT_GROUP_TITLE_Lock Screen" = "잠금화면";
+	"EVENT_GROUP_TITLE_Power" = "전원";
+	
+	/* Events */
+	
+	"EVENT_TITLE_libactivator.lock.hold.short" = "잠깐 누르고 있기";
+	"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "잠자기 버튼 누르고 있기";
+	
+	"EVENT_TITLE_libactivator.lock.press.double" = "두번 누르기";
+	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "잠자기 버튼 빠르게 두번 누르기";
+	
+	"EVENT_TITLE_libactivator.menu.hold.short" = "잠깐 누르고 있기";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "홈버튼 누르고 있기";
+	
+	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "스프링보드에서 한번 누르기";
+	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "스프링보드에서 홈버튼 누르기";
+	
+	"EVENT_TITLE_libactivator.menu.press.double" = "두번 누르기";
+	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "홈버튼 빠르게 두번 누르기";
+
+	"EVENT_TITLE_libactivator.menu.press.single" = "한번 누르기";
+	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "홈버튼 한번 누르기";
+	
+	"EVENT_TITLE_libactivator.motion.shake" = "기기 흔들기";
+	"EVENT_DESCRIPTION_libactivator.motion.shake" = "쉐끼 셰셰셰이낏!";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom" = "화면 하단";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "화면 하단부터 드래그";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "화면 좌측 하단";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "화면 좌측 하단부터 드래그";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "화면 우측 하단";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "화면 우측 하단부터 드래그";
+	
+	"EVENT_TITLE_libactivator.springboard.pinch" = "아이콘 꼬집기(모으기)";
+	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "두 손가락으로 아이콘 꼬집기(모으기)";
+	
+	"EVENT_TITLE_libactivator.springboard.spread" = "아이콘 펼치기";
+	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "두 손가락으로 아이콘 펼치기";
+	
+	"EVENT_TITLE_libactivator.statusbar.hold" = "누르고 있기";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "스테이터스바 누르고 있기";
+	
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "밑으로 밀기";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "스테이터스바 밑으로 밀기";
+	
+	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "좌측으로 밀기";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "스테이터스바 좌측으로 밀기";
+	
+	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "우측으로 밀기";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "스테이터스바 우측으로 밀기";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double" = "두번 탭";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "스테이터스바 두번 누르기";
+	
+	"EVENT_TITLE_libactivator.volume.display-tap" = "볼륨 HUD 탭";
+	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "볼륨 HUD 누르기";
+	
+	"EVENT_TITLE_libactivator.volume.down-up" = "내리기, 올리기";
+	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "볼륨 내리기 누르고 올리기 누르기";	
+	
+	"EVENT_TITLE_libactivator.volume.up-down" = "올리기, 내리기";
+	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "볼륨 올리기 누르고 내리기 누르기";	
+	
+	"EVENT_TITLE_libactivator.volume.both.press" = "동시에 누르기";
+	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "볼륨 버튼 동시에 누르기";	
+	
+	"EVENT_TITLE_libactivator.volume.down.hold.short" = "내리기 잠깐 누르고 있기";
+	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "내리기 버튼 누르고 있기";	
+	
+	"EVENT_TITLE_libactivator.volume.up.hold.short" = "올리기 잠깐 누르고 있기";
+	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "올리기 버튼 누르고 있기";	
+	
+	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "무음 스위치 토글";
+	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "무음 스위치를 한번 토글했을 때";	
+	
+	"EVENT_TITLE_libactivator.headset-button.press.single" = "한번 누르기";
+	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "헤드셋 버튼 한번 누르기";	
+	
+	"EVENT_TITLE_libactivator.headset-button.hold.short" = "잠깐 누르고 있기";
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "헤드셋 버튼 누르고 있기";	
+	
+	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "시계 두번 탭";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "시계/날짜 영역 두번 누르기";
+	
+	"EVENT_TITLE_libactivator.power.connected" = "연결";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "A/C 전원 수신 시작";
+
+	"EVENT_TITLE_libactivator.power.disconnected" = "연결끊기";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "A/C 전원 수신 중지";
+
+	/* Listener Groups */
+	
+	"LISTENER_GROUP_TITLE_System Actions" = "시스템 액션";
+	"LISTENER_GROUP_TITLE_System Applications" = "시스템 어플리케이션";
+	"LISTENER_GROUP_TITLE_User Applications" = "사용자 어플리케이션";
+	"LISTENER_GROUP_TITLE_iPod" = "iPod";
+	"LISTENER_GROUP_TITLE_Lock Screen" = "잠금 화면";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 토글";
+	"LISTENER_GROUP_TITLE_Phone" = "전화";
+	"LISTENER_GROUP_TITLE_Power" = "전원";
+	
+	/* Listener Names */
+	
+	"LISTENER_DESCRIPTION_toggle" = "활성/비활성 토글";
+	"LISTENER_DESCRIPTION_application" = "활성 어플리케이션";
+	
+	"LISTENER_TITLE_libactivator.system.homebutton" = "홈버튼";
+	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "홈버튼과 같은 기능";
+
+	"LISTENER_TITLE_libactivator.system.powerdown" = "전원 끄기";
+	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "기기 전원 즉시 끄기";
+	
+	"LISTENER_TITLE_libactivator.system.reboot" = "재부팅";
+	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "기기 즉시 재부팅";
+	
+	"LISTENER_TITLE_libactivator.system.respring" = "리스프링";
+	"LISTENER_DESCRIPTION_libactivator.system.respring" = "스프링보드 새로 불러오기";
+	
+	"LISTENER_TITLE_libactivator.system.safemode" = "안전모드";
+	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "안전모드에서 스프링보드 새로 불러오기";
+	
+	"LISTENER_TITLE_libactivator.system.sleepbutton" = "잠자기 버튼";
+	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "잠자기 버튼과 같은 기능";
+	
+	"LISTENER_TITLE_libactivator.system.spotlight" = "Spotlight 검색";
+	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Spotlight 검색화면 보기";
+
+	"LISTENER_TITLE_libactivator.system.take-screenshot" = "화면 캡쳐";
+	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "화면 캡쳐하기";
+
+	"LISTENER_TITLE_libactivator.system.voice-control" = "음성 명령";
+	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "음성 명령 활성화";
+
+	"LISTENER_TITLE_libactivator.system.activate-switcher" = "스위쳐 활성화";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "어플리케이션 스위쳐 보기";
+	
+	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "iPod 컨트롤 보기";
+	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "기본 iPod 컨트롤 보기";
+	
+	"LISTENER_TITLE_libactivator.system.nothing" = "아무것도 안 함";
+	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "기존 액션을 무시하기";
+	
+	
+	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 컨트롤";
+	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "iPod 컨트롤 띄우기";
+	
+	"LISTENER_TITLE_libactivator.ipod.next-track" = "다음곡";
+	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "다음곡으로 넘기기";
+	
+	"LISTENER_TITLE_libactivator.ipod.previous-track" = "이전곡";
+	"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "이전곡으로 돌아가기";
+	
+	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "재생/일시정지";
+	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "iPod 조종";
+	
+	
+	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "잠금해제";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "락스크린 해제";
+	
+	"LISTENER_TITLE_libactivator.lockscreen.show" = "기기 잠그기";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "락스크린 보기";
+	
+	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "잠금/잠금해제";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "락스크린과 홈스크린 토글하기";
+	
+
+	"LISTENER_TITLE_libactivator.phone.contacts" = "연락처 보기";
+	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "전화의 연락처 탭 실행";
+	
+	"LISTENER_TITLE_libactivator.phone.favorites" = "즐겨찾기 보기";
+	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "전화의 즐겨찾기 탭 실행";
+	
+	"LISTENER_TITLE_libactivator.phone.keypad" = "키패드 보기";
+	"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "전화의 키패드 실행";
+	
+	"LISTENER_TITLE_libactivator.phone.recents" = "최근 통화 보기";
+	"LISTENER_DESCRIPTION_libactivator.phone.recents" = "전화의 최근 통화 실행";
+	
+	"LISTENER_TITLE_libactivator.phone.voicemail" = "음성 사서함 보기";
+	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "전화의 음성 사서함 실행";
+	
+	
+	"LISTENER_TITLE_toggle_3G" = "3G";
+	"LISTENER_TITLE_toggle_Bluetooth" = "블루투스";
+	"LISTENER_TITLE_toggle_Data" = "데이터";
+	"LISTENER_TITLE_toggle_Location" = "위치 서비스";
+	"LISTENER_TITLE_toggle_Phone" = "전화";
+	"LISTENER_TITLE_toggle_SSH" = "SSH";
+	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
+	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
+	
+}

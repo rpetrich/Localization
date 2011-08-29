@@ -1,0 +1,129 @@
+{
+	"Action Menu" = "动作菜单";	
+
+	"OK" = "确定";
+	"Cancel" = "取消";
+	"ON" = "开";
+	"OFF" = "关";
+	"all-day" = "全天";
+	"AM" = "上午";
+	"PM" = "下午";
+	"by" = "由";
+	"on" = "在";
+	"lap" = "重叠";
+	"Enabled" = "启用";
+	"Use Icons" = "使用图标";
+	"Actions" = "动作";
+	"More Actions..." = "获取更多动作";
+	"Donate with PayPal" = "通过 PayPal 捐助";
+	"Copy All" = "复制全部";
+	"Debug" = "调试";
+	"Dial" = "呼叫";
+	"Favorites" = "收藏";
+	"History" = "历史记录";
+	"Lookup" = "查阅";
+	"Scroll" = "滚动";
+	"Tweet" = "发送到 Twitter";
+	"Pasteboard Favorites" = "剪贴板收藏";
+	"Delete Favorite" = "删除收藏";
+	"Add Favorite..." = "添加收藏…";
+	"Add Favorite" = "添加收藏";
+	"Create" = "新建";
+	"Enter the new favorite details" = "请输入新收藏详情";
+	"Open in Safari" = "在 Safari 中打开";
+	"Search" = "搜索";
+	"Wikipedia" = "维基百科";
+	"Dictionary" = "辞典";
+	"Translate" = "翻译";
+	"Find" = "查找";
+	"Find In Page" = "在本页查找";
+	"Find Next" = "查找下一个";
+	"Find Previous" = "查找上一个";
+	"Next" = "下一个";
+	"Previous" = "上一个";
+	"Not Found" = "未找到";
+	"Clear" = "清理";
+	"Confirm" = "确定";
+	"Pasteboard History" = "剪贴板历史记录";
+
+	"Right to Left" = "右至左";
+	"Left to Right" = "左至右";
+	"Sorted" = "排序";
+	"New Favorite" = "新收藏";
+	"biteSMS" = "biteSMS";
+	"Extended Support" = "扩展支持";
+	"TRANSLATION_ABOUT" = "简体中文：Merlin";
+
+	"Preferred Client" = "首选客户端";
+
+	"Clear History" = "清理历史记录";
+	"Close" = "关闭";
+
+	"Cut" = "剪切";
+	"Copy" = "复制";
+	"Paste" = "粘贴";
+	"Select" = "选择";
+	"Select All" = "全选";
+
+	"Locate" = "定位";
+	"Error retrieving location!" = "无法获取地理位置！";
+	"Estimated Accuracy:" = "预测精确度：";
+	"%ld meters" = "%ld 米";
+	"My Location on Google Maps" = "Google 地图上的我的位置";
+	"Pastie" = "Pastie";
+	"Send to Pastie" = "发送到 Pastie";
+	"Paste Complete" = "粘贴完成";
+	"The URL has been copied to your clipboard." = "该 URL 地址已被复制到剪贴板。";
+	"Continue" = "继续";
+	"Error" = "错误";
+	"Unable to submit your pastie." = "无法提交您的 Pastie。";
+	"No Search Results" = "无搜索结果";
+
+	"Edit Favorite" = "编辑收藏";
+	"To Top" = "到顶部";
+	"To Bottom" = "到底部";
+
+	"Rich Text For Mail" = "多格式文本邮件";
+	"RichTextForMail" = "多格式文本邮件";
+	"Format" = "格式";
+	"Bold" = "加粗";
+	"Italic" = "倾斜";
+	"Underline" = "下划线";
+	"Strikethrough" = "删除线";
+	"Image" = "图像";
+	"Text Style" = "文本样式";
+	"Font Size" = "字号";
+	"Font Family" = "字体";
+	"Text Color" = "字体颜色";
+	"Highlight Color" = "高亮颜色";
+	"Black" = "黑色";
+	"White" = "白色";
+	"Silver" = "银色";
+	"Gray" = "灰色";
+	"Red" = "红色";
+	"Maroon" = "栗色";
+	"Yellow" = "黄色";
+	"Olive" = "橄榄绿";
+	"Lime" = "亮绿";
+	"Green" = "绿色";
+	"Aqua" = "浅绿";
+	"Teal" = "青色";
+	"Blue" = "蓝色";
+	"Navy" = "深蓝";
+	"Fuchsia" = "紫红";
+	"Purple" = "紫色";
+	"None" = "无";
+	"Unknown" = "未知";
+
+	"Playing" = "正在播放";
+	"\"%@\" by %@ " = "“%2$@” 的 %1$@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<strong>%2$@</strong> 的 <em>%1$@</em> ";
+
+	"Default Actions" = "默认动作";
+	"Replace" = "替换";
+
+	"Link" = "链接";
+	"Insert" = "插入";
+	"Link Text" = "链接文本";
+	"Link URL" = "链接地址";
+}

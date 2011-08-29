@@ -1,0 +1,78 @@
+"Display Out" = "Display Out";
+
+"Enabled" = "Enabled";
+
+"Orientation" = "Orientation";
+"Follow Interface" = "Follow Interface";
+"Follow SpringBoard" = "Follow SpringBoard";
+"Landscape Left" = "Landscape Left";
+"Landscape Right" = "Landscape Right";
+"Portrait" = "Portrait";
+"Upside-Down" = "Upside-Down";
+
+"Max Screen Resolution" = "Max Screen Resolution";
+"480" = "480";
+"640x480 (all)" = "640x480 (all)";
+"600" = "600";
+"800x600 (VGA/HDMI)" = "800x600 (VGA/HDMI)";
+"720p" = "720p";
+"720p (HDMI-only)" = "720p (HDMI-only)";
+"768p" = "768p";
+"1024x768 (VGA/HDMI)" = "1024x768 (VGA/HDMI)";
+"1280x1024 (HDMI+iPad 2)" = "1280x1024 (HDMI+iPad 2)";
+"1024" = "1024";
+"1920x1200 (HDMI+iPad 2)" = "1920x1200 (HDMI+iPad 2)";
+"1080p" = "1080p";
+
+"Scale" = "Scale";
+
+"Aspect Adjust" = "Aspect Adjust";
+"Preserve" = "Preserve";
+"16:10" = "16:10";
+"16:10 Display Stretch" = "16:10 Display Stretch";
+"16:9" = "16:9";
+"16:9 Display Stretch" = "16:9 Display Stretch";
+
+"Horizontal Offset" = "Horizontal Offset";
+"Vertical Offset" = "Vertical Offset";
+
+"Show Taps" = "Show Taps";
+"Never" = "Never";
+"Always" = "Always";
+"Skip Keyboard/OpenGL" = "Skip Keyboard/OpenGL";
+
+"Tap Size" = "Tap Size";
+"Huge" = "Huge";
+"Giant" = "Giant";
+"Big" = "Big";
+"Large" = "Large";
+"Medium" = "Medium";
+"Small" = "Small";
+"Little" = "Little";
+"Tiny" = "Tiny";
+
+"Showing taps may cause flicker" = "Showing taps may cause flicker";
+
+"Experimental" = "Experimental";
+
+"Native Support" = "Native Support";
+
+"This app" = "This app";
+" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = " appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily.";
+"OK" = "OK";
+
+"Just Main Content" = "Just Main Content";
+"Shows only the main content on the external display" = "Shows only the main content on the external display";
+
+"Connection Alerts" = "Connection Alerts";
+"Show" = "Show";
+"External display connected." = "External display connected.";
+"External display disconnected." = "External display disconnected.";
+
+"OpenGL" = "OpenGL";
+"Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games";
+"Suppress Flicker" = "Suppress Flicker";
+
+"Show On" = "Show On";
+"External Display" = "External Display";
+"Both Displays" = "Both Displays";
