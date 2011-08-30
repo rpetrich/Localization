@@ -12,13 +12,17 @@
 
 "Max Screen Resolution" = "螢幕最大解析度";
 "480" = "480";
-"640x480 (all)" = "640 × 480（全部）";
+"640x480 (all)" = "640×480（全部）";
 "600" = "600";
-"800x600 (VGA/HDMI)" = "800 × 600（VGA/HDMI）";
+"800x600 (VGA/HDMI)" = "800×600（VGA/HDMI）";
 "720p" = "720p";
 "720p (HDMI-only)" = "720p（僅 HDMI）";
 "768p" = "768p";
-"1024x768 (VGA/HDMI)" = "1024 × 768（VGA/HDMI）";
+"1024x768 (VGA/HDMI)" = "1024×768（VGA/HDMI）";
+"1280x1024 (HDMI+iPad 2)" = "1280×1024（HDMI+iPad 2）";
+"1024" = "1024";
+"1920x1200 (HDMI+iPad 2)" = "1920×1200（HDMI+iPad 2）";
+"1080p" = "1080p";
 
 "Scale" = "縮放";
 
@@ -33,11 +37,19 @@
 "Vertical Offset" = "豎直偏移";
 
 "Show Taps" = "顯示觸摸區域";
+"Never" = "從不";
+"Always" = "總是";
+"Skip Keyboard/OpenGL" = "忽略鍵盤/OpenGL";
 
 "Tap Size" = "觸摸區域大小";
-"Large" = "大";
-"Medium" = "中";
-"Small" = "小";
+"Huge" = "極大";
+"Giant" = "巨大";
+"Big" = "很大";
+"Large" = "較大";
+"Medium" = "中等";
+"Small" = "較小";
+"Little" = "很小";
+"Tiny" = "極小";
 
 "Showing taps may cause flicker" = "顯示觸摸區域可能導致閃爍";
 
@@ -51,3 +63,16 @@
 
 "Just Main Content" = "僅主要內容";
 "Shows only the main content on the external display" = "在外部顯示設備上僅顯示主要內容";
+
+"Connection Alerts" = "連接提醒";
+"Show" = "顯示";
+"External display connected." = "已連接外部顯示設備。";
+"External display disconnected." = "已斷開與外部顯示設備的連接。";
+
+"OpenGL" = "OpenGL";
+"Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "抑制 OpenGL 閃爍需要更多記憶體空間且可能在某些遊戲中產生不可預料的後果。";
+"Suppress Flicker" = "抑制閃爍";
+
+"Show On" = "在以下設備上顯示";
+"External Display" = "外部顯示設備";
+"Both Displays" = "兩者均顯示";
