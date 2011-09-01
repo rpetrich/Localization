@@ -1,22 +1,22 @@
 "Display Out" = "Display Out";
 
-"Enabled" = "τςιμ";
+"Enabled" = "Χ¤ΧΆΧ™Χ";
 
-"Orientation" = "ΰεψιιπθφιδ";
-"Follow Interface" = "ςχεα ΰηψ δξξωχ";
-"Follow SpringBoard" = "ςχεα ΰηψ SpringBoard";
-"Landscape Left" = "ξφα πεσ ωξΰμδ";
-"Landscape Right" = "ξφα πεσ ιξιπδ";
-"Portrait" = "ξφα γιεχο";
-"Upside-Down" = "ξφα δτεκ";
+"Orientation" = "ΧΧ•Χ¨Χ™Χ™Χ ΧΧ¦Χ™Χ”";
+"Follow Interface" = "ΧΆΧ§Χ•Χ‘ ΧΧ—Χ¨ Χ”ΧΧΧ©Χ§";
+"Follow SpringBoard" = "ΧΆΧ§Χ•Χ‘ ΧΧ—Χ¨ SpringBoard";
+"Landscape Left" = "ΧΧ¦Χ‘ Χ Χ•Χ£ Χ©ΧΧΧΧ”";
+"Landscape Right" = "ΧΧ¦Χ‘ Χ Χ•Χ£ Χ™ΧΧ™Χ Χ”";
+"Portrait" = "ΧΧ¦Χ‘ Χ“Χ™Χ•Χ§Χ";
+"Upside-Down" = "ΧΧ¦Χ‘ Χ”Χ¤Χ•Χ";
 
-"Max Screen Resolution" = "ψζεμεφιϊ ξρκ ξχριξμιϊ";
+"Max Screen Resolution" = "Χ¨Χ–Χ•ΧΧ•Χ¦Χ™Χª ΧΧ΅Χ ΧΧ§Χ΅Χ™ΧΧΧ™Χª";
 "480" = "480";
-"640x480 (all)" = "640x480 (δλμ)";
+"640x480 (all)" = "640x480 (Χ”Χ›Χ)";
 "600" = "600";
 "800x600 (VGA/HDMI)" = "800x600 (VGA/HDMI)";
 "720p" = "720p";
-"720p (HDMI-only)" = "720p (ψχ HDMI)";
+"720p (HDMI-only)" = "720p (Χ¨Χ§ HDMI)";
 "768p" = "768p";
 "1024x768 (VGA/HDMI)" = "1024x768 (VGA/HDMI)";
 "1280x1024 (HDMI+iPad 2)" = "1280x1024 (HDMI+iPad 2)";
@@ -24,55 +24,55 @@
 "1920x1200 (HDMI+iPad 2)" = "1920x1200 (HDMI+iPad 2)";
 "1080p" = "1080p";
 
-"Scale" = "ρψβμ";
+"Scale" = "Χ΅Χ¨Χ’Χ";
 
-"Aspect Adjust" = "δϊΰξδ ΰεθε'";
-"Preserve" = "ωξεψ";
+"Aspect Adjust" = "Χ”ΧªΧΧΧ” ΧΧ•ΧΧ•'";
+"Preserve" = "Χ©ΧΧ•Χ¨";
 "16:10" = "16:10";
-"16:10 Display Stretch" = "δϊΰξδ μβεγμ 16:10";
+"16:10 Display Stretch" = "Χ”ΧªΧΧΧ” ΧΧ’Χ•Χ“Χ 16:10";
 "16:9" = "16:9";
-"16:9 Display Stretch" = "δϊΰξδ μβεγμ 16:9";
+"16:9 Display Stretch" = "Χ”ΧªΧΧΧ” ΧΧ’Χ•Χ“Χ 16:9";
 
-"Horizontal Offset" = "χιζεζ ΰτχι";
-"Vertical Offset" = "χιζεζ ΰπλι";
+"Horizontal Offset" = "Χ§Χ™Χ–Χ•Χ– ΧΧ¤Χ§Χ™";
+"Vertical Offset" = "Χ§Χ™Χ–Χ•Χ– ΧΧ Χ›Χ™";
 
-"Show Taps" = "δφβ πβιςεϊ";
-"Never" = "ΰσ τςν";
-"Always" = "ϊξιγ";
-"Skip Keyboard/OpenGL" = "γμβ ςμ ξχμγϊ/OpenGL";
+"Show Taps" = "Χ”Χ¦Χ’ Χ Χ’Χ™ΧΆΧ•Χª";
+"Never" = "ΧΧ£ Χ¤ΧΆΧ";
+"Always" = "ΧªΧΧ™Χ“";
+"Skip Keyboard/OpenGL" = "Χ“ΧΧ’ ΧΆΧ ΧΧ§ΧΧ“Χª/OpenGL";
 
-"Tap Size" = "βεγμ πβιςδ";
-"Huge" = "ςπχ";
-"Giant" = "βγεμ ξΰεγ";
-"Big" = "αιπεπι-βγεμ";
-"Large" = "βγεμ";
-"Medium" = "αιπεπι";
-"Small" = "χθο";
-"Little" = "χθπθο";
-"Tiny" = "ζςιψ";
+"Tap Size" = "Χ’Χ•Χ“Χ Χ Χ’Χ™ΧΆΧ”";
+"Huge" = "ΧΆΧ Χ§";
+"Giant" = "Χ’Χ“Χ•Χ ΧΧΧ•Χ“";
+"Big" = "Χ‘Χ™Χ Χ•Χ Χ™-Χ’Χ“Χ•Χ";
+"Large" = "Χ’Χ“Χ•Χ";
+"Medium" = "Χ‘Χ™Χ Χ•Χ Χ™";
+"Small" = "Χ§ΧΧ";
+"Little" = "Χ§ΧΧ ΧΧ";
+"Tiny" = "Χ–ΧΆΧ™Χ¨";
 
-"Showing taps may cause flicker" = "δφβϊ δπβιςεϊ ςωει μβψεν δαδεα";
+"Showing taps may cause flicker" = "Χ”Χ¦Χ’Χª Χ”Χ Χ’Χ™ΧΆΧ•Χª ΧΆΧ©Χ•Χ™ ΧΧ’Χ¨Χ•Χ Χ”Χ‘Χ”Χ•Χ‘";
 
-"Experimental" = "πριεπι";
+"Experimental" = "Χ Χ΅Χ™Χ•Χ Χ™";
 
-"Native Support" = "ϊξιλδ ξχεξιϊ";
+"Native Support" = "ΧªΧΧ™Χ›Χ” ΧΧ§Χ•ΧΧ™Χª";
 
-"This app" = "ΰτμιχφιδ ζε";
-" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = " πψΰδ ωΰτμιχφιδ ζε ϊεξλϊ αϊφεβδ ηιφεπιϊ.\nΰϊδ ιλεμ μωχεμ μδωαιϊ ΰϊ Display out ζξπιϊ.";
-"OK" = "ΰεχιι";
+"This app" = "ΧΧ¤ΧΧ™Χ§Χ¦Χ™Χ” Χ–Χ•";
+" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = " Χ Χ¨ΧΧ” Χ©ΧΧ¤ΧΧ™Χ§Χ¦Χ™Χ” Χ–Χ• ΧªΧ•ΧΧ›Χª Χ‘ΧªΧ¦Χ•Χ’Χ” Χ—Χ™Χ¦Χ•Χ Χ™Χª.\nΧΧªΧ” Χ™Χ›Χ•Χ ΧΧ©Χ§Χ•Χ ΧΧ”Χ©Χ‘Χ™Χª ΧΧª Display out Χ–ΧΧ Χ™Χª.";
+"OK" = "ΧΧ•Χ§Χ™Χ™";
 
-"Just Main Content" = "ψχ ϊελο ψΰωι";
-"Shows only the main content on the external display" = "δφβ ψχ ΰϊ δϊελο δψΰωι αϊφεβδ δηιφεπιϊ";
+"Just Main Content" = "Χ¨Χ§ ΧªΧ•Χ›Χ Χ¨ΧΧ©Χ™";
+"Shows only the main content on the external display" = "Χ”Χ¦Χ’ Χ¨Χ§ ΧΧª Χ”ΧªΧ•Χ›Χ Χ”Χ¨ΧΧ©Χ™ Χ‘ΧªΧ¦Χ•Χ’Χ” Χ”Χ—Χ™Χ¦Χ•Χ Χ™Χª";
 
-"Connection Alerts" = "δϊψΰεϊ ηιαεψ";
-"Show" = "δφβ";
-"External display connected." = "ϊφεβδ ηιφεπιϊ ηεαψδ.";
-"External display disconnected." = "ϊφεβδ ηιφεπιϊ πεϊχδ.";
+"Connection Alerts" = "Χ”ΧªΧ¨ΧΧ•Χª Χ—Χ™Χ‘Χ•Χ¨";
+"Show" = "Χ”Χ¦Χ’";
+"External display connected." = "ΧªΧ¦Χ•Χ’Χ” Χ—Χ™Χ¦Χ•Χ Χ™Χª Χ—Χ•Χ‘Χ¨Χ”.";
+"External display disconnected." = "ΧªΧ¦Χ•Χ’Χ” Χ—Χ™Χ¦Χ•Χ Χ™Χª Χ Χ•ΧªΧ§Χ”.";
 
 "OpenGL" = "OpenGL";
-"Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "δρϊψϊ δαδεα OpenGL ςωει μβψεν μωιξεω βαεδ αζιλψεο ΰε μωβιΰεϊ αξωηχιν ξρειξιν";
-"Suppress Flicker" = "δρϊψϊ δαδεα";
+"Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "Χ”Χ΅ΧªΧ¨Χª Χ”Χ‘Χ”Χ•Χ‘ OpenGL ΧΆΧ©Χ•Χ™ ΧΧ’Χ¨Χ•Χ ΧΧ©Χ™ΧΧ•Χ© Χ’Χ‘Χ•Χ” Χ‘Χ–Χ™Χ›Χ¨Χ•Χ ΧΧ• ΧΧ©Χ’Χ™ΧΧ•Χª Χ‘ΧΧ©Χ—Χ§Χ™Χ ΧΧ΅Χ•Χ™ΧΧ™Χ";
+"Suppress Flicker" = "Χ”Χ΅ΧªΧ¨Χª Χ”Χ‘Χ”Χ•Χ‘";
 
-"Show On" = "δφβ α";
-"External Display" = "ϊφεβδ ηιφεπιϊ";
-"Both Displays" = "ωπι δϊφεβεϊ";
+"Show On" = "Χ”Χ¦Χ’ Χ‘";
+"External Display" = "ΧªΧ¦Χ•Χ’Χ” Χ—Χ™Χ¦Χ•Χ Χ™Χª";
+"Both Displays" = "Χ©Χ Χ™ Χ”ΧªΧ¦Χ•Χ’Χ•Χª";
