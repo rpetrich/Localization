@@ -1,43 +1,43 @@
 {
 	
-	"ACTIVATION_METHODS" = "γψλι δτςμδ";
-	"HOME_BUTTON" = "λτϊεψ δαιϊ";
-	"DOUBLE_HOME_BUTTON" = "μηιφδ λτεμδ ςμ λτϊεψ δαιϊ";
-	"SPRINGBOARD_ICON" = "ΰιιχεο αSpringBoard";
-	"SPRINGBOARD_PINCH" = "φαιθϊ δSpringBoard";
-	"SPRINGBOARD_SPREAD" = "τψιρϊ δSpringBoard";
+	"ACTIVATION_METHODS" = "Χ“Χ¨Χ›Χ™ Χ”Χ¤ΧΆΧΧ”";
+	"HOME_BUTTON" = "Χ›Χ¤ΧªΧ•Χ¨ Χ”Χ‘Χ™Χª";
+	"DOUBLE_HOME_BUTTON" = "ΧΧ—Χ™Χ¦Χ” Χ›Χ¤Χ•ΧΧ” ΧΆΧ Χ›Χ¤ΧªΧ•Χ¨ Χ”Χ‘Χ™Χª";
+	"SPRINGBOARD_ICON" = "ΧΧ™Χ™Χ§Χ•Χ Χ‘SpringBoard";
+	"SPRINGBOARD_PINCH" = "Χ¦Χ‘Χ™ΧΧª Χ”SpringBoard";
+	"SPRINGBOARD_SPREAD" = "Χ¤Χ¨Χ™Χ΅Χª Χ”SpringBoard";
 	
-	"VISIBLE_ELEMENTS" = "ΰμξπθιν ξεφβιν";
-	"COLUMNS" = "θεψιν";
-	"ONE" = "ΰηγ";
-	"TWO" = "ωϊιιν";
-	"THREE" = "ωμεω";
-	"FOUR" = "ΰψας";
-	"FIVE" = "ηξω";
-	"AUTO" = "ΰεθεξθιϊ";
+	"VISIBLE_ELEMENTS" = "ΧΧΧΧ ΧΧ™Χ ΧΧ•Χ¦Χ’Χ™Χ";
+	"COLUMNS" = "ΧΧ•Χ¨Χ™Χ";
+	"ONE" = "ΧΧ—Χ“";
+	"TWO" = "Χ©ΧªΧ™Χ™Χ";
+	"THREE" = "Χ©ΧΧ•Χ©";
+	"FOUR" = "ΧΧ¨Χ‘ΧΆ";
+	"FIVE" = "Χ—ΧΧ©";
+	"AUTO" = "ΧΧ•ΧΧ•ΧΧΧ™Χª";
 	"DOCK" = "Dock";
-	"SEARCH_PAGE" = "ςξεγ ηιτεω";
-	"ANIMATED" = "ξεπτω";
-	"REVERSE_ORDER" = "ριγεψ δτεκ";
-	"SHOW_AS_HOME_SCREEN" = "δτεκ μξρκ δαιϊ";
+	"SEARCH_PAGE" = "ΧΆΧΧ•Χ“ Χ—Χ™Χ¤Χ•Χ©";
+	"ANIMATED" = "ΧΧ•Χ Χ¤Χ©";
+	"REVERSE_ORDER" = "Χ΅Χ™Χ“Χ•Χ¨ Χ”Χ¤Χ•Χ";
+	"SHOW_AS_HOME_SCREEN" = "Χ”Χ¤Χ•Χ ΧΧΧ΅Χ Χ”Χ‘Χ™Χª";
 
-	"BADGE_STYLE" = "ϊβιϊ ξςεφαϊ";
-	"BADGE_STYLE_HIDDEN" = "ξερϊψ";
-	"BADGE_STYLE_ON_ICONS" = "ςμ ΰιιχεπιν";
-	"BADGE_STYLE_ON_PAGES" = "ςμ ςξεγιν";
-	"BADGE_STYLE_ON_BOTH" = "ςμ ωπιδν";
+	"BADGE_STYLE" = "ΧªΧ’Χ™Χª ΧΧΆΧ•Χ¦Χ‘Χª";
+	"BADGE_STYLE_HIDDEN" = "ΧΧ•Χ΅ΧªΧ¨";
+	"BADGE_STYLE_ON_ICONS" = "ΧΆΧ ΧΧ™Χ™Χ§Χ•Χ Χ™Χ";
+	"BADGE_STYLE_ON_PAGES" = "ΧΆΧ ΧΆΧΧ•Χ“Χ™Χ";
+	"BADGE_STYLE_ON_BOTH" = "ΧΆΧ Χ©Χ Χ™Χ”Χ";
 	
-	"PLAY_SOUNDS" = "πβο φμιμ";
+	"PLAY_SOUNDS" = "Χ Χ’Χ Χ¦ΧΧ™Χ";
 
-	"CLEAR_ICON_CACHE" = "πχδ ξθξεο ΰιιχεπιν";
-	"CLEAR_ICON_CACHE_QUESTION" = "πχδ ξθξεο ΰιιχεπιν?";
+	"CLEAR_ICON_CACHE" = "Χ Χ§Χ” ΧΧΧΧ•Χ ΧΧ™Χ™Χ§Χ•Χ Χ™Χ";
+	"CLEAR_ICON_CACHE_QUESTION" = "Χ Χ§Χ” ΧΧΧΧ•Χ ΧΧ™Χ™Χ§Χ•Χ Χ™Χ?";
 	
-	"CONTINUE" = "δξωκ";
-	"CANCEL" = "αιθεμ";
+	"CONTINUE" = "Χ”ΧΧ©Χ";
+	"CANCEL" = "Χ‘Χ™ΧΧ•Χ";
 	
-	"BACKGROUND_STYLE" = "ςιφεα ψχς";
-	"THEME_BACKGROUND" = "ψχς ςψλδ";
-	"SYSTEM_WALLPAPER" = "ψχς ξςψλϊ";
-	"THEME" = "ςψλϊ πεωΰ";
-	"WALLPAPER" = "ψχς";
+	"BACKGROUND_STYLE" = "ΧΆΧ™Χ¦Χ•Χ‘ Χ¨Χ§ΧΆ";
+	"THEME_BACKGROUND" = "Χ¨Χ§ΧΆ ΧΆΧ¨Χ›Χ”";
+	"SYSTEM_WALLPAPER" = "Χ¨Χ§ΧΆ ΧΧΆΧ¨Χ›Χª";
+	"THEME" = "ΧΆΧ¨Χ›Χª Χ Χ•Χ©Χ";
+	"WALLPAPER" = "Χ¨Χ§ΧΆ";
 }

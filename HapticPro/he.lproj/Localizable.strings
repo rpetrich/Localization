@@ -1,47 +1,47 @@
 {
-	"Trigger Events" = "ξτςιμ ΰιψες";
-	"Key Pressed" = "λτϊεψ πμηυ";
-	"Key Released" = "λτϊεψ ωεηψψ";
-	"Key Repeated" = "λτϊεψ πμηυ τςξιιν";
+	"Trigger Events" = "ΧΧ¤ΧΆΧ™Χ ΧΧ™Χ¨Χ•ΧΆ";
+	"Key Pressed" = "Χ›Χ¤ΧªΧ•Χ¨ Χ ΧΧ—Χ¥";
+	"Key Released" = "Χ›Χ¤ΧªΧ•Χ¨ Χ©Χ•Χ—Χ¨Χ¨";
+	"Key Repeated" = "Χ›Χ¤ΧªΧ•Χ¨ Χ ΧΧ—Χ¥ Χ¤ΧΆΧΧ™Χ™Χ";
 
-	"Trigger Controls" = "ωεμθι δτςμδ";
-	"Keyboard" = "ξχμγϊ";
-	"Buttons" = "λτϊεψιν";
-	"Table Cells" = "ϊΰι θαμδ";
-	"Web Links" = "χιωεψιν";
+	"Trigger Controls" = "Χ©Χ•ΧΧΧ™ Χ”Χ¤ΧΆΧΧ”";
+	"Keyboard" = "ΧΧ§ΧΧ“Χª";
+	"Buttons" = "Χ›Χ¤ΧªΧ•Χ¨Χ™Χ";
+	"Table Cells" = "ΧªΧΧ™ ΧΧ‘ΧΧ”";
+	"Web Links" = "Χ§Χ™Χ©Χ•Χ¨Χ™Χ";
 
-	"Duration" = "ξωκ ζξο";
+	"Duration" = "ΧΧ©Χ Χ–ΧΧ";
 
-	"Test Keyboard" = "πρδ ξχμγϊ";
+	"Test Keyboard" = "Χ Χ΅Χ” ΧΧ§ΧΧ“Χª";
 
-	"HapticPro-Advanced" = "δβγψεϊ ξϊχγξεϊ";
-	"Reset to Defaults" = "ΰτρ μαψιψϊ ξηγμ";
-	"Are you sure you wish to reset HapticPro to the default settings?" = "δΰν ΰϊδ αθεη ωαψφεπκ μΰτρ ΰϊ δβγψεϊ HapticPro μαψιψϊ δξηγμ?";
-	"Cancel" = "αιθεμ";
-	"Reset" = "ΰτρ";
+	"HapticPro-Advanced" = "Χ”Χ’Χ“Χ¨Χ•Χª ΧΧªΧ§Χ“ΧΧ•Χª";
+	"Reset to Defaults" = "ΧΧ¤Χ΅ ΧΧ‘Χ¨Χ™Χ¨Χª ΧΧ—Χ“Χ";
+	"Are you sure you wish to reset HapticPro to the default settings?" = "Χ”ΧΧ ΧΧªΧ” Χ‘ΧΧ•Χ— Χ©Χ‘Χ¨Χ¦Χ•Χ Χ ΧΧΧ¤Χ΅ ΧΧª Χ”Χ’Χ“Χ¨Χ•Χª HapticPro ΧΧ‘Χ¨Χ™Χ¨Χª Χ”ΧΧ—Χ“Χ?";
+	"Cancel" = "Χ‘Χ™ΧΧ•Χ";
+	"Reset" = "ΧΧ¤Χ΅";
 	
-	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "ςχα δβαμεϊ ωμ OS 3.0, HapticPro ιεωαϊ αωξιςϊ ξεριχδ.";
+	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "ΧΆΧ§Χ‘ Χ”Χ’Χ‘ΧΧ•Χª Χ©Χ OS 3.0, HapticPro Χ™Χ•Χ©Χ‘Χª Χ‘Χ©ΧΧ™ΧΆΧª ΧΧ•Χ΅Χ™Χ§Χ”.";
 	
 	
-	"Intensity" = "ςφξδ";
-	"Adjust the strength of the vibration." = "ωπδ ΰϊ ςεφξϊ δψθθ.";
-	"Has no effect on the iPhone 3G" = "μΰ ΰτχθιαι αΰιιτεο 3G";
+	"Intensity" = "ΧΆΧ¦ΧΧ”";
+	"Adjust the strength of the vibration." = "Χ©Χ Χ” ΧΧª ΧΆΧ•Χ¦ΧΧª Χ”Χ¨ΧΧ.";
+	"Has no effect on the iPhone 3G" = "ΧΧ ΧΧ¤Χ§ΧΧ™Χ‘Χ™ Χ‘ΧΧ™Χ™Χ¤Χ•Χ 3G";
 	
-	"Only Special Keys" = "ψχ ξχωιν ξιεηγιν";
-	"Activates HapticPro only from the keyboard's modifier keys." = "ξτςιμ ΰϊ HapticPro ψχ αφιψεσ δξχωιν ωπαηψ.";
+	"Only Special Keys" = "Χ¨Χ§ ΧΧ§Χ©Χ™Χ ΧΧ™Χ•Χ—Χ“Χ™Χ";
+	"Activates HapticPro only from the keyboard's modifier keys." = "ΧΧ¤ΧΆΧ™Χ ΧΧª HapticPro Χ¨Χ§ Χ‘Χ¦Χ™Χ¨Χ•Χ£ Χ”ΧΧ§Χ©Χ™Χ Χ©Χ Χ‘Χ—Χ¨.";
 
-	"Buttons" = "λτϊεψιν";
-	"Add Click Sounds" = "δερσ φμιμ μηιφδ";
-	"Enable keyboard click sounds on regular buttons." = "ξΰτωψ ΰϊ φμιμ δδχμγδ βν αξχωιν ψβιμιν.";
+	"Buttons" = "Χ›Χ¤ΧªΧ•Χ¨Χ™Χ";
+	"Add Click Sounds" = "Χ”Χ•Χ΅Χ£ Χ¦ΧΧ™Χ ΧΧ—Χ™Χ¦Χ”";
+	"Enable keyboard click sounds on regular buttons." = "ΧΧΧ¤Χ©Χ¨ ΧΧª Χ¦ΧΧ™Χ Χ”Χ”Χ§ΧΧ“Χ” Χ’Χ Χ‘ΧΧ§Χ©Χ™Χ Χ¨Χ’Χ™ΧΧ™Χ.";
 	
-	"Ringer Switch" = "ξϊβ φμιμ";
-	"Trigger In Ring" = "δτςμ αξφα ψβιμ";
-	"Trigger In Silent" = "δτςμ αξφα ωχθ";
-	"Enable/disable haptic feedback based on the status of the ringer switch." = "ΰτωψ/αθμ ξφα ϊηεωδ μτι ξφα ξϊβ δφμφεμ.";
+	"Ringer Switch" = "ΧΧªΧ’ Χ¦ΧΧ™Χ";
+	"Trigger In Ring" = "Χ”Χ¤ΧΆΧ Χ‘ΧΧ¦Χ‘ Χ¨Χ’Χ™Χ";
+	"Trigger In Silent" = "Χ”Χ¤ΧΆΧ Χ‘ΧΧ¦Χ‘ Χ©Χ§Χ";
+	"Enable/disable haptic feedback based on the status of the ringer switch." = "ΧΧ¤Χ©Χ¨/Χ‘ΧΧ ΧΧ¦Χ‘ ΧªΧ—Χ•Χ©Χ” ΧΧ¤Χ™ ΧΧ¦Χ‘ ΧΧªΧ’ Χ”Χ¦ΧΧ¦Χ•Χ.";
 
-	"Duration" = "ξωκ ζξο";
-	"Duration Factor Pressed" = "ζξο βεψν μηευ";
-	"Duration Factor Released" = "ζξο βεψν ωεηψψ";
-	"Duration Factor Repeated" = "ζξο βεψν δλτεμ";
-	"Control the duration of each type of haptic feedback independently." = "ωμιθδ ςμ ξωκ δζξο ωμ λμ ρεβ ωμ ξωεα μϊηεωδ αΰετο ςφξΰι.";
+	"Duration" = "ΧΧ©Χ Χ–ΧΧ";
+	"Duration Factor Pressed" = "Χ–ΧΧ Χ’Χ•Χ¨Χ ΧΧ—Χ•Χ¥";
+	"Duration Factor Released" = "Χ–ΧΧ Χ’Χ•Χ¨Χ Χ©Χ•Χ—Χ¨Χ¨";
+	"Duration Factor Repeated" = "Χ–ΧΧ Χ’Χ•Χ¨Χ Χ”Χ›Χ¤Χ•Χ";
+	"Control the duration of each type of haptic feedback independently." = "Χ©ΧΧ™ΧΧ” ΧΆΧ ΧΧ©Χ Χ”Χ–ΧΧ Χ©Χ Χ›Χ Χ΅Χ•Χ’ Χ©Χ ΧΧ©Χ•Χ‘ ΧΧªΧ—Χ•Χ©Χ” Χ‘ΧΧ•Χ¤Χ ΧΆΧ¦ΧΧΧ™.";
 }
