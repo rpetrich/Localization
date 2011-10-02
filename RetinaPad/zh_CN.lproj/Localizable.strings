@@ -1,0 +1,24 @@
+{
+	"RetinaPad" = "RetinaPad";
+
+	"Enabled Applications" = "管理应用程序";
+	"System Applications" = "系统应用程序";
+	"User Applications" = "用户应用程序";
+	"Customize which applications Retina mode is applied to." = "自定义以 Retina 模式显示的应用程序。";
+
+	"Always Zoom" = "总是最大化";
+	"Allow Upside Down" = "允许倒置";
+	"Show Simulated Chrome" = "显示模拟边框";
+	"Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "当前运行中的程序必须在多任务栏里关掉后才会应用设置。";
+
+	"Portrait in Landscape" = "横屏模式下竖直显示";
+	"This feature is in beta and is unsupported, for now." = "该功能现处于测试阶段，暂不受支持。";
+
+	"OK" = "确定";
+	"Cancel" = "取消";
+	"Apply" = "应用";
+
+	"To enter retina mode kill %@ via the multitasking switcher bar." = "在多任务管理器中退出 %@ 以应用 RetinaPad 模式。";
+	"To exit retina mode kill %@ via the multitasking switcher bar." = "在多任务管理器中退出 %@ 以退出 RetinaPad 模式。";
+	"this application" = "该应用程序";
+}
