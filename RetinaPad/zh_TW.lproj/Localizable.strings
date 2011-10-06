@@ -18,7 +18,7 @@
 	"Cancel" = "取消";
 	"Apply" = "應用";
 
-	"To enter retina mode kill %@ via the multitasking switcher bar." = "在多工列中退出 %@ 以應用 RetinaPad 模式。";
-	"To exit retina mode kill %@ via the multitasking switcher bar." = "在多工列中退出 %@ 以退出 RetinaPad 模式。";
+	"To enter retina mode kill %@ via the multitasking switcher bar." = "在多工列中退出 %@ 以應用 Retina 模式。";
+	"To exit retina mode kill %@ via the multitasking switcher bar." = "在多工列中退出 %@ 以取消 Retina 模式。";
 	"this application" = "該應用程式";
 }
