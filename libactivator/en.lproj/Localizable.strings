@@ -229,6 +229,10 @@
 	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Activate Notification Center";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Pull down notification center";
 
+
+	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Compose Tweet";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Launch modal tweet composer";
+
 	
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod Controls";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Show now playing popup";
