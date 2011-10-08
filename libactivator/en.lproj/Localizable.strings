@@ -40,6 +40,9 @@
 	VERSION_PROMPT_IGNORE = "Ignore";
 	VERSION_PROMPT_CONTINUE = "Continue";
 	
+	SHOW_ICON = "Show Icon";
+	SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD = "Show Activator Icon on SpringBoard";
+	
 	Advertisement = "Advertisement";
 	
 	/* Menus */
