@@ -1,0 +1,24 @@
+{
+	RetinaPad = RetinaPad;
+
+	"Enabled Applications" = "Enabled Applications";
+	"System Applications" = "System Applications";
+	"User Applications" = "User Applications";
+	"Customize which applications Retina mode is applied to." = "Customize which applications Retina mode is applied to.";
+	
+	"Always Zoom" = "Always Zoom";
+	"Allow Upside Down" = "Allow Upside Down";
+	"Show Simulated Chrome" = "Show Simulated Chrome";
+	"Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect.";
+	
+	"Portrait in Landscape" = "Portrait in Landscape";
+	"This feature is in beta and is unsupported, for now." = "This feature is in beta and is unsupported, for now.";
+	
+	OK = OK;
+	Cancel = Cancel;
+	Apply = Apply;
+	
+	"To enter retina mode kill %@ via the multitasking switcher bar." = "To enter retina mode kill %@ via the multitasking switcher bar.";
+	"To exit retina mode kill %@ via the multitasking switcher bar." = "To exit retina mode kill %@ via the multitasking switcher bar.";
+	"this application" = "this application";
+}

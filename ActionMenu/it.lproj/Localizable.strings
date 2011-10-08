@@ -43,7 +43,7 @@
 	Clear = Pulisci;
 	Confirm = Conferma;
 	"Pasteboard History" = "Tabella cronologia";
-	
+
 	"Right to Left" = "Da destra verso sinistra";
 	"Left to Right" = "Da sinistra verso destra";
 	"Sorted" = "Ordina";
@@ -51,18 +51,18 @@
 	"biteSMS" = "biteSMS";
 	"Extended Support" = "Supporto esteso";
 	"TRANSLATION_ABOUT" = "Tradotto da Sagitt";
-	
+
 	"Preferred Client" = "Client preferito";
-	
+
 	"Clear History" = "Pulisci cronologia";
 	Close = Chiudi;
-	
+
 	Cut = Taglia;
 	Copy = Copia;
 	Paste = Incolla;
 	Select = Seleziona;
 	"Select All" = "Seleziona tutto";
-	
+
 	Locate = Localizza;
 	"Error retrieving location!" = "Errore durante la localizzazione!";
 	"Estimated Accuracy:" = "Precisione stimata:";
@@ -76,8 +76,55 @@
 	Error = Errore;
 	"Unable to submit your pastie." = "Impossibile inviare il tuo pastie.";
 	"No Search Results" = "Nessun risultato";
-	
+
 	"Edit Favorite" = "Modifica preferito";
 	"To Top" = "In alto";
 	"To Bottom" = "In fondo";
+
+	"Rich Text For Mail" = "Rich Text per Mail";
+	"Format" = "Formato";
+	"Bold" = "Grassetto";
+	"Italic" = "Corsivo";
+	"Underline" = "Sottolineato";
+	"Strikethrough" = "Barrato";
+	"Image" = "Immagine";
+	"Text Style" = "Stile testo";
+	"Font Size" = "Dimensioni carattere";
+	"Font Family" = "Famiglia carattere";
+	"Text Color" = "Colore testo";
+	"Highlight Color" = "Colore evidenziazione";
+	"Black" = "Nero";
+	"White" = "Bianco";
+	"Silver" = "Argento";
+	"Gray" = "Grigio";
+	"Red" = "Rosso";
+	"Maroon" = "Marrone";
+	"Yellow" = "Giallo";
+	"Olive" = "Oliva";
+	"Lime" = "Limone";
+	"Green" = "Verde";
+	"Aqua" = "Acqua";
+	"Teal" = "Verde acqua";
+	"Blue" = "Blu";
+	"Navy" = "Blu notte";
+	"Fuchsia" = "Fucsia";
+	"Purple" = "Porpora";
+	"None" = "Nessuno";
+	"Unknown" = "Sconosciuto";
+
+	"Playing" = "In esecuzione";
+	"\"%@\" by %@ " = "\"%@\" di %@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> di <strong>%@</strong> ";
+
+	"Default Actions" = "Azioni predefinite";
+	"Replace" = "Sostituisci";
+
+	"Link" = "Link";
+	"Insert" = "Inserisci";
+	"Link Text" = "Testo link";
+	"Link URL" = "URL link";
+
+	"Celeste" = "Celeste";
+	"Voice" = "Voce";
+	"Today" = "Oggi";
 }

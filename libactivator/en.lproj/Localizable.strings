@@ -40,6 +40,8 @@
 	VERSION_PROMPT_IGNORE = "Ignore";
 	VERSION_PROMPT_CONTINUE = "Continue";
 	
+	Advertisement = "Advertisement";
+	
 	/* Menus */
 	
 	MENUS = "Menus";
@@ -223,6 +225,13 @@
 	
 	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "First SpringBoard Page";
 	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Jump to first page of icons";
+
+	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Activate Notification Center";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Pull down notification center";
+
+
+	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Compose Tweet";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Launch modal tweet composer";
 
 	
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod Controls";
