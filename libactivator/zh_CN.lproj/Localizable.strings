@@ -183,6 +183,7 @@
 	"LISTENER_GROUP_TITLE_Lock Screen" = "锁屏";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 开关";
 	"LISTENER_GROUP_TITLE_Phone" = "电话";
+	"LISTENER_GROUP_TITLE_Power" = "电源";
 
 	/* Listener Names */
 
@@ -227,6 +228,12 @@
 
 	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "SpringBoard 第一页";
 	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "访问第一个图标页面";
+
+	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "激活通知中心";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "下拉式通知中心";
+
+	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "编写 Tweet";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "启动内置 Tweet 编辑器";
 
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "显示正在播放弹出窗口";
