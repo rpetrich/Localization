@@ -1,0 +1,24 @@
+{
+	"RetinaPad" = "RetinaPad";
+
+	"Enabled Applications" = "アプリケーションを管理する";
+	"System Applications" = "システムのアプリケーション";
+	"User Applications" = "ユーザーのアプリケーション";
+	"Customize which applications Retina mode is applied to." = "Retinaモードに表示するアプリケーションをカスタマイズ。";
+
+	"Always Zoom" = "常にズーム";
+	"Allow Upside Down" = "反転をできる";
+	"Show Simulated Chrome" = "シミュレートされたクロームを表示";
+	"Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "マルチタスクステータスバーに動作しているアプリケーションを終了から、Retinaもーどが応用します。";
+
+	"Portrait in Landscape" = "横画面に縦画面を表示";
+	"This feature is in beta and is unsupported, for now." = "この機能は今未完成ですから、サポートがありません。";
+
+	"OK" = "OK";
+	"Cancel" = "キャンセル";
+	"Apply" = "応用";
+
+	"To enter retina mode kill %@ via the multitasking switcher bar." = "Retinaモードを応用するために、マルチタスクステータスバーに%@を終了してください。";
+	"To exit retina mode kill %@ via the multitasking switcher bar." = "Retinaモードをキャンセルするために、マルチタスクステータスバーに%@を終了してください。";
+	"this application" = "このアプリケーション";
+}
