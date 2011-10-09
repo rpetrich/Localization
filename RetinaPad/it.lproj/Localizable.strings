@@ -1,0 +1,24 @@
+{
+	RetinaPad = RetinaPad;
+
+	"Enabled Applications" = "Applicazioni abilitate";
+	"System Applications" = "Applicazioni sistema";
+	"User Applications" = "Applicazioni utente";
+	"Customize which applications Retina mode is applied to." = "Scegliere su quali applicazioni verrà applicata la modalità retina.";
+
+	"Always Zoom" = "Sempre ingrandito";
+	"Allow Upside Down" = "Permetti sottosopra";
+	"Show Simulated Chrome" = "Mostra chrome simulato";
+	"Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Le applicazioni classiche che sono attualmente in esecuzione devono essere chiuse tramite la barra multitasking per far sì che i cambiamenti abbiano effetto";
+
+	"Portrait in Landscape" = "Portrait in landscape";
+	"This feature is in beta and is unsupported, for now." = "Questa funzione è beta ed non è supportata, per ora.";
+
+	OK = OK;
+	Cancel = Annulla;
+	Apply = Applica;
+
+	"To enter retina mode kill %@ via the multitasking switcher bar." = "Per entrare nella modalità retina, chiudi %@ tramite la barra multitasking.";
+	"To exit retina mode kill %@ via the multitasking switcher bar." = "Per uscire dalla modalità retina, chiudi %@ tramite la barra multitasking.";
+	"this application" = "questa applicazione";
+}
