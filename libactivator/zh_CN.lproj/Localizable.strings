@@ -40,6 +40,11 @@
 	"VERSION_PROMPT_IGNORE" = "忽略";
 	"VERSION_PROMPT_CONTINUE" = "继续";
 
+	"SHOW_ICON" = "显示图标";
+	"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "在主屏幕显示 Activator 图标";
+
+	"Advertisement" = "广告";
+
 	/* Menus */
 
 	"MENUS" = "菜单";
@@ -243,7 +248,6 @@
 
 	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "锁屏/解锁";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "切换锁定屏幕和主屏幕";
-
 
 	"LISTENER_TITLE_libactivator.phone.contacts" = "显示通讯录";
 	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "打开电话的通讯录";
