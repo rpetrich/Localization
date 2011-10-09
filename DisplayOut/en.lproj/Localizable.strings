@@ -76,3 +76,10 @@
 "Show On" = "Show On";
 "External Display" = "External Display";
 "Both Displays" = "Both Displays";
+
+"Render Quality" = "Render Quality";
+"Low Quality" = "Low Quality";
+"High Quality" = "High Quality";
+
+"Dim Brightness" = "Dim Brightness";
+"On Connect" = "On Connect";
