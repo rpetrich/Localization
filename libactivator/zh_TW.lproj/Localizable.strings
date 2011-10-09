@@ -183,7 +183,7 @@
 	"LISTENER_GROUP_TITLE_Lock Screen" = "“鎖定”螢幕";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 開關";
 	"LISTENER_GROUP_TITLE_Phone" = "電話";
-	"EVENT_GROUP_TITLE_Power" = "電源";
+	"LISTENER_GROUP_TITLE_Power" = "電源";
 	
 	/* Listener Names */
 	
