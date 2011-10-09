@@ -22,7 +22,7 @@
 	"RESET_SETTINGS" = "重置";
 	"RESET_SETTINGS_DETAIL" = "重設所有設定為預設";
 	"RESET_ALERT_TITLE" = "重置 Activator 設定";
-	"RESET_ALERT_MESSAGE" = "您確定要將 Activator 的設定還原為預設嗎？\n\n如果選擇繼續，您的設備將會從“主畫面”螢幕登出。";
+	"RESET_ALERT_MESSAGE" = "你確定要將 Activator 的設定還原為預設嗎？\n\n如果選擇繼續，你的設備將會從“主畫面”螢幕登出。";
 	"RESET_ALERT_CANCEL" = "取消";
 	"RESET_ALERT_CONTINUE" = "重置";
 	"MULTIPLE_ASSIGNMENTS" = "【多個】";
@@ -67,7 +67,7 @@
 	"MODE_DESCRIPTION_springboard" = "可以看到“主畫面”螢幕應用程式圖像時";
 	
 	"MODE_TITLE_application" = "在程式中";
-	"MODE_DESCRIPTION_application" = "在一個運行中的應用程式裡";
+	"MODE_DESCRIPTION_application" = "在一個执行中的應用程式裡";
 	
 	"MODE_TITLE_lockscreen" = "在“鎖定”螢幕";
 	"MODE_DESCRIPTION_lockscreen" = "處於“鎖定”螢幕時";
@@ -349,7 +349,7 @@
 	"LISTENER_DESCRIPTION_com.ipa.iWhiteBoard" = "啟動 iWhiteBoard 繪畫模式";
 
 	"LISTENER_TITLE_com.jmeosbn.appquit-current" = "退出當前程式";
-	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-current" = "退出當前運行中的程式";
+	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-current" = "退出當前执行中的程式";
 
 	"LISTENER_TITLE_com.kb1ooo.snappy-camera" = "Snappy（默認為相機）";
 	"LISTENER_DESCRIPTION_com.kb1ooo.snappy-camera" = "在任意應用程式內打開相機拍照";
@@ -358,7 +358,7 @@
 	"LISTENER_DESCRIPTION_com.kb1ooo.snappy-video" = "在任意應用程式內打開相機錄影";
 
 	"LISTENER_TITLE_com.jmeosbn.appquit-all" = "退出全部程式";
-	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-all" = "退出全部運行中的程式";
+	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-all" = "退出全部执行中的程式";
 
 	"LISTENER_TITLE_com.nakedproductions.applocket.activator" = "軟體盒子";
 	"LISTENER_DESCRIPTION_com.nakedproductions.applocket.activator" = "開關鎖定的應用程式";
@@ -400,7 +400,7 @@
 	"LISTENER_DESCRIPTION_com.wrightscs.mobileprofileswitcher" = "移動檔案的檔案切換器";
 
 	"LISTENER_TITLE_jp.ashikase.backgrounder" = "Backgrounder";
-	"LISTENER_DESCRIPTION_jp.ashikase.backgrounder" = "在後臺運行應用程式";
+	"LISTENER_DESCRIPTION_jp.ashikase.backgrounder" = "在後臺执行應用程式";
 
 	"LISTENER_TITLE_jp.tom-go.iShakeLock" = "iShakeLock";
 	"LISTENER_DESCRIPTION_jp.tom-go.iShakeLock" = "鎖定/解鎖設備的新方式";
@@ -412,7 +412,7 @@
 	"LISTENER_DESCRIPTION_jp.ashikase.kirikae" = "任務切換及啟動工具";
 
 	"LISTENER_TITLE_net.epelaez.Notified" = "通知";
-	"LISTENER_DESCRIPTION_net.epelaez.Notified" = "您的通知，任何地方";
+	"LISTENER_DESCRIPTION_net.epelaez.Notified" = "你的通知，任何地方";
 
 	"LISTENER_TITLE_us.hannahpappah.incarcerapp" = "IncarcerApp";
 	"LISTENER_DESCRIPTION_us.hannahpappah.incarcerapp" = "禁用“主畫面”按鈕（基於 Backgrounder）";
