@@ -76,3 +76,10 @@
 "Show On" = "在以下设备上显示";
 "External Display" = "外部显示设备";
 "Both Displays" = "两者均显示";
+
+"Render Quality" = "渲染质量";
+"Low Quality" = "低质量";
+"High Quality" = "高质量";
+
+"Dim Brightness" = "暗淡亮度";
+"On Connect" = "在连接时";
