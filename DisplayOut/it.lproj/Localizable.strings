@@ -76,3 +76,10 @@
 "Show On" = "Mostra su";
 "External Display" = "Display esterno";
 "Both Displays" = "Entrambi i display";
+
+"Render Quality" = "Qualità resa";
+"Low Quality" = "Qualità bassa";
+"High Quality" = "Qualità alta";
+
+"Dim Brightness" = "Riduci luminosità";
+"On Connect" = "Alla connessione";
