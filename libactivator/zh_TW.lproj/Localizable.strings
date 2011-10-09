@@ -40,6 +40,11 @@
 	"VERSION_PROMPT_IGNORE" = "忽略";
 	"VERSION_PROMPT_CONTINUE" = "繼續";
 
+	"SHOW_ICON" = "顯示圖示";
+	"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "在“主畫面”螢幕顯示 Activator 圖示";
+
+	"Advertisement" = "廣告";
+
 	/* Menus */
 
 	"MENUS" = "項目單";
@@ -178,6 +183,7 @@
 	"LISTENER_GROUP_TITLE_Lock Screen" = "“鎖定”螢幕";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 開關";
 	"LISTENER_GROUP_TITLE_Phone" = "電話";
+	"EVENT_GROUP_TITLE_Power" = "電源";
 	
 	/* Listener Names */
 	
@@ -222,6 +228,12 @@
 
 	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "SpringBoard 第一頁";
 	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "訪問第一個圖示頁面";
+
+	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "激活通知中心";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "下拉式通知中心";
+
+	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "撰寫 Tweet";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "啟動内置 Tweet 編輯器";
 
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "顯示正在播放快顯視窗";
