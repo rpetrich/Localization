@@ -1,6 +1,5 @@
 {
-	"LOCALIZATION_ABOUT" = "כל הזכויות שמורות - 2009 - 2011 - Ryan Petrich
-	תורגם על ידי מעוז זוגרבו";
+	"LOCALIZATION_ABOUT" = "כל הזכויות שמורות - 2009 - 2011 - Ryan Petrich\nתורגם על ידי מעוז זוגרבו ואלי יעבץ";
 	
 	/* Settings Controller */
 	
@@ -40,6 +39,11 @@
 	"VERSION_PROMPT_MORE_INFO" = "מידע נוסף";
 	"VERSION_PROMPT_IGNORE" = "התעלם";
 	"VERSION_PROMPT_CONTINUE" = "המשך";
+	
+	SHOW_ICON = "הצג אייקון";
+	SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD = "הצג את האייקון של Activator במסך הבית";
+	
+	Advertisement = "פרסומת";
 	
 	/* Menus */
 	
@@ -222,6 +226,13 @@
 	"LISTENER_TITLE_libactivator.system.nothing" = "לא לבצע שום פעולה";
 	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "עצירת הפעולה המקורית";
 	
+	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "הצג את מרכז העידכונים";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "משיכת מרכז העדכונים";
+
+	
+	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "צור ציוץ";
+ 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "טען את יוצר הציוצים";
+
 	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "עמוד ראשון במסך הבית";
 	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "קפיצה לעמוד הראשון שבו יש אייקונים";
 
