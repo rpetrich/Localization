@@ -130,4 +130,12 @@
 	"Celeste" = "Celeste";
 	"Voice" = "语音";
 	"Today" = "今日";
+
+	"Date Format" = "日期格式";
+	"Time Format" = "时间格式";
+	"None" = "无";
+	"Short" = "短";
+	"Medium" = "中";
+	"Long" = "长";
+	"Full" = "完整";
 }
