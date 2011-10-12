@@ -40,6 +40,11 @@
 	VERSION_PROMPT_IGNORE = "Ignora";
 	VERSION_PROMPT_CONTINUE = "Continua";
 
+	SHOW_ICON = "Mostra icona";
+	SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD = "Mostra l'icona sulla SpringBoard";
+
+	Advertisement = "Pubblicità";
+
 	/* Menus */
 
 	MENUS = "Menu";
@@ -223,6 +228,13 @@
 
 	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "Prima pagine SpringBoard";
 	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Salta alla prima pagina di icone";
+
+	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Attiva centro notifiche";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Trascina giù il centro notifiche";
+
+
+	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Componi tweet";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Avvia il compositore tweet";
 
 
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "Controlli iPod";
