@@ -21,4 +21,6 @@
 	"To enter retina mode kill %@ via the multitasking switcher bar." = "在多工列中退出 %@ 以應用 Retina 模式。";
 	"To exit retina mode kill %@ via the multitasking switcher bar." = "在多工列中退出 %@ 以取消 Retina 模式。";
 	"this application" = "該應用程式";
+
+	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "這是你首次在安裝了 RetinaPad 的情况下運行該應用程式。\n\n你希望使用 Retina 模式顯示嗎？\n\n在 RetinaPad 的設定程式中可以找到更多設定選項。";
 }
