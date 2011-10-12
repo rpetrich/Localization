@@ -127,4 +127,12 @@
 	"Celeste" = "Celeste";
 	"Voice" = "Voice";
 	"Today" = "Today";
+
+	"Date Format" = "Date Format";
+	"Time Format" = "Time Format";
+	"None" = "None";
+	"Short" = "short";
+	"Medium" = "Medium";
+	"Long" = "Long";
+	"Full" = "Full";
 }
