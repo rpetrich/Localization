@@ -21,4 +21,6 @@
 	"To enter retina mode kill %@ via the multitasking switcher bar." = "Retinaモードを応用するために、マルチタスクステータスバーに%@を終了してください。";
 	"To exit retina mode kill %@ via the multitasking switcher bar." = "Retinaモードをキャンセルするために、マルチタスクステータスバーに%@を終了してください。";
 	"this application" = "このアプリケーション";
+
+	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "これはあなたがRetinaPadをインストールした、このアプリケーションを初めて動作します。\n\nRetinaモードを応用したいですか？\n\nRetinaPad の設定にもとオプションがあります。";
 }
