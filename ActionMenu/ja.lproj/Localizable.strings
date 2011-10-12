@@ -117,3 +117,10 @@
 "by" = "by";
 "lap" = "ラップ";
 "on" = "オン";
+"Date Format" = "日付のフォーマット";
+"Time Format" = "時間のフォーマット";
+"None" = "なし";
+"Short" = "短";
+"Medium" = "中";
+"Long" = "長";
+"Full" = "全部";
