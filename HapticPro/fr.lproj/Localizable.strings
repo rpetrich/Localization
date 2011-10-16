@@ -1,0 +1,47 @@
+{
+	"Trigger Events" = "Utilisation";
+	"Key Pressed" = "Touche Pressée";
+	"Key Released" = "Touche Relâchée";
+	"Key Repeated" = "Touche Répétée";
+
+	"Trigger Controls" = "Interfaces";
+	"Keyboard" = "Clavier";
+	"Buttons" = "Touches";
+	"Table Cells" = "Cellules";
+	"Web Links" = "Liens WEB";
+
+	"Duration" = "Durée";
+
+	"Test Keyboard" = "Test du clavier";
+
+	"HapticPro-Advanced" = "Réglages Avancés";
+	"Reset to Defaults" = "Réglages par Défaut";
+	"Are you sure you wish to reset HapticPro to the default settings?" = "Êtes-vous certain(e) de vouloir revenir aux réglages par défaut de HapticPro?";
+	"Cancel" = "Annuler";
+	"Reset" = "Défaut";
+	
+	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "À cause d'une limitation de la version 3.0 de l'iPhone, HapticPro est désactivé lorsque vous écoutez de la musique.";
+	
+	
+	"Intensity" = "Intensité";
+	"Adjust the strength of the vibration." = "Ajustez l'intensité de la vibration.";
+	"Has no effect on the iPhone 3G" = "N'a aucun effet sur l'iPhone 3G";
+	
+	"Only Special Keys" = "Touches Spéciales Uniquement";
+	"Activates HapticPro only from the keyboard's modifier keys." = "Active HapticPro uniquement à partir des touches de fonction du clavier.";
+
+	"Buttons" = "Touches";
+	"Add Click Sounds" = "Ajouter les Clics";
+	"Enable keyboard click sounds on regular buttons." = "Activer les clics sur tous les boutons.";
+	
+	"Ringer Switch" = "Interrupteur de la sonnerie";
+	"Trigger In Ring" = "Réglé sur Sonnerie";
+	"Trigger In Silent" = "Réglé sur Vibreur";
+	"Enable/disable haptic feedback based on the status of the ringer switch." = "Activer/désactiver le retour haptique en fonction de l'interrupteur du vibreur.";
+
+	"Duration" = "Durée";
+	"Duration Factor Pressed" = "Quand est pressé";
+	"Duration Factor Released" = "Quand est relâché";
+	"Duration Factor Repeated" = "Quand est répété";
+	"Control the duration of each type of haptic feedback independently." = "Contrôlez la durée de chaque retour haptique indépendamment.";
+}

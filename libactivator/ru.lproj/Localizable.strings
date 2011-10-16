@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTION</key>
+	<string>Действие</string>
+	<key>ACTIVATOR</key>
+	<string>Activator</string>
+	<key>ADD</key>
+	<string>Добавить</string>
+	<key>ADD_ACTION</key>
+	<string>Добавить действие</string>
+	<key>ADD_NEW_MENU</key>
+	<string>Добавить новое меню</string>
+	<key>ALERT_CANCEL</key>
+	<string>Отмена</string>
+	<key>ALERT_IGNORE</key>
+	<string>Игнорировать</string>
+	<key>ALERT_OK</key>
+	<string>OK</string>
+	<key>ALERT_REASSIGN</key>
+	<string>Переставить</string>
+	<key>ALERT_VALUE_AND</key>
+	<string>и</string>
+	<key>ALREADY_ASSIGNED_TO</key>
+	<string>Уже поставлено
+%@</string>
+	<key>AT_LEAST_ONE_ASSIGNMENT_REQUIRED</key>
+	<string>Хотя бы одно действие должно быть поставлено с %@</string>
+	<key>CANCEL</key>
+	<string>Отменить</string>
+	<key>CANT_DEACTIVATE_REMAINING</key>
+	<string>Не могу деактивировать текущее действие</string>
+	<key>CURRENTLY_ASSIGNED_TO</key>
+	<string>Поставлено к:</string>
+	<key>DISABLED</key>
+	<string>Деактивировано</string>
+	<key>DONATE</key>
+	<string>Пожертвовать</string>
+	<key>DONATE_DETAIL</key>
+	<string>Пожертвовать с PayPal</string>
+	<key>ENABLED</key>
+	<string>Активировано</string>
+	<key>EVENT_DESCRIPTION_libactivator.headset-button.hold.short</key>
+	<string>Нажми и держи кнопку блокировки</string>
+	<key>EVENT_DESCRIPTION_libactivator.headset-button.press.single</key>
+	<string>Нажми кнопку блокировки один раз</string>
+	<key>EVENT_DESCRIPTION_libactivator.lock.hold.short</key>
+	<string>Нажмите и кратко задержите кнопку блокировки</string>
+	<key>EVENT_DESCRIPTION_libactivator.lock.press.double</key>
+	<string>Быстро нажмите 2 раза кнопку блокировки</string>
+	<key>EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap</key>
+	<string>Два раза нажать на часы/дату на экране блокировки</string>
+	<key>EVENT_DESCRIPTION_libactivator.menu.hold.short</key>
+	<string>Нажмите и держите кнопку "Домой"</string>
+	<key>EVENT_DESCRIPTION_libactivator.menu.press.at-springboard</key>
+	<string>Нажмите кнопку "Домой" на экране Spring Board</string>
+	<key>EVENT_DESCRIPTION_libactivator.menu.press.double</key>
+	<string>Быстро нажмите кнопку "Домой" два раза</string>
+	<key>EVENT_DESCRIPTION_libactivator.menu.press.single</key>
+	<string>Нажмите кнопку "Домой" один раз</string>
+	<key>EVENT_DESCRIPTION_libactivator.motion.shake</key>
+	<string>Потрясите!</string>
+	<key>EVENT_DESCRIPTION_libactivator.power.connected</key>
+	<string>Подключите зарядку</string>
+	<key>EVENT_DESCRIPTION_libactivator.power.disconnected</key>
+	<string>Отключите зарядку</string>
+	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom</key>
+	<string>Потяните на экране снизу вверх</string>
+	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom-left</key>
+	<string>Тянуть экран снизу влево</string>
+	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom-right</key>
+	<string>Тянуть экран снизу вправо</string>
+	<key>EVENT_DESCRIPTION_libactivator.springboard.pinch</key>
+	<string>Нажмите иконки Spring Board-а двумя пальцами</string>
+	<key>EVENT_DESCRIPTION_libactivator.springboard.spread</key>
+	<string>Нажать, а затем потянуть иконки Spring Board-a 2 пальцами</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.hold</key>
+	<string>Нажмите и держите на статусную полосу</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.swipe.down</key>
+	<string>Потяните вниз полсуток статусов</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.swipe.left</key>
+	<string>Потяните налево полосу статусов</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.swipe.right</key>
+	<string>Потяните направо полосу статусов</string>
+	<key>EVENT_DESCRIPTION_libactivator.statusbar.tap.double</key>
+	<string>Двойное нажатие на полосу статусов</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.both.press</key>
+	<string>Нажмите обе кнопки громкости</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.display-tap</key>
+	<string>Нажмите на громкость на дисплее</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.down-up</key>
+	<string>Нажмите кромкость вниз, потом вверх</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.down.hold.short</key>
+	<string>Нажмите и держите громкость вниз</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice</key>
+	<string>Переключите два раза переключатель громкости</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.up-down</key>
+	<string>Нажмите громкость вверх, затем вниз</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.up.hold.short</key>
+	<string>Нажми и держи громкость вверх</string>
+	<key>EVENT_GROUP_TITLE_Headset Button</key>
+	<string>Кнопка блокировки</string>
+	<key>EVENT_GROUP_TITLE_Home Button</key>
+	<string>Кнопка "Домой"</string>
+	<key>EVENT_GROUP_TITLE_Lock Screen</key>
+	<string>Экран блокировки</string>
+	<key>EVENT_GROUP_TITLE_Motion</key>
+	<string>Движение</string>
+	<key>EVENT_GROUP_TITLE_Power</key>
+	<string>Энергия</string>
+	<key>EVENT_GROUP_TITLE_Sleep Button</key>
+	<string>Кнопка блокировки</string>
+	<key>EVENT_GROUP_TITLE_Slide In Gesture</key>
+	<string>Сдвинуть в сторону</string>
+	<key>EVENT_GROUP_TITLE_SpringBoard</key>
+	<string>SpringBoard</string>
+	<key>EVENT_GROUP_TITLE_Status Bar</key>
+	<string>Полоса статуса</string>
+	<key>EVENT_GROUP_TITLE_Volume Buttons</key>
+	<string>Кнопки громкости</string>
+	<key>EVENT_TITLE_libactivator.headset-button.hold.short</key>
+	<string>Краткая задержка</string>
+	<key>EVENT_TITLE_libactivator.headset-button.press.single</key>
+	<string>Простое нажатие</string>
+	<key>EVENT_TITLE_libactivator.lock.hold.short</key>
+	<string>Краткая задержка</string>
+	<key>EVENT_TITLE_libactivator.lock.press.double</key>
+	<string>Двойное нажатие</string>
+	<key>EVENT_TITLE_libactivator.lockscreen.clock.double-tap</key>
+	<string>Двойное нажатие на часы</string>
+	<key>EVENT_TITLE_libactivator.menu.hold.short</key>
+	<string>Краткая задержка</string>
+	<key>EVENT_TITLE_libactivator.menu.press.at-springboard</key>
+	<string>Просто нажмите на Spring Board-е</string>
+	<key>EVENT_TITLE_libactivator.menu.press.double</key>
+	<string>Двойное нажатие</string>
+	<key>EVENT_TITLE_libactivator.menu.press.single</key>
+	<string>Простое нажатие</string>
+	<key>EVENT_TITLE_libactivator.motion.shake</key>
+	<string>Встряхнуть устройство</string>
+	<key>EVENT_TITLE_libactivator.power.connected</key>
+	<string>Подсоединено</string>
+	<key>EVENT_TITLE_libactivator.power.disconnected</key>
+	<string>Отсоединено</string>
+	<key>EVENT_TITLE_libactivator.slide-in.bottom</key>
+	<string>С низа экрана</string>
+	<key>EVENT_TITLE_libactivator.slide-in.bottom-left</key>
+	<string>С низа экрана влево</string>
+	<key>EVENT_TITLE_libactivator.slide-in.bottom-right</key>
+	<string>С низа экрана вправо</string>
+	<key>EVENT_TITLE_libactivator.springboard.pinch</key>
+	<string>Нажатие на иконки</string>
+	<key>EVENT_TITLE_libactivator.springboard.spread</key>
+	<string>Потянуть иконки</string>
+	<key>EVENT_TITLE_libactivator.statusbar.hold</key>
+	<string>Задержка</string>
+	<key>EVENT_TITLE_libactivator.statusbar.swipe.down</key>
+	<string>Тянуть вниз</string>
+	<key>EVENT_TITLE_libactivator.statusbar.swipe.left</key>
+	<string>Тянуть влево</string>
+	<key>EVENT_TITLE_libactivator.statusbar.swipe.right</key>
+	<string>Тянуть вправо</string>
+	<key>EVENT_TITLE_libactivator.statusbar.tap.double</key>
+	<string>Двойное нажатие</string>
+	<key>EVENT_TITLE_libactivator.volume.both.press</key>
+	<string>Нажать но обе</string>
+	<key>EVENT_TITLE_libactivator.volume.display-tap</key>
+	<string>Нажать на дисплее</string>
+	<key>EVENT_TITLE_libactivator.volume.down-up</key>
+	<string>Вниз, вверх</string>
+	<key>EVENT_TITLE_libactivator.volume.down.hold.short</key>
+	<string>Краткая задержка вниз</string>
+	<key>EVENT_TITLE_libactivator.volume.toggle-mute-twice</key>
+	<string>Переключатель  громкости</string>
+	<key>EVENT_TITLE_libactivator.volume.up-down</key>
+	<string>Вверх, вниз</string>
+	<key>EVENT_TITLE_libactivator.volume.up.hold.short</key>
+	<string>Краткая задержка вверх</string>
+	<key>IN_CYDIA_WARNING</key>
+	<string>Очень опасно делать изменения, когда Cydia делает установку</string>
+	<key>LISTENER_DESCRIPTION_application</key>
+	<string>Запустить приложение</string>
+	<key>LISTENER_DESCRIPTION_libactivator.ipod.music-controls</key>
+	<string>Показать окно "Сейчас играет"</string>
+	<key>LISTENER_DESCRIPTION_libactivator.ipod.next-track</key>
+	<string>Следующая песня</string>
+	<key>LISTENER_DESCRIPTION_libactivator.ipod.previous-track</key>
+	<string>Предыдущая песня</string>
+	<key>LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback</key>
+	<string>Запуск окна iPod</string>
+	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss</key>
+	<string>Исключить экран блокировки</string>
+	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.show</key>
+	<string>Показать экран блокировки</string>
+	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.toggle</key>
+	<string>Показывает экран блокировки</string>
+	<key>LISTENER_DESCRIPTION_libactivator.phone.contacts</key>
+	<string>Показывает вкладку "Контакты" в приложении "Телефон"</string>
+	<key>LISTENER_DESCRIPTION_libactivator.phone.favorites</key>
+	<string>Показывает вкладку "Избранное" в приложении "Телефон"</string>
+	<key>LISTENER_DESCRIPTION_libactivator.phone.keypad</key>
+	<string>Показывает вкладку "Клавиатура" в приложении "Телефон"</string>
+	<key>LISTENER_DESCRIPTION_libactivator.phone.recents</key>
+	<string>Показывает вкладку "Недавние" в приложении "Телефон"</string>
+	<key>LISTENER_DESCRIPTION_libactivator.phone.voicemail</key>
+	<string>Показывает вкладку "Автоответчик" в приложении "Телефон"</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.activate-switcher</key>
+	<string>Показать запущенные приложения</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.first-springboard-page</key>
+	<string>Показать первую страницу иконок</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.homebutton</key>
+	<string>Симулирует нажатие кнопки "Домой"</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.nothing</key>
+	<string>Выполняет оригинальное действие</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.powerdown</key>
+	<string>Немедленно выключает устройство</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.reboot</key>
+	<string>Немедленно перезагружает устройство</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.respring</key>
+	<string>Нормально перезагрузить Spring Board</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.safemode</key>
+	<string>Запустить Spring Board в безопасном режиме</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar</key>
+	<string>Показать стандарнтный контроль iPod</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.sleepbutton</key>
+	<string>Симулирует нажатие кнопки блокировки</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.spotlight</key>
+	<string>Активирует поиск Spotlight</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.take-screenshot</key>
+	<string>Сохранить содержание в "Фото"</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.voice-control</key>
+	<string>Активирует управление голосом</string>
+	<key>LISTENER_DESCRIPTION_toggle</key>
+	<string>Активировать/деактивировать вкладку</string>
+	<key>LISTENER_GROUP_TITLE_Lock Screen</key>
+	<string>Экран блокировки</string>
+	<key>LISTENER_GROUP_TITLE_Phone</key>
+	<string>Телефон</string>
+	<key>LISTENER_GROUP_TITLE_Power</key>
+	<string>Энергия</string>
+	<key>LISTENER_GROUP_TITLE_SBSettings Toggles</key>
+	<string>Вкладки SBSettings</string>
+	<key>LISTENER_GROUP_TITLE_System Actions</key>
+	<string>Системные действия</string>
+	<key>LISTENER_GROUP_TITLE_System Applications</key>
+	<string>Системные приложения</string>
+	<key>LISTENER_GROUP_TITLE_User Applications</key>
+	<string>Приложения пользователя</string>
+	<key>LISTENER_GROUP_TITLE_iPod</key>
+	<string>iPod</string>
+	<key>LISTENER_TITLE_libactivator.ipod.music-controls</key>
+	<string>iPod контроль</string>
+	<key>LISTENER_TITLE_libactivator.ipod.next-track</key>
+	<string>Следующая песня</string>
+	<key>LISTENER_TITLE_libactivator.ipod.previous-track</key>
+	<string>Предыдущая песня</string>
+	<key>LISTENER_TITLE_libactivator.ipod.toggle-playback</key>
+	<string>Пауза/Играть</string>
+	<key>LISTENER_TITLE_libactivator.lockscreen.dismiss</key>
+	<string>Разблокировать устройство</string>
+	<key>LISTENER_TITLE_libactivator.lockscreen.show</key>
+	<string>Заблокировать устройство</string>
+	<key>LISTENER_TITLE_libactivator.lockscreen.toggle</key>
+	<string>Заблокировать/Разблокировать</string>
+	<key>LISTENER_TITLE_libactivator.phone.contacts</key>
+	<string>Показать контакты</string>
+	<key>LISTENER_TITLE_libactivator.phone.favorites</key>
+	<string>Показать избранное</string>
+	<key>LISTENER_TITLE_libactivator.phone.keypad</key>
+	<string>Показать клавиатуру</string>
+	<key>LISTENER_TITLE_libactivator.phone.recents</key>
+	<string>Показать недавние</string>
+	<key>LISTENER_TITLE_libactivator.phone.voicemail</key>
+	<string>Показать Автоответчик</string>
+	<key>LISTENER_TITLE_libactivator.system.activate-switcher</key>
+	<string>Активировать вкладку запущенных приложений</string>
+	<key>LISTENER_TITLE_libactivator.system.first-springboard-page</key>
+	<string>Первая страница SpringBoard-a</string>
+	<key>LISTENER_TITLE_libactivator.system.homebutton</key>
+	<string>Кнопка "Домой"</string>
+	<key>LISTENER_TITLE_libactivator.system.nothing</key>
+	<string>Ничего не делать</string>
+	<key>LISTENER_TITLE_libactivator.system.powerdown</key>
+	<string>Выключить устройство</string>
+	<key>LISTENER_TITLE_libactivator.system.reboot</key>
+	<string>Перезагрузить</string>
+	<key>LISTENER_TITLE_libactivator.system.respring</key>
+	<string>Перезапустить Spring Board</string>
+	<key>LISTENER_TITLE_libactivator.system.safemode</key>
+	<string>Безопасный режим</string>
+	<key>LISTENER_TITLE_libactivator.system.show-now-playing-bar</key>
+	<string>Показать окно "Сейчас играет"</string>
+	<key>LISTENER_TITLE_libactivator.system.sleepbutton</key>
+	<string>Кнопка блокировки</string>
+	<key>LISTENER_TITLE_libactivator.system.spotlight</key>
+	<string>Поиск Spotlight</string>
+	<key>LISTENER_TITLE_libactivator.system.take-screenshot</key>
+	<string>Сделать скриншот</string>
+	<key>LISTENER_TITLE_libactivator.system.voice-control</key>
+	<string>Управление голосом</string>
+	<key>LISTENER_TITLE_toggle_3G</key>
+	<string>3G</string>
+	<key>LISTENER_TITLE_toggle_Bluetooth</key>
+	<string>Bluetooth</string>
+	<key>LISTENER_TITLE_toggle_Data</key>
+	<string>Данные (EDGE)</string>
+	<key>LISTENER_TITLE_toggle_Location</key>
+	<string>GPS</string>
+	<key>LISTENER_TITLE_toggle_Phone</key>
+	<string>Телефон</string>
+	<key>LISTENER_TITLE_toggle_SSH</key>
+	<string>SSH</string>
+	<key>LISTENER_TITLE_toggle_Syslog</key>
+	<string>Системный лог</string>
+	<key>LISTENER_TITLE_toggle_Wi-Fi</key>
+	<string>Wi-Fi</string>
+	<key>LOCALIZATION_ABOUT</key>
+	<string>Руссификация от Шулики Анатолия</string>
+	<key>MENUS</key>
+	<string>Меню</string>
+	<key>MENUS_DETAIL</key>
+	<string>Настроить свои меню Activator</string>
+	<key>MENU_TITLE</key>
+	<string>Название</string>
+	<key>MODE_DESCRIPTION_all</key>
+	<string></string>
+	<key>MODE_DESCRIPTION_application</key>
+	<string>Во время приложения</string>
+	<key>MODE_DESCRIPTION_lockscreen</key>
+	<string>Когда заблокирован или виден экран блокировки</string>
+	<key>MODE_DESCRIPTION_springboard</key>
+	<string>Когда видны иконки Spring Board-a</string>
+	<key>MODE_TITLE_all</key>
+	<string>Везде</string>
+	<key>MODE_TITLE_application</key>
+	<string>В приложении</string>
+	<key>MODE_TITLE_lockscreen</key>
+	<string>На экране блокировки</string>
+	<key>MODE_TITLE_springboard</key>
+	<string>На экране "Домой"</string>
+	<key>MORE_ACTIONS</key>
+	<string>Больше действий</string>
+	<key>MORE_ACTIONS_DETAIL</key>
+	<string>Скачать больше действий через Cydia</string>
+	<key>MULTIPLE_ASSIGNMENTS</key>
+	<string>(много значений)</string>
+	<key>NEW_MENU</key>
+	<string>Новое меню</string>
+	<key>N_ADDITIONAL_EVENTS</key>
+	<string>%i добавленные действия</string>
+	<key>OUT_OF_DATE_MESSAGE</key>
+	<string>Activator работает лучше на современных версиях iOS.
+Пожалуйста, обновитесь.</string>
+	<key>OUT_OF_DATE_TITLE</key>
+	<string>Версия системы не подходит</string>
+	<key>RESET_ALERT_CANCEL</key>
+	<string>Отмена</string>
+	<key>RESET_ALERT_CONTINUE</key>
+	<string>Откат</string>
+	<key>RESET_ALERT_MESSAGE</key>
+	<string>Вы уверены, что хотите откатить Activator к начальным настройкам?
+Ваше устройство перезагрузится, если вы продолжите.</string>
+	<key>RESET_ALERT_TITLE</key>
+	<string>Откатить настройки Activator</string>
+	<key>RESET_SETTINGS</key>
+	<string>Откатить настройки</string>
+	<key>RESET_SETTINGS_DETAIL</key>
+	<string>Вернуть все настройки у изначальным значениям</string>
+	<key>TOO_NEW_MESSAGE</key>
+	<string>Activator не был протестирован с этой версией iOS.
+Некоторые настройки не будут работать.
+Activator has not been tested with this version of iOS.
+Some features may not work as designed.</string>
+	<key>TOO_NEW_TITLE</key>
+	<string>Версия системы слишком новая</string>
+	<key>UNASSIGNED</key>
+	<string>(не поставлено)</string>
+	<key>VERSION_PROMPT_CONTINUE</key>
+	<string>Продолжить</string>
+	<key>VERSION_PROMPT_IGNORE</key>
+	<string>Игнорировать</string>
+	<key>VERSION_PROMPT_MORE_INFO</key>
+	<string>Больше информации</string>
+</dict>
+</plist>

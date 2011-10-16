@@ -1,0 +1,126 @@
+{
+	"OK" = "אוקיי";
+	"Cancel" = "ביטול";
+	"ON" = "פעיל";
+	"OFF" = "כבוי";
+	"all-day" = "כל הזמן";
+	"AM" = "AM";
+	"PM" = "PM";
+	"by" = "ע\"י";
+	"on" = "פעיל";
+	"lap" = "lap";
+	"Enabled" = "פעיל";
+	"Use Icons" = "השתמש באייקונים";
+	"Actions" = "פעולות";
+	"More Actions..." = "עוד פעולות...";
+	"Donate with PayPal" = "תרום באמצעות PayPal";
+	"Copy All" = "העתק הכל";
+	"Debug" = "איתור באגים";
+	"Dial" = "חייג";
+	"Favorites" = "מועדפים";
+	"History" = "היסטוריה";
+	"Lookup" = "אתר";
+	"Scroll" = "גלול";
+	"Tweet" = "צייץ";
+	"Pasteboard Favorites" = "מועדפים";
+	"Delete Favorite" = "מחק מועדפים";
+	"Add Favorite..." = "הוסף מועדף...";
+	"Add Favorite" = "הוסף מועדף";
+	"Create" = "צור";
+	"Enter the new favorite details" = "הזן את פרטי המועדף";
+	"Open in Safari" = "פתח בספארי";
+	"Search" = "חפש";
+	"Wikipedia" = "ויקיפדיה";
+	"Dictionary" = "מילון";
+	"Translate" = "תרגם";
+	"Find" = "מצא";
+	"Find In Page" = "מצא בעמוד";
+	"Find Next" = "מצא את הבא";
+	"Find Previous" = "מצא קודם";
+	"Next" = "הבא";
+	"Previous" = "קודם";
+	"Not Found" = "לא נמצא";
+	"Clear" = "נקה";
+	"Confirm" = "אשר";
+	"Pasteboard History" = "היסטוריית הדבקות";
+	
+	"Right to Left" = "ימין לשמאל";
+	"Left to Right" = "שמאל לימין";
+	"Sorted" = "ממוין";
+	"New Favorite" = "מועדף חדש";
+	"biteSMS" = "biteSMS";
+	"Extended Support" = "תמיכה מוספת";
+	"TRANSLATION_ABOUT" = "תורגם ע\"י אלי יעבץ 2011";
+	
+	"Preferred Client" = "לקוח מועדף";
+	
+	"Clear History" = "נקה היסטורייה";
+	"Close" = "סגור";
+	
+	"Cut" = "גזור";
+	"Copy" = "העתק";
+	"Paste" = "הדבק";
+	"Select" = "בחר";
+	"Select All" = "בחר הכל";
+	
+	"Locate" = "אתר";
+	"Error retrieving location!" = "לא ניתן לאתר את מיקומך!";
+	"Estimated Accuracy:" = "רמת דיוק:";
+	"%ld meters" = "%ld מטרים";
+	"My Location on Google Maps" = "המיקום שלי במפות";
+	"Pastie" = "Pastie";
+	"Send to Pastie" = "שלח אל Pastie";
+	"Paste Complete" = "ההדבקה הושלמה";
+	"The URL has been copied to your clipboard." = "הקישור הועתק ללוח ומוכן להדבקה.";
+	"Continue" = "המשך";
+	"Error" = "שגיאה";
+	"Unable to submit your pastie." = "לא ניתן לשלוח את ההדבקה שלך אל pastie.";
+	"No Search Results" = "לא נמצאו תוצאות";
+	
+	"Edit Favorite" = "ערוך מועדף";
+	"To Top" = "לראש העמוד";
+	"To Bottom" = "לתחתית העמוד";
+	
+	"Rich Text For Mail" = "טקסט עשיר לדוא\"ל";
+	"Format" = "מבנה";
+	"Bold" = "מודגש";
+	"Italic" = "מוטה";
+	"Underline" = "קו תחתון";
+	"Strikethrough" = "קו חוצה";
+	"Image" = "תמונה";
+	"Text Style" = "עיצוב טקסט";
+	"Font Size" = "גודל פונט";
+	"Font Family" = "סוג פונט";
+	"Text Color" = "צבע פונט";
+	"Highlight Color" = "צבע סימון";
+	"Black" = "שחור";
+	"White" = "לבן";
+	"Silver" = "כסף";
+	"Gray" = "אפור";
+	"Red" = "אדום";
+	"Maroon" = "חום";
+	"Yellow" = "צהוב";
+	"Olive" = "ירוק-זית";
+	"Lime" = "צהוב לימון";
+	"Green" = "ירוק";
+	"Aqua" = "תכלת";
+	"Teal" = "טורקיז";
+	"Blue" = "כחול";
+	"Navy" = "כחול כהה";
+	"Fuchsia" = "וורוד";
+	"Purple" = "סגול";
+	"None" = "ללא";
+	"Unknown" = "לא ידוע";
+	
+	"Playing" = "מתנגן";
+	"\"%@\" by %@ " = "\"%@\" ע\"י %@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> ע\"י <strong>%@</strong> ";
+	
+	"Default Actions" = "פעולות ברירת מחדל";
+	"Replace" = "החלף";
+	
+	"Link" = "קישור";
+	"Insert" = "הכנס";
+	"Link Text" = "טקסט קישור";
+	"Link URL" = "כתובת קישור";
+}

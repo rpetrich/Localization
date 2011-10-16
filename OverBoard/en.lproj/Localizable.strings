@@ -1,0 +1,43 @@
+{
+	
+	ACTIVATION_METHODS = "Activation Methods";
+	HOME_BUTTON = "Home Button";
+	DOUBLE_HOME_BUTTON = "Double Home Button";
+	SPRINGBOARD_ICON = "SpringBoard Icon";
+	SPRINGBOARD_PINCH = "SpringBoard Pinch";
+	SPRINGBOARD_SPREAD = "SpringBoard Spread";
+	
+	VISIBLE_ELEMENTS = "Visible Elements";
+	COLUMNS = "Columns";
+	ONE = "One";
+	TWO = "Two";
+	THREE = "Three";
+	FOUR = "Four";
+	FIVE = "Five";
+	AUTO = "Auto";
+	DOCK = "Dock";
+	SEARCH_PAGE = "Search Page";
+	ANIMATED = "Animated";
+	REVERSE_ORDER = "Reverse Order";
+	SHOW_AS_HOME_SCREEN = "Become Home Screen";
+
+	BADGE_STYLE = "Badge Style";
+	BADGE_STYLE_HIDDEN = "Hidden";
+	BADGE_STYLE_ON_ICONS = "On Icons";
+	BADGE_STYLE_ON_PAGES = "On Pages";
+	BADGE_STYLE_ON_BOTH = "On Both";
+	
+	PLAY_SOUNDS = "Play Sounds";
+
+	"CLEAR_ICON_CACHE" = "Clear Icon Cache";
+	"CLEAR_ICON_CACHE_QUESTION" = "Clear Icon Cache?";
+	
+	CONTINUE = "Continue";
+	CANCEL = "Cancel";
+	
+	BACKGROUND_STYLE = "Background Style";
+	THEME_BACKGROUND = "Theme Background";
+	SYSTEM_WALLPAPER = "System Wallpaper";
+	THEME = "Theme";
+	WALLPAPER = "Wallpaper";
+}

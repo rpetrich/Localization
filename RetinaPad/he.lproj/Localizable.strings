@@ -1,0 +1,24 @@
+﻿{
+	"RetinaPad" = "RetinaPad";
+
+	"Enabled Applications" = "אפליקציות פעילות";
+	"System Applications" = "אפליקציות מערכת";
+	"User Applications" = "אפליקציות משתמש";
+	"Customize which applications Retina mode is applied to." = "התאם פעילות מצב רטינה על אפליקציות.";
+
+	"Always Zoom" = "זום תמיד";
+	"Allow Upside Down" = "אפשר סיבוב מלא";
+	"Show Simulated Chrome" = "הצג סימולציית כרום";
+	"Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "יש לסגור אפליקציות קלאסיות אשר פועלות כעת ע\"מ שהשינויים יחולו.";
+
+	"Portrait in Landscape" = "מצב דיוקן במצב נוף";
+	"This feature is in beta and is unsupported, for now." = "תכונה זו הינה בביטא ואינה נתמכת, נכון לעכשיו.";
+
+	"OK" = "אוקיי";
+	"Cancel" = "ביטול";
+	"Apply" = "החל";
+
+	"To enter retina mode kill %@ via the multitasking switcher bar." = "כדי להכנס למצב רטינה סגור את %@ דרך המולטי-טאסקינג.";
+	"To exit retina mode kill %@ via the multitasking switcher bar." = "כדי לצאת ממצב רטינה סגור את %@ דרך המולטי-טאסקינג.";
+	"this application" = "אפליקציה זו";
+}

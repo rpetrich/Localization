@@ -1,0 +1,47 @@
+{
+	"Correct" = "Correct";
+	"Add To Dictionary" = "Add To Dictionary";
+	"Cancel" = "Cancel";
+
+	"Enabled" = "Enabled";
+	"Language" = "Language";
+	"Use Heuristics" = "Use Heuristics";
+	"Clear User Dictionary" = "Clear User Dictionary";
+
+	"OK" = "OK";
+	"Visit" = "Visit";
+	
+	"Are you sure you wish to clear your user dictionary?" = "Are you sure you wish to clear your user dictionary?";
+	"Clear" = "Clear";
+	
+	"Autocorrections" = "Autocorrections";
+	"Add Correction..." = "Add Correction...";
+	"Create" = "Create";
+	"Enter the new autocorrection details" = "Enter the new autocorrection details";
+	"Input" = "Input";
+	"Output" = "Output";
+	"Tap to Edit" = "Tap to Edit";
+	"Correction" = "Correction";
+	"Save" = "Save";
+	"Enter the updated autocorrection details" = "Enter the updated autocorrection details";
+	
+	"Input Text Is Blank" = "Input Text Is Blank";
+	"Input text must be entered to create an autocorrect rule" = "Input text must be entered to create an autocorrect rule";
+	"Invalid Characters" = "Invalid Characters";
+	"Input text may contain only numbers and letters" = "Input text may contain only numbers and letters";
+	"Output Text Is Blank" = "Output Text Is Blank";
+	"Output text must be entered to create an autocorrect rule" = "Output text must be entered to create an autocorrect rule";
+	"Delete Correction" = "Delete Correction";
+	
+	"Style" = "Style";
+	"Squiggly Underline" = "Squiggly Underline";
+	"Solid Underline" = "Solid Underline";
+	"Dashed Underline" = "Dashed Underline";
+	"Shaded Box" = "Shaded Box";
+	
+	"Secondary" = "Secondary";
+	"(None)" = "(None)";
+	"(none)" = "(none)";
+	
+	"Add..." = "Add…";
+}

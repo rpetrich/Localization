@@ -1,0 +1,45 @@
+{
+	"Correct" = "改正";
+	"Add To Dictionary" = "添加到辭典";
+	"Cancel" = "取消";
+
+	"Enabled" = "啟用";
+	"Language" = "語言";
+	"Use Heuristics" = "使用啟發式";
+	"Clear User Dictionary" = "清理用戶辭典";
+
+	"OK" = "確定";
+	"Visit" = "訪問";
+
+	"Are you sure you wish to clear your user dictionary?" = "您確定想清理您的用戶辭典嗎？";
+	"Clear" = "清理";
+
+	"Autocorrections" = "自動改正";
+	"Add Correction..." = "添加自動改正…";
+	"Create" = "新建";
+	"Enter the new autocorrection details" = "請輸入自動改正詳情";
+	"Input" = "輸入";
+	"Output" = "輸出";
+	"Tap to Edit" = "點擊以編輯";
+	"Correction" = "改正";
+	"Save" = "保存";
+	"Enter the updated autocorrection details" = "請輸入更新自動改正詳情";
+
+	"Input Text Is Blank" = "輸入文本為空";
+	"Input text must be entered to create an autocorrect rule" = "為創建自動改正規則，輸入文本不能為空";
+	"Invalid Characters" = "無效字元";
+	"Input text may contain only numbers and letters" = "輸入文字只允許數位和字母";
+	"Output Text Is Blank" = "輸出文本為空";
+	"Output text must be entered to create an autocorrect rule" = "為創建自動改正規則，輸出文本不能為空";
+	"Delete Correction" = "刪除改正規則";
+
+	"Style" = "式樣";
+	"Squiggly Underline" = "波浪底線";
+	"Solid Underline" = "直底線";
+	"Dashed Underline" = "虛底線";
+	"Shaded Box" = "著色框";
+
+	"Secondary" = "輔助";
+	"(None)" = "【無】";
+	"(none)" = "【無】";
+}

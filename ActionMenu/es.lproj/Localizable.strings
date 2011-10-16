@@ -1,0 +1,83 @@
+{
+	OK = OK;
+	Cancel = Cancelar;
+	ON = ON;
+	OFF = OFF;
+	"all-day" = "todo el día";
+	AM = AM;
+	PM = PM;
+	by = de;
+	on = en;
+	lap = lap;
+	Enabled = Activado;
+	"Use Icons" = "Utilizar iconos";
+	Actions = Acciones;
+	"More Actions..." = "Más Acciones...";
+	"Donate with PayPal" = "Donar con PayPal";
+	"Copy All" = "Copiar todo";
+	"Debug" = "Debug";
+	"Dial" = "Llamar";
+	Favorites = Favoritos;
+	History = Historial;
+	Lookup = Buscar;
+	Scroll = Scroll;
+	Tweet = Tweet;
+	"Pasteboard Favorites" = "Favoritos del Portapapeles";
+	"Delete Favorite" = "Borrar Favorito";
+	"Add Favorite..." = "Añadir Favorito...";
+	"Add Favorite" = "Añadir Favorito";
+	Create = Crear;
+	"Enter the new favorite details" = "Añadir detalles del nuevo favorito";
+	"Open in Safari" = "Abrir en Safari";
+	Search = Buscar;
+	Wikipedia = Wikipedia;
+	Dictionary = Diccionario;
+	Translate = Traducir;
+	Find = Buscar;
+	"Find In Page" = "Buscar en la página";
+	"Find Next" = "Buscar Siguiente";
+	"Find Previous" = "Buscar Anterior";
+	Next = Siguiente;
+	Previous = Anterior;
+	"Not Found" = "No encontrado";
+	Clear = Borrar todo;
+	Confirm = Confirmar;
+	"Pasteboard History" = "Historial del Portapapeles";
+
+	"Right to Left" = "Derecha a Izquierda";
+	"Left to Right" = "Izquierda a Derecha";
+	"Sorted" = "Ordenados";
+	"New Favorite" = "Nuevo Favorito";
+	"biteSMS" = "biteSMS";
+	"Extended Support" = "Soporte Extendido";
+	"TRANSLATION_ABOUT" = "Traducido por winfis";
+
+	"Preferred Client" = "Cliente Preferido";
+
+	"Clear History" = "Borrar Historial";
+	Close = Cerrar;
+
+	Cut = Cortar;
+	Copy = Copiar;
+	Paste = Pegar;
+	Select = Seleccionar;
+	"Select All" = "Seleccionar Todo";
+
+	Locate = Localizar;
+	"Error retrieving location!" = "Error durante la localización!";
+	"Estimated Accuracy:" = "Precisión estimada:";
+	"%ld meters" = "%ld metros";
+	"My Location on Google Maps" = "Mi posición en Google Maps";
+	Pastie = Pastie;
+	"Send to Pastie" = "Envia a Pastie";
+	"Paste Complete" = "Pegado completado";
+	"The URL has been copied to your clipboard." = "La URL se ha copiado a su portapapeles.";
+	Continue = Continuar;
+	Error = Error;
+	"Unable to submit your pastie." = "Imposible introducir su pastie.";
+	"No Search Results" = "Ningún Resultado";
+
+	"Edit Favorite" = "Editar Favoritos";
+	"To Top" = "Al principio";
+	"To Bottom" = "Al final";
+}

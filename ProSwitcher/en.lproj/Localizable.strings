@@ -1,0 +1,63 @@
+{
+	PROSWITCHER = ProSwitcher;
+	
+	/* Settings Controller */
+	
+	ACTIVATION_METHODS = "Activation Methods";
+	
+	BECOME_HOME_SCREEN = "Become Home Screen";
+	BECOME_HOME_SCREEN_DISABLED = "Disabled";
+	BECOME_HOME_SCREEN_ENABLED = "Enabled";
+	BECOME_HOME_SCREEN_BACKGROUND = "Background";
+	
+	SHOW_ICON = "Show Icon";
+	
+	DISPLAY_GROUP = "Display";
+	SHOW_APPLICATION_TITLE = "Application Title";
+	SHOW_BADGES = "Show Badges";
+	ZOOM_ACTIVE_CARD = "Zoom Active Card";
+	SHOW_CLOSE_BUTTON = "Close Button";
+	EMPTY_TAP_TO_CLOSE = "Empty Tap to Close";
+	
+	ROUNDED_CORNERS = "Rounded Corners";
+	ROUNDED_CORNERS_NONE = "None";
+	ROUNDED_CORNERS_SMALL = "Small";
+	ROUNDED_CORNERS_MEDIUM = "Medium";
+	ROUNDED_CORNERS_LARGE = "Large";
+	
+	SHOW_PAGE_CONTROL = "Page Dots";
+	SHOW_SPRINGBOARD_CARD = "SpringBoard Card";
+	SHOW_DEFAULT_APPS = "Show Default Apps";
+	SWIPE_TO_CLOSE = "Swipe to Close";
+	
+	EMPTY_STYLE = "Empty Style";
+	EMPTY_STYLE_TEXT = "Text";
+	EMPTY_STYLE_BLANK = "Blank";
+	EMPTY_STYLE_DISABLED = "Disabled";
+	
+	SNAPSHOT_INSET = "Cards Visible";
+	SNAPSHOT_INSET_40 = "Three";
+	SNAPSHOT_INSET_0 = "One";
+	
+	TAPS_TO_ACTIVATE = "Taps To Activate";
+	TAPS_TO_ACTIVATE_SINGLE = "One";
+	TAPS_TO_ACTIVATE_DOUBLE = "Two";
+	
+	THEMING_GROUP = "Theming";
+	
+	THEMED_ICONS = "Themed Icons";
+	SHOW_DOCK = "Show Dock";
+	DIM_BACKGROUND = "Dim Background";
+	
+	BACKGROUND_STYLE = "Background Style";
+	BACKGROUND_STYLE_NONE = "Transparent";
+	BACKGROUND_STYLE_IMAGE = "Theme";
+	
+	ABOUT_COPYRIGHT = "ProSwitcher is © 2009-2010 Ryan Petrich and Grant Paul and is licensed under the GNU LGPL.";
+	
+	NO_APPS_RUNNING = "No Apps Running";
+	
+	WELCOME_TITLE = "Welcome To ProSwitcher";
+	WELCOME_MESSAGE = "To change settings or to setup gestures, go to the Settings app.\n\n(c) 2009 Ryan Petrich and Grant Paul\nLGPL Licensed";
+	WELCOME_CONTINUE_BUTTON = "Continue";
+}

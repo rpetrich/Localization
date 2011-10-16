@@ -1,0 +1,16 @@
+{
+	"Correct" = "Corregir";
+	"Add To Dictionary" = "Añadir al diccionario";
+	"Cancel" = "Cancelar";
+
+	"Enabled" = "Habilitar";
+	"Language" = "Idioma";
+	"Use Heuristics" = "Usar heurísticas";
+	"Clear User Dictionary" = "Limpiar diccionario del usuario";
+
+	"OK" = "Aceptar";
+	"Visit" = "Visitar";
+	
+	"Are you sure you wish to clear your user dictionary?" = "¿Seguro que desea limpiar el diccionario del usuario?";
+	"Clear" = "Limpiar";
+}

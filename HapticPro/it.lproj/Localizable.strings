@@ -1,0 +1,47 @@
+{
+	"Trigger Events" = "Eventi";
+	"Key Pressed" = "Pressione tasto";
+	"Key Released" = "Rilascio tasto";
+	"Key Repeated" = "Ripetizione tasto";
+
+	"Trigger Controls" = "Controlli";
+	"Keyboard" = "Tastiera";
+	"Buttons" = "Pulsanti";
+	"Table Cells" = "Celle tabelle";
+	"Web Links" = "Collegamenti";
+
+	"Duration" = "Durata";
+
+	"Test Keyboard" = "Prova tastiera";
+
+	"HapticPro-Advanced" = "Impostazioni avanzate";
+	"Reset to Defaults" = "Reimposta impostazioni";
+	"Are you sure you wish to reset HapticPro to the default settings?" = "Sei sicuro di voler ripristinare le impostazioni predefinite di HapticPro?";
+	"Cancel" = "Annulla";
+	"Reset" = "Reimposta";
+
+	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "A causa delle limitazioni dell'iPhone OS 3.0, HapticPro verrà disabilitato durante la riproduzione audio.";
+
+
+	"Intensity" = "Intensità";
+	"Adjust the strength of the vibration." = "Regola l'intensità della vibrazione.";
+	"Has no effect on the iPhone 3G" = "Non ha effetto su iPhone 3G";
+
+	"Only Special Keys" = "Solo tasti speciali";
+	"Activates HapticPro only from the keyboard's modifier keys." = "Attiva HapticPro solo per i tasti di modifica della tastiera.";
+
+	"Buttons" = "Buttons";
+	"Add Click Sounds" = "Aggiungi suono click";
+	"Enable keyboard click sounds on regular buttons." = "Attiva il suono click della tastiera sui pulsanti normali.";
+
+	"Ringer Switch" = "Interruttore suoneria";
+	"Trigger In Ring" = "In suoneria";
+	"Trigger In Silent" = "In silenzioso";
+	"Enable/disable haptic feedback based on the status of the ringer switch." = "Attiva/disattiva il ritorno tattile in base allo stato dell'interruttore della suoneria.";
+
+	"Duration" = "Durata";
+	"Duration Factor Pressed" = "Durata fattore pressione";
+	"Duration Factor Released" = "Durata fattore rilascio";
+	"Duration Factor Repeated" = "Durata fattore ripetizione";
+	"Control the duration of each type of haptic feedback independently." = "Controlla la durata di ogni tipo di ritorno tattile indipendentemente.";
+}

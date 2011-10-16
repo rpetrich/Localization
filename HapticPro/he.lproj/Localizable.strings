@@ -1,0 +1,47 @@
+{
+	"Trigger Events" = "מפעיל אירוע";
+	"Key Pressed" = "כפתור נלחץ";
+	"Key Released" = "כפתור שוחרר";
+	"Key Repeated" = "כפתור נלחץ פעמיים";
+
+	"Trigger Controls" = "שולטי הפעלה";
+	"Keyboard" = "מקלדת";
+	"Buttons" = "כפתורים";
+	"Table Cells" = "תאי טבלה";
+	"Web Links" = "קישורים";
+
+	"Duration" = "משך זמן";
+
+	"Test Keyboard" = "נסה מקלדת";
+
+	"HapticPro-Advanced" = "הגדרות מתקדמות";
+	"Reset to Defaults" = "אפס לברירת מחדל";
+	"Are you sure you wish to reset HapticPro to the default settings?" = "האם אתה בטוח שברצונך לאפס את הגדרות HapticPro לברירת המחדל?";
+	"Cancel" = "ביטול";
+	"Reset" = "אפס";
+	
+	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "עקב הגבלות של OS 3.0, HapticPro יושבת בשמיעת מוסיקה.";
+	
+	
+	"Intensity" = "עצמה";
+	"Adjust the strength of the vibration." = "שנה את עוצמת הרטט.";
+	"Has no effect on the iPhone 3G" = "לא אפקטיבי באייפון 3G";
+	
+	"Only Special Keys" = "רק מקשים מיוחדים";
+	"Activates HapticPro only from the keyboard's modifier keys." = "מפעיל את HapticPro רק בצירוף המקשים שנבחר.";
+
+	"Buttons" = "כפתורים";
+	"Add Click Sounds" = "הוסף צליל לחיצה";
+	"Enable keyboard click sounds on regular buttons." = "מאפשר את צליל ההקלדה גם במקשים רגילים.";
+	
+	"Ringer Switch" = "מתג צליל";
+	"Trigger In Ring" = "הפעל במצב רגיל";
+	"Trigger In Silent" = "הפעל במצב שקט";
+	"Enable/disable haptic feedback based on the status of the ringer switch." = "אפשר/בטל מצב תחושה לפי מצב מתג הצלצול.";
+
+	"Duration" = "משך זמן";
+	"Duration Factor Pressed" = "זמן גורם לחוץ";
+	"Duration Factor Released" = "זמן גורם שוחרר";
+	"Duration Factor Repeated" = "זמן גורם הכפול";
+	"Control the duration of each type of haptic feedback independently." = "שליטה על משך הזמן של כל סוג של משוב לתחושה באופן עצמאי.";
+}

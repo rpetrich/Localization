@@ -1,0 +1,43 @@
+{
+
+	ACTIVATION_METHODS = "激活方式";
+	HOME_BUTTON = "主屏幕按钮";
+	DOUBLE_HOME_BUTTON = "按两下主屏幕按钮";
+	SPRINGBOARD_ICON = "主屏幕图标";
+	SPRINGBOARD_PINCH = "主屏幕合拢手指";
+	SPRINGBOARD_SPREAD = "主屏幕张开手指";
+
+	VISIBLE_ELEMENTS = "可见元素";
+	COLUMNS = "图标列数";
+	ONE = "一";
+	TWO = "二";
+	THREE = "三";
+	FOUR = "四";
+	FIVE = "五";
+	AUTO = "自动";
+	DOCK = "Dock";
+	SEARCH_PAGE = "搜索页面";
+	ANIMATED = "动画过渡";
+	REVERSE_ORDER = "倒序显示";
+	SHOW_AS_HOME_SCREEN = "显示主屏幕";
+
+	BADGE_STYLE = "标记风格";
+	BADGE_STYLE_HIDDEN = "隐藏";
+	BADGE_STYLE_ON_ICONS = "图标上";
+	BADGE_STYLE_ON_PAGES = "页面上";
+	BADGE_STYLE_ON_BOTH = "两个上";
+
+	PLAY_SOUNDS = "播放声音";
+
+	"CLEAR_ICON_CACHE" = "清理图标缓存";
+	"CLEAR_ICON_CACHE_QUESTION" = "清理图标缓存？";
+
+	CONTINUE = "继续";
+	CANCEL = "取消";
+	
+	BACKGROUND_STYLE = "背景样式";
+	THEME_BACKGROUND = "主题背景";
+	SYSTEM_WALLPAPER = "系统壁纸";
+	THEME = "主题";
+	WALLPAPER = "壁纸";
+}

@@ -1,0 +1,47 @@
+{
+	"Correct" = "תקין";
+	"Add To Dictionary" = "הוסף למילון";
+	"Cancel" = "ביטול";
+
+	"Enabled" = "פעיל";
+	"Language" = "שפה";
+	"Use Heuristics" = "השתמש בהיוריסטיות";
+	"Clear User Dictionary" = "נקה מילון משתמש";
+
+	"OK" = "אוקיי";
+	"Visit" = "בקר";
+	
+	"Are you sure you wish to clear your user dictionary?" = "האם אתה בטוח שברצונך לנקות את מילון המשתמש?";
+	"Clear" = "נקה";
+	
+	"Autocorrections" = "תיקונים אוטומטיים";
+	"Add Correction..." = "הוסף תיקון...";
+	"Create" = "צור";
+	"Enter the new autocorrection details" = "הוסף את פרטי התיקון האוטומטי החדש";
+	"Input" = "קלט";
+	"Output" = "פלט";
+	"Tap to Edit" = "לחץ כדי לערוך";
+	"Correction" = "תיקון";
+	"Save" = "שמור";
+	"Enter the updated autocorrection details" = "הזן את פרטי התיקון האוטומטי העדכניים";
+	
+	"Input Text Is Blank" = "הטקסט שהוזן ריק";
+	"Input text must be entered to create an autocorrect rule" = "חובה להזין טקסט קלט כדי ליצור תיקון אוטומטי חדש";
+	"Invalid Characters" = "תווים שגויים";
+	"Input text may contain only numbers and letters" = "על הטקסט המוזן להיות אותיות או מספרים בלבד";
+	"Output Text Is Blank" = "טקסט פלט ריק";
+	"Output text must be entered to create an autocorrect rule" = "חובה להזין טקסט פלט כדי ליצור תיקון אוטומטי חדש";
+	"Delete Correction" = "מחק תיקון";
+	
+	"Style" = "עיצוב";
+	"Squiggly Underline" = "קו תחתון משורבט";
+	"Solid Underline" = "קו תחתון נקי";
+	"Dashed Underline" = "קו תחתון מקוקו";
+	"Shaded Box" = "קופסה מוצללת";
+	
+	"Secondary" = "משני";
+	"(None)" = "(ללא)";
+	"(none)" = "(ללא)";
+	
+	"Add..." = "הוסף…";
+}

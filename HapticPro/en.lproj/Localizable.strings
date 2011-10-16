@@ -1,0 +1,47 @@
+{
+	"Trigger Events" = "Trigger Events";
+	"Key Pressed" = "Key Pressed";
+	"Key Released" = "Key Released";
+	"Key Repeated" = "Key Repeated";
+
+	"Trigger Controls" = "Trigger Controls";
+	"Keyboard" = "Keyboard";
+	"Buttons" = "Buttons";
+	"Table Cells" = "Table Cells";
+	"Web Links" = "Web Links";
+
+	"Duration" = "Duration";
+
+	"Test Keyboard" = "Test Keyboard";
+
+	"HapticPro-Advanced" = "Advanced Settings";
+	"Reset to Defaults" = "Reset to Defaults";
+	"Are you sure you wish to reset HapticPro to the default settings?" = "Are you sure you wish to reset HapticPro to the default settings?";
+	"Cancel" = "Cancel";
+	"Reset" = "Reset";
+	
+	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing.";
+	
+	
+	"Intensity" = "Intensity";
+	"Adjust the strength of the vibration." = "Adjust the strength of the vibration.";
+	"Has no effect on the iPhone 3G" = "Has no effect on the iPhone 3G";
+	
+	"Only Special Keys" = "Only Special Keys";
+	"Activates HapticPro only from the keyboard's modifier keys." = "Activates HapticPro only from the keyboard's modifier keys.";
+
+	"Buttons" = "Buttons";
+	"Add Click Sounds" = "Add Click Sounds";
+	"Enable keyboard click sounds on regular buttons." = "Enable keyboard click sounds on regular buttons.";
+	
+	"Ringer Switch" = "Ringer Switch";
+	"Trigger In Ring" = "Trigger In Ring";
+	"Trigger In Silent" = "Trigger In Silent";
+	"Enable/disable haptic feedback based on the status of the ringer switch." = "Enable/disable haptic feedback based on the status of the ringer switch.";
+
+	"Duration" = "Duration";
+	"Duration Factor Pressed" = "Duration Factor Pressed";
+	"Duration Factor Released" = "Duration Factor Released";
+	"Duration Factor Repeated" = "Duration Factor Repeated";
+	"Control the duration of each type of haptic feedback independently." = "Control the duration of each type of haptic feedback independently.";
+}

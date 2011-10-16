@@ -1,0 +1,277 @@
+{
+	LOCALIZATION_ABOUT = "Traduit par foX aCe";
+	
+	/* Settings Controller */
+	
+	CANT_DEACTIVATE_REMAINING = "Impossible de désactiver\nles évènements restants.";
+	AT_LEAST_ONE_ASSIGNMENT_REQUIRED = "Au moins un évènement\ndoit être assigné à%@";
+	ALERT_OK = "OK";
+	ALERT_IGNORE = "Ignorer";
+	ALERT_VALUE_AND = " et ";
+	ALREADY_ASSIGNED_TO = "Déjà affecté à\n%@";
+	ALERT_CANCEL = "Annuler";
+	ALERT_REASSIGN = "Réassigner";
+	ACTIVATOR = "Activator";
+	CURRENTLY_ASSIGNED_TO = "Actuellement assigné à:";
+	UNASSIGNED = "(non assigné)";
+	MORE_ACTIONS = "Plus d'actions";
+	MORE_ACTIONS_DETAIL = "Obtenez plus d'actions via Cydia";
+	DONATE = "Faire un don";
+	DONATE_DETAIL = "Contribuez via PayPal";
+	N_ADDITIONAL_EVENTS = "%i Évènements additionnels";
+	RESET_SETTINGS = "Réinitialiser les réglages";
+	RESET_SETTINGS_DETAIL = "Remets les réglages aux valeurs d’origines";
+	RESET_ALERT_TITLE = "Réinitialiser les paramètres d'Activator";
+	RESET_ALERT_MESSAGE = "Etes-vous sûr de vouloir restaurer les paramètres par défaut d'Activator?\nVotre appareil fera un respring si vous continuez.";
+	RESET_ALERT_CANCEL = "Annuler";
+	RESET_ALERT_CONTINUE = "Réinitialiser";
+	MULTIPLE_ASSIGNMENTS = "(multiple)";
+	
+	ENABLED = "Activer";
+	DISABLED = "Désactiver";
+	
+	OUT_OF_DATE_TITLE = "Version du système Obsolète";
+	OUT_OF_DATE_MESSAGE = "Activator fonctionne mieux sur une version moderne de iOS.\nS'il vous plaît envisager de mettre à niveau.";
+	
+	TOO_NEW_TITLE = "Version du système trop récente";
+	TOO_NEW_MESSAGE = "Activator n'a pas été testé avec cette version d'iOS.\nCertaines fonctionnalités peuvent ne pas fonctionner comme prévu.";
+	
+	VERSION_PROMPT_MORE_INFO = "Plus d'info";
+	VERSION_PROMPT_IGNORE = "Ignorer";
+	VERSION_PROMPT_CONTINUE = "Continuer";
+	
+	/* Menus */
+	
+	MENUS = "Menus";
+	MENUS_DETAIL = "Gérez les menus personnalisés d’Activator";
+	
+	ADD_NEW_MENU = "Ajouter un nouveau menu";
+	NEW_MENU = "Nouveau menu";
+	MENU_TITLE = "Titre du menu";
+	ADD = "Ajouter";
+	ADD_ACTION = "Ajouter action";
+	CANCEL = "Annuler";
+	ACTION = "Action";
+	
+	/* Modes */
+	
+	MODE_TITLE_all = "Partout";
+	MODE_DESCRIPTION_all = "";
+	
+	MODE_TITLE_springboard = "À l'écran d'accueil";
+	MODE_DESCRIPTION_springboard = "Quand les icônes sont visibles";
+	
+	MODE_TITLE_application = "Dans une application";
+	MODE_DESCRIPTION_application = "Quand une application est active";
+	
+	MODE_TITLE_lockscreen = "À l'écran de veille";
+	MODE_DESCRIPTION_lockscreen = "Quand l'écran de veille est visible";
+	
+	/* Event Groups */
+	
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "Gestes de glisser";
+	"EVENT_GROUP_TITLE_Motion" = "Mouvement";
+	"EVENT_GROUP_TITLE_SpringBoard" = "SpringBoard";
+	"EVENT_GROUP_TITLE_Status Bar" = "Barre de Statut";
+	"EVENT_GROUP_TITLE_Home Button" = "Bouton d'Accueil";
+	"EVENT_GROUP_TITLE_Sleep Button" = "Bouton de Veille";
+	"EVENT_GROUP_TITLE_Volume Buttons" = "Boutons de Volume";
+	"EVENT_GROUP_TITLE_Headset Button" = "Boutons du Casque";
+	"EVENT_GROUP_TITLE_Lock Screen" = "Écran Verrouillé";
+	"EVENT_GROUP_TITLE_Power" = "Alimentation";
+	
+	/* Events */
+	
+	"EVENT_TITLE_libactivator.lock.hold.short" = "Appui Court";
+	"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "Appuyez et maintenez le bouton de veille";
+	
+	"EVENT_TITLE_libactivator.lock.press.double" = "Appui Double";
+	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "Appuyez rapidement deux fois sur le bouton de veille";
+	
+	"EVENT_TITLE_libactivator.menu.hold.short" = "Maintenir";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Appuyez et maintenez le bouton d'accueil";
+	
+	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "Appui Simple sur le SpringBoard";
+	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Appuyez sur le bouton d'accueil quand vous êtes sur le SpringBoard";
+	
+	"EVENT_TITLE_libactivator.menu.press.double" = "Appui Double";
+	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "Appuyez deux fois le bouton d'accueil";
+
+	"EVENT_TITLE_libactivator.menu.press.single" = "Appui Simple";
+	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "Appuyez une fois sur le bouton d'accueil";
+	
+	"EVENT_TITLE_libactivator.motion.shake" = "Secouez l'Appareil";
+	"EVENT_DESCRIPTION_libactivator.motion.shake" = "Secouez Moi!";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom" = "Depuis le Bas de l'Écran";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Glissez sur le bas de l'écran";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Depuis le Bas Gauche de l'Écran";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Glissez sur le bas gauche de l'écran";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Depuis le Bas Droit de l'Écran";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Glissez sur le bas droit de l'écran";
+	
+	"EVENT_TITLE_libactivator.springboard.pinch" = "Pincer les Icônes";
+	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Pincez les icônes du SpringBoard avec deux doigts";
+	
+	"EVENT_TITLE_libactivator.springboard.spread" = "Ecarter les Icônes";
+	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "Ecartez les icônes du SpringBoard avec deux doigts";
+	
+	"EVENT_TITLE_libactivator.statusbar.hold" = "Maintenir";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Appuyez et maintenez la barre de statut";
+	
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Glissez vers le Bas";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Appuyez et glisser vers le bas de la barre de statut";
+	
+	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Glissez vers la Gauche";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Appuyez et glissez vers la gauche de la barre de statut";
+	
+	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "Glissez vers la Droite";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Appuyez et glissez vers la droite de la barre de statut";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double" = "Appui Double";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Appuyez deux fois sur la barre de statut";
+	
+	"EVENT_TITLE_libactivator.volume.display-tap" = "Appui sur Écran";
+	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "Appuyez sur l'indicateur de volume de l'écran";
+	
+	"EVENT_TITLE_libactivator.volume.down-up" = "Bas, Haut";
+	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "Appuyez sur le bouton de volume bas, puis haut";	
+	
+	"EVENT_TITLE_libactivator.volume.up-down" = "Haut, Bas";
+	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Appuyez sur le bouton de volume haut, puis bas";	
+	
+	"EVENT_TITLE_libactivator.volume.both.press" = "Appui sur les Deux";
+	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Appuyez sur les deux boutons simultanément";	
+	
+	"EVENT_TITLE_libactivator.volume.down.hold.short" = "Appui Court vers le Bas";
+	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "Appuyez et maintenez enfoncé le bouton bas";	
+	
+	"EVENT_TITLE_libactivator.volume.up.hold.short" = "Appui Court vers le Haut";
+	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Appuyez et maintenez enfoncé le bouton haut";	
+	
+	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Mettre en silence à Deux Reprises";
+	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Marche/Arrêt silence deux fois consécutives";	
+	
+	"EVENT_TITLE_libactivator.headset-button.press.single" = "Appui Simple";
+	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Appuyez une fois sur le bouton du casque";	
+	
+	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Maintenir";
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Maintenez enfoncé le bouton du casque";	
+	
+	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Appui Double sur l'Horloge";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Appuyez deux fois dans la zone de l'horloge";
+	
+	"EVENT_TITLE_libactivator.power.connected" = "Connecté";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "Lorsque vous branchez le chargeur";
+
+	"EVENT_TITLE_libactivator.power.disconnected" = "Déconnecté";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Lorsque vous débranchez le chargeur";
+
+	/* Listener Groups */
+	
+	"LISTENER_GROUP_TITLE_System Actions" = "Actions Système";
+	"LISTENER_GROUP_TITLE_System Applications" = "Système Applications";
+	"LISTENER_GROUP_TITLE_User Applications" = "Utilisateur Applications";
+	"LISTENER_GROUP_TITLE_iPod" = "iPod";
+	"LISTENER_GROUP_TITLE_Lock Screen" = "Écran de Veille";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings Toggles";
+	"LISTENER_GROUP_TITLE_Phone" = "Téléphone";
+	"LISTENER_GROUP_TITLE_Power" = "Alimentation";
+	
+	/* Listener Names */
+	
+	"LISTENER_DESCRIPTION_toggle" = "Active/désactive toggle";
+	"LISTENER_DESCRIPTION_application" = "Active l'Application";
+	
+	"LISTENER_TITLE_libactivator.system.homebutton" = "Bouton d'Accueil";
+	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Simule une pression sur le bouton d'Accueil";
+
+	"LISTENER_TITLE_libactivator.system.powerdown" = "Mise hors tension";
+	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Mais immédiatement votre appareil hors tension";
+	
+	"LISTENER_TITLE_libactivator.system.reboot" = "Redémarre";
+	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "Redémarre immédiatement votre appareil";
+	
+	"LISTENER_TITLE_libactivator.system.respring" = "Respring";
+	"LISTENER_DESCRIPTION_libactivator.system.respring" = "Relance le SpringBoard normalement";
+	
+	"LISTENER_TITLE_libactivator.system.safemode" = "Mode sans Échec";
+	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "Relance le SpringBoard en mode sans échec";
+	
+	"LISTENER_TITLE_libactivator.system.sleepbutton" = "Bouton de Veille";
+	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Simule une pression sur le bouton de veille";
+	
+	"LISTENER_TITLE_libactivator.system.spotlight" = "Spotlight";
+	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Active la page de recherche du SpringBoard";
+
+	"LISTENER_TITLE_libactivator.system.take-screenshot" = "Capture d'Écran";
+	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Enregistre le contenu de l'écran à vos photos";
+
+	"LISTENER_TITLE_libactivator.system.voice-control" = "Commande Vocale";
+	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Activate la commande vocale";
+
+	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Active Multitâche";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Affiche le switcher Multitâche";
+	
+	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Affiche la barre de Lecture en Cours";
+	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Affiche le contrôle standard des médias";
+	
+	"LISTENER_TITLE_libactivator.system.nothing" = "Ne rien faire";
+	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "Supprime l'action originale";
+	
+	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "Première Page du SpringBoard";
+	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Allez à la première page des icônes";
+
+	
+	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod Contrôles";
+	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Montre la fenêtre de la chanson en cours de lecture";
+	
+	"LISTENER_TITLE_libactivator.ipod.next-track" = "Piste Suivante";
+	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "Passe à la chanson suivante";
+	
+	"LISTENER_TITLE_libactivator.ipod.previous-track" = "Piste Précédente";
+	"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "Retourne à la chanson précédente";
+	
+	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Lecture/Pause";
+	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Permet de basculer la lecture de l'iPod";
+	
+	
+	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Déverrouillage de l'Appareil";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Masque l'écran de veille";
+	
+	"LISTENER_TITLE_libactivator.lockscreen.show" = "Verrouillage de l'Appareil";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "Affiche l'écran de veille";
+	
+	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "Verrouillage/Déverrouillage";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Bascule l'affichage de l'écran de veille";
+	
+
+	"LISTENER_TITLE_libactivator.phone.contacts" = "Afficher Contacts";
+	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Lance Téléphone à l'onglet Contacts";
+	
+	"LISTENER_TITLE_libactivator.phone.favorites" = "Afficher Favoris";
+	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "Lance Téléphone à l'onglet Favoris";
+	
+	"LISTENER_TITLE_libactivator.phone.keypad" = "Afficher Clavier";
+	"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "Lance Téléphone à l'onglet Clavier";
+	
+	"LISTENER_TITLE_libactivator.phone.recents" = "Afficher Appels";
+	"LISTENER_DESCRIPTION_libactivator.phone.recents" = "Lance Téléphone à l'onglet Appels";
+	
+	"LISTENER_TITLE_libactivator.phone.voicemail" = "Afficher la Messagerie vocale";
+	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Lance Téléphone à l'onglet Messagerie vocale";
+	
+	
+	"LISTENER_TITLE_toggle_3G" = "3G";
+	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
+	"LISTENER_TITLE_toggle_Data" = "Données";
+	"LISTENER_TITLE_toggle_Location" = "Localisation";
+	"LISTENER_TITLE_toggle_Phone" = "Téléphone";
+	"LISTENER_TITLE_toggle_SSH" = "SSH";
+	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
+	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
+	
+	IN_CYDIA_WARNING = "Il est potentiellement dangereux d'effectuer des actions tandis que Cydia installe un logiciel.";
+}

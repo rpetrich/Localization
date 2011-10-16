@@ -1,0 +1,78 @@
+"Display Out" = "Display Out";
+
+"Enabled" = "פעיל";
+
+"Orientation" = "אוריינטציה";
+"Follow Interface" = "עקוב אחר הממשק";
+"Follow SpringBoard" = "עקוב אחר SpringBoard";
+"Landscape Left" = "מצב נוף שמאלה";
+"Landscape Right" = "מצב נוף ימינה";
+"Portrait" = "מצב דיוקן";
+"Upside-Down" = "מצב הפוך";
+
+"Max Screen Resolution" = "רזולוצית מסך מקסימלית";
+"480" = "480";
+"640x480 (all)" = "640x480 (הכל)";
+"600" = "600";
+"800x600 (VGA/HDMI)" = "800x600 (VGA/HDMI)";
+"720p" = "720p";
+"720p (HDMI-only)" = "720p (רק HDMI)";
+"768p" = "768p";
+"1024x768 (VGA/HDMI)" = "1024x768 (VGA/HDMI)";
+"1280x1024 (HDMI+iPad 2)" = "1280x1024 (HDMI+iPad 2)";
+"1024" = "1024";
+"1920x1200 (HDMI+iPad 2)" = "1920x1200 (HDMI+iPad 2)";
+"1080p" = "1080p";
+
+"Scale" = "סרגל";
+
+"Aspect Adjust" = "התאמה אוטו'";
+"Preserve" = "שמור";
+"16:10" = "16:10";
+"16:10 Display Stretch" = "התאמה לגודל 16:10";
+"16:9" = "16:9";
+"16:9 Display Stretch" = "התאמה לגודל 16:9";
+
+"Horizontal Offset" = "קיזוז אפקי";
+"Vertical Offset" = "קיזוז אנכי";
+
+"Show Taps" = "הצג נגיעות";
+"Never" = "אף פעם";
+"Always" = "תמיד";
+"Skip Keyboard/OpenGL" = "דלג על מקלדת/OpenGL";
+
+"Tap Size" = "גודל נגיעה";
+"Huge" = "ענק";
+"Giant" = "גדול מאוד";
+"Big" = "בינוני-גדול";
+"Large" = "גדול";
+"Medium" = "בינוני";
+"Small" = "קטן";
+"Little" = "קטנטן";
+"Tiny" = "זעיר";
+
+"Showing taps may cause flicker" = "הצגת הנגיעות עשוי לגרום הבהוב";
+
+"Experimental" = "נסיוני";
+
+"Native Support" = "תמיכה מקומית";
+
+"This app" = "אפליקציה זו";
+" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = " נראה שאפליקציה זו תומכת בתצוגה חיצונית.\nאתה יכול לשקול להשבית את Display out זמנית.";
+"OK" = "אוקיי";
+
+"Just Main Content" = "רק תוכן ראשי";
+"Shows only the main content on the external display" = "הצג רק את התוכן הראשי בתצוגה החיצונית";
+
+"Connection Alerts" = "התראות חיבור";
+"Show" = "הצג";
+"External display connected." = "תצוגה חיצונית חוברה.";
+"External display disconnected." = "תצוגה חיצונית נותקה.";
+
+"OpenGL" = "OpenGL";
+"Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "הסתרת הבהוב OpenGL עשוי לגרום לשימוש גבוה בזיכרון או לשגיאות במשחקים מסוימים";
+"Suppress Flicker" = "הסתרת הבהוב";
+
+"Show On" = "הצג ב";
+"External Display" = "תצוגה חיצונית";
+"Both Displays" = "שני התצוגות";

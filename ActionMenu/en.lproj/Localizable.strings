@@ -1,0 +1,130 @@
+{
+	OK = OK;
+	Cancel = Cancel;
+	ON = ON;
+	OFF = OFF;
+	"all-day" = "all-day";
+	AM = AM;
+	PM = PM;
+	by = by;
+	on = on;
+	lap = lap;
+	Enabled = Enabled;
+	"Use Icons" = "Use Icons";
+	Actions = Actions;
+	"More Actions..." = "More Actions...";
+	"Donate with PayPal" = "Donate with PayPal";
+	"Copy All" = "Copy All";
+	"Debug" = "Debug";
+	"Dial" = "Dial";
+	Favorites = Favorites;
+	History = History;
+	Lookup = Lookup;
+	Scroll = Scroll;
+	Tweet = Tweet;
+	"Pasteboard Favorites" = "Pasteboard Favorites";
+	"Delete Favorite" = "Delete Favorite";
+	"Add Favorite..." = "Add Favorite...";
+	"Add Favorite" = "Add Favorite";
+	Create = Create;
+	"Enter the new favorite details" = "Enter the new favorite details";
+	"Open in Safari" = "Open in Safari";
+	Search = Search;
+	Wikipedia = Wikipedia;
+	Dictionary = Dictionary;
+	Translate = Translate;
+	Find = Find;
+	"Find In Page" = "Find In Page";
+	"Find Next" = "Find Next";
+	"Find Previous" = "Find Previous";
+	Next = Next;
+	Previous = Previous;
+	"Not Found" = "Not Found";
+	Clear = Clear;
+	Confirm = Confirm;
+	"Pasteboard History" = "Pasteboard History";
+	
+	"Right to Left" = "Right to Left";
+	"Left to Right" = "Left to Right";
+	"Sorted" = "Sorted";
+	"New Favorite" = "New Favorite";
+	"biteSMS" = "biteSMS";
+	"Extended Support" = "Extended Support";
+	"TRANSLATION_ABOUT" = "";
+	
+	"Preferred Client" = "Preferred Client";
+	
+	"Clear History" = "Clear History";
+	Close = Close;
+	
+	Cut = Cut;
+	Copy = Copy;
+	Paste = Paste;
+	Select = Select;
+	"Select All" = "Select All";
+	
+	Locate = Locate;
+	"Error retrieving location!" = "Error retrieving location!";
+	"Estimated Accuracy:" = "Estimated Accuracy:";
+	"%ld meters" = "%ld meters";
+	"My Location on Google Maps" = "My Location on Google Maps";
+	Pastie = Pastie;
+	"Send to Pastie" = "Send to Pastie";
+	"Paste Complete" = "Paste Complete";
+	"The URL has been copied to your clipboard." = "The URL has been copied to your clipboard.";
+	Continue = Continue;
+	Error = Error;
+	"Unable to submit your pastie." = "Unable to submit your pastie.";
+	"No Search Results" = "No Search Results";
+	
+	"Edit Favorite" = "Edit Favorite";
+	"To Top" = "To Top";
+	"To Bottom" = "To Bottom";
+	
+	"Rich Text For Mail" = "Rich Text For Mail";
+	"Format" = "Format";
+	"Bold" = "Bold";
+	"Italic" = "Italic";
+	"Underline" = "Underline";
+	"Strikethrough" = "Strikethrough";
+	"Image" = "Image";
+	"Text Style" = "Text Style";
+	"Font Size" = "Font Size";
+	"Font Family" = "Font Family";
+	"Text Color" = "Text Color";
+	"Highlight Color" = "Highlight Color";
+	"Black" = "Black";
+	"White" = "White";
+	"Silver" = "Silver";
+	"Gray" = "Gray";
+	"Red" = "Red";
+	"Maroon" = "Maroon";
+	"Yellow" = "Yellow";
+	"Olive" = "Olive";
+	"Lime" = "Lime";
+	"Green" = "Green";
+	"Aqua" = "Aqua";
+	"Teal" = "Teal";
+	"Blue" = "Blue";
+	"Navy" = "Navy";
+	"Fuchsia" = "Fuchsia";
+	"Purple" = "Purple";
+	"None" = "None";
+	"Unknown" = "Unknown";
+	
+	"Playing" = "Playing";
+	"\"%@\" by %@ " = "\"%@\" by %@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> by <strong>%@</strong> ";
+	
+	"Default Actions" = "Default Actions";
+	"Replace" = "Replace";
+	
+	"Link" = "Link";
+	"Insert" = "Insert";
+	"Link Text" = "Link Text";
+	"Link URL" = "Link URL";
+	
+	"Celeste" = "Celeste";
+	"Voice" = "Voice";
+	"Today" = "Today";
+}

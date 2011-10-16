@@ -1,0 +1,43 @@
+{
+	
+	"ACTIVATION_METHODS" = "דרכי הפעלה";
+	"HOME_BUTTON" = "כפתור הבית";
+	"DOUBLE_HOME_BUTTON" = "לחיצה כפולה על כפתור הבית";
+	"SPRINGBOARD_ICON" = "אייקון בSpringBoard";
+	"SPRINGBOARD_PINCH" = "צביטת הSpringBoard";
+	"SPRINGBOARD_SPREAD" = "פריסת הSpringBoard";
+	
+	"VISIBLE_ELEMENTS" = "אלמנטים מוצגים";
+	"COLUMNS" = "טורים";
+	"ONE" = "אחד";
+	"TWO" = "שתיים";
+	"THREE" = "שלוש";
+	"FOUR" = "ארבע";
+	"FIVE" = "חמש";
+	"AUTO" = "אוטומטית";
+	"DOCK" = "Dock";
+	"SEARCH_PAGE" = "עמוד חיפוש";
+	"ANIMATED" = "מונפש";
+	"REVERSE_ORDER" = "סידור הפוך";
+	"SHOW_AS_HOME_SCREEN" = "הפוך למסך הבית";
+
+	"BADGE_STYLE" = "תגית מעוצבת";
+	"BADGE_STYLE_HIDDEN" = "מוסתר";
+	"BADGE_STYLE_ON_ICONS" = "על אייקונים";
+	"BADGE_STYLE_ON_PAGES" = "על עמודים";
+	"BADGE_STYLE_ON_BOTH" = "על שניהם";
+	
+	"PLAY_SOUNDS" = "נגן צליל";
+
+	"CLEAR_ICON_CACHE" = "נקה מטמון אייקונים";
+	"CLEAR_ICON_CACHE_QUESTION" = "נקה מטמון אייקונים?";
+	
+	"CONTINUE" = "המשך";
+	"CANCEL" = "ביטול";
+	
+	"BACKGROUND_STYLE" = "עיצוב רקע";
+	"THEME_BACKGROUND" = "רקע ערכה";
+	"SYSTEM_WALLPAPER" = "רקע מערכת";
+	"THEME" = "ערכת נושא";
+	"WALLPAPER" = "רקע";
+}

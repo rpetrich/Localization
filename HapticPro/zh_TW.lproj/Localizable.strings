@@ -1,0 +1,49 @@
+{
+	"Trigger Events" = "觸發事件";
+	"Key Pressed" = "按下按鍵";
+	"Key Released" = "鬆開按鍵";
+	"Key Repeated" = "重複按鍵";
+
+	"Trigger Controls" = "觸發控制";
+	"Keyboard" = "鍵盤";
+	"Buttons" = "按鍵";
+	"Table Cells" = "儲存格";
+	"Web Links" = "網路連結";
+
+	"Duration" = "持續時間";
+
+	"Test Keyboard" = "測試鍵盤";
+
+	"HapticPro-Advanced" = "進階設定";
+	"Reset to Defaults" = "還原為預設配置";
+	"Are you sure you wish to reset HapticPro to the default settings?" = "您確定要還原到預設配置？";
+	"Cancel" = "取消";
+	"Reset" = "重置";
+	
+	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "因 iPhone OS 3 限制，在播放音樂時 HapticPro 會被禁用。";
+	
+	
+	"Intensity" = "振動強度";
+	"Adjust the strength of the vibration." = "設定振動強度。";
+	"Has no effect on the iPhone 3G" = "不適用於 iPhone 3G";
+	
+	"Only Special Keys" = "僅特定按鍵";
+	"Activates HapticPro only from the keyboard's modifier keys." = "僅在按下鍵盤功能鍵時振動。";
+
+	"Buttons" = "按鍵";
+	"Add Click Sounds" = "添加按鍵音";
+	"Enable keyboard click sounds on regular buttons." = "啟用一般按鍵的按鍵音。";
+	
+	"Ringer Switch" = "靜音/響鈴切換";
+	"Trigger In Ring" = "響鈴模式觸發";
+	"Trigger In Silent" = "靜音模式觸發";
+	"Enable/disable haptic feedback based on the status of the ringer switch." = "根據流動電話靜音和響鈴模式來啟用或禁用振動控制。";
+
+	"Duration" = "持續時間";
+	"Duration Factor Pressed" = "按下按鍵持續時間";
+	"Duration Factor Released" = "鬆開按鍵持續時間";
+	"Duration Factor Repeated" = "重複按鍵持續時間";
+	"Control the duration of each type of haptic feedback independently." = "單獨控制每種類型的力回饋持續時間。";
+	
+	"© 2009-2010 Ryan Petrich" = "© 2009-2010 瑞安•佩特裡奇";
+}

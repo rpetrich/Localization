@@ -1,0 +1,47 @@
+{
+	"Correct" = "Correggi";
+	"Add To Dictionary" = "Aggiungi al dizionario";
+	"Cancel" = "Annulla";
+
+	"Enabled" = "Attivo";
+	"Language" = "Lingua";
+	"Use Heuristics" = "Usa euristica";
+	"Clear User Dictionary" = "Pulisci il dizionario utente";
+
+	"OK" = "OK";
+	"Visit" = "Visita";
+
+	"Are you sure you wish to clear your user dictionary?" = "Sei sicuro di voler pulire il tuo dizionario utente?";
+	"Clear" = "Pulisci";
+
+	"Autocorrections" = "Autocorrezioni";
+	"Add Correction..." = "Aggiungi correzione…";
+	"Create" = "Crea";
+	"Enter the new autocorrection details" = "Inserisci i dettagli della nuova autocorrezione";
+	"Input" = "Input";
+	"Output" = "Output";
+	"Tap to Edit" = "Premi per modificare";
+	"Correction" = "Correzione";
+	"Save" = "Salva";
+	"Enter the updated autocorrection details" = "Inserisci i dettagli aggiornati dell'autocorrezione";
+
+	"Input Text Is Blank" = "Testo input vuoto";
+	"Input text must be entered to create an autocorrect rule" = "E' necessario inserire il testo input per creare una regola di autocorrezione";
+	"Invalid Characters" = "Caratteri non validi";
+	"Input text may contain only numbers and letters" = "Il testo input può contenere solo numeri e lettere";
+	"Output Text Is Blank" = "Testo output vuoto";
+	"Output text must be entered to create an autocorrect rule" = "E' necessario inserire il testo output per creare una regola di autocorrezione";
+	"Delete Correction" = "Elimina correzione";
+
+	"Style" = "Stile";
+	"Squiggly Underline" = "Sottolineatura zigrinata";
+	"Solid Underline" = "Sottolineatura intera";
+	"Dashed Underline" = "Sottolineatura tratteggiata";
+	"Shaded Box" = "Casella ombreggiata";
+
+	"Secondary" = "Secondario";
+	"(None)" = "(Nessuno)";
+	"(none)" = "(nessuno)";
+
+	"Add..." = "Aggiungi...";
+}

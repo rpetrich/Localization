@@ -1,0 +1,289 @@
+{
+	"LOCALIZATION_ABOUT" = "כל הזכויות שמורות - 2009 - 2011 - Ryan Petrich\nתורגם על ידי מעוז זוגרבו ואלי יעבץ";
+	
+	/* Settings Controller */
+	
+	"CANT_DEACTIVATE_REMAINING" = "Can't deactivate\nremaining event";
+	"AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "At least one event must be\nassigned to %@";
+	"ALERT_OK" = "OK";
+	"ALERT_IGNORE" = "התעלם";
+	"ALERT_VALUE_AND" = " ו ";
+	"ALREADY_ASSIGNED_TO" = "כבר מוגדר ל- \n%@";
+	"ALERT_CANCEL" = "ביטול";
+	"ALERT_REASSIGN" = "הקצה מחדש";
+	"ACTIVATOR" = "Activator";
+	"CURRENTLY_ASSIGNED_TO" = "מוגדר כעת כ:";
+	"UNASSIGNED" = "(לא מוגדר)";
+	"MORE_ACTIONS" = "פעולות נוספות";
+	"MORE_ACTIONS_DETAIL" = "קבל פעולות נוספות מסידיה";
+	"DONATE" = "תרומה";
+	"DONATE_DETAIL" = "תרומה באמצעות PayPal";
+	"N_ADDITIONAL_EVENTS" = "%i אירועים נוספים";
+	"RESET_SETTINGS" = "איפוס הגדרות";
+	"RESET_SETTINGS_DETAIL" = "אפשרות זו תחזיר את ההגדרות למצבן הראשוני";
+	"RESET_ALERT_TITLE" = "איפוס הגדרות ל- Activator";
+	"RESET_ALERT_MESSAGE" = "האם הינך בטוח שברצונך לאפס את הגדרות ה- Activator לברירת המחדל? מכשירך יבצע ריספרינג במידה ותמשיך.";
+	"RESET_ALERT_CANCEL" = "ביטול";
+	"RESET_ALERT_CONTINUE" = "איפוס";
+	"MULTIPLE_ASSIGNMENTS" = "(מרובה)";
+	
+	"ENABLED" = "מופעל";
+	"DISABLED" = "כבוי";
+	
+	"OUT_OF_DATE_TITLE" = "גרסת מערכת ישנה מידי";
+	"OUT_OF_DATE_MESSAGE" = "Activator פועלת במיטבה על גרסאות iOS עדכניות /nאנא עדכן את גרסתך.";
+	
+	"TOO_NEW_TITLE" = "גרסת מערכת חדשה מידי";
+	"TOO_NEW_MESSAGE" = "Activator לא נבדקה על גרסת iOS זו. כנראה שחלק מן האפשרויות לא יפעלו כמתוכנן.";
+	
+	"VERSION_PROMPT_MORE_INFO" = "מידע נוסף";
+	"VERSION_PROMPT_IGNORE" = "התעלם";
+	"VERSION_PROMPT_CONTINUE" = "המשך";
+	
+	SHOW_ICON = "הצג אייקון";
+	SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD = "הצג את האייקון של Activator במסך הבית";
+	
+	Advertisement = "פרסומת";
+	
+	/* Menus */
+	
+	"MENUS" = "תפריטים";
+	"MENUS_DETAIL" = "התאם אישית את תפריטי Activator";
+	
+	"ADD_NEW_MENU" = "הוסף תפריט חדש";
+	"NEW_MENU" = "תפריט חדש";
+	"MENU_TITLE" = "כותרת תפריט";
+	"ADD" = "הוסף";
+	"ADD_ACTION" = "הוסף פעולה";
+	"CANCEL" = "ביטול";
+	"ACTION" = "פעולה";
+	
+	/* Modes */
+	
+	"MODE_TITLE_all" = "בכל מקום";
+	"MODE_DESCRIPTION_all" = "";
+	
+	"MODE_TITLE_springboard" = "במסך הבית";
+	"MODE_DESCRIPTION_springboard" = "כאשר האייקונים בספרינגבורד נראים לעין";
+	
+	"MODE_TITLE_application" = "בתוך אפליקציה";
+	"MODE_DESCRIPTION_application" = "כאשר אפליקציה מסוימת נראית לעין";
+	
+	"MODE_TITLE_lockscreen" = "במסך הנעילה";
+	"MODE_DESCRIPTION_lockscreen" = "כאשר מסך הנעילה נראה לעין";
+	
+	/* Event Groups */
+	
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "החלק במחוות";
+	"EVENT_GROUP_TITLE_Motion" = "תנועה";
+	"EVENT_GROUP_TITLE_SpringBoard" = "מסך הבית";
+	"EVENT_GROUP_TITLE_Status Bar" = "סטטוס בר";
+	"EVENT_GROUP_TITLE_Home Button" = "כפתור הבית";
+	"EVENT_GROUP_TITLE_Sleep Button" = "כפתור נעילה";
+	"EVENT_GROUP_TITLE_Volume Buttons" = "כפתורי הווליום";
+	"EVENT_GROUP_TITLE_Headset Button" = "כפתור האוזניה";
+	"EVENT_GROUP_TITLE_Lock Screen" = "מסך נעילה";
+	"EVENT_GROUP_TITLE_Power" = "עוצמה";
+	
+	/* Events */
+	
+	"EVENT_TITLE_libactivator.lock.hold.short" = "לחיצה קצרה";
+	"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "לחיצה והחזקה של כפתור הנעילה";
+	
+	"EVENT_TITLE_libactivator.lock.press.double" = "לחיצה כפולה";
+	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "לחיצה מהירה פעמיים על כפתור הנעילה";
+	
+	"EVENT_TITLE_libactivator.menu.hold.short" = "לחיצה קצרה";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "לחיצה והחזקה של כפתור הבית";
+	
+	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "לחיצה במסך הבית";
+	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "לחיצה על כפתור הבית במסך הבית";
+	
+	"EVENT_TITLE_libactivator.menu.press.double" = "לחיצה כפולה";
+	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "לחיצה מהירה פעמיים על כפתור הבית";
+
+	"EVENT_TITLE_libactivator.menu.press.single" = "לחיצה אחידה";
+	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "לחיצה פעם אחת על כפתור הבית";
+	
+	"EVENT_TITLE_libactivator.motion.shake" = "ניעור המכשיר";
+	"EVENT_DESCRIPTION_libactivator.motion.shake" = "שקשוק המכשיר";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom" = "מתחתית המסך";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "גרירה על גבי המסך מלמטה";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "מהפינה התחתונה השמאלית";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "גרירה על גבי המסך מהחלק התחתון השמאלי";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "מהפינה התחתונה הימנית";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "גרירה על גבי המסך מהחלק התחתון הימני";
+	
+	"EVENT_TITLE_libactivator.springboard.pinch" = "צביטת אייקון";
+	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "צביטת האייקונים במסך הבית עם 2 אצבעות";
+	
+	"EVENT_TITLE_libactivator.springboard.spread" = "פריסת אייקונים";
+	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "פריסת אייקונים במסך הבית עם 2 אצבעות";
+	
+	"EVENT_TITLE_libactivator.statusbar.hold" = "החזקה";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "לחיצה והחזקה על הסטטוס בר";
+	
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "החלקה מטה";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "לחיצה וגרירה מהסטטוס בר כלפי מטה";
+	
+	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "החלקה שמאלה";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "לחיצה וגרירה שמאלה בסטטוס בר";
+	
+	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "החלקה ימינה";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "לחיצה וגרירה ימינה בסטטוס בר";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double" = "לחיצה כפולה";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "לחיצה כפולה על הסטטוס בר";
+	
+	"EVENT_TITLE_libactivator.volume.display-tap" = "הצגת לחיצה";
+	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "לחיצה על הווליום למעלה להצגה";
+	
+	"EVENT_TITLE_libactivator.volume.down-up" = "למטה, למעלה";
+	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "לחיצה על הכפתור התחתון של הווליום, אחר-כך על הכפתור העליון";	
+	
+	"EVENT_TITLE_libactivator.volume.up-down" = "למעלה, למטה";
+	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "לחיצה על הכפתור העליון של הווליום, אחר-כך על הכפתור התחתון";	
+	
+	"EVENT_TITLE_libactivator.volume.both.press" = "לחיצה על שניהם";
+	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "לחיצה על 2 הכפתורים בו זמנית";	
+	
+	"EVENT_TITLE_libactivator.volume.down.hold.short" = "לחיצה קצרה על הכפתור התחתון";
+	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "לחיצה והחזקה של הכפתור התחתון";	
+	
+	"EVENT_TITLE_libactivator.volume.up.hold.short" = "לחיצה קצרה על הכפתור העליון";
+	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "לחיצה והחזקה של הכפתור העליון";	
+	
+	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "שינוי מתג ההשתק פעמיים";
+	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "העברת מתק ההשתק למצב מופעל/כבוי וחזרה";	
+	
+	"EVENT_TITLE_libactivator.headset-button.press.single" = "לחיצה אחידה";
+	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "לחיצה על כפתור האוזניה פעם אחת";	
+	
+	"EVENT_TITLE_libactivator.headset-button.hold.short" = "לחיצה קצרה";
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "לחיצה והחזקה של כפתור האוזניה";	
+	
+	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "לחיצה כפולה על השעון";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "לחיצה כפולה על באיזור השעון/תאריך";
+	
+	"EVENT_TITLE_libactivator.power.connected" = "מחובר";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "התחלת טעינת המכשיר";
+
+	"EVENT_TITLE_libactivator.power.disconnected" = "מנותק";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "הפסקת טעינת המכשיר";
+
+	/* Listener Groups */
+	
+	"LISTENER_GROUP_TITLE_System Actions" = "פעולות מערכת";
+	"LISTENER_GROUP_TITLE_System Applications" = "אפליקציות מערכת";
+	"LISTENER_GROUP_TITLE_User Applications" = "אפליקציות משתמש";
+	"LISTENER_GROUP_TITLE_iPod" = "אייפוד";
+	"LISTENER_GROUP_TITLE_Lock Screen" = "מסך נעילה";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "מתגי ה- SBSettings";
+	"LISTENER_GROUP_TITLE_Phone" = "טלפון";
+	"LISTENER_GROUP_TITLE_Power" = "עוצמה";
+	
+	/* Listener Names */
+	
+	"LISTENER_DESCRIPTION_toggle" = "הפעלה/כיבוי מתגים";
+	"LISTENER_DESCRIPTION_application" = "הפעלת ישום";
+	
+	"LISTENER_TITLE_libactivator.system.homebutton" = "כפתור הבית";
+	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "הדמיית לחיצה של כפתור הבית";
+
+	"LISTENER_TITLE_libactivator.system.powerdown" = "כיבוי";
+	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "כיבוי המכשיר במיידי";
+	
+	"LISTENER_TITLE_libactivator.system.reboot" = "הפעלה מחדש";
+	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "הפעלה מחדש מיידית למכשיר";
+	
+	"LISTENER_TITLE_libactivator.system.respring" = "ריספרינג";
+	"LISTENER_DESCRIPTION_libactivator.system.respring" = "טעינה מחדש למסך הבית באופן נורמלי";
+	
+	"LISTENER_TITLE_libactivator.system.safemode" = "מצב בטוח";
+	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "טעינה מחדש של מסך הבית במצב בטוח";
+	
+	"LISTENER_TITLE_libactivator.system.sleepbutton" = "כפתור הנעילה";
+	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "הדמיית לחיצה על כפתור הנעילה";
+	
+	"LISTENER_TITLE_libactivator.system.spotlight" = "ספוט-לייט";
+	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "הפעלת דף החיפוש של מסך הבית";
+
+	"LISTENER_TITLE_libactivator.system.take-screenshot" = "צילום תמונת מסך";
+	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "שמירת תוכן המסך לתמונות";
+
+	"LISTENER_TITLE_libactivator.system.voice-control" = "שליטה קולית";
+	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "הפעלת שליטה קולית";
+
+	"LISTENER_TITLE_libactivator.system.activate-switcher" = "הפעלת שורת המולטיטסקינג";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "הצגת שורת המולטיטסקינג";
+	
+	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "הצגת הבר המתנגן כעת";
+	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "הצגת כפתורי שליטת המדיה הסטנדרטים";
+	
+	"LISTENER_TITLE_libactivator.system.nothing" = "לא לבצע שום פעולה";
+	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "עצירת הפעולה המקורית";
+	
+	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "הצג את מרכז העידכונים";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "משיכת מרכז העדכונים";
+
+	
+	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "צור ציוץ";
+ 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "טען את יוצר הציוצים";
+
+	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "עמוד ראשון במסך הבית";
+	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "קפיצה לעמוד הראשון שבו יש אייקונים";
+
+	
+	"LISTENER_TITLE_libactivator.ipod.music-controls" = "כפתורי שליטה של האייפוד";
+	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "הצגת חלון שמוקפץ כעת";
+	
+	"LISTENER_TITLE_libactivator.ipod.next-track" = "רצועה הבאה";
+	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "דילוג לשיר הבא";
+	
+	"LISTENER_TITLE_libactivator.ipod.previous-track" = "רצועה קודמת";
+	"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "חזרה לשיר הקודם";
+	
+	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "ניגון/עצירה";
+	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "מתגי ניגון אייפוד";
+	
+	
+	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "פתיחת מכשיר";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "שחרור מסך נעילה";
+	
+	"LISTENER_TITLE_libactivator.lockscreen.show" = "נעילת מכשיר";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "הצגת מסך נעילה";
+	
+	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "נעילה/פתיחה";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "מתגים המציגים את מסך הנעילה";
+	
+
+	"LISTENER_TITLE_libactivator.phone.contacts" = "הצגת אנשי קשר";
+	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "פתיחת לשונית אנשי הקשר באפליקציית הטלפון";
+	
+	"LISTENER_TITLE_libactivator.phone.favorites" = "הצגת מועדפים";
+	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "פתיחת לשונית המועדפים באפליקציית הטלפון";
+	
+	"LISTENER_TITLE_libactivator.phone.keypad" = "הצגת מקשי חיוג";
+	"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "פתיחת לשונית מקשי החיוג באפליקציית הטלפון";
+	
+	"LISTENER_TITLE_libactivator.phone.recents" = "הצגת שיחות אחרונות";
+	"LISTENER_DESCRIPTION_libactivator.phone.recents" = "פתיחת לשונית שיחות אחרונות באפליקציית הטלפון";
+	
+	"LISTENER_TITLE_libactivator.phone.voicemail" = "הצגת תא קולי";
+	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "פתיחת לשונית תא קולי באפליקציית הטלפון";
+	
+	
+	"LISTENER_TITLE_toggle_3G" = "3G";
+	"LISTENER_TITLE_toggle_Bluetooth" = "בלוטוס";
+	"LISTENER_TITLE_toggle_Data" = "נתוני דאטה";
+	"LISTENER_TITLE_toggle_Location" = "מיקום";
+	"LISTENER_TITLE_toggle_Phone" = "טלפון";
+	"LISTENER_TITLE_toggle_SSH" = "SSH";
+	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
+	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
+	
+	"IN_CYDIA_WARNING" = "זהו דבר מסוכן לבצע פעולות כלשהן כאשר סידיה באמצע התקנת תוכנה.";
+}

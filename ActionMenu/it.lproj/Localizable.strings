@@ -1,0 +1,130 @@
+{
+	OK = OK;
+	Cancel = Annulla;
+	ON = Attivo;
+	"OFF" = "Non attivo";
+	"all-day" = "tutti i giorni";
+	AM = AM;
+	PM = PM;
+	by = di;
+	on = il;
+	lap = giro;
+	Enabled = Attivo;
+	"Use Icons" = "Usa icone";
+	Actions = Azioni;
+	"More Actions..." = "Altre azioni...";
+	"Donate with PayPal" = "Dona con PayPal";
+	"Copy All" = "Copia tutto";
+	"Debug" = "Debug";
+	"Dial" = "Chiama";
+	Favorites = Preferiti;
+	History = Cronologia;
+	Lookup = Ricerca;
+	Scroll = Scorri;
+	Tweet = Tweet;
+	"Pasteboard Favorites" = "Tabella preferiti";
+	"Delete Favorite" = "Elimina preferito";
+	"Add Favorite..." = "Aggiungi preferito...";
+	"Add Favorite" = "Aggiungi";
+	Create = Crea;
+	"Enter the new favorite details" = "Inserisci i dettagli del nuovo preferito";
+	"Open in Safari" = "Apri in safari";
+	Search = Cerca;
+	Wikipedia = Wikipedia;
+	Dictionary = Dizionario;
+	Translate = Traduttore;
+	Find = Trova;
+	"Find In Page" = "Trova nella pagina";
+	"Find Next" = "Trova successivo";
+	"Find Previous" = "Trova precedente";
+	Next = Successivo;
+	Previous = Precedente;
+	"Not Found" = "Non trovato";
+	Clear = Pulisci;
+	Confirm = Conferma;
+	"Pasteboard History" = "Tabella cronologia";
+
+	"Right to Left" = "Da destra verso sinistra";
+	"Left to Right" = "Da sinistra verso destra";
+	"Sorted" = "Ordina";
+	"New Favorite" = "Nuovo preferito";
+	"biteSMS" = "biteSMS";
+	"Extended Support" = "Supporto esteso";
+	"TRANSLATION_ABOUT" = "Tradotto da Sagitt";
+
+	"Preferred Client" = "Client preferito";
+
+	"Clear History" = "Pulisci cronologia";
+	Close = Chiudi;
+
+	Cut = Taglia;
+	Copy = Copia;
+	Paste = Incolla;
+	Select = Seleziona;
+	"Select All" = "Seleziona tutto";
+
+	Locate = Localizza;
+	"Error retrieving location!" = "Errore durante la localizzazione!";
+	"Estimated Accuracy:" = "Precisione stimata:";
+	"%ld meters" = "%ld metri";
+	"My Location on Google Maps" = "La mia posizione su Google Maps";
+	Pastie = Pastie;
+	"Send to Pastie" = "Invia a pastie";
+	"Paste Complete" = "Pastie completato";
+	"The URL has been copied to your clipboard." = "L'indirizzo URL è stato copiato negli appunti.";
+	Continue = Continua;
+	Error = Errore;
+	"Unable to submit your pastie." = "Impossibile inviare il tuo pastie.";
+	"No Search Results" = "Nessun risultato";
+
+	"Edit Favorite" = "Modifica preferito";
+	"To Top" = "In alto";
+	"To Bottom" = "In fondo";
+
+	"Rich Text For Mail" = "Rich Text per Mail";
+	"Format" = "Formato";
+	"Bold" = "Grassetto";
+	"Italic" = "Corsivo";
+	"Underline" = "Sottolineato";
+	"Strikethrough" = "Barrato";
+	"Image" = "Immagine";
+	"Text Style" = "Stile testo";
+	"Font Size" = "Dimensioni carattere";
+	"Font Family" = "Famiglia carattere";
+	"Text Color" = "Colore testo";
+	"Highlight Color" = "Colore evidenziazione";
+	"Black" = "Nero";
+	"White" = "Bianco";
+	"Silver" = "Argento";
+	"Gray" = "Grigio";
+	"Red" = "Rosso";
+	"Maroon" = "Marrone";
+	"Yellow" = "Giallo";
+	"Olive" = "Oliva";
+	"Lime" = "Limone";
+	"Green" = "Verde";
+	"Aqua" = "Acqua";
+	"Teal" = "Verde acqua";
+	"Blue" = "Blu";
+	"Navy" = "Blu notte";
+	"Fuchsia" = "Fucsia";
+	"Purple" = "Porpora";
+	"None" = "Nessuno";
+	"Unknown" = "Sconosciuto";
+
+	"Playing" = "In esecuzione";
+	"\"%@\" by %@ " = "\"%@\" di %@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> di <strong>%@</strong> ";
+
+	"Default Actions" = "Azioni predefinite";
+	"Replace" = "Sostituisci";
+
+	"Link" = "Link";
+	"Insert" = "Inserisci";
+	"Link Text" = "Testo link";
+	"Link URL" = "URL link";
+
+	"Celeste" = "Celeste";
+	"Voice" = "Voce";
+	"Today" = "Oggi";
+}
