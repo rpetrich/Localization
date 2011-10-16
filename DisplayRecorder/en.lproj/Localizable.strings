@@ -1,0 +1,117 @@
+{
+	"Display Recorder" = "Display Recorder";
+
+	"DisplayRecorder on %@" = "DisplayRecorder on %@";
+
+	"Start recording display?" = "Start recording display?";
+	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "Start recording display?\n\nActivation gestures may be setup via the Settings application.";
+	"Cancel" = "Cancel";
+	"Record" = "Record";
+
+	"Recording errored:\n%@\n(Error Code: %i)" = "Recording errored:\n%@\n(Error Code: %i)";
+	"Recording errored:\n%@" = "Recording errored:\n%@";
+	"Recording completed!" = "Recording completed!";
+	"OK" = "OK";
+
+	"Display cannot be recorded while uploading to YouTube." = "Display cannot be recorded while uploading to YouTube.";
+	
+	"Unable to load framebuffer surface" = "Unable to load framebuffer surface";
+	"Error creating writer: %@" = "Error creating writer: %@";
+	"Unable to start writing" = "Unable to start writing";
+	"Interrupted by another app using the audio/video codec hardware." = "Interrupted by another app using the audio/video codec hardware.";
+	"Failed to write pixel buffer" = "Failed to write pixel buffer";
+	"Unable to open output file at path %@" = "Unable to open output file at path %@";
+	
+	"Toggle Recording" = "Toggle Recording";
+	"Toggle Web Interface" = "Toggle Web Interface";
+
+	"Begin/end screen recording" = "Begin/end screen recording";
+	"Enable/disable web interface" = "Enable/disable web interface";
+	
+	"Upload Details" = "Upload Details";
+	"Upload" = "Upload";
+	"Cancel Upload" = "Cancel Upload";
+	
+	"YouTube Terms" = "YouTube Terms";
+	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service";
+	"Show Terms" = "Show Terms";
+
+	"Title" = "Title";
+	"Description" = "Description";
+	"Category" = "Category";
+	"Public Video" = "Public Video";
+
+	"Film & Animation" = "Film & Animation";
+	"Autos & Vehicles" = "Autos & Vehicles";
+	"Music" = "Music";
+	"Pets & Animals" = "Pets & Animals";
+	"Sports" = "Sports";
+	"Travel & Events" = "Travel & Events";
+	"Gaming" = "Gaming";
+	"Comedy" = "Comedy";
+	"People & Blogs" = "People & Blogs";
+	"News & Politics" = "News & Politics";
+	"Entertainment" = "Entertainment";
+	"Education" = "Education";
+	"Howto & Style" = "Howto & Style";
+	"Nonprofits & Activism" = "Nonprofits & Activism";
+	"Science & Technology" = "Science & Technology";
+	"Movies" = "Movies";
+	
+	"YouTube Login Missing" = "YouTube Login Missing";
+	"Fill in your login details via the Display Recorder pane in the Settings application." = "Fill in your login details via the Display Recorder pane in the Settings application.";
+	"Oversize Video" = "Oversize Video";
+	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings.";
+	"Continue" = "Continue";
+	
+	"Title is empty" = "Title is empty";
+	"YouTube requires that all videos have a title." = "YouTube requires that all videos have a title.";
+	"Description is empty" = "Description is empty";
+	"YouTube requires that all videos have a description." = "YouTube requires that all videos have a description.";
+
+	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username.";
+	"Upload failed with error:\n" = "Upload failed with error:\n";
+	"Upload completed successfully\nYouTube link is on the pasteboard" = "Upload completed successfully\nYouTube link is on the pasteboard";
+	
+	"Help" = "Help";
+	"Enable" = "Enable";
+	"Disable" = "Disable";
+
+	"Not connected to Wi-Fi" = "Not connected to Wi-Fi";
+	"Web server disabled" = "Web server disabled";
+	
+	"Saving to Camera Roll…" = "Saving to Camera Roll…";
+	"Save Failed!" = "Save Failed!";
+	"Unable to save video to camera roll." = "Unable to save video to camera roll.";
+	
+	"Recording…" = "Recording…";
+	"Stop Recording" = "Stop Recording";
+	
+	"1 day" = "1 day";
+	"%u days" = "%u days";
+	"1 hr" = "1 hr";
+	"1 hour" = "1 hour";
+	"%u hrs" = "%u hrs";
+	"%u hours" = "%u hours";
+	"1 min" = "1 min";
+	"1 minute" = "1 minute";
+	"%u mins" = "%u mins";
+	"%u minutes" = "%u minutes";
+	"1 sec" = "1 sec";
+	"1 second" = "1 second";
+	"%u secs" = "%u secs";
+	"%u seconds" = "%u seconds";
+	" " = " ";
+
+	"%llu GB" = "%llu GB";
+	"%llu MB" = "%llu MB";
+	"%llu KB" = "%llu KB";
+	"%llu bytes" = "%llu bytes";
+	
+	"Recordings" = "Recordings";
+	
+	"Delete Recording" = "Delete Recording";
+	"Upload to YouTube" = "Upload to YouTube";
+	"Play Video" = "Play Video";
+	"Add to Camera Roll" = "Add to Camera Roll";
+}
