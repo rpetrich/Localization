@@ -1,0 +1,117 @@
+{
+	"Display Recorder" = "Display Recorder";
+
+	"DisplayRecorder on %@" = "DisplayRecorder על %@";
+
+	"Start recording display?" = "להפעיל הקלטת תצוגה?";
+	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "להפעיל הקלטת תצוגה?\n\nדרכים שונות להפעלה ניתנות להגדרה בהגדרות האפליקציה.";
+	"Cancel" = "ביטול";
+	"Record" = "הקלט";
+
+	"Recording errored:\n%@\n(Error Code: %i)" = "שגיאת הקלטה:\n%@\n(קוד שגיאה: %i)";
+	"Recording errored:\n%@" = "שגיאת הקלטה:\n%@";
+	"Recording completed!" = "ההקלטה הושלמה!";
+	"OK" = "אוקיי";
+
+	"Display cannot be recorded while uploading to YouTube." = "לא ניתן להקליט את התצוגה בזמן העלאה אל YouTube.";
+	
+	"Unable to load framebuffer surface" = "לא ניתן לטעון חוצץ מסגרת";
+	"Error creating writer: %@" = "שגיאה ביצירת קובץ זמני: %@";
+	"Unable to start writing" = "לא ניתן להתחיל בכתיבה";
+	"Interrupted by another app using the audio/video codec hardware." = "נקטע ע\"י אפליקציה אחרת שמשתמשת בחומרה של אודיו\וידאו.";
+	"Failed to write pixel buffer" = "שגיאה ברישום חוצץ פיקסל";
+	"Unable to open output file at path %@" = "לא ניתן לפתוח את קובץ הפלט ביעד %@";
+	
+	"Toggle Recording" = "שינוי מצב הקלטה";
+	"Toggle Web Interface" = "שינוי מצב ממשק ווב";
+
+	"Begin/end screen recording" = "התחל/עצור הקלטת תצוגה";
+	"Enable/disable web interface" = "התחל/עצור ממשק ווב";
+	
+	"Upload Details" = "פרטי העלאה";
+	"Upload" = "העלה";
+	"Cancel Upload" = "בטל העלאה";
+	
+	"YouTube Terms" = "תנאי YouTube";
+	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "בעת לחיצה על 'העלה' אתה מאשר בזאת שאתה הוא בעל זכויות יוצרים של התוכן או שהינך מורשה ע\"י בעלי התוכן להפוך את התוכן זמין לציבור ב-YouTube , וכי הוא עולה בקנה אחד עם תנאי השימוש וההגבלות של YouTube";
+	"Show Terms" = "הצג תנאים";
+
+	"Title" = "כותרת";
+	"Description" = "תיאור";
+	"Category" = "קטגורייה";
+	"Public Video" = "סרטון ציבורי";
+
+	"Film & Animation" = "צילום ואנימציה";
+	"Autos & Vehicles" = "רכבים ומכוניות";
+	"Music" = "מוסיקה";
+	"Pets & Animals" = "חיות מחמד";
+	"Sports" = "ספורט";
+	"Travel & Events" = "אירועים ונסיעות";
+	"Gaming" = "משחקים";
+	"Comedy" = "קומדיה";
+	"People & Blogs" = "בלוגים ואנשים";
+	"News & Politics" = "חדשות ופוליטיקה";
+	"Entertainment" = "בידור";
+	"Education" = "לימוד";
+	"Howto & Style" = "מדריכים וסגנון";
+	"Nonprofits & Activism" = "חינוך ובריאות";
+	"Science & Technology" = "מדע וטכנולוגיה";
+	"Movies" = "סרטים";
+	
+	"YouTube Login Missing" = "פרטי משתמש YouTube חסרים";
+	"Fill in your login details via the Display Recorder pane in the Settings application." = "מלא את פרטי המשתמש שלך דרך הגדרות האפליקציה באפליקצית ההגדרות.";
+	"Oversize Video" = "וידאו גדול מדי";
+	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "במקרים מסוימים,YouTube ידחה סרטונים עם יחסי גודל ממכשיר נייד. \n לתוצאות מקסימליות, העבר את הסרטון אל המחשב והעלה אותו דרך ממשק הווב של YouTube או צלם מחדש את הסרטון שלך במצב חצי-מסך דרך ההגדרות.";
+	"Continue" = "המשך";
+	
+	"Title is empty" = "הכותרת ריקה";
+	"YouTube requires that all videos have a title." = "YouTube מחייב שכל וידאו יכיל כותרת.";
+	"Description is empty" = "תיאור הסרטון ריק";
+	"YouTube requires that all videos have a description." = "YouTube מחייב שכל סרטון יכיל תיאור.";
+
+	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "ההעלאה נכשלה מכיון שפרטי המשתמש שלך נדחו. עבור אל אפליקצית ההגדרות ועדכן אותם. \n אם אתה מתחבר דרך חשבון Google אנא וודא שהוא מקושר עם חשבון ה-YouTube שלך.";
+	"Upload failed with error:\n" = "ההעלאה נכשלה בשגיאה:\n";
+	"Upload completed successfully\nYouTube link is on the pasteboard" = "ההעלאה הושלמה בהצלחה\nקישור אל הקליפ ב-YouTube נמצא בלוח ההדבקות";
+	
+	"Help" = "עזרה";
+	"Enable" = "פעיל";
+	"Disable" = "כבוי";
+
+	"Not connected to Wi-Fi" = "לא מחובר לרשת אלחוטית";
+	"Web server disabled" = "שרת ווב כבוי";
+	
+	"Saving to Camera Roll…" = "שומר אל הסרט צילום";
+	"Save Failed!" = "השמירה נכשלה!";
+	"Unable to save video to camera roll." = "לא ניתן לשמור את הוידאו לסרט צילום.";
+	
+	"Recording…" = "מקליט…";
+	"Stop Recording" = "עצור הקלטה";
+	
+	"1 day" = "יום אחד";
+	"%u days" = "%u ימים";
+	"1 hr" = "שעה אחת";
+	"1 hour" = "שעה אחת";
+	"%u hrs" = "%u שע'";
+	"%u hours" = "%u שעות";
+	"1 min" = "דקה אחת";
+	"1 minute" = "דקה אחת";
+	"%u mins" = "%u דק'";
+	"%u minutes" = "%u דקות";
+	"1 sec" = "שניה אחת";
+	"1 second" = "שניה אחת";
+	"%u secs" = "%u שנ'";
+	"%u seconds" = "%u שניות";
+	" " = " ";
+
+	"%llu GB" = "%llu ג\"ב";
+	"%llu MB" = "%llu מ\"ב";
+	"%llu KB" = "%llu ק\"ב";
+	"%llu bytes" = "%llu בתים";
+	
+	"Recordings" = "הקלטות";
+	
+	"Delete Recording" = "מחק הקלטה";
+	"Upload to YouTube" = "העלה אל YouTube";
+	"Play Video" = "נגן וידאו";
+	"Add to Camera Roll" = "הוסף לסרט צילום";
+}
