@@ -1,0 +1,117 @@
+{
+	"Display Recorder" = "螢幕錄製";
+
+	"DisplayRecorder on %@" = "螢幕錄製在 %@";
+
+	"Start recording display?" = "開始錄製螢幕內容？";
+	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "開始錄製螢幕內容？\n\n啟動手勢可在設定中配置。";
+	"Cancel" = "取消";
+	"Record" = "錄製";
+
+	"Recording errored:\n%@\n(Error Code: %i)" = "錄製時發生錯誤：\n%@\n（錯誤代碼：%i）";
+	"Recording errored:\n%@" = "錄製時發生錯誤\n%@";
+	"Recording completed!" = "錄製已完成！";
+	"OK" = "確定";
+
+	"Display cannot be recorded while uploading to YouTube." = "在上傳到 YouTube 時無法錄製螢幕內容。";
+	
+	"Unable to load framebuffer surface" = "無法載入繪圖緩衝記憶體表面";
+	"Error creating writer: %@" = "創建記錄器寫入程式時發生錯誤：%@";
+	"Unable to start writing" = "無法開始寫入";
+	"Interrupted by another app using the audio/video codec hardware." = "被其它使用音訊/視訊解碼硬體的設備打斷。";
+	"Failed to write pixel buffer" = "無法寫入圖元記憶體";
+	"Unable to open output file at path %@" = "無法打開位於 %@ 的輸出檔";
+	
+	"Toggle Recording" = "觸發錄製";
+	"Toggle Web Interface" = "觸發網頁介面";
+
+	"Begin/end screen recording" = "開始/結束錄製螢幕";
+	"Enable/disable web interface" = "啟用/禁用網頁介面";
+	
+	"Upload Details" = "上傳詳情";
+	"Upload" = "上傳";
+	"Cancel Upload" = "取消上傳";
+	
+	"YouTube Terms" = "YouTube 條款";
+	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "點擊“上傳”代表您保證您擁有內容的全部版權，或您被內容擁有者授權在 Youtube 上公開發佈此內容，並在其它方面亦遵守 Youtube 服務條款。";
+	"Show Terms" = "顯示條款";
+
+	"Title" = "標題";
+	"Description" = "描述";
+	"Category" = "分類";
+	"Public Video" = "公開影片";
+
+	"Film & Animation" = "電影與動畫";
+	"Autos & Vehicles" = "各類交通工具";
+	"Music" = "音樂";
+	"Pets & Animals" = "寵物與動物";
+	"Sports" = "運動";
+	"Travel & Events" = "旅行與活動";
+	"Gaming" = "遊戲";
+	"Comedy" = "喜劇";
+	"People & Blogs" = "人物與網誌";
+	"News & Politics" = "新聞與政治";
+	"Entertainment" = "娛樂";
+	"Education" = "教育";
+	"Howto & Style" = "DIY 教學";
+	"Nonprofits & Activism" = "非營利組織與行動主義";
+	"Science & Technology" = "科學與科技";
+	"Movies" = "電影";
+	
+	"YouTube Login Missing" = "無 YouTube 登入信息";
+	"Fill in your login details via the Display Recorder pane in the Settings application." = "在設定中的螢幕錄製面板設定登入資訊。";
+	"Oversize Video" = "超大影片";
+	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "在某些情況下，YouTube 會拒絕來自移動設備上傳的超大影片。\n為了得到最好的效果，請將影片傳輸到電腦並通過 YouTube 的網頁介面上傳，或在設定中使用縮放到一半重新錄製影片。";
+	"Continue" = "繼續";
+	
+	"Title is empty" = "標題為空";
+	"YouTube requires that all videos have a title." = "YouTube 要求所有影片必須有標題。";
+	"Description is empty" = "描述為空";
+	"YouTube requires that all videos have a description." = "YouTube 要求所有影片必須有描述。";
+
+	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "因驗證資訊錯誤導致上傳失敗。前往設定程式重新輸入登入資訊。\n如果您是以 Google 帳戶登入，請確保該帳戶已同 YouTube 用戶名綁定。";
+	"Upload failed with error:\n" = "上傳失敗：\n";
+	"Upload completed successfully\nYouTube link is on the pasteboard" = "上傳成功！\nYouTube 地址已被複製到剪貼板。";
+	
+	"Help" = "幫助";
+	"Enable" = "啟用";
+	"Disable" = "禁用";
+
+	"Not connected to Wi-Fi" = "未連接到 Wi-Fi";
+	"Web server disabled" = "網頁伺服器已禁用";
+	
+	"Saving to Camera Roll…" = "正在保存到相機膠捲…";
+	"Save Failed!" = "保存失敗！";
+	"Unable to save video to camera roll." = "無法保存影片到相機膠捲。";
+	
+	"Recording…" = "錄製中…";
+	"Stop Recording" = "停止錄製";
+	
+	"1 day" = "1 天";
+	"%u days" = "%u 天";
+	"1 hr" = "1 時";
+	"1 hour" = "1 小時";
+	"%u hrs" = "%u 時";
+	"%u hours" = "%u 小時";
+	"1 min" = "1 分";
+	"1 minute" = "1 分鐘";
+	"%u mins" = "%u 分";
+	"%u minutes" = "%u 分鐘";
+	"1 sec" = "1 秒";
+	"1 second" = "1 秒";
+	"%u secs" = "%u 秒";
+	"%u seconds" = "%u 秒";
+	" " = " ";
+
+	"%llu GB" = "%llu GB";
+	"%llu MB" = "%llu MB";
+	"%llu KB" = "%llu KB";
+	"%llu bytes" = "%llu 位元";
+	
+	"Recordings" = "錄製檔";
+	
+	"Delete Recording" = "刪除錄製檔";
+	"Upload to YouTube" = "上傳到 YouTube";
+	"Play Video" = "播放影片";
+	"Add to Camera Roll" = "添加到相機膠捲";
+}

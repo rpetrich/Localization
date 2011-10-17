@@ -1,0 +1,117 @@
+{
+	"Display Recorder" = "屏幕录制";
+
+	"DisplayRecorder on %@" = "屏幕录制在 %@";
+
+	"Start recording display?" = "开始录制屏幕内容？";
+	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "开始录制屏幕内容？\n\n激活手势可在设置中配置。";
+	"Cancel" = "取消";
+	"Record" = "录制";
+
+	"Recording errored:\n%@\n(Error Code: %i)" = "录制时发生错误：\n%@\n（错误代码：%i）";
+	"Recording errored:\n%@" = "录制时发生错误\n%@";
+	"Recording completed!" = "录制已完成！";
+	"OK" = "确定";
+
+	"Display cannot be recorded while uploading to YouTube." = "在上传到 YouTube 时无法录制屏幕内容。";
+	
+	"Unable to load framebuffer surface" = "无法载入绘图缓冲存储器表面";
+	"Error creating writer: %@" = "创建记录器写入程序时发生错误：%@";
+	"Unable to start writing" = "无法开始写入";
+	"Interrupted by another app using the audio/video codec hardware." = "被其它使用音频/视频解码硬件的设备打断。";
+	"Failed to write pixel buffer" = "无法写入像素存储器";
+	"Unable to open output file at path %@" = "无法打开位于 %@ 的输出文件";
+	
+	"Toggle Recording" = "触发录制";
+	"Toggle Web Interface" = "触发网页界面";
+
+	"Begin/end screen recording" = "开始/结束录制屏幕";
+	"Enable/disable web interface" = "启用/禁用网页界面";
+	
+	"Upload Details" = "上传详情";
+	"Upload" = "上传";
+	"Cancel Upload" = "取消上传";
+	
+	"YouTube Terms" = "YouTube 条款";
+	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "点击“上传”代表您保证您拥有内容的全部版权，或您被内容拥有者授权在 Youtube 上公开发布此内容，并在其它方面亦遵守 Youtube 服务条款。";
+	"Show Terms" = "显示条款";
+
+	"Title" = "标题";
+	"Description" = "描述";
+	"Category" = "分类";
+	"Public Video" = "公开视频";
+
+	"Film & Animation" = "电影和动画";
+	"Autos & Vehicles" = "汽车";
+	"Music" = "音乐";
+	"Pets & Animals" = "宠物和动物";
+	"Sports" = "体育";
+	"Travel & Events" = "旅游和活动";
+	"Gaming" = "游戏";
+	"Comedy" = "喜剧";
+	"People & Blogs" = "人物和博客";
+	"News & Politics" = "新闻和政治";
+	"Entertainment" = "娱乐";
+	"Education" = "教育";
+	"Howto & Style" = "DIY 和生活百科";
+	"Nonprofits & Activism" = "非赢利和行动主义";
+	"Science & Technology" = "科学和技术";
+	"Movies" = "电影";
+	
+	"YouTube Login Missing" = "无 YouTube 登录信息";
+	"Fill in your login details via the Display Recorder pane in the Settings application." = "在设置中的屏幕录制面板设置登录信息。";
+	"Oversize Video" = "超大视频";
+	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "在某些情况下，YouTube 会拒绝来自移动设备上传的超大视频。\n为了得到最好的效果，请将视频传输到电脑并通过 YouTube 的网页界面上传，或在设置中使用缩放到一半重新录制视频。";
+	"Continue" = "继续";
+	
+	"Title is empty" = "标题为空";
+	"YouTube requires that all videos have a title." = "YouTube 要求所有视频必须有标题。";
+	"Description is empty" = "描述为空";
+	"YouTube requires that all videos have a description." = "YouTube 要求所有视频必须有描述。";
+
+	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "因验证信息错误导致上传失败。前往设置程序重新输入登录信息。\n如果您是以 Google 账户登录，请确保该账户已同 YouTube 用户名绑定。";
+	"Upload failed with error:\n" = "上传失败：\n";
+	"Upload completed successfully\nYouTube link is on the pasteboard" = "上传成功！\nYouTube 地址已被复制到剪贴板。";
+	
+	"Help" = "帮助";
+	"Enable" = "启用";
+	"Disable" = "禁用";
+
+	"Not connected to Wi-Fi" = "未连接到 Wi-Fi";
+	"Web server disabled" = "网页服务器已禁用";
+	
+	"Saving to Camera Roll…" = "正在保存到相机胶卷…";
+	"Save Failed!" = "保存失败！";
+	"Unable to save video to camera roll." = "无法保存视频到相机胶卷。";
+	
+	"Recording…" = "录制中…";
+	"Stop Recording" = "停止录制";
+	
+	"1 day" = "1 天";
+	"%u days" = "%u 天";
+	"1 hr" = "1 时";
+	"1 hour" = "1 小时";
+	"%u hrs" = "%u 时";
+	"%u hours" = "%u 小时";
+	"1 min" = "1 分";
+	"1 minute" = "1 分钟";
+	"%u mins" = "%u 分";
+	"%u minutes" = "%u 分钟";
+	"1 sec" = "1 秒";
+	"1 second" = "1 秒";
+	"%u secs" = "%u 秒";
+	"%u seconds" = "%u 秒";
+	" " = " ";
+
+	"%llu GB" = "%llu GB";
+	"%llu MB" = "%llu MB";
+	"%llu KB" = "%llu KB";
+	"%llu bytes" = "%llu 字节";
+	
+	"Recordings" = "录制文件";
+	
+	"Delete Recording" = "删除录制文件";
+	"Upload to YouTube" = "上传到 YouTube";
+	"Play Video" = "播放视频";
+	"Add to Camera Roll" = "添加到相机胶卷";
+}
