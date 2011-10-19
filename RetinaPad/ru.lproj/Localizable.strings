@@ -1,0 +1,26 @@
+{
+  RetinaPad = RetinaPad;
+
+	"Enabled Applications" = "Включённые приложения";
+	"System Applications" = "Системные приложения";
+	"User Applications" = "Приложения пользователя";
+	"Customize which applications Retina mode is applied to." = "Решите, какие приложения будут показаны в режиме Retina.";
+
+	"Always Zoom" = "Всегда приближать";
+	"Allow Upside Down" = "Кверх ногами";
+	"Show Simulated Chrome" = "Показать имитацию Хрома";
+	"Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Чтобы изменения были применены, выйдите из приложений во вкладке многозадачности.";
+
+	"Portrait in Landscape" = "Портретировать в Альюомном Режиме";
+	"This feature is in beta and is unsupported, for now." = "Эта функция - бета, вы не можете пока использовать её.";
+
+	OK = OK;
+	Cancel = Отмена;
+	Apply = Применить;
+
+	"To enter retina mode kill %@ via the multitasking switcher bar." = "Чтобы войти в Retina Mode выйдите из %@ во вкладке многозадачности.";
+	"To exit retina mode kill %@ via the multitasking switcher bar." = "Чтобы выйти из Retina Mode выйдите из %@ во вкладке многозадачности.";
+	"this application" = "этого приложения";
+
+	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane.";
+}
