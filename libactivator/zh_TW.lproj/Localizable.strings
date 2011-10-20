@@ -60,8 +60,8 @@
 
 	/* Modes */
 	
-	"MODE_TITLE_all" = "任何地方";
-	"MODE_DESCRIPTION_all" = "所有地方都適用";
+	"MODE_TITLE_all" = "任何位置";
+	"MODE_DESCRIPTION_all" = "所有位置都適用";
 	
 	"MODE_TITLE_springboard" = "在“主畫面”螢幕";
 	"MODE_DESCRIPTION_springboard" = "可以看到“主畫面”螢幕應用程式圖像時";
@@ -412,7 +412,7 @@
 	"LISTENER_DESCRIPTION_jp.ashikase.kirikae" = "任務切換及啟動工具";
 
 	"LISTENER_TITLE_net.epelaez.Notified" = "通知";
-	"LISTENER_DESCRIPTION_net.epelaez.Notified" = "你的通知，任何地方";
+	"LISTENER_DESCRIPTION_net.epelaez.Notified" = "你的通知，任何位置";
 
 	"LISTENER_TITLE_us.hannahpappah.incarcerapp" = "IncarcerApp";
 	"LISTENER_DESCRIPTION_us.hannahpappah.incarcerapp" = "禁用“主畫面”按鈕（基於 Backgrounder）";
