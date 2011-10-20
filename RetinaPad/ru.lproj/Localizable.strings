@@ -22,5 +22,5 @@
 	"To exit retina mode kill %@ via the multitasking switcher bar." = "Чтобы выйти из Retina Mode выйдите из %@ во вкладке многозадачности.";
 	"this application" = "этого приложения";
 
-	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane.";
+	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "Это впервые, когда обычное приложение было запущено с RetinaPad.\n\nВы хотите применить Retina Mode?\n\nБольше настроек вы найдёте в Настройках RetinaPad.";
 }
