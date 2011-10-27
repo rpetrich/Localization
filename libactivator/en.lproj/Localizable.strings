@@ -112,7 +112,7 @@
 	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "Press home button once";
 	
 	"EVENT_TITLE_libactivator.menu.press.triple" = "Triple Press";
-	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "Press home button three times";
+	"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "Press home button three times";
 
 	"EVENT_TITLE_libactivator.motion.shake" = "Shake Device";
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "Shake and bake!";
