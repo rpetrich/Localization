@@ -22,7 +22,7 @@
 	"RESET_SETTINGS" = "重置";
 	"RESET_SETTINGS_DETAIL" = "重設所有設定為預設";
 	"RESET_ALERT_TITLE" = "重置 Activator 設定";
-	"RESET_ALERT_MESSAGE" = "你確定要將 Activator 的設定還原為預設嗎？\n\n如果選擇繼續，你的設備將會從“主畫面”螢幕登出。";
+	"RESET_ALERT_MESSAGE" = "您確定要將 Activator 的設定還原為預設嗎？\n\n如果選擇繼續，您的設備將會從“主畫面”螢幕登出。";
 	"RESET_ALERT_CANCEL" = "取消";
 	"RESET_ALERT_CONTINUE" = "重置";
 	"MULTIPLE_ASSIGNMENTS" = "【多個】";
@@ -44,6 +44,11 @@
 	"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "在“主畫面”螢幕顯示 Activator 圖示";
 
 	"Advertisement" = "廣告";
+
+	SAFE_MODE_TITLE = "在安全模式下";
+	SAFE_MODE_MESSAGE = "您的設備當前運行在安全模式下。Activator 的大部分功能在安全模式下已被禁用。重新載入 SpringBoard以回到正常模式。";
+	SAFE_MODE_CANCEL = "取消";
+	SAFE_MODE_RESTART = "重新啟動";
 
 	/* Menus */
 
@@ -84,7 +89,8 @@
 	"EVENT_GROUP_TITLE_Headset Button" = "耳機中央按鈕";
 	"EVENT_GROUP_TITLE_Lock Screen" = "“鎖定”螢幕";
 	"EVENT_GROUP_TITLE_Power" = "電源";
-	
+	"EVENT_GROUP_TITLE_Audio" = "音訊";
+
 	/* Events */
 	
 	"EVENT_TITLE_libactivator.lock.hold.short" = "按住";
@@ -103,8 +109,11 @@
 	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "快速按兩下“主畫面”按鈕";
 
 	"EVENT_TITLE_libactivator.menu.press.single" = "按一下";
-	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "按一下“主畫面”按鈕";
+	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "快速按一下“主畫面”按鈕";
 	
+	"EVENT_TITLE_libactivator.menu.press.triple" = "按三下";
+	"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "快速按三下“主畫面”按鈕";
+
 	"EVENT_TITLE_libactivator.motion.shake" = "晃動設備";
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "晃一晃，搖一搖！";
 	
@@ -147,6 +156,12 @@
 	"EVENT_TITLE_libactivator.volume.up-down" = "上鍵＞下鍵";
 	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "先按上音量按鈕，再按下音量按鈕";	
 	
+	"EVENT_TITLE_libactivator.volume.down.press" = "按下下鍵";
+	"EVENT_DESCRIPTION_libactivator.volume.down.press" = "按一下下音量按鈕";
+
+	"EVENT_TITLE_libactivator.volume.up.press" = "按下上鍵";
+	"EVENT_DESCRIPTION_libactivator.volume.Up.press" = "按一下上音量按鈕";
+
 	"EVENT_TITLE_libactivator.volume.both.press" = "同時按";
 	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "同時按下兩個音量按鈕";	
 	
@@ -234,6 +249,9 @@
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "撰寫 Tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "啟動内置 Tweet 編輯器";
+
+	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "顯示音量列";
+	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "顯示音量滑桿";
 
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "顯示正在播放快顯視窗";
@@ -412,7 +430,7 @@
 	"LISTENER_DESCRIPTION_jp.ashikase.kirikae" = "任務切換及啟動工具";
 
 	"LISTENER_TITLE_net.epelaez.Notified" = "通知";
-	"LISTENER_DESCRIPTION_net.epelaez.Notified" = "你的通知，任何位置";
+	"LISTENER_DESCRIPTION_net.epelaez.Notified" = "您的通知，任何位置";
 
 	"LISTENER_TITLE_us.hannahpappah.incarcerapp" = "IncarcerApp";
 	"LISTENER_DESCRIPTION_us.hannahpappah.incarcerapp" = "禁用“主畫面”按鈕（基於 Backgrounder）";
