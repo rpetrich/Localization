@@ -45,10 +45,10 @@
 
 	"Advertisement" = "廣告";
 
-	SAFE_MODE_TITLE = "在安全模式下";
-	SAFE_MODE_MESSAGE = "您的設備當前運行在安全模式下。Activator 的大部分功能在安全模式下已被禁用。重新載入 SpringBoard以回到正常模式。";
-	SAFE_MODE_CANCEL = "取消";
-	SAFE_MODE_RESTART = "重新啟動";
+	"SAFE_MODE_TITLE" = "在安全模式下";
+	"SAFE_MODE_MESSAGE" = "您的設備當前運行在安全模式下。Activator 的大部分功能在安全模式下已被禁用。重新載入 SpringBoard以回到正常模式。";
+	"SAFE_MODE_CANCEL" = "取消";
+	"SAFE_MODE_RESTART" = "重新啟動";
 
 	/* Menus */
 
@@ -206,7 +206,7 @@
 	"LISTENER_DESCRIPTION_application" = "啟動該應用程式";
 	
 	"LISTENER_TITLE_libactivator.system.homebutton" = "“主畫面”按鈕";
-	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "類比按一下“主畫面”按鈕";
+	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "模擬按一下“主畫面”按鈕";
 
 	"LISTENER_TITLE_libactivator.system.powerdown" = "關機";
 	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "關閉設備電源";
@@ -221,7 +221,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "重新載入“主畫面”螢幕到安全模式";
 	
 	"LISTENER_TITLE_libactivator.system.sleepbutton" = "電源鍵";
-	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "類比按一下電源鍵";
+	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "模擬按一下電源鍵";
 	
 	"LISTENER_TITLE_libactivator.system.spotlight" = "Spotlight 搜索";
 	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "啟動 Spotlight 搜尋網頁面";
