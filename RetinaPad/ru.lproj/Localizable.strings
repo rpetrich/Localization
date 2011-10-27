@@ -14,9 +14,9 @@
 	"Portrait in Landscape" = "Портретировать в Альюомном Режиме";
 	"This feature is in beta and is unsupported, for now." = "Эта функция - бета, вы не можете пока использовать её.";
 
-	OK = OK;
-	Cancel = Отмена;
-	Apply = Применить;
+	"OK" = "OK";
+	"Cancel" = "Отмена";
+	"Apply" = "Применить";
 
 	"To enter retina mode kill %@ via the multitasking switcher bar." = "Чтобы войти в Retina Mode выйдите из %@ во вкладке многозадачности.";
 	"To exit retina mode kill %@ via the multitasking switcher bar." = "Чтобы выйти из Retina Mode выйдите из %@ во вкладке многозадачности.";
