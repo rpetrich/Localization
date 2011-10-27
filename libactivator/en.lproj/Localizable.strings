@@ -44,6 +44,11 @@
 	SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD = "Show Activator Icon on SpringBoard";
 	
 	Advertisement = "Advertisement";
+
+	SAFE_MODE_TITLE = "In Safe Mode";
+	SAFE_MODE_MESSAGE = "Your device is currently running in Safe Mode. Most features of Activator are disabled while the device is in safe mode. Restart SpringBoard to return to the normal mode.";
+	SAFE_MODE_CANCEL = "Cancel";
+	SAFE_MODE_RESTART = "Restart";
 	
 	/* Menus */
 	
@@ -84,6 +89,7 @@
 	"EVENT_GROUP_TITLE_Headset Button" = "Headset Button";
 	"EVENT_GROUP_TITLE_Lock Screen" = "Lock Screen";
 	"EVENT_GROUP_TITLE_Power" = "Power";
+	"EVENT_GROUP_TITLE_Audio" = "Audio";
 	
 	/* Events */
 	
@@ -105,6 +111,9 @@
 	"EVENT_TITLE_libactivator.menu.press.single" = "Single Press";
 	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "Press home button once";
 	
+	"EVENT_TITLE_libactivator.menu.press.triple" = "Triple Press";
+	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "Press home button three times";
+
 	"EVENT_TITLE_libactivator.motion.shake" = "Shake Device";
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "Shake and bake!";
 	
@@ -146,6 +155,12 @@
 	
 	"EVENT_TITLE_libactivator.volume.up-down" = "Up, Down";
 	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Press volume up, then down";	
+
+	"EVENT_TITLE_libactivator.volume.down.press" = "Down Press";
+	"EVENT_DESCRIPTION_libactivator.volume.down.press" = "Press down volume button";
+	
+	"EVENT_TITLE_libactivator.volume.up.press" = "Up Press";
+	"EVENT_DESCRIPTION_libactivator.volume.Up.press" = "Press up volume button";
 	
 	"EVENT_TITLE_libactivator.volume.both.press" = "Both Press";
 	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Press both buttons simultaneously";	
@@ -236,6 +251,9 @@
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Compose Tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Launch modal tweet composer";
 
+
+	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Show Volume Bar";
+	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Show the volume slider";
 	
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod Controls";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Show now playing popup";
