@@ -109,7 +109,7 @@
 	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "快速按两下主屏幕按钮";
 
 	"EVENT_TITLE_libactivator.menu.press.single" = "按一下";
-	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "按一下主屏幕按钮";
+	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "快速按一下主屏幕按钮";
 
 	"EVENT_TITLE_libactivator.menu.press.triple" = "按三下";
 	"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "快速按三下主屏幕按钮";
