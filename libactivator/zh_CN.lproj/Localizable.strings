@@ -45,6 +45,11 @@
 
 	"Advertisement" = "广告";
 
+	"SAFE_MODE_TITLE" = "在安全模式下";
+	"SAFE_MODE_MESSAGE" = "您的设备当前运行在安全模式下。Activator 的大部分功能在安全模式下已被禁用。重新载入 SpringBoard 以回到正常模式。";
+	"SAFE_MODE_CANCEL" = "取消";
+	"SAFE_MODE_RESTART" = "重新启动";
+
 	/* Menus */
 
 	"MENUS" = "菜单";
@@ -84,6 +89,7 @@
 	"EVENT_GROUP_TITLE_Headset Button" = "耳机中央按钮";
 	"EVENT_GROUP_TITLE_Lock Screen" = "锁定屏幕";
 	"EVENT_GROUP_TITLE_Power" = "电源";
+	"EVENT_GROUP_TITLE_Audio" = "音频";
 
 	/* Events */
 
@@ -104,6 +110,9 @@
 
 	"EVENT_TITLE_libactivator.menu.press.single" = "按一下";
 	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "按一下主屏幕按钮";
+
+	"EVENT_TITLE_libactivator.menu.press.triple" = "按三下";
+	"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "快速按三下主屏幕按钮";
 
 	"EVENT_TITLE_libactivator.motion.shake" = "晃动设备";
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "晃一晃，摇一摇！";
@@ -146,6 +155,12 @@
 
 	"EVENT_TITLE_libactivator.volume.up-down" = "上键＞下键";
 	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "先按上音量按钮，再按下音量按钮";	
+
+	"EVENT_TITLE_libactivator.volume.down.press" = "按下下键";
+	"EVENT_DESCRIPTION_libactivator.volume.down.press" = "按一下下音量按钮";
+
+	"EVENT_TITLE_libactivator.volume.up.press" = "按下上键";
+	"EVENT_DESCRIPTION_libactivator.volume.Up.press" = "按一下上音量按钮";
 
 	"EVENT_TITLE_libactivator.volume.both.press" = "同时按";
 	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "同时按下两个音量按钮";	
@@ -234,6 +249,9 @@
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "编写 Tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "启动内置 Tweet 编辑器";
+
+	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "显示音量栏";
+	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "显示音量滑块";
 
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "显示正在播放弹出窗口";
