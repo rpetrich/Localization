@@ -86,7 +86,7 @@
 	"EVENT_GROUP_TITLE_Home Button" = "主屏幕按钮";
 	"EVENT_GROUP_TITLE_Sleep Button" = "电源按钮";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "音量按钮";
-	"EVENT_GROUP_TITLE_Headset Button" = "耳机中央按钮";
+	"EVENT_GROUP_TITLE_Headset Button" = "有线耳机";
 	"EVENT_GROUP_TITLE_Lock Screen" = "锁定屏幕";
 	"EVENT_GROUP_TITLE_Power" = "电源";
 	"EVENT_GROUP_TITLE_Audio" = "音频";
