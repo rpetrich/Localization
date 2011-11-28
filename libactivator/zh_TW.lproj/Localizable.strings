@@ -86,7 +86,7 @@
 	"EVENT_GROUP_TITLE_Home Button" = "“主畫面”按鈕";
 	"EVENT_GROUP_TITLE_Sleep Button" = "電源鍵";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "音量按鈕";
-	"EVENT_GROUP_TITLE_Headset Button" = "耳機中央按鈕";
+	"EVENT_GROUP_TITLE_Headset Button" = "有線耳機";
 	"EVENT_GROUP_TITLE_Lock Screen" = "“鎖定”螢幕";
 	"EVENT_GROUP_TITLE_Power" = "電源";
 	"EVENT_GROUP_TITLE_Audio" = "音訊";
