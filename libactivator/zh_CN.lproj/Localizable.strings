@@ -65,7 +65,7 @@
 
 	/* Modes */
 
-	"MODE_TITLE_all" = "任何位置";
+	"MODE_TITLE_all" = "任意位置";
 	"MODE_DESCRIPTION_all" = "所有位置都适用";
 
 	"MODE_TITLE_springboard" = "在主屏幕";
@@ -147,6 +147,9 @@
 	"EVENT_TITLE_libactivator.statusbar.tap.double" = "按两下";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "按两下顶部状态栏";
 
+	"EVENT_TITLE_libactivator.statusbar.tap.single" = "按一下";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "按一下顶部状态栏";
+
 	"EVENT_TITLE_libactivator.volume.display-tap" = "点击音量显示窗口";
 	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "按一下音量按钮后点击屏幕中音量提示框";
 
@@ -160,7 +163,7 @@
 	"EVENT_DESCRIPTION_libactivator.volume.down.press" = "按一下下音量按钮";
 
 	"EVENT_TITLE_libactivator.volume.up.press" = "按下上键";
-	"EVENT_DESCRIPTION_libactivator.volume.Up.press" = "按一下上音量按钮";
+	"EVENT_DESCRIPTION_libactivator.volume.up.press" = "按一下上音量按钮";
 
 	"EVENT_TITLE_libactivator.volume.both.press" = "同时按";
 	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "同时按下两个音量按钮";	
@@ -471,6 +474,9 @@
 
 	"LISTENER_TITLE_com.pedrofranceschi.physcroll" = "激活物理滚屏";
 	"LISTENER_DESCRIPTION_com.pedrofranceschi.physcroll" = "激活物理滚屏以使用加速计和/或音量按钮来滚动屏幕";
+
+	"LISTENER_TITLE_com.mathieubolard.killbackground" = "KillBackground";
+	"LISTENER_DESCRIPTION_com.mathieubolard.killbackground" = "退出全部后台运行的应用程序";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "蓝牙";
