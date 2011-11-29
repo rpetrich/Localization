@@ -199,6 +199,7 @@
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 開關";
 	"LISTENER_GROUP_TITLE_Phone" = "電話";
 	"LISTENER_GROUP_TITLE_Power" = "電源";
+	"LISTENER_GROUP_TITLE_SuperScroller" = "增強滾屏";
 	
 	/* Listener Names */
 	
@@ -477,8 +478,20 @@
 	"LISTENER_TITLE_toggle_Location" = "定位服務";
 	"LISTENER_TITLE_toggle_Phone" = "電話";
 	"LISTENER_TITLE_toggle_SSH" = "SSH";
-	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
+	"LISTENER_TITLE_toggle_Syslog" = "系統記錄";
 	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
-	
+
+	"LISTENER_TITLE_com.rpetrich.superscroller.up" = "向上";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.up" = "螢幕向上滾動一頁";
+
+	"LISTENER_TITLE_com.rpetrich.superscroller.down" = "向下";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.down" = "螢幕向下滾動一頁";
+
+	"LISTENER_TITLE_com.rpetrich.superscroller.autoup" = "自動向上滾動";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autoup" = "螢幕持續向上滾動";
+
+	"LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "自動向下滾動";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "螢幕持續向下滾動";
+
 	"IN_CYDIA_WARNING" = "在 Cydia 安裝軟體時進行其他操作會有潛在的危險。";
 }
