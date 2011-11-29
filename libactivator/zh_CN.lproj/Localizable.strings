@@ -435,6 +435,41 @@
 	"LISTENER_TITLE_us.hannahpappah.incarcerapp" = "IncarcerApp";
 	"LISTENER_DESCRIPTION_us.hannahpappah.incarcerapp" = "禁用主屏幕按钮（基于 Backgrounder）";
 
+	"LISTENER_TITLE_com.chpwn.appslide" = "AppSlide";
+	"LISTENER_DESCRIPTION_com.chpwn.appslide" = "类似返回按钮，但更好";
+
+	"LISTENER_TITLE_jp.r-plus.autoscroller.autodown" = "自动下滑";
+	"LISTENER_DESCRIPTION_jp.r-plus.autoscroller.autodown" = "自动向下滚动";
+
+	"LISTENER_TITLE_jp.r-plus.autoscroller.autoup" = "自动上滑";
+	"LISTENER_DESCRIPTION_jp.r-plus.autoscroller.autoup" = "自动向上滚动";
+	
+	"LISTENER_TITLE_com.zimm.circuitous.activator" = "Circuitous";
+	"LISTENER_DESCRIPTION_com.zimm.circuitous.activator" = "显示 Dock";
+
+	"LISTENER_TITLE_com.zimm.circuitous.cycler.activator" = "Circuitous";
+	"LISTENER_DESCRIPTION_com.zimm.circuitous.cycler.activator" = "应用程序运行顺序";
+
+	"LISTENER_TITLE_com.zimm.circuitous.random.activator" = "Circuitous";
+	"LISTENER_DESCRIPTION_com.zimm.circuitous.random.activator" = "应用程序随机运行顺序";
+
+	"LISTENER_TITLE_com.zimm.circuitous.reverse.activator" = "Circuitous";
+	"LISTENER_DESCRIPTION_com.zimm.circuitous.reverse.activator" = "应用程序逆向运行顺序";
+
+	"LISTENER_TITLE_irealsms3.Menu" = "iRealSMS 3.0 菜单";
+	"LISTENER_DESCRIPTION_irealsms3.Menu" = "主屏幕按钮菜单";
+
+	"LISTENER_TITLE_irealsms3.QuickQueue" = "收到短信的快速队列";
+	"LISTENER_DESCRIPTION_irealsms3.QuickQueue" = "iRealSMS 3.0 快速队列";
+
+	"LISTENER_TITLE_irealsms3.QuickSend" = "编写短信的快速发送";
+	"LISTENER_DESCRIPTION_irealsms3.QuickSend" = "iRealSMS 3.0 快速发送";
+
+	"LISTENER_TITLE_irealsms3.unhidealerts" = "显示/隐藏快速回复";
+	"LISTENER_DESCRIPTION_irealsms3.unhidealerts" = "iRealSMS 3.0 显示/隐藏";
+
+	"LISTENER_TITLE_com.pedrofranceschi.physcroll" = "激活物理滚屏";
+	"LISTENER_DESCRIPTION_com.pedrofranceschi.physcroll" = "激活物理滚屏以使用加速计和/或音量按钮来滚动屏幕";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "蓝牙";
