@@ -1,5 +1,5 @@
 {
-LOCALIZATION_ABOUT = "zYx";
+LOCALIZATION_ABOUT = "zYx (@_zYx)";
 
 /* Settings Controller */
 
@@ -40,6 +40,16 @@ VERSION_PROMPT_MORE_INFO = "Więcej Informacji";
 VERSION_PROMPT_IGNORE = "Ignoruj";
 VERSION_PROMPT_CONTINUE = "Kontynuuj";
 
+SHOW_ICON = "Pokaż Ikonę";
+SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD = "Pokaż ikonę Activator na ekranie początkowym";
+
+Advertisement = "Ogłoszenie";
+
+SAFE_MODE_TITLE = "W Trybie Awaryjnym";
+SAFE_MODE_MESSAGE = "Urządzenie jest uruchomione w trybie awaryjnym. Większość funkcji Activator'a są wyłączone gdy urządzenie jest w trybie awaryjnym. Zrestart'uj SpringBoard, aby powrócić do trybu normalnego.";
+SAFE_MODE_CANCEL = "Anuluj";
+SAFE_MODE_RESTART = "Restart";
+
 /* Menus */
 
 MENUS = "Menu";
@@ -79,6 +89,7 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 "EVENT_GROUP_TITLE_Headset Button" = "Przycisk zestawu słuchawkowego";
 "EVENT_GROUP_TITLE_Lock Screen" = "Zablokowany Ekran";
 "EVENT_GROUP_TITLE_Power" = "Zasilanie";
+"EVENT_GROUP_TITLE_Audio" = "Audio";
 
 /* Events */
 
@@ -99,6 +110,9 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 
 "EVENT_TITLE_libactivator.menu.press.single" = "Pojedyncze naciśnięcie";
 "EVENT_DESCRIPTION_libactivator.menu.press.single" = "Naciśnij przycisk początkowy (home) tylko raz";
+
+"EVENT_TITLE_libactivator.menu.press.triple" = "Potrójne naciśnięcie";
+"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "Szybko naciśnij przycisk początkowy (home) trzy razy";
 
 "EVENT_TITLE_libactivator.motion.shake" = "Potrząśnij urządzenie";
 "EVENT_DESCRIPTION_libactivator.motion.shake" = "Wstrząśnięte nie mieszane!";
@@ -140,7 +154,13 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 "EVENT_DESCRIPTION_libactivator.volume.down-up" = "Wciśnij głośność -, potem +";
 
 "EVENT_TITLE_libactivator.volume.up-down" = "+, -";
-"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Nacinij przycisk zgłaśniania, potem ściszania";
+"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Naci?nij przycisk zgłaśniania, potem ściszania";
+
+"EVENT_TITLE_libactivator.volume.down.press" = "-";
+"EVENT_DESCRIPTION_libactivator.volume.down.press" = "Naciśnij przycisk ściszania";
+	
+"EVENT_TITLE_libactivator.volume.up.press" = "+";
+"EVENT_DESCRIPTION_libactivator.volume.Up.press" = "Naciśnij przycisk głośności";
 
 "EVENT_TITLE_libactivator.volume.both.press" = "Naciśnięcie + i -";
 "EVENT_DESCRIPTION_libactivator.volume.both.press" = "Naciśnij oba przyciski jednocześnie";
@@ -160,8 +180,8 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 "EVENT_TITLE_libactivator.headset-button.hold.short" = "Krótkie przytrzymanie";
 "EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Naciśnij i przytrzymaj przycisk zest. sł.";
 
-"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Podwójne puknięcie zegarka";
-"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Podwójne puknięcie obszaru zegarka";
+"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Podwójne tapnięcie zegarka";
+"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Tapnij obszar zegarka dwa razy";
 
 "EVENT_TITLE_libactivator.power.connected" = "Podłączenie ładowarki";
 "EVENT_DESCRIPTION_libactivator.power.connected" = "Podłączenie ładowarki";
@@ -179,6 +199,7 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 "LISTENER_GROUP_TITLE_SBSettings Toggles" = "Przełączniki SBSettings";
 "LISTENER_GROUP_TITLE_Phone" = "Telefon";
 "LISTENER_GROUP_TITLE_Power" = "Zasilanie";
+"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 
 /* Listener Names */
 
@@ -221,7 +242,18 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 "LISTENER_TITLE_libactivator.system.nothing" = "Nic nie rób";
 "LISTENER_DESCRIPTION_libactivator.system.nothing" = "Anuluje akcje";
 
+"LISTENER_TITLE_libactivator.system.first-springboard-page" = "1. strona ekr. początkowego";
+"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Przeskocz do pierwszej strony ekranu początkowego";
 
+"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Uruchom Centrum Powiadomień";
+"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Pociągnij w dół Centrum Powiadomień";
+     
+"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Napisz Tweeta";
+"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Uruchom okienko komponowania nowego Tweeta";
+  
+"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Pokaż Pasek Głośności";
+"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Pokazuje Pasek Głośności";
+        
 "LISTENER_TITLE_libactivator.ipod.music-controls" = "Kontrolki iPoda";
 "LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Pokaż powiadomienie Teraz Odtwarzane";
 
@@ -233,8 +265,7 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 
 "LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Play/Pause";
 "LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Przełącza odtwarzanie iPoda";
-
-
+        
 "LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Odblokuj Urządzenie";
 "LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Ignoruj zabl. ekran";
 
@@ -243,8 +274,7 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 
 "LISTENER_TITLE_libactivator.lockscreen.toggle" = "Zablokuj/Odblokuj";
 "LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Przełącz pokazywanie zabl. Ekranu";
-
-
+                  
 "LISTENER_TITLE_libactivator.phone.contacts" = "Pokaż Kontakty";
 "LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Uruchom telefon na karcie Kontakty";
 
@@ -269,6 +299,20 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 "LISTENER_TITLE_toggle_SSH" = "SSH";
 "LISTENER_TITLE_toggle_Syslog" = "Log systemowy";
 "LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
+
+
+"LISTENER_TITLE_com.rpetrich.superscroller.up" = "Do góry";
+"LISTENER_DESCRIPTION_com.rpetrich.superscroller.up" = "Przewiń jedną stronę do góry";
+
+"LISTENER_TITLE_com.rpetrich.superscroller.down" = "W dół";
+"LISTENER_DESCRIPTION_com.rpetrich.superscroller.down" = "Przewiń o jedną stronę w dół";
+	
+"LISTENER_TITLE_com.rpetrich.superscroller.autoup" = "AutoPrzewiń do góry";
+"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autoup" = "Nieprzerwane przewijanie do góry";
+	
+"LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "AutoPrzewiń w dół";
+"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "Nieprzerwane przewijanie w dół";
+
 
 IN_CYDIA_WARNING = "To może być potencjalnie niebezpieczne podczas gdy Cydia instaluje pakiety.";
 }
