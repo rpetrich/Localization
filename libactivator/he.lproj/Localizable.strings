@@ -286,4 +286,13 @@
 	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
 	
 	"IN_CYDIA_WARNING" = "זהו דבר מסוכן לבצע פעולות כלשהן כאשר סידיה באמצע התקנת תוכנה.";
+"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
+"LISTENER_TITLE_com.rpetrich.superscroller.up" = "מעלה";
+ "LISTENER_DESCRIPTION_com.rpetrich.superscroller.up" = "גלול עמוד אחד מעלה";
+ "LISTENER_TITLE_com.rpetrich.superscroller.down" = "מטה";
+"LISTENER_DESCRIPTION_com.rpetrich.superscroller.down" = "גלול עמוד אחד מטה";
+"LISTENER_TITLE_com.rpetrich.superscroller.autoup" = "גלילה אוטו׳ מעלה";
+"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autoup" = "גלילה אינסופית מעלה";
+"LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "גלילה אוטו׳ מטה";
+"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "גלילה אינסופית מטה";
 }
