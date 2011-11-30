@@ -45,6 +45,11 @@
 
 	Advertisement = "Pubblicità";
 
+	SAFE_MODE_TITLE = "In safe mode";
+	SAFE_MODE_MESSAGE = "Il tuo dispositivo è attualmente in safe mode. La maggior parte delle funzioni di Activator sono disabilitate mentre il dispositivo è in safe mode. Riavvia la SpringBoard per tornare nella modalità normale.";
+	SAFE_MODE_CANCEL = "Annulla";
+	SAFE_MODE_RESTART = "Riavvia";
+
 	/* Menus */
 
 	MENUS = "Menu";
@@ -84,6 +89,7 @@
 	"EVENT_GROUP_TITLE_Headset Button" = "Pulsanti auricolari";
 	"EVENT_GROUP_TITLE_Lock Screen" = "Lockscreen";
 	"EVENT_GROUP_TITLE_Power" = "Alimentazione";
+	"EVENT_GROUP_TITLE_Audio" = "Audio";
 
 	/* Events */
 
@@ -104,6 +110,9 @@
 
 	"EVENT_TITLE_libactivator.menu.press.single" = "Pressione singola";
 	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "Premere il pulsante home";
+
+	"EVENT_TITLE_libactivator.menu.press.triple" = "Tripla pressione";
+	"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "Premere tre volte il pulsante home";
 
 	"EVENT_TITLE_libactivator.motion.shake" = "Scuoti dispositivo";
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "Scuotere!";
@@ -147,6 +156,12 @@
 	"EVENT_TITLE_libactivator.volume.up-down" = "Sù, Giù";
 	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Premere volume sù, poi giù";	
 
+	"EVENT_TITLE_libactivator.volume.down.press" = "Giù";
+	"EVENT_DESCRIPTION_libactivator.volume.down.press" = "Premere volume giù";
+
+	"EVENT_TITLE_libactivator.volume.up.press" = "Sù";
+	"EVENT_DESCRIPTION_libactivator.volume.Up.press" = "Premere volume sù";
+
 	"EVENT_TITLE_libactivator.volume.both.press" = "Pressione simultanea";
 	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Premere entrambi i pulsanti";	
 
@@ -184,6 +199,7 @@
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Switch di SBSettings";
 	"LISTENER_GROUP_TITLE_Phone" = "Telefono";
 	"LISTENER_GROUP_TITLE_Power" = "Alimentazione";
+	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 
 	/* Listener Names */
 
@@ -232,10 +248,11 @@
 	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Attiva centro notifiche";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Trascina giù il centro notifiche";
 
-
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Componi tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Avvia il compositore tweet";
 
+	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Mostra barra volume";
+	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Mostra la barra del volume";
 
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "Controlli iPod";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Visualizza la finestra di esecuzione";
@@ -249,7 +266,6 @@
 	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Play/Pausa";
 	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Alterna l'esecuzione iPod";
 
-
 	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Sblocca dispositivo";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Disattiva la lockscreen";
 
@@ -258,7 +274,6 @@
 
 	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "Blocca/sblocca";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Alterna visualizzazione lockscreen";
-
 
 	"LISTENER_TITLE_libactivator.phone.contacts" = "Mostra contatti";
 	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Avvia il telefono in contatti";
@@ -275,7 +290,6 @@
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "Mostra segreteria";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Avvia il telefono in segreteria";
 
-
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
 	"LISTENER_TITLE_toggle_Data" = "Data";
@@ -285,5 +299,17 @@
 	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
 	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
 
-	IN_CYDIA_WARNING = "E' potenzialmente pericoloso eseguire delle azioni mentre è in corso un'installazione di un software da Cydia.";
+	"LISTENER_TITLE_com.rpetrich.superscroller.up" = "Sù";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.up" = "Scorre una pagina sù";
+
+	"LISTENER_TITLE_com.rpetrich.superscroller.down" = "Giù";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.down" = "Scorre una pagina giù";
+
+	"LISTENER_TITLE_com.rpetrich.superscroller.autoup" = "Autoscorri sù";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autoup" = "Scorre continuamente su";
+
+	"LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "Autoscorri giù";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "Scorre continuamente giù";
+
+	IN_CYDIA_WARNING = "È potenzialmente pericoloso eseguire delle azioni mentre è in corso un'installazione di un software da Cydia.";
 }
