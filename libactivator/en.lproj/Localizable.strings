@@ -266,7 +266,6 @@
 	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Play/Pause";
 	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Toggles iPod playback";
 	
-	
 	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Unlock Device";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Dismiss lock screen";
 	
@@ -275,7 +274,6 @@
 	
 	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "Lock/Unlock";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Toggle showing lock screen";
-	
 
 	"LISTENER_TITLE_libactivator.phone.contacts" = "Show Contacts";
 	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Launch Phone to the Contacts tab";
@@ -291,7 +289,6 @@
 	
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "Show Voicemail";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Launch Phone to the Voicemail tab";
-	
 	
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
