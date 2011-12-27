@@ -217,6 +217,7 @@
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings Toggles";
 	"LISTENER_GROUP_TITLE_Phone" = "Phone";
 	"LISTENER_GROUP_TITLE_Power" = "Power";
+	"LISTENER_GROUP_TITLE_Audio" = "Audio";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 	
 	/* Listener Names */
