@@ -217,6 +217,7 @@
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 開關";
 	"LISTENER_GROUP_TITLE_Phone" = "電話";
 	"LISTENER_GROUP_TITLE_Power" = "電源";
+	"LISTENER_GROUP_TITLE_Audio" = "音訊";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "增強滾屏";
 	
 	/* Listener Names */
