@@ -1,5 +1,5 @@
 {
-	"LOCALIZATION_ABOUT" = "繁體中文：Merlin";
+	"LOCALIZATION_ABOUT" = "繁體中文：Merlin (autopear)";
 	
 	/* Settings Controller */
 	
@@ -22,7 +22,7 @@
 	"RESET_SETTINGS" = "重置";
 	"RESET_SETTINGS_DETAIL" = "重設所有設定為預設";
 	"RESET_ALERT_TITLE" = "重置 Activator 設定";
-	"RESET_ALERT_MESSAGE" = "您確定要將 Activator 的設定還原為預設嗎？\n\n如果選擇繼續，您的設備將會從“主畫面”螢幕登出。";
+	"RESET_ALERT_MESSAGE" = "您確定要將 Activator 的設定還原為預設嗎？\n\n如果選擇繼續，您的装置將會從“主畫面”螢幕登出。";
 	"RESET_ALERT_CANCEL" = "取消";
 	"RESET_ALERT_CONTINUE" = "重置";
 	"MULTIPLE_ASSIGNMENTS" = "【多個】";
@@ -46,14 +46,17 @@
 	"Advertisement" = "廣告";
 
 	"SAFE_MODE_TITLE" = "在安全模式下";
-	"SAFE_MODE_MESSAGE" = "您的設備當前運行在安全模式下。Activator 的大部分功能在安全模式下已被禁用。重新載入 SpringBoard以回到正常模式。";
+	"SAFE_MODE_MESSAGE" = "您的装置當前運行在安全模式下。Activator 的大部分功能在安全模式下已被禁用。重新載入 SpringBoard以回到正常模式。";
 	"SAFE_MODE_CANCEL" = "取消";
 	"SAFE_MODE_RESTART" = "重新啟動";
+
+	"BLACKLIST" = "黑名單";
+	"BLACKLIST_DETAIL" = "忽略指定應用程式中的事件";
 
 	/* Menus */
 
 	"MENUS" = "項目單";
-	"MENUS_DETAIL" = "管理 Activator 自定義項目單";
+	"MENUS_DETAIL" = "管理 Activator 自訂項目單";
 
 	"ADD_NEW_MENU" = "添加項目單";
 	"NEW_MENU" = "新項目單";
@@ -114,18 +117,30 @@
 	"EVENT_TITLE_libactivator.menu.press.triple" = "按三下";
 	"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "快速按三下“主畫面”按鈕";
 
-	"EVENT_TITLE_libactivator.motion.shake" = "晃動設備";
+	"EVENT_TITLE_libactivator.motion.shake" = "晃動装置";
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "晃一晃，搖一搖！";
 	
 	"EVENT_TITLE_libactivator.slide-in.bottom" = "從螢幕底部";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "由螢幕底部向上滑動";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "由螢幕底部向上拖動";
 	
 	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "從螢幕左下";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "由螢幕左下向上滑動";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "由螢幕左下向上拖動";
 	
 	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "從螢幕右下";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "由螢幕右下向上滑動";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "由螢幕右下向上拖動";
 	
+	"EVENT_TITLE_libactivator.slide-in.top-left" = "從螢幕左上";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "由螢幕左上向下拖動";
+	
+	"EVENT_TITLE_libactivator.slide-in.top-right" = "從螢幕左上";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "由螢幕右上向下拖動";
+
+	"EVENT_TITLE_libactivator.slide-in.left" = "從螢幕左側";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left" = "由螢幕左側向右拖動";
+
+	"EVENT_TITLE_libactivator.slide-in.right" = "從螢幕右側";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "由螢幕右側向左拖動";
+
 	"EVENT_TITLE_libactivator.springboard.pinch" = "往內撥動手指";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "在“主畫面”螢幕往內撥動兩隻手指";
 	
@@ -135,8 +150,8 @@
 	"EVENT_TITLE_libactivator.statusbar.hold" = "按住";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "按住頂部狀態列";
 	
-	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "向下拖動";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "頂部從狀態列向下拖動";
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "從螢幕頂部";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "由螢幕頂部狀態列向下拖動";
 	
 	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "向左拖動";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "在頂部狀態列向左拖動";
@@ -213,10 +228,10 @@
 	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "模擬按一下“主畫面”按鈕";
 
 	"LISTENER_TITLE_libactivator.system.powerdown" = "關機";
-	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "關閉設備電源";
+	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "關閉装置電源";
 	
 	"LISTENER_TITLE_libactivator.system.reboot" = "重新啟動";
-	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "重新開機設備";
+	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "重新開機装置";
 	
 	"LISTENER_TITLE_libactivator.system.respring" = "重啟“主畫面”螢幕";
 	"LISTENER_DESCRIPTION_libactivator.system.respring" = "重新載入“主畫面”螢幕";
@@ -320,7 +335,7 @@
 	"LISTENER_DESCRIPTION_com.ashman.lockinfo.infoshade" = "顯示或隱藏資訊遮罩";
 
 	"LISTENER_TITLE_com.ashman.lockinfo.unlock" = "LockInfo - 解除鎖定";
-	"LISTENER_DESCRIPTION_com.ashman.lockinfo.unlock" = "解除鎖定設備";
+	"LISTENER_DESCRIPTION_com.ashman.lockinfo.unlock" = "解除鎖定装置";
 
 	"LISTENER_TITLE_com.ashman.memtap" = "記憶體點擊";
 	"LISTENER_DESCRIPTION_com.ashman.memtap" = "點擊以釋放記憶體";
@@ -425,7 +440,7 @@
 	"LISTENER_DESCRIPTION_jp.ashikase.backgrounder" = "在後臺执行應用程式";
 
 	"LISTENER_TITLE_jp.tom-go.iShakeLock" = "iShakeLock";
-	"LISTENER_DESCRIPTION_jp.tom-go.iShakeLock" = "鎖定/解鎖設備的新方式";
+	"LISTENER_DESCRIPTION_jp.tom-go.iShakeLock" = "鎖定/解鎖装置的新方式";
 
 	"LISTENER_TITLE_jp.ashikase.lastapp" = "LastApp";
 	"LISTENER_DESCRIPTION_jp.ashikase.lastapp" = "切換到前一個活動的應用程式";
