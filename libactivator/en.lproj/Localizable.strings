@@ -50,6 +50,9 @@
 	SAFE_MODE_CANCEL = "Cancel";
 	SAFE_MODE_RESTART = "Restart";
 	
+	BLACKLIST = "Blacklist";
+	BLACKLIST_DETAIL = "Ignore events in specific applications";
+	
 	/* Menus */
 	
 	MENUS = "Menus";
@@ -126,6 +129,18 @@
 	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "From Screen Bottom-Right";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Drag onto screen from bottom-right";
 	
+	"EVENT_TITLE_libactivator.slide-in.top-left" = "From Screen Top-Left";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "Drag onto screen from top-left";
+	
+	"EVENT_TITLE_libactivator.slide-in.top-right" = "From Screen Top-Right";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "Drag onto screen from top-right";
+	
+	"EVENT_TITLE_libactivator.slide-in.left" = "From Screen Left";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left" = "Drag onto screen from left";
+	
+	"EVENT_TITLE_libactivator.slide-in.right" = "From Screen Right";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "Drag onto screen from right";
+	
 	"EVENT_TITLE_libactivator.springboard.pinch" = "Icon Pinch";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Pinch springboard icons with 2 fingers";
 	
@@ -135,8 +150,8 @@
 	"EVENT_TITLE_libactivator.statusbar.hold" = "Hold";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Tap and hold on the status bar";
 	
-	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Swipe Down";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Tap and drag down from status bar";
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "From Screen Top";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Drag onto screen from statusbar";
 	
 	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Swipe Left";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Tap and drag left on status bar";
@@ -144,6 +159,9 @@
 	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "Swipe Right";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Tap and drag right on status bar";
 
+	"EVENT_TITLE_libactivator.statusbar.tap.single" = "Single Tap";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Single-tap on status bar";
+	
 	"EVENT_TITLE_libactivator.statusbar.tap.double" = "Double Tap";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Double-tap on status bar";
 	
@@ -160,7 +178,7 @@
 	"EVENT_DESCRIPTION_libactivator.volume.down.press" = "Press down volume button";
 	
 	"EVENT_TITLE_libactivator.volume.up.press" = "Up Press";
-	"EVENT_DESCRIPTION_libactivator.volume.Up.press" = "Press up volume button";
+	"EVENT_DESCRIPTION_libactivator.volume.up.press" = "Press up volume button";
 	
 	"EVENT_TITLE_libactivator.volume.both.press" = "Both Press";
 	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Press both buttons simultaneously";	
