@@ -50,6 +50,9 @@
 	"SAFE_MODE_CANCEL" = "取消";
 	"SAFE_MODE_RESTART" = "重新启动";
 
+	"BLACKLIST" = "黑名单";
+	"BLACKLIST_DETAIL" = "忽略指定应用程序里的事件";
+
 	/* Menus */
 
 	"MENUS" = "菜单";
@@ -118,13 +121,25 @@
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "晃一晃，摇一摇！";
 
 	"EVENT_TITLE_libactivator.slide-in.bottom" = "从屏幕底部";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "由屏幕底部向上滑动";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "由屏幕底部向上拖动";
 
 	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "从屏幕左下";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "由屏幕左下向上滑动";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "由屏幕左下向上拖动";
 
 	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "从屏幕右下";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "由屏幕右下向上滑动";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "由屏幕右下向上拖动";
+
+	"EVENT_TITLE_libactivator.slide-in.top-left" = "从屏幕左上";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "由屏幕左上向下拖动";
+	
+	"EVENT_TITLE_libactivator.slide-in.top-right" = "从屏幕右上";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "由屏幕右上向下拖动";
+
+	"EVENT_TITLE_libactivator.slide-in.left" = "从屏幕左侧";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left" = "由屏幕左侧向右拖动";
+
+	"EVENT_TITLE_libactivator.slide-in.right" = "从屏幕右侧";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "由屏幕右侧向左拖动";
 
 	"EVENT_TITLE_libactivator.springboard.pinch" = "合拢手指";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "在主屏幕合拢两只手指";
@@ -135,8 +150,8 @@
 	"EVENT_TITLE_libactivator.statusbar.hold" = "按住";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "按住顶部状态栏";
 
-	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "向下拖动";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "顶部从状态栏向下拖动";
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "从屏幕顶部";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "由屏幕顶部状态栏向下拖动";
 
 	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "向左拖动";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "在顶部状态栏向左拖动";
@@ -148,7 +163,7 @@
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "按两下顶部状态栏";
 
 	"EVENT_TITLE_libactivator.statusbar.tap.single" = "按一下";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "按一下顶部状态栏";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "按一下顶部状态栏";
 
 	"EVENT_TITLE_libactivator.volume.display-tap" = "点击音量显示窗口";
 	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "按一下音量按钮后点击屏幕中音量提示框";
