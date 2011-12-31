@@ -1,0 +1,117 @@
+{
+	"Display Recorder" = "Display Recorder";
+
+	"DisplayRecorder on %@" = "DisplayRecorder su %@";
+
+	"Start recording display?" = "Avviare la registrazione dello schermo?";
+	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "Avviare la registrazione dello schermo?\n\nI gesti per l'attivazione possono essere configurati tramite l'applicazione impostazioni.";
+	"Cancel" = "Annulla";
+	"Record" = "Registra";
+
+	"Recording errored:\n%@\n(Error Code: %i)" = "Errore registrazione:\n%@\n(Codice errore: %i)";
+	"Recording errored:\n%@" = "Errore registrazione:\n%@";
+	"Recording completed!" = "Registrazione completata!";
+	"OK" = "OK";
+
+	"Display cannot be recorded while uploading to YouTube." = "Non è possibile registrare lo schermo durante il caricamento su YouTube.";
+
+	"Unable to load framebuffer surface" = "Impossibile caricare la superfice del framebuffer";
+	"Error creating writer: %@" = "Errore creazione scrittura: %@";
+	"Unable to start writing" = "Impossibile iniziare la scrittura";
+	"Interrupted by another app using the audio/video codec hardware." = "Interrotto da un'altra applicazione che utilizza il codec hardware audio/video.";
+	"Failed to write pixel buffer" = "Fallita la scrittura del buffer pixel";
+	"Unable to open output file at path %@" = "Impossibile aprire il file di output nel percorso %@";
+
+	"Toggle Recording" = "Alterna registrazione";
+	"Toggle Web Interface" = "Alterna interfaccia WEB";
+
+	"Begin/end screen recording" = "Avvia/ferma registrazione schermo";
+	"Enable/disable web interface" = "Abilita/disabilita interfaccia WEB";
+
+	"Upload Details" = "Dettagli caricamento";
+	"Upload" = "Carica";
+	"Cancel Upload" = "Annulla caricamento";
+
+	"YouTube Terms" = "Condizioni YouTube";
+	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "Premendo 'carica', dichiari di avere tutti i diritti sul contenuto o che sei autorizzato dal proprietario di rendere il contenuto disponibile pubblicamente su YouTube, e che sia conforme con le condizioni di servizio di YouTube";
+	"Show Terms" = "Mostra condizioni";
+
+	"Title" = "Titolo";
+	"Description" = "Descrizione";
+	"Category" = "Categoria";
+	"Public Video" = "Video pubblico";
+
+	"Film & Animation" = "Film e animazione";
+	"Autos & Vehicles" = "Auto e veicoli";
+	"Music" = "Musica";
+	"Pets & Animals" = "Animali";
+	"Sports" = "Sport";
+	"Travel & Events" = "Viaggi ed eventi";
+	"Gaming" = "Giochi";
+	"Comedy" = "Commedie";
+	"People & Blogs" = "Persone e blog";
+	"News & Politics" = "Notizie e politica";
+	"Entertainment" = "Intrattenimento";
+	"Education" = "Istruzione";
+	"Howto & Style" = "Fai da te e stile";
+	"Nonprofits & Activism" = "Non profit e attivismo";
+	"Science & Technology" = "Scienze e tecnologie";
+	"Movies" = "Film";
+
+	"YouTube Login Missing" = "Accesso a YouTube mancante";
+	"Fill in your login details via the Display Recorder pane in the Settings application." = "Inserire i dati di accesso nelle configurazioni di Display Recorder nell'applicazione impostazioni.";
+	"Oversize Video" = "Video troppo grande";
+	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "In alcuni casi, YouTube non accetta video di grandi dimensioni da un dispositivo mobile.\nPer un miglior risultato, trasferire il video ad un computer e caricarlo tramite l'interfaccia WEB di YouTube o registrare nuovamente il video utilizzando l'opzione scala a metà nelle impostazioni.";
+	"Continue" = "Continua";
+
+	"Title is empty" = "Titolo vuoto";
+	"YouTube requires that all videos have a title." = "YouTube richiede che tutti i video abbiano un titolo.";
+	"Description is empty" = "Descrizione vuota";
+	"YouTube requires that all videos have a description." = "YouTube richiede che tutti i video abbiano una descrizione.";
+
+	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "Il caricamento è fallito poiché le credenziali di accesso sono state rifiutate. Entrare nell'applicazione impostazioni e reinserirle.\nSe si accede tramite un account Google, assicurarsi che sia collegato a YouTube.";
+	"Upload failed with error:\n" = "Caricamento fallito con errore:\n";
+	"Upload completed successfully\nYouTube link is on the pasteboard" = "Caricamento completato correttamente\nIl link di YouTube è stato copiato negli appunti";
+
+	"Help" = "Aiuto";
+	"Enable" = "Abilita";
+	"Disable" = "Disabilita";
+
+	"Not connected to Wi-Fi" = "Non connesso al Wi-Fi";
+	"Web server disabled" = "Server WEB disabilitato";
+
+	"Saving to Camera Roll…" = "Salvataggio nel rullino fotografico in corso…";
+	"Save Failed!" = "Salvataggio fallito!";
+	"Unable to save video to camera roll." = "Impossibile salvare il video nel rullino fotografico.";
+
+	"Recording…" = "Registrazione in corso…";
+	"Stop Recording" = "Ferma registrazione";
+
+	"1 day" = "1 giorno";
+	"%u days" = "%u giorni";
+	"1 hr" = "1 ora";
+	"1 hour" = "1 ora";
+	"%u hrs" = "%u ore";
+	"%u hours" = "%u ore";
+	"1 min" = "1 min";
+	"1 minute" = "1 minuto";
+	"%u mins" = "%u min";
+	"%u minutes" = "%u minuti";
+	"1 sec" = "1 sec";
+	"1 second" = "1 secondo";
+	"%u secs" = "%u sec";
+	"%u seconds" = "%u secondi";
+	" " = " ";
+
+	"%llu GB" = "%llu GB";
+	"%llu MB" = "%llu MB";
+	"%llu KB" = "%llu KB";
+	"%llu bytes" = "%llu byte";
+
+	"Recordings" = "Registrazioni";
+
+	"Delete Recording" = "Elimina registrazione";
+	"Upload to YouTube" = "Carica su YouTube";
+	"Play Video" = "Esegui video";
+	"Add to Camera Roll" = "Aggiungi al rullino";
+}
