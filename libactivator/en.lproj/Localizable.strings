@@ -200,6 +200,12 @@
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Toggle Mute Switch Twice";
 	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Flip mute switch on/off and back";	
 	
+	"EVENT_TITLE_libactivator.volume.mute" = "Mute device";
+	"EVENT_DESCRIPTION_libactivator.volume.mute" = "Activate mute via ringer switch";
+	
+	"EVENT_TITLE_libactivator.volume.unmute" = "Unmute device";
+	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "Deactivate mute via ringer switch";
+	
 	"EVENT_TITLE_libactivator.headset-button.press.single" = "Single Press";
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Press headset button once";	
 	
@@ -259,6 +265,9 @@
 
 	"LISTENER_TITLE_libactivator.system.voice-control" = "Voice Control";
 	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Activate Voice Control";
+
+	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "Virtual Assistant";
+	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Activate virtual assistant";
 
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Activate Switcher";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Show application switcher";
