@@ -50,6 +50,15 @@
 	"SAFE_MODE_CANCEL" = "取消";
 	"SAFE_MODE_RESTART" = "重新啟動";
 
+
+	"ACTIVATOR_DISABLED" = "Activator 已禁用";
+	"ACTIVATOR_DISABLED_MESSAGE" = "因 MobileSubstrate 没有正常工作，Activator 大部分功能已被禁用。如果您的裝置是處於安全模式下，您可以在螢幕頂端狀態列看到“Exit Safe Mode”（退出安全模式）的字樣，您可以點擊“Restart”（重新啟動）以回到正常模式。";
+
+	"ACTIVATOR_CORRUPT" = "Activator 已損壞";
+	"ACTIVATOR_CORRUPT_MESSAGE" = "可能因 Activator 程式及資源档案損壞，Activator 大部分功能已被禁用。請嘗試使用 Cydia 重新安裝 Activator 以修復損壞档案。";
+	"CORRUPT_CANCEL" = "取消";
+	"CORRUPT_LAUNCH_CYDIA" = "啟動 Cydia";
+
 	"BLACKLIST" = "黑名單";
 	"BLACKLIST_DETAIL" = "忽略指定應用程式中的事件";
 
