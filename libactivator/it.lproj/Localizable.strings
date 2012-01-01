@@ -45,10 +45,21 @@
 
 	Advertisement = "Pubblicità";
 
-	SAFE_MODE_TITLE = "In safe mode";
-	SAFE_MODE_MESSAGE = "Il tuo dispositivo è attualmente in safe mode. La maggior parte delle funzioni di Activator sono disabilitate mentre il dispositivo è in safe mode. Riavvia la SpringBoard per tornare nella modalità normale.";
+	SAFE_MODE_TITLE = "In Safe Mode";
+	SAFE_MODE_MESSAGE = "Il dispositivo è attualmente in Safe Mode. La maggior parte delle funzioni di Activator sono disabilitate mentre il dispositivo è in Safe Mode. Riavvia la SpringBoard per tornare nella modalità normale.";
 	SAFE_MODE_CANCEL = "Annulla";
 	SAFE_MODE_RESTART = "Riavvia";
+
+	ACTIVATOR_DISABLED = "Activator disabilitato";
+	ACTIVATOR_DISABLED_MESSAGE = "La maggior parte delle funzioni di Activator sono attualmente disabilitate poiché il Mobile Substrate non sta funzionando correttamente. Se il dispositivo è in Safe Mode, sarà visibile la scritta \"Exit Safe Mode\" in alto, cliccandoci e successivamente cliccando su \"Restart\" si potrà tornare alla modalità normale.";
+
+	ACTIVATOR_CORRUPT = "Activator corrotto";
+	ACTIVATOR_CORRUPT_MESSAGE = "La maggior parte delle funzioni di Activator sono attualmente disabilitate poiché sembra che i file interni di Activator non siano corretti. Provare reinstallando Activator tramite Cydia.";
+	CORRUPT_CANCEL = "Annulla";
+	CORRUPT_LAUNCH_CYDIA = "Avvia Cydia";
+
+	BLACKLIST = "Blacklist";
+	BLACKLIST_DETAIL = "Ignora gli eventi in applicazioni specifiche";
 
 	/* Menus */
 
@@ -117,14 +128,26 @@
 	"EVENT_TITLE_libactivator.motion.shake" = "Scuoti dispositivo";
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "Scuotere!";
 
-	"EVENT_TITLE_libactivator.slide-in.bottom" = "Dal basso";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Scorrere dal basso";
+	"EVENT_TITLE_libactivator.slide-in.bottom" = "Dal bordo inferiore";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Scorrere dal bordo inferiore";
 
-	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Dal basso (sinistra)";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Scorrere dal basso (sinistra)";
+	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Dal bordo inferiore (sinistra)";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Scorrere dal bordo inferiore sinistro";
 
-	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Dal basso (destra)";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Scorrere dal basso (destra)";
+	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Dal bordo inferiore (destra)";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Scorrere dal bordo inferiore destro";
+
+	"EVENT_TITLE_libactivator.slide-in.top-left" = "Dal bordo superiore (sinistra)";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "Scorrere dal bordo superiore sinistro";
+
+	"EVENT_TITLE_libactivator.slide-in.top-right" = "Dal bordo superiore (destra)";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "Scorrere dal bordo superiore destro";
+
+	"EVENT_TITLE_libactivator.slide-in.left" = "Dal bordo laterale (sinistra)";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left" = "Scorrere dal bordo laterale sinistro";
+
+	"EVENT_TITLE_libactivator.slide-in.right" = "Dal bordo laterale (destra)";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "Scorrere dal bordo laterale destro";
 
 	"EVENT_TITLE_libactivator.springboard.pinch" = "Zoom icone (comprimi)";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Comprimere le icone con 2 dita";
@@ -135,14 +158,17 @@
 	"EVENT_TITLE_libactivator.statusbar.hold" = "Pressione";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Mantenere premuto sulla barra di stato";
 
-	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Scorri giù";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Scorrere giù dalla barra di stato";
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Dal bordo superiore";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Scorrere dal bordo superiore";
 
 	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Scorri a sinistra";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Scorrere a sinistra sulla barra di stato";
 
 	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "Scorri a destra";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Scorrere a destra sulla barra di stato";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.single" = "Singola pressione";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Premere una volta sulla barra di stato";
 
 	"EVENT_TITLE_libactivator.statusbar.tap.double" = "Doppia pressione";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Premere due volte sulla barra di stato";
@@ -160,7 +186,7 @@
 	"EVENT_DESCRIPTION_libactivator.volume.down.press" = "Premere volume giù";
 
 	"EVENT_TITLE_libactivator.volume.up.press" = "Sù";
-	"EVENT_DESCRIPTION_libactivator.volume.Up.press" = "Premere volume sù";
+	"EVENT_DESCRIPTION_libactivator.volume.up.press" = "Premere volume sù";
 
 	"EVENT_TITLE_libactivator.volume.both.press" = "Pressione simultanea";
 	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Premere entrambi i pulsanti";	
@@ -174,6 +200,12 @@
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Alterna interruttore muto";
 	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Alterna interruttore muto due volte";	
 
+	"EVENT_TITLE_libactivator.volume.mute" = "Muto";
+	"EVENT_DESCRIPTION_libactivator.volume.mute" = "Attivare il muto tramite l'interruttore";
+
+	"EVENT_TITLE_libactivator.volume.unmute" = "Non muto";
+	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "Disattivare il muto tramite l'interruttore";
+
 	"EVENT_TITLE_libactivator.headset-button.press.single" = "Pressione singola";
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Premere il pulsante auricolare";	
 
@@ -184,10 +216,10 @@
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Premere due volte sulla zona ora/data";
 
 	"EVENT_TITLE_libactivator.power.connected" = "Connesso";
-	"EVENT_DESCRIPTION_libactivator.power.connected" = "All'inizio di ricezione di corrente";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "All'inizio della ricezione di corrente";
 
 	"EVENT_TITLE_libactivator.power.disconnected" = "Disconnesso";
-	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Al termine di ricezione di corrente";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Al termine della ricezione di corrente";
 
 	/* Listener Groups */
 
@@ -196,9 +228,10 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "Applicazioni utente";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "Lockscreen";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Switch di SBSettings";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Interruttori di SBSettings";
 	"LISTENER_GROUP_TITLE_Phone" = "Telefono";
 	"LISTENER_GROUP_TITLE_Power" = "Alimentazione";
+	"LISTENER_GROUP_TITLE_Audio" = "Audio";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 
 	/* Listener Names */
@@ -219,7 +252,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.respring" = "Rilancia la SpringBoard normalmente";
 
 	"LISTENER_TITLE_libactivator.system.safemode" = "Safe Mode";
-	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "Rilancia la SpringBoard in safe mode";
+	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "Rilancia la SpringBoard in Safe Mode";
 
 	"LISTENER_TITLE_libactivator.system.sleepbutton" = "Pulsante power";
 	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Simula il pulsante power";
@@ -232,6 +265,9 @@
 
 	"LISTENER_TITLE_libactivator.system.voice-control" = "Controllo vocale";
 	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Attiva il controllo vocale";
+
+	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "Assistente virtuale";
+	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Attiva l'assistente virtuale";
 
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Attiva selettore";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Mostra il selettore applicazioni";
