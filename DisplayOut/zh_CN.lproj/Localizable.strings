@@ -71,6 +71,7 @@
 
 "OpenGL" = "OpenGL";
 "Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "抑制 OpenGL 闪烁需要更多内存且可能在某些游戏中产生不可预料的后果。";
+"Suppressing flicker may reduce performance or cause additional memory use in some games" = "抑制闪烁可能会影响性能，并可能在某些游戏中消耗更多内存。";
 "Suppress Flicker" = "抑制闪烁";
 
 "Show On" = "在以下设备上显示";
