@@ -18,7 +18,7 @@
 	"Unable to load framebuffer surface" = "無法載入繪圖緩衝記憶體表面";
 	"Error creating writer: %@" = "創建記錄器寫入程式時發生錯誤：%@";
 	"Unable to start writing" = "無法開始寫入";
-	"Interrupted by another app using the audio/video codec hardware." = "被其它使用音訊/視訊解碼硬體的設備打斷。";
+	"Interrupted by another app using the audio/video codec hardware." = "被其它使用音訊/視訊解碼硬體的裝置打斷。";
 	"Failed to write pixel buffer" = "無法寫入圖元記憶體";
 	"Unable to open output file at path %@" = "無法打開位於 %@ 的輸出檔";
 	
@@ -61,7 +61,7 @@
 	"YouTube Login Missing" = "無 YouTube 登入信息";
 	"Fill in your login details via the Display Recorder pane in the Settings application." = "在設定中的螢幕錄製面板設定登入資訊。";
 	"Oversize Video" = "超大影片";
-	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "在某些情況下，YouTube 會拒絕來自移動設備上傳的超大影片。\n為了得到最好的效果，請將影片傳輸到電腦並通過 YouTube 的網頁介面上傳，或在設定中使用縮放到一半重新錄製影片。";
+	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "在某些情況下，YouTube 會拒絕來自移動裝置上傳的超大影片。\n為了得到最好的效果，請將影片傳輸到電腦並通過 YouTube 的網頁介面上傳，或在設定中使用縮放到一半重新錄製影片。";
 	"Continue" = "繼續";
 	
 	"Title is empty" = "標題為空";
@@ -114,4 +114,45 @@
 	"Upload to YouTube" = "上傳到 YouTube";
 	"Play Video" = "播放影片";
 	"Add to Camera Roll" = "添加到相機膠捲";
+
+	"Activation Methods" = "啟動方式";
+	"Always" = "總是";
+	"Cancel" = "取消";
+	"Continue" = "繼續";
+	"Display Recorder" = "螢幕錄製";
+	"For best performance, select the native device orientation" = "為保證最佳性能，請選擇裝置預設旋轉方向。";
+	"For best results, use the Google login that is linked to your YouTube account" = "為保證最佳效果，請使用您鏈接到 YouTube 帳戶的 Google 帳戶。";
+	"Framerate" = "幀數";
+	"Full" = "完全";
+	"Grayscale" = "灰度";
+	"H.264/MOV (experimental)" = "H.264/MOV（試驗）";
+	"Half" = "一半";
+	"Half-scale is not supported when OpenGL capture is enabled" = "当 OpenGL 捕捉開啟時，縮放到一半將不被支援。";
+	"Hidden" = "隱藏";
+	"High" = "高";
+	"Landscape Left" = "橫屏向左";
+	"Landscape Right" = "橫屏向右";
+	"Large" = "大";
+	"Lock Framerate" = "固定幀數";
+	"Low" = "低";
+	"Medium" = "中";
+	"MJPEG/AVI (stable)" = "MJPEG/AVI（穩定）";
+	"Open in Safari" = "在 Safari 中打開";
+	"OpenGL capture" = "OpenGL 捕捉";
+	"Password" = "密碼";
+	"Portrait" = "豎直";
+	"Record Audio" = "錄製音訊";
+	"Rotation" = "旋轉";
+	"Scale" = "縮放";
+	"Show Taps" = "顯示按鈕";
+	"Small" = "小";
+	"Tap Size" = "按鈕大小";
+	"Upside Down" = "倒轉";
+	"User's Guide" = "用戶手冊";
+	"Video Format" = "視訊格式";
+	"Video Quality" = "視訊品質";
+	"Web Server" = "網路服務器";
+	"When Recording" = "錄製時";
+	"YouTube Account" = "YouTube 帳戶";
+	"YouTube or Google Account" = "YouTube 或 Google 帳戶";
 }
