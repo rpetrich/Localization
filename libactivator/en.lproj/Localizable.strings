@@ -91,6 +91,7 @@
 	/* Event Groups */
 	
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "Slide In Gesture";
+	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Two Finger Slide In Gesture";
 	"EVENT_GROUP_TITLE_Motion" = "Motion";
 	"EVENT_GROUP_TITLE_SpringBoard" = "SpringBoard";
 	"EVENT_GROUP_TITLE_Status Bar" = "Status Bar";
@@ -137,6 +138,9 @@
 	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "From Screen Bottom-Right";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Drag onto screen from bottom-right";
 	
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "From Screen Top";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Drag onto screen from statusbar";
+	
 	"EVENT_TITLE_libactivator.slide-in.top-left" = "From Screen Top-Left";
 	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "Drag onto screen from top-left";
 	
@@ -149,6 +153,30 @@
 	"EVENT_TITLE_libactivator.slide-in.right" = "From Screen Right";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "Drag onto screen from right";
 	
+	"EVENT_TITLE_libactivator.slide-in.bottom" = "From Screen Bottom";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Drag onto screen from below";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "From Screen Bottom-Left";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Drag onto screen from bottom-left";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "From Screen Bottom-Right";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Drag onto screen from bottom-right";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "From Screen Top";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "Drag onto screen from statusbar";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top-left" = "From Screen Top-Left";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "Drag onto screen from top-left";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "From Screen Top-Right";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "Drag onto screen from top-right";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "From Screen Left";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "Drag onto screen from left";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "From Screen Right";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "Drag onto screen from right";
+	
 	"EVENT_TITLE_libactivator.springboard.pinch" = "Icon Pinch";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Pinch springboard icons with 2 fingers";
 	
@@ -157,9 +185,6 @@
 	
 	"EVENT_TITLE_libactivator.statusbar.hold" = "Hold";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Tap and hold on the status bar";
-	
-	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "From Screen Top";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Drag onto screen from statusbar";
 	
 	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Swipe Left";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Tap and drag left on status bar";
