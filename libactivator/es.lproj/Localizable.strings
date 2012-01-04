@@ -47,7 +47,7 @@
 
 	SAFE_MODE_TITLE = "En modo seguro";
 	SAFE_MODE_MESSAGE = "Su dispositivo está actualmente en modo seguro. La mayoría de características de Activator están deshabilitadas mientras el dispositivo está en modo seguro. Reinicia el SpringBoard para volver al modo normal.";
-       SAFE_MODE_CANCEL = "Cancelar";
+        SAFE_MODE_CANCEL = "Cancelar";
 	SAFE_MODE_RESTART = "Reiniciar";
 
 	ACTIVATOR_DISABLED = "Activator desactivado";
@@ -61,7 +61,7 @@
 	BLACKLIST = "Lista negra";
 	BLACKLIST_DETAIL = "Ignora eventos en apps específicas";
 
-       /* Menus */
+        /* Menus */
 	
 	MENUS = "Menús";
 	MENUS_DETAIL = "Administrar menús personalizados";
@@ -91,6 +91,7 @@
 	/* Event Groups */
 	
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "Gestos de deslizar";
+	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Deslizar con dos dedos";
 	"EVENT_GROUP_TITLE_Motion" = "Movimiento";
 	"EVENT_GROUP_TITLE_SpringBoard" = "SpringBoard";
 	"EVENT_GROUP_TITLE_Status Bar" = "Barra de estado";
@@ -137,6 +138,9 @@
 	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Desde abajo derecha";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Arrastra a la pantalla desde abajo-der.";
 
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Deslizar abajo";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Deliza hacia abajo desde la barra estado";
+
 	"EVENT_TITLE_libactivator.slide-in.top-left" = "Desde arriba izquierda";
 	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "Arrastra a la pantalla desde arriba-izq.";
 	
@@ -148,6 +152,30 @@
 	
 	"EVENT_TITLE_libactivator.slide-in.right" = "Desde la derecha";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "Arrastra a la pantalla desde la derecha";
+
+	"EVENT_TITLE_libactivator.slide-in.bottom" = "Desde abajo";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Arrastra a la pantalla desde abajo";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Desde abajo izquierda";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Arrastra a la pantalla desde abajo-izq.";
+	
+	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Desde abajo derecha";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Arrastra a la pantalla desde abajo-der.";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "Desde arriba";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "Arrastra a la pantalla desde la barra";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top-left" = "Desde arriba izquierda";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "Arrastra a la pantalla desde arriba-izq.";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "Desde arriba derecha";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "Arrastra a la pantalla desde arriba-der.";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "Desde la izquierda";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "Arrastra a la pantalla desde la izquierda";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "Desde la derecha";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "Arrastra a la pantalla desde la derecha";
 	
 	"EVENT_TITLE_libactivator.springboard.pinch" = "Pellizcar iconos";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Pellizca los iconos con dos dedos";
@@ -158,16 +186,13 @@
 	"EVENT_TITLE_libactivator.statusbar.hold" = "Presión corta";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Mantén presionada la barra de estado";
 	
-	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Deslizar abajo";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Deliza hacia abajo desde la barra estado";
-	
 	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Deslizar izquierda";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Deliza a la izquierda en la barra estado";
 	
 	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "Deslizar derecha";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Deliza a la derecha en la barra estado";
 
-       "EVENT_TITLE_libactivator.statusbar.tap.single" = "Toque simple";
+        "EVENT_TITLE_libactivator.statusbar.tap.single" = "Toque simple";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Toca 1 vez en la barra de estado";
 
 	"EVENT_TITLE_libactivator.statusbar.tap.double" = "Toque doble";
@@ -236,7 +261,7 @@
 	
 	/* Listener Names */
 
-       "LISTENER_DESCRIPTION_toggle" = "Activa/desactiva la función";
+        "LISTENER_DESCRIPTION_toggle" = "Activa/desactiva la función";
 	"LISTENER_DESCRIPTION_application" = "Activa la aplicación";
 	
 	"LISTENER_TITLE_libactivator.system.homebutton" = "Botón inicio";
@@ -275,13 +300,13 @@
 	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Barra de música";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Muestra los controles multimedia";
 	
-       "LISTENER_TITLE_libactivator.system.nothing" = "No hacer nada";
+        "LISTENER_TITLE_libactivator.system.nothing" = "No hacer nada";
 	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "Suprime la acción original";
 
-       "LISTENER_TITLE_libactivator.system.first-springboard-page" = "Primera página del SB";
+        "LISTENER_TITLE_libactivator.system.first-springboard-page" = "Primera página del SB";
 	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Salta a la primera página de iconos";
 
-       "LISTENER_TITLE_libactivator.system.activate-notification-center" = "Centro de Notificaciones";
+        "LISTENER_TITLE_libactivator.system.activate-notification-center" = "Centro de Notificaciones";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Muestra el centro de notificaciones";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Escribir Tweet";
