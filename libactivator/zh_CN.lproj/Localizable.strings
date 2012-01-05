@@ -177,9 +177,6 @@
 	"EVENT_TITLE_libactivator.statusbar.hold" = "按住";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "按住顶部状态栏";
 
-	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "从屏幕顶部";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "由屏幕顶部状态栏向下拖动";
-
 	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "向左拖动";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "在顶部状态栏向左拖动";
 
