@@ -91,7 +91,8 @@
 	
 	/* Event Groups */
 	
-	"EVENT_GROUP_TITLE_Slide In Gesture" = "手勢";
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "單指手勢";
+	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "雙指手勢";
 	"EVENT_GROUP_TITLE_Motion" = "動作";
 	"EVENT_GROUP_TITLE_SpringBoard" = "“主畫面”螢幕";
 	"EVENT_GROUP_TITLE_Status Bar" = "頂部狀態列";
@@ -133,22 +134,40 @@
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "由螢幕底部向上拖動";
 	
 	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "從螢幕左下";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "由螢幕左下向上拖動";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "由螢幕左下中心拖動";
 	
 	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "從螢幕右下";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "由螢幕右下向上拖動";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "由螢幕右下向中心拖動";
+	
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "從螢幕頂部";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "由螢幕頂部狀態列向下拖動";
 	
 	"EVENT_TITLE_libactivator.slide-in.top-left" = "從螢幕左上";
-	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "由螢幕左上向下拖動";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "由螢幕左上向中心拖動";
 	
-	"EVENT_TITLE_libactivator.slide-in.top-right" = "從螢幕左上";
-	"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "由螢幕右上向下拖動";
+	"EVENT_TITLE_libactivator.slide-in.top-right" = "從螢幕右上";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "由螢幕右上向中心拖動";
 
 	"EVENT_TITLE_libactivator.slide-in.left" = "從螢幕左側";
 	"EVENT_DESCRIPTION_libactivator.slide-in.left" = "由螢幕左側向右拖動";
 
 	"EVENT_TITLE_libactivator.slide-in.right" = "從螢幕右側";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "由螢幕右側向左拖動";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "從螢幕頂部";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "由螢幕頂部狀態列向下拖動";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top-left" = "從螢幕左上";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "由螢幕左上向中心拖動";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "從螢幕右上";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "由螢幕右上向中心拖動";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "從螢幕左側";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "由螢幕左側向右拖動";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "从屏幕右侧";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "由螢幕右側向左拖動";
 
 	"EVENT_TITLE_libactivator.springboard.pinch" = "往內撥動手指";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "在“主畫面”螢幕往內撥動兩隻手指";
@@ -158,9 +177,6 @@
 	
 	"EVENT_TITLE_libactivator.statusbar.hold" = "按住";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "按住頂部狀態列";
-	
-	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "從螢幕頂部";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "由螢幕頂部狀態列向下拖動";
 	
 	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "向左拖動";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "在頂部狀態列向左拖動";
@@ -216,10 +232,10 @@
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "按兩下時鐘";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "按兩下時鐘/日期區域";
 
-	"EVENT_TITLE_libactivator.power.connected" = "已連接";
+	"EVENT_TITLE_libactivator.power.connected" = "連接電源";
 	"EVENT_DESCRIPTION_libactivator.power.connected" = "正使用外接供電";
 
-	"EVENT_TITLE_libactivator.power.disconnected" = "已斷開";
+	"EVENT_TITLE_libactivator.power.disconnected" = "斷開電源";
 	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "已停止外接供電";
 
 	/* Listener Groups */
@@ -512,6 +528,9 @@
 	"LISTENER_TITLE_com.mathieubolard.killbackground" = "KillBackground";
 	"LISTENER_DESCRIPTION_com.mathieubolard.killbackground" = "退出全部多工運行的應用程式";
 	
+	"LISTENER_TITLE_com.rpetrich.voicekeys" = "語音按鍵";
+	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "開始或停止語音識别";
+
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
 	"LISTENER_TITLE_toggle_Data" = "行動資料";
