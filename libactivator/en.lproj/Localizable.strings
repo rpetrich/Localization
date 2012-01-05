@@ -129,15 +129,6 @@
 	"EVENT_TITLE_libactivator.motion.shake" = "Shake Device";
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "Shake and bake!";
 	
-	"EVENT_TITLE_libactivator.slide-in.bottom" = "From Screen Bottom";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Drag onto screen from below";
-	
-	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "From Screen Bottom-Left";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Drag onto screen from bottom-left";
-	
-	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "From Screen Bottom-Right";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Drag onto screen from bottom-right";
-	
 	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "From Screen Top";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Drag onto screen from statusbar";
 	
@@ -371,6 +362,9 @@
 	
 	"LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "Autoscroll Down";
 	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "Continuous scroll downwards";
-	
+
+	"LISTENER_TITLE_com.rpetrich.voicekeys" = "VoiceKeys";
+	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Start/stop voice recognition";
+
 	IN_CYDIA_WARNING = "It is potentially dangerous to perform actions while Cydia is installing software.";
 }
