@@ -128,15 +128,6 @@
 	
 	"EVENT_TITLE_libactivator.motion.shake" = "Agitar dispositivo";
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "¡Agita y mueve!";
-	
-	"EVENT_TITLE_libactivator.slide-in.bottom" = "Desde abajo";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Arrastra a la pantalla desde abajo";
-	
-	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Desde abajo izquierda";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Arrastra a la pantalla desde abajo-izq.";
-	
-	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Desde abajo derecha";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Arrastra a la pantalla desde abajo-der.";
 
 	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Deslizar abajo";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Deliza hacia abajo desde la barra estado";
@@ -371,6 +362,9 @@
 	
 	"LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "Autoscroll abajo";
 	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = " Deslizado continuo hacia abajo";
+
+	"LISTENER_TITLE_com.rpetrich.voicekeys" = "Teclas de voz";
+	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Inicia/para el reconocimiento de voz";
 
 	IN_CYDIA_WARNING = "Es potencialmente peligroso activar acciones mientras Cydia está instalando software.";
 }
