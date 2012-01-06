@@ -58,7 +58,7 @@
 	"CORRUPT_CANCEL" = "取消";
 	"CORRUPT_LAUNCH_CYDIA" = "启动 Cydia";
 
-	"BLACKLIST" = "黑名单";
+	"BLACKLIST" = "屏蔽列表";
 	"BLACKLIST_DETAIL" = "忽略指定应用程序里的事件";
 
 	/* Menus */
