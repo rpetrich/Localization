@@ -1,4 +1,3 @@
-
 	"LOCALIZATION_ABOUT" = "תורגם ע\"י מעוז זוגרבו ואלי יעבץ \nhttp://cydia.co.il \n @elibyy , @zmaoz";
 	
 	/* Settings Controller */
@@ -371,5 +370,8 @@
 	
 	"LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "גלילה אוטו' מטה";
 	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "גלילה אינסופית מטה";
+       
+        "LISTENER_TITLE_com.rpetrich.voicekeys" = "VoiceKeys";
+        "LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "הפעל/עצור זיהוי קולי"; 
 	
 	IN_CYDIA_WARNING = "זהו דבר מסוכן לבצע פעולות כלשהן כאשר סידיה באמצע התקנת תוכנה.";
