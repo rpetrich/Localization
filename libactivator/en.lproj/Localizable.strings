@@ -153,6 +153,15 @@
 	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "From Screen Bottom-Right";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Drag onto screen from bottom-right";
 	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "From Screen Bottom";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "Drag onto screen from below";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "From Screen Bottom-Left";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "Drag onto screen from bottom-left";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "From Screen Bottom-Right";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "Drag onto screen from bottom-right";
+
 	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "From Screen Top";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "Drag onto screen from statusbar";
 	
