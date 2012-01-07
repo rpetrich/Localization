@@ -536,7 +536,10 @@
 
 	"LISTENER_TITLE_com.mathieubolard.killbackground" = "KillBackground";
 	"LISTENER_DESCRIPTION_com.mathieubolard.killbackground" = "退出全部多工運行的應用程式";
-	
+
+	"LISTENER_TITLE_com.intelliborn.messagesplus" = "Messages+";
+	"LISTENER_DESCRIPTION_com.intelliborn.messagesplus = "Messages+ 編寫新簡訊";
+
 	"LISTENER_TITLE_com.rpetrich.voicekeys" = "語音按鍵";
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "開始或停止語音識别";
 
