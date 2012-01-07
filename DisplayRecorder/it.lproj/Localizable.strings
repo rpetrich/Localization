@@ -25,8 +25,8 @@
 	"Toggle Recording" = "Alterna registrazione";
 	"Toggle Web Interface" = "Alterna interfaccia WEB";
 
-	"Begin/end screen recording" = "Avvia/ferma registrazione schermo";
-	"Enable/disable web interface" = "Abilita/disabilita interfaccia WEB";
+	"Begin/end screen recording" = "Avvia/Ferma registrazione schermo";
+	"Enable/disable web interface" = "Abilita/Disabilita interfaccia WEB";
 
 	"Upload Details" = "Dettagli caricamento";
 	"Upload" = "Carica";
@@ -114,4 +114,45 @@
 	"Upload to YouTube" = "Carica su YouTube";
 	"Play Video" = "Esegui video";
 	"Add to Camera Roll" = "Aggiungi al rullino";
+
+	"Activation Methods" = "Metodi di attivazione";
+	"Always" = "Sempre";
+	"Cancel" = "Annulla";
+	"Continue" = "Continua";
+	"Display Recorder" = "Display Recorder";
+	"For best performance, select the native device orientation" = "Per prestazioni migliori, selezionare l'orientamento nativo del dispositivo";
+	"For best results, use the Google login that is linked to your YouTube account" = "Per un risultato migliore, usare i dati di accesso Google collegati all'account di YouTube";
+	"Framerate" = "Framerate";
+	"Full" = "Completo";
+	"Grayscale" = "Scala di grigi";
+	"H.264/MOV (experimental)" = "H.264/MOV (sperimentale)";
+	"Half" = "Metà";
+	"Half-scale is not supported when OpenGL capture is enabled" = "Scala a metà non è supportato con cattura OpenGL attivo";
+	"Hidden" = "Nascosto";
+	"High" = "Alta";
+	"Landscape Left" = "Orizzontale a sinistra";
+	"Landscape Right" = "Orizzontale a destra";
+	"Large" = "Larga";
+	"Lock Framerate" = "Blocca framerate";
+	"Low" = "Bassa";
+	"Medium" = "Media";
+	"MJPEG/AVI (stable)" = "MJPEG/AVI (stabile)";
+	"Open in Safari" = "Apri in safari";
+	"OpenGL capture" = "Cattura OpenGL";
+	"Password" = "Password";
+	"Portrait" = "Verticale";
+	"Record Audio" = "Registra audio";
+	"Rotation" = "Rotazione";
+	"Scale" = "Scala";
+	"Show Taps" = "Mostra pressioni";
+	"Small" = "Piccola";
+	"Tap Size" = "Dimensione pressioni";
+	"Upside Down" = "Sottosopra";
+	"User's Guide" = "Guida utente";
+	"Video Format" = "Formato video";
+	"Video Quality" = "Qualità video";
+	"Web Server" = "Server WEB";
+	"When Recording" = "In registrazione";
+	"YouTube Account" = "Account YouTube";
+	"YouTube or Google Account" = "Account YouTube o Google";
 }
