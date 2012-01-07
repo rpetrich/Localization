@@ -153,6 +153,15 @@
 	"EVENT_TITLE_libactivator.slide-in.right" = "从屏幕右侧";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "由屏幕右侧向左拖动";
 
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "从屏幕底部";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "由屏幕底部向上拖动";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "从屏幕左下";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "由屏幕左下向中心拖动";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "从屏幕右下";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "由屏幕右下向中心拖动";
+	
 	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "从屏幕顶部";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "由屏幕顶部状态栏向下拖动";
 	
@@ -526,9 +535,6 @@
 
 	"LISTENER_TITLE_com.mathieubolard.killbackground" = "KillBackground";
 	"LISTENER_DESCRIPTION_com.mathieubolard.killbackground" = "退出全部后台运行的应用程序";
-
-	"LISTENER_TITLE_com.intelliborn.messagesplus" = "Messages+";
-	"LISTENER_DESCRIPTION_com.intelliborn.messagesplus = "Messages+ 编写新信息";
 
 	"LISTENER_TITLE_com.rpetrich.voicekeys" = "语音按键";
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "开始或停止语音识别";
