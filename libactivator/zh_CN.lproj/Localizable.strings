@@ -527,6 +527,9 @@
 	"LISTENER_TITLE_com.mathieubolard.killbackground" = "KillBackground";
 	"LISTENER_DESCRIPTION_com.mathieubolard.killbackground" = "退出全部后台运行的应用程序";
 
+	"LISTENER_TITLE_com.intelliborn.messagesplus" = "Messages+";
+	"LISTENER_DESCRIPTION_com.intelliborn.messagesplus = "Messages+ 编写新信息";
+
 	"LISTENER_TITLE_com.rpetrich.voicekeys" = "语音按键";
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "开始或停止语音识别";
 
