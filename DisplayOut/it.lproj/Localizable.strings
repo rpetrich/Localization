@@ -36,12 +36,12 @@
 "Horizontal Offset" = "Offset orizzontale";
 "Vertical Offset" = "Offset verticale";
 
-"Show Taps" = "Mostra tap";
+"Show Taps" = "Mostra pressione";
 "Never" = "Mai";
 "Always" = "Sempre";
 "Skip Keyboard/OpenGL" = "Ignora Tastiera/OpenGL";
 
-"Tap Size" = "Dimensioni tap";
+"Tap Size" = "Dimensione pressione";
 "Huge" = "Enorme";
 "Giant" = "Gigante";
 "Big" = "Grande";
@@ -51,7 +51,7 @@
 "Little" = "Piccolissimo";
 "Tiny" = "Minuscolo";
 
-"Showing taps may cause flicker" = "Mostrare i tap può causare sfarfallio";
+"Showing taps may cause flicker" = "Mostrare la pressione può causare sfarfallio";
 
 "Experimental" = "Sperimentale";
 
@@ -70,6 +70,7 @@
 "External display disconnected." = "Display esterno disconnesso.";
 
 "OpenGL" = "OpenGL";
+"Suppressing flicker may reduce performance or cause additional memory use in some games" = "Sopprimere lo sfarfallio può causare una riduzione delle prestazioni o un uso addizionale di memoria in alcuni giochi";
 "Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "Sopprimere lo sfarfallio OpenGL può causare un uso maggiore della memoria o un comportamento imprevisto in alcuni giochi";
 "Suppress Flicker" = "Sopprimi sfarfallio";
 
