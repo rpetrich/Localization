@@ -153,6 +153,15 @@
 	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Desde abajo derecha";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Arrastra a la pantalla desde abajo-der.";
 	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "Desde abajo";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "Arrasta a la pantalla desde abajo";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "Desde abajo izquierda";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "Arrastra a la pantalla desde abajo-izq.";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "Desde abajo derecha";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "Arrastra a la pantalla desde abajo-der.";
+	
 	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "Desde arriba";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "Arrastra a la pantalla desde la barra";
 	
