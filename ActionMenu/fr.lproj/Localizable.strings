@@ -1,114 +1,138 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>Actions</key>
-	<string>Actions</string>
-	<key>Add Favorite</key>
-	<string>Ajouter Favori</string>
-	<key>Add Favorite...</key>
-	<string>Ajouter Favori...</string>
-	<key>all-day</key>
-	<string>Toute la journée</string>
-	<key>AM</key>
-	<string>Matin</string>
-	<key>biteSMS</key>
-	<string>biteSMS</string>
-	<key>by</key>
-	<string>par</string>
-	<key>Cancel</key>
-	<string>Annuler</string>
-	<key>Clear</key>
-	<string>Effacer</string>
-	<key>Confirm</key>
-	<string>Confirmer</string>
-	<key>Copy All</key>
-	<string>Tout Copier</string>
-	<key>Create</key>
-	<string>Créer</string>
-	<key>Debug</key>
-	<string>Debug</string>
-	<key>Delete Favorite</key>
-	<string>Effacer Favori</string>
-	<key>Dial</key>
-	<string>Appeler</string>
-	<key>Dictionary</key>
-	<string>Dictionnaire</string>
-	<key>Donate with PayPal</key>
-	<string>Don Paypal</string>
-	<key>Enabled</key>
-	<string>Activé</string>
-	<key>Enter the new favorite details</key>
-	<string>Entrez description des nouveaux favoris</string>
-	<key>Extended Support</key>
-	<string>Support Etendu</string>
-	<key>Favorites</key>
-	<string>Favoris</string>
-	<key>Find</key>
-	<string>Chercher</string>
-	<key>Find In Page</key>
-	<string>Chercher dans la page</string>
-	<key>Find Next</key>
-	<string>Chercher suivant</string>
-	<key>Find Previous</key>
-	<string>Chercher précédent</string>
-	<key>History</key>
-	<string>Historique</string>
-	<key>lap</key>
-	<string>lap</string>
-	<key>Left to Right</key>
-	<string>Gauche à Droite</string>
-	<key>Lookup</key>
-	<string>Recherche</string>
-	<key>More Actions...</key>
-	<string>Plus d&apos;actions...</string>
-	<key>New Favorite</key>
-	<string>Nouveau Favori</string>
-	<key>Next</key>
-	<string>Suivant</string>
-	<key>Not Found</key>
-	<string>Non trouvé</string>
-	<key>OFF</key>
-	<string>INACTIF</string>
-	<key>OK</key>
-	<string>OK</string>
-	<key>on</key>
-	<string>actif</string>
-	<key>ON</key>
-	<string>ACTIF</string>
-	<key>Open in Safari</key>
-	<string>Ouvrir dans Safari</string>
-	<key>Pasteboard Favorites</key>
-	<string>Favoris du presse papier</string>
-	<key>Pasteboard History</key>
-	<string>Historique du presse papier</string>
-	<key>PM</key>
-	<string>Après-Midi</string>
-	<key>Preferred Client</key>
-	<string>Client Préféré</string>
-	<key>Previous</key>
-	<string>Précédent</string>
-	<key>Right to Left</key>
-	<string>Droite à Gauche</string>
-	<key>Scroll</key>
-	<string>Scroll</string>
-	<key>Search</key>
-	<string>Chercher</string>
-	<key>To Bottom</key>
-	<string>En Bas</string>
-	<key>Sorted</key>
-	<string>Trié</string>
-	<key>To Top</key>
-	<string>En Haut</string>
-	<key>Translate</key>
-	<string>Traduire</string>
-	<key>TRANSLATION_ABOUT</key>
-	<string>Traduction SOSiPhone.com / Dualcore</string>
-	<key>Tweet</key>
-	<string>Tweeter</string>
-	<key>Use Icons</key>
-	<string>Utiliser icône</string>
-	<key>Wikipedia</key>
-	<string>Wikipédia</string>
-</dict>
-</plist>
+{
+	OK = OK;
+	Cancel = Annuler;
+	ON = ON;
+	OFF = OFF;
+	"all-day" = "Toute la journée";
+	AM = AM;
+	PM = PM;
+	by = par;
+	on = on;
+	lap = lap;
+	Enabled = Activer;
+	"Use Icons" = "Utiliser icônes";
+	Actions = Actions;
+	"More Actions..." = "Plus d'actions...";
+	"Donate with PayPal" = "Faire un don via PayPal";
+	"Copy All" = "Tout Copier";
+	"Debug" = "Debug";
+	"Dial" = "Appeler";
+	Favorites = Favoris;
+	History = Historique;
+	Lookup = Recherche;
+	Scroll = Faites défiler;
+	Tweet = Tweet;
+	"Pasteboard Favorites" = "Favoris du presse papier";
+	"Delete Favorite" = "Supprimer favori";
+	"Add Favorite..." = "Ajouter favori...";
+	"Add Favorite" = "Ajouter favori";
+	Create = Créer;
+	"Enter the new favorite details" = "Entrer les détails du nouveau favori";
+	"Open in Safari" = "Ouvrir dans Safari";
+	Search = Rechercher;
+	Wikipedia = Wikipedia;
+	Dictionary = Dictionnaire;
+	Translate = Traduire;
+	Find = Chercher;
+	"Find In Page" = "Chercher dans la page";
+	"Find Next" = "Chercher suivant";
+	"Find Previous" = "Chercher précédent";
+	Next = Suivant;
+	Previous = Précédent;
+	"Not Found" = "Non trouvé";
+	Clear = Effacer;
+	Confirm = Confirmer;
+	"Pasteboard History" = "Historique du presse papier";
+	
+	"Right to Left" = "Droite à gauche";
+	"Left to Right" = "Gauche à droite";
+	"Sorted" = "Trié";
+	"New Favorite" = "Nouveau favori";
+	"biteSMS" = "biteSMS";
+	"Extended Support" = "Support étendu";
+	"TRANSLATION_ABOUT" = "Traduit par foX aCe";
+	
+	"Preferred Client" = "Client préféré";
+	
+	"Clear History" = "Effacer l'historique";
+	Close = Fermer;
+	
+	Cut = Couper;
+	Copy = Copier;
+	Paste = Coller;
+	Select = Sélectionner;
+	"Select All" = "Sélectionner tout";
+	
+	Locate = Localiser;
+	"Error retrieving location!" = "Erreur récupération de la Localisation!";
+	"Estimated Accuracy:" = "Précision estimée:";
+	"%ld meters" = "%ld mètres";
+	"My Location on Google Maps" = "Ma position sur Google Maps";
+	Pastie = Pastie;
+	"Send to Pastie" = "Envoyer à Pastie";
+	"Paste Complete" = "Paste Compléter";
+	"The URL has been copied to your clipboard." = "L'URL a été copié dans votre presse-papiers.";
+	Continue = Continuer;
+	Error = Erreur;
+	"Unable to submit your pastie." = "Impossible de soumettre votre pastie.";
+	"No Search Results" = "Pas de résultats";
+	
+	"Edit Favorite" = "Modifier favoris";
+	"To Top" = "En haut";
+	"To Bottom" = "En bas";
+	
+	"Rich Text For Mail" = "Texte enrichi Pour le courrier";
+	"Format" = "Format";
+	"Bold" = "Gras";
+	"Italic" = "Italique";
+	"Underline" = "Souligner";
+	"Strikethrough" = "Texte barré";
+	"Image" = "Image";
+	"Text Style" = "style du texte";
+	"Font Size" = "Taille police";
+	"Font Family" = "Famille de police";
+	"Text Color" = "Couleur du texte";
+	"Highlight Color" = "Couleur de surlignage";
+	"Black" = "Noire";
+	"White" = "Blanc";
+	"Silver" = "Argent";
+	"Gray" = "Gris";
+	"Red" = "Rouge";
+	"Maroon" = "Bordeaux";
+	"Yellow" = "Jaune";
+	"Olive" = "Olive";
+	"Lime" = "Lime";
+	"Green" = "Vert";
+	"Aqua" = "Eau";
+	"Teal" = "Sarcelle";
+	"Blue" = "Bleu";
+	"Navy" = "Marine";
+	"Fuchsia" = "Fuchsia";
+	"Purple" = "Violet";
+	"None" = "Aucune";
+	"Unknown" = "Inconnue";
+	
+	"Playing" = "Lecture de";
+	"\"%@\" by %@ " = "\"%@\" de %@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> de <strong>%@</strong> ";
+	
+	"Default Actions" = "Actions par défaut";
+	"Replace" = "Remplacer";
+	
+	"Link" = "Lien";
+	"Insert" = "Insérer";
+	"Link Text" = "Lien Texte";
+	"Link URL" = "Lien URL";
+	
+	"Celeste" = "Celeste";
+	"Voice" = "Voix";
+	"Today" = "Aujourd'hui";
+
+	"Date Format" = "Format de la date";
+	"Time Format" = "Format de l'heure";
+	"None" = "Aucune";
+	"Short" = "Courte";
+	"Medium" = "Moyenne";
+	"Long" = "Longue";
+	"Full" = "Complète";
+}
