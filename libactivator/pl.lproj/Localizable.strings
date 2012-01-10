@@ -80,6 +80,7 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 /* Event Groups */
 
 "EVENT_GROUP_TITLE_Slide In Gesture" = "Gesty przęciągania palca na ekran";
+"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Gesty przeciągania dwóch palców";
 "EVENT_GROUP_TITLE_Motion" = "Ruch";
 "EVENT_GROUP_TITLE_SpringBoard" = "Ekran Początkowy";
 "EVENT_GROUP_TITLE_Status Bar" = "Pasek Statusu";
@@ -213,6 +214,12 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 "EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Przęłącznik wyciszania tam i z powrotem";
 "EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Przełącz przełącznik wyciszania tam i z powrotem";
 
+"EVENT_TITLE_libactivator.volume.mute" = "Wycisz urządzenie";
+"EVENT_DESCRIPTION_libactivator.volume.mute" = "Włącz wyciszenie przełączając przycisk wyciszania";
+   	  
+"EVENT_TITLE_libactivator.volume.unmute" = "Wyłącz wyciszenie";
+"EVENT_DESCRIPTION_libactivator.volume.unmute" = "Wyłącz wyciszenie przełączając przycisk wyciszenia";
+
 "EVENT_TITLE_libactivator.headset-button.press.single" = "Pojedyncze naciśnięcie";
 "EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Naciśnij przycisk zest. sł. raz";
 
@@ -271,6 +278,9 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 
 "LISTENER_TITLE_libactivator.system.voice-control" = "Kontrola głosowa";
 "LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Włącza kontrolę głosem";
+
+"LISTENER_TITLE_libactivator.system.virtual-assistant" = "Wirtualny Asystent";
+"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Włącz Wirtualnego Asystenta";
 
 "LISTENER_TITLE_libactivator.system.activate-switcher" = "Pokaż pasek aplikacji";
 "LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Pokazuje pasek aplikacji działających w tle";
