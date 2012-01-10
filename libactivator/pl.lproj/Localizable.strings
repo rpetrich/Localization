@@ -120,11 +120,50 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 "EVENT_TITLE_libactivator.slide-in.bottom" = "Z dołu ekranu";
 "EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Przeciągnij palec na ekran od dołu";
 
-"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Z dolnego-prawego rogu ekranu";
-"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Przeciągnij palca na ekran z dolnego-prawego rogu ekranu";
+"EVENT_TITLE_libactivator.slide-in.top-left" = "Z gór-lewego rogu ekranu";
+"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "Przeciągnij palec na ekran z gór-lewego rogu ekranu";
 
-"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Z dolnego-lewego rogu ekranu";
-"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Przeciągnij palca na ekran z dolnego-lewego rogu";
+"EVENT_TITLE_libactivator.slide-in.top-right" = "Z gór-prawego rogu ekranu";
+"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "Przeciągnij palec na ekran z gór-prawego rogu ekranu";
+
+"EVENT_TITLE_libactivator.slide-in.left" = "Z lewej strony ekranu";
+"EVENT_DESCRIPTION_libactivator.slide-in.left" = "Przeciągnij palec z lewej strony ekranu";
+
+"EVENT_TITLE_libactivator.slide-in.right" = "Z prawej strony ekranu";
+"EVENT_DESCRIPTION_libactivator.slide-in.right" = "Przeciągnij palec z prawej strony ekranu";
+
+"EVENT_TITLE_libactivator.slide-in.bottom" = "Z dołu ekranu";
+"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Przeciągnij palec z dółu ekranu";
+
+"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Z dol-lewego rogu ekranu";
+"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Przeciągnij palec z dol-lewego rogu ekranu";
+
+"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Z dol-prawego rogu ekranu";
+"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Przeciągnij palec z dol-prawego rogu ekranu";
+
+"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "Z dołu ekranu";
+"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "Przeciągnij palce z dółu ekranu";
+
+"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "Z dol-lewego rogu ekranu";
+"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "Przeciągnij palce z dol-lewego rogu ekranu";
+
+"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "Z dol-prawego rogu ekranu";
+"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "Przeciągnij palce z dol-prawego rogu ekrnau";
+
+"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "Z góry ekranu";
+"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "Przeciągnij palce z góry ekranu";
+	
+"EVENT_TITLE_libactivator.two-finger-slide-in.top-left" = "Z gór-lewego rogu ekranu";
+"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "Przeciągnij palce z gór-lewego rogu ekranu";
+	
+"EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "Z gór-prawego rogu ekranu";
+"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "Przeciągnij palce z gór-prawego rogu ekranu";
+	
+"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "Z lewej strony";
+"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "Przeciągnij palce z lewej strony ekranu";
+	
+"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "Z prawej strony";
+"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "Przeciągnij palce z prawej strony ekranu";
 
 "EVENT_TITLE_libactivator.springboard.pinch" = "Uszczypnij ikony";
 "EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Uszczypnij ikony ekranu początkowego dwoma palcami";
