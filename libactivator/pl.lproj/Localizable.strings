@@ -194,7 +194,7 @@ MODE_DESCRIPTION_lockscreen = "Kiedy jest zablokowany i zabl. ekran jest widoczn
 "EVENT_DESCRIPTION_libactivator.volume.down-up" = "Wciśnij głośność -, potem +";
 
 "EVENT_TITLE_libactivator.volume.up-down" = "+, -";
-"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Naci?nij przycisk zgłaśniania, potem ściszania";
+"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Naciśnij przycisk zgłaśniania, potem ściszania";
 
 "EVENT_TITLE_libactivator.volume.down.press" = "-";
 "EVENT_DESCRIPTION_libactivator.volume.down.press" = "Naciśnij przycisk ściszania";
