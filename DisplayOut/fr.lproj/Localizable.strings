@@ -3,51 +3,84 @@
 "Enabled" = "Activer";
 
 "Orientation" = "Orientation";
-"Follow Interface" = "Suivre l'Interface";
-"Follow SpringBoard" = "Suivre l'Écran d'Accueil";
-"Landscape Left" = "Paysage Gauche";
-"Landscape Right" = "Paysage Droite";
+"Follow Interface" = "Suivre l'interface";
+"Follow SpringBoard" = "Suivre le SpringBoard";
+"Landscape Left" = "Paysage gauche";
+"Landscape Right" = "Paysage droite";
 "Portrait" = "Portrait";
-"Upside-Down" = "Haut-Bas";
+"Upside-Down" = "Renversé";
 
-"Max Screen Resolution" = "Résolution d'Écran Maximum";
+"Max Screen Resolution" = "Résolution d'écran maximum";
 "480" = "480";
 "640x480 (all)" = "640x480 (tout)";
 "600" = "600";
 "800x600 (VGA/HDMI)" = "800x600 (VGA/HDMI)";
 "720p" = "720p";
-"720p (HDMI-only)" = "720p (HDMI-only)";
+"720p (HDMI-only)" = "720p (HDMI-seulement)";
 "768p" = "768p";
 "1024x768 (VGA/HDMI)" = "1024x768 (VGA/HDMI)";
+"1280x1024 (HDMI+iPad 2)" = "1280x1024 (HDMI+iPad 2)";
+"1024" = "1024";
+"1920x1200 (HDMI+iPad 2)" = "1920x1200 (HDMI+iPad 2)";
+"1080p" = "1080p";
 
 "Scale" = "Échelle";
 
 "Aspect Adjust" = "Aspect Adjust";
 "Preserve" = "Conserver";
 "16:10" = "16:10";
-"16:10 Display Stretch" = "16:10 Étendre l'Écran";
+"16:10 Display Stretch" = "16:10 Étirer l'écran";
 "16:9" = "16:9";
-"16:9 Display Stretch" = "16:9 Étendre l'Écran";
+"16:9 Display Stretch" = "16:9 Étirer l'écran";
 
-"Horizontal Offset" = "Décalage Horizontal";
-"Vertical Offset" = "Décalage Vertical";
+"Horizontal Offset" = "Décalage horizontal";
+"Vertical Offset" = "Décalage vertical";
 
-"Show Taps" = "Afficher les Appuis";
+"Show Taps" = "Afficher les appuis";
+"Never" = "Jamais";
+"Always" = "Toujours";
+"Skip Keyboard/OpenGL" = "Sauter Clavier/OpenGL";
 
-"Tap Size" = "Taille des Appuis";
+"Tap Size" = "Taille des appuis";
+"Huge" = "Énorme";
+"Giant" = "Géant";
+"Big" = "Grand";
 "Large" = "Large";
 "Medium" = "Moyen";
 "Small" = "Petit";
+"Little" = "Très petit";
+"Tiny" = "Minuscules";
 
-"Showing taps may cause flicker" = "Showing taps may cause flicker";
+"Showing taps may cause flicker" = "Affichage les appuis peut provoquer un scintillement";
 
-"Experimental" = "Experimentale";
+"Experimental" = "Expérimentale";
 
-"Native Support" = "Support Natif";
+"Native Support" = "Support natif";
 
-"This app" = "Cette application";
-" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = "semble avoir un support natif des écrans externes.\nVous devriez considerer désactiver Display Out temporairement";
-"OK";
+"This app" = "Cette app";
+" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = "semble avoir un support natif des écrans externes.\nVous pouvez envisager de désactiver temporairement Display Out";
+"OK" = "OK";
 
 "Just Main Content" = "Contenu Principal Seulement";
 "Shows only the main content on the external display" = "Affiche seulement le contenu principal sur l'écran externe.";
+
+"Connection Alerts" = "Alertes de connexion";
+"Show" = "Afficher";
+"External display connected." = "Écran externe connecté.";
+"External display disconnected." = "Écran externe déconnecté.";
+
+"OpenGL" = "OpenGL";
+"Suppressing flicker may reduce performance or cause additional memory use in some games" = "La suppression du scintillement peut réduire les performances ou provoquer l'utilisation excessive de la mémoire dans certains jeux";
+"Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "La suppression du scintillement OpenGL peut entraîner l'utilisation excessive de la mémoire ou un comportement inattendu dans certains jeux";
+"Suppress Flicker" = "Supprimer scintillement";
+
+"Show On" = "Show On";
+"External Display" = "Affichage externe";
+"Both Displays" = "Les deux affichages";
+
+"Render Quality" = "Qualité du rendu";
+"Low Quality" = "Basse qualité";
+"High Quality" = "Haute qualité";
+
+"Dim Brightness" = "Luminosité faible";
+"On Connect" = "Connexion";
