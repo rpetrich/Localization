@@ -538,7 +538,7 @@
 	"LISTENER_DESCRIPTION_com.mathieubolard.killbackground" = "退出全部多工運行的應用程式";
 
 	"LISTENER_TITLE_com.intelliborn.messagesplus" = "Messages+";
-	"LISTENER_DESCRIPTION_com.intelliborn.messagesplus = "Messages+ 編寫新訊息";
+	"LISTENER_DESCRIPTION_com.intelliborn.messagesplus" = "Messages+ 編寫新訊息";
 
 	"LISTENER_TITLE_com.kb1ooo.snappy5-camera" = "Snappy 相機";
 	"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-camera" = "任意程式中均可使用相機拍照";
