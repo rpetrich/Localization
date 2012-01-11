@@ -539,8 +539,17 @@
 	"LISTENER_TITLE_com.intelliborn.messagesplus" = "Messages+";
 	"LISTENER_DESCRIPTION_com.intelliborn.messagesplus = "Messages+ 编写新信息";
 
-	"LISTENER_TITLE_com.rpetrich.voicekeys" = "语音按键";
-	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "开始或停止语音识别";
+	"LISTENER_TITLE_com.kb1ooo.snappy5-camera" = "Snappy 相机";
+	"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-camera" = "任意程序中均可使用相机拍照";
+
+	"LISTENER_TITLE_com.kb1ooo.snappy5-recordOnLaunch" = "Snappy 启动时录制视频";
+	"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-recordOnLaunch" = "启动摄像并立即开始录制";
+
+	"LISTENER_TITLE_com.kb1ooo.snappy5-snapOnLaunch" = "Snappy 启动时拍照";
+	"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-snapOnLaunch" = "启动相机并立即拍照";
+
+	"LISTENER_TITLE_com.kb1ooo.snappy5-video" = "Snappy 摄像";
+	"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-video" = "任意程序中均可使用相机摄像";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "蓝牙";
@@ -562,6 +571,9 @@
 
 	"LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "自动向下滚动";
 	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "屏幕持续向下滚动";
+
+	"LISTENER_TITLE_com.rpetrich.voicekeys" = "语音按键";
+	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "开始或停止语音识别";
 
 	"IN_CYDIA_WARNING" = "在 Cydia 安装软件时进行其它操作会有潜在的危险。";
 }
