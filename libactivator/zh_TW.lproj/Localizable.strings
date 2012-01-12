@@ -552,6 +552,9 @@
 	"LISTENER_TITLE_com.kb1ooo.snappy5-video" = "Snappy 攝像";
 	"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-video" = "任意程式中均可使用相機攝像";
 
+	"LISTENER_TITLE_com.app1enerd.secustomtext" = "滑桿增强";
+	"LISTENER_DESCRIPTION_com.app1enerd.secustomtext" = "設定自訂滑桿文字";
+
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
 	"LISTENER_TITLE_toggle_Data" = "行動資料";
