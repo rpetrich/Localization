@@ -551,6 +551,9 @@
 	"LISTENER_TITLE_com.kb1ooo.snappy5-video" = "Snappy 摄像";
 	"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-video" = "任意程序中均可使用相机摄像";
 
+	"LISTENER_TITLE_com.app1enerd.secustomtext" = "滑块增强";
+	"LISTENER_DESCRIPTION_com.app1enerd.secustomtext" = "设置自定义滑块文字";
+
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "蓝牙";
 	"LISTENER_TITLE_toggle_Data" = "蜂窝数据";
