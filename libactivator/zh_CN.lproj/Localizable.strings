@@ -567,8 +567,10 @@
 	"LISTENER_TITLE_com.app1enerd.secustomtext" = "滑块增强";
 	"LISTENER_DESCRIPTION_com.app1enerd.secustomtext" = "设置自定义滑块文字";
 
-	"LISTENER_TITLE_libactivator.settings.about" = "关于";
-	"LISTENER_DESCRIPTION_libactivator.settings.about" = "打开设置的关于页面";
+
+
+	"LISTENER_TITLE_libactivator.settings.about" = "关于本机";
+	"LISTENER_DESCRIPTION_libactivator.settings.about" = "打开设置的关于本机页面";
 
 	"LISTENER_TITLE_libactivator.settings.accessibility" = "辅助功能";
 	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "打开设置的辅助功能页面";
