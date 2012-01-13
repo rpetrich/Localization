@@ -581,7 +581,7 @@
 	"LISTENER_TITLE_libactivator.settings.brightness" = "亮度";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "打开设置的亮度页面";
 
-	"LISTENER_TITLE_libactivator.settings.date-time" = "Date & Time";
+	"LISTENER_TITLE_libactivator.settings.date-time" = "日期与时间";
 	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "打开设置的日期与时间页面";
 
 	"LISTENER_TITLE_libactivator.settings.equalizer" = "均衡器";
