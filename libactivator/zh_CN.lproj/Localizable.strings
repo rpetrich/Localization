@@ -269,6 +269,7 @@
 	"LISTENER_GROUP_TITLE_Phone" = "电话";
 	"LISTENER_GROUP_TITLE_Power" = "电源";
 	"LISTENER_GROUP_TITLE_Audio" = "音频";
+	"LISTENER_GROUP_TITLE_Settings" = "设置";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "增强滚屏";
 
 	/* Listener Names */
