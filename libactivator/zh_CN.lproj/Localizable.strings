@@ -61,6 +61,17 @@
 	"BLACKLIST" = "屏蔽列表";
 	"BLACKLIST_DETAIL" = "忽略指定应用程序里的事件";
 
+	/* Bookmarks */
+
+	BOOKMARKS = "书签";
+	BOOKMARKS_DETAIL = "管理自定义书签动作";
+
+	ADD_NEW_BOOKMARK = "添加新书签";
+	NEW_BOOKMARK = "新书签";
+	BOOKMARK_TITLE = "书签标题";
+	BOOKMARK_URL = "书签地址";
+	BOOKMARK_DESCRIPTION_FORMAT = "访问 %@";
+
 	/* Menus */
 
 	"MENUS" = "菜单";
@@ -102,6 +113,7 @@
 	"EVENT_GROUP_TITLE_Lock Screen" = "锁定屏幕";
 	"EVENT_GROUP_TITLE_Power" = "电源";
 	"EVENT_GROUP_TITLE_Audio" = "音频";
+	"EVENT_GROUP_TITLE_Settings" = "设置";
 
 	/* Events */
 
@@ -137,13 +149,13 @@
 
 	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "从屏幕右下";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "由屏幕右下向中心拖动";
-	
+
 	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "从屏幕顶部";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "由屏幕顶部状态栏向下拖动";
 
 	"EVENT_TITLE_libactivator.slide-in.top-left" = "从屏幕左上";
 	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "由屏幕左上向中心拖动";
-	
+
 	"EVENT_TITLE_libactivator.slide-in.top-right" = "从屏幕右上";
 	"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "由屏幕右上向中心拖动";
 
@@ -161,19 +173,19 @@
 
 	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "从屏幕右下";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "由屏幕右下向中心拖动";
-	
+
 	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "从屏幕顶部";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "由屏幕顶部状态栏向下拖动";
-	
+
 	"EVENT_TITLE_libactivator.two-finger-slide-in.top-left" = "从屏幕左上";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "由屏幕左上向中心拖动";
-	
+
 	"EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "从屏幕右上";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "由屏幕右上向中心拖动";
-	
+
 	"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "从屏幕左侧";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "由屏幕左侧向右拖动";
-	
+
 	"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "从屏幕右侧";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "由屏幕右侧向左拖动";
 
@@ -202,10 +214,10 @@
 	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "按一下音量按钮后点击屏幕中音量提示框";
 
 	"EVENT_TITLE_libactivator.volume.down-up" = "下键＞上键";
-	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "先按下音量按钮，再按上音量按钮";	
+	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "先按下音量按钮，再按上音量按钮";
 
 	"EVENT_TITLE_libactivator.volume.up-down" = "上键＞下键";
-	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "先按上音量按钮，再按下音量按钮";	
+	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "先按上音量按钮，再按下音量按钮";
 
 	"EVENT_TITLE_libactivator.volume.down.press" = "按下下键";
 	"EVENT_DESCRIPTION_libactivator.volume.down.press" = "按一下下音量按钮";
@@ -214,13 +226,13 @@
 	"EVENT_DESCRIPTION_libactivator.volume.up.press" = "按一下上音量按钮";
 
 	"EVENT_TITLE_libactivator.volume.both.press" = "同时按";
-	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "同时按下两个音量按钮";	
+	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "同时按下两个音量按钮";
 
 	"EVENT_TITLE_libactivator.volume.down.hold.short" = "按住下键";
-	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "按住下音量按钮";	
+	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "按住下音量按钮";
 
 	"EVENT_TITLE_libactivator.volume.up.hold.short" = "按住上键";
-	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "按住上音量按钮";	
+	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "按住上音量按钮";
 
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "拨动两下响铃/静音开关";
 	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "拨动一下响铃/静音开关然后还原"; 
@@ -239,13 +251,13 @@
 
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "按两下时钟";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "按两下时钟/日期区域";
-	
+
 	"EVENT_TITLE_libactivator.power.connected" = "连接电源";
 	"EVENT_DESCRIPTION_libactivator.power.connected" = "正使用外接供电";
 
 	"EVENT_TITLE_libactivator.power.disconnected" = "断开电源";
 	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "已停止外接供电";
-	
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
@@ -291,7 +303,7 @@
 	"LISTENER_TITLE_libactivator.system.voice-control" = "语音控制";
 	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "激活语音控制";
 
-	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "虚拟助手";	
+	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "虚拟助手";
 	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "激活虚拟助手";
 
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "激活多任务栏";
@@ -505,7 +517,7 @@
 
 	"LISTENER_TITLE_jp.r-plus.autoscroller.autoup" = "自动上滑";
 	"LISTENER_DESCRIPTION_jp.r-plus.autoscroller.autoup" = "自动向上滚动";
-	
+
 	"LISTENER_TITLE_com.zimm.circuitous.activator" = "Circuitous";
 	"LISTENER_DESCRIPTION_com.zimm.circuitous.activator" = "显示 Dock";
 
@@ -553,6 +565,90 @@
 
 	"LISTENER_TITLE_com.app1enerd.secustomtext" = "滑块增强";
 	"LISTENER_DESCRIPTION_com.app1enerd.secustomtext" = "设置自定义滑块文字";
+
+	"LISTENER_TITLE_libactivator.settings.about" = "关于";
+	"LISTENER_DESCRIPTION_libactivator.settings.about" = "打开设置的关于页面";
+
+	"LISTENER_TITLE_libactivator.settings.accessibility" = "辅助功能";
+	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "打开设置的辅助功能页面";
+
+	"LISTENER_TITLE_libactivator.settings.auto-lock" = "自动锁定";
+	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "打开设置的自动锁定页面";
+
+	"LISTENER_TITLE_libactivator.settings.bluetooth" = "蓝牙";
+	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "打开设置的蓝牙页面";
+
+	"LISTENER_TITLE_libactivator.settings.brightness" = "亮度";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "打开设置的亮度页面";
+
+	"LISTENER_TITLE_libactivator.settings.date-time" = "Date & Time";
+	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "打开设置的日期与时间页面";
+
+	"LISTENER_TITLE_libactivator.settings.equalizer" = "均衡器";
+	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "打开设置的均衡器页面";
+
+	"LISTENER_TITLE_libactivator.settings.facetime" = "FaceTime";
+	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "打开设置的 FaceTime 页面";
+
+	"LISTENER_TITLE_libactivator.settings.general" = "通用";
+	"LISTENER_DESCRIPTION_libactivator.settings.general" = "打开设置的通用页面";
+
+	"LISTENER_TITLE_libactivator.settings.icloud" = "iCloud";
+	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "打开设置的 iCloud 页面";
+
+	"LISTENER_TITLE_libactivator.settings.international" = "多语言环境";
+	"LISTENER_DESCRIPTION_libactivator.settings.international" = "打开设置的多语言环境页面";
+
+	"LISTENER_TITLE_libactivator.settings.keyboard" = "键盘";
+	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "打开设置的键盘页面";
+
+	"LISTENER_TITLE_libactivator.settings.location-services" = "定位服务";
+	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "打开设置的定位服务页面";
+
+	"LISTENER_TITLE_libactivator.settings.music" = "音乐";
+	"LISTENER_DESCRIPTION_libactivator.settings.music" = "打开设置的音乐页面";
+
+	"LISTENER_TITLE_libactivator.settings.network" = "网络";
+	"LISTENER_DESCRIPTION_libactivator.settings.network" = "打开设置的网络页面";
+
+	"LISTENER_TITLE_libactivator.settings.notes" = "备忘录";
+	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "打开设置的备忘录页面";
+
+	"LISTENER_TITLE_libactivator.settings.notifications" = "通知";
+	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "打开设置的通知页面";
+
+	"LISTENER_TITLE_libactivator.settings.phone" = "电话";
+	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "打开设置的电话页面";
+
+	"LISTENER_TITLE_libactivator.settings.photos" = "照片";
+	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "打开设置的照片页面";
+
+	"LISTENER_TITLE_libactivator.settings.safari" = "Safari";
+	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "打开设置的 Safari 页面";
+
+	"LISTENER_TITLE_libactivator.settings.sounds" = "声音";
+	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "打开设置的声音页面";
+
+	"LISTENER_TITLE_libactivator.settings.store" = "Store";
+	"LISTENER_DESCRIPTION_libactivator.settings.store" = "打开设置的 Store 页面";
+
+	"LISTENER_TITLE_libactivator.settings.twitter" = "Twitter";
+	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "打开设置的 Twitter 页面";
+
+	"LISTENER_TITLE_libactivator.settings.usage" = "用量";
+	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "打开设置的用量页面";
+
+	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "虚拟助手";
+	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "打开设置的虚拟助手页面";
+
+	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
+	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "打开设置的 VPN 页面";
+
+	"LISTENER_TITLE_libactivator.settings.wallpaper" = "墙纸";
+	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "打开设置的墙纸页面";
+
+	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
+	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "打开设置的 Wi-Fi 页面";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "蓝牙";
