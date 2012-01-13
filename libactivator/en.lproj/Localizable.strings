@@ -61,6 +61,17 @@
 	BLACKLIST = "Blacklist";
 	BLACKLIST_DETAIL = "Ignore events in specific applications";
 	
+	/* Bookmarks */
+
+	BOOKMARKS = "Bookmarks";
+	BOOKMARKS_DETAIL = "Manage custom bookmark actions";
+	
+	ADD_NEW_BOOKMARK = "Add New Bookmark";
+	NEW_BOOKMARK = "New Bookmark";
+	BOOKMARK_TITLE = "Bookmark Title";
+	BOOKMARK_URL = "Bookmark URL";
+	BOOKMARK_DESCRIPTION_FORMAT = "Visit %@";
+	
 	/* Menus */
 	
 	MENUS = "Menus";
