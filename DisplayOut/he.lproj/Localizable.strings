@@ -76,3 +76,9 @@
 "Show On" = "הצג ב";
 "External Display" = "תצוגה חיצונית";
 "Both Displays" = "שני התצוגות";
+"Render Quality" = "עיבוד איכות";
+"Low Quality" = "איכות נמוכה";
+"High Quality" = "איכות גבוהה";
+
+"Dim Brightness" = "הנמך בהירות";
+"On Connect" = "בעת חיבור";
