@@ -1,4 +1,4 @@
-﻿{
+{
 	"RetinaPad" = "RetinaPad";
 
 	"Enabled Applications" = "אפליקציות פעילות";
@@ -21,4 +21,7 @@
 	"To enter retina mode kill %@ via the multitasking switcher bar." = "כדי להכנס למצב רטינה סגור את %@ דרך המולטי-טאסקינג.";
 	"To exit retina mode kill %@ via the multitasking switcher bar." = "כדי לצאת ממצב רטינה סגור את %@ דרך המולטי-טאסקינג.";
 	"this application" = "אפליקציה זו";
+
+
+	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "זו הפעם הראשונה שאפליקציה קלאסית זו נפתחת מאז שהתקנת את RetinaPad.\n\nהאם ברצונך להחיל מצב רטינה?\n\nהגדרות נוספות תוכל למצוא בעמוד ההגדרות של RetinaPad.";
 }
