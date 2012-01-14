@@ -1,3 +1,4 @@
+
 	"LOCALIZATION_ABOUT" = "תורגם ע\"י מעוז זוגרבו ואלי יעבץ \nhttp://cydia.co.il \n @elibyy , @zmaoz";
 	
 	/* Settings Controller */
@@ -20,18 +21,17 @@
 	N_ADDITIONAL_EVENTS = "%i פעולות נוספות";
 	RESET_SETTINGS = "איפוס הגדרות";
 	RESET_SETTINGS_DETAIL = "שיחזור ההגדרות למצב ברירת מחדל";
+
 	RESET_ALERT_TITLE = "אפס את הגדרות Activator";
 	RESET_ALERT_MESSAGE = "האם אתה בטוח שברצונך לחזור להגדרות ברירת מחדל?\nהמכשיר שלך יפעיל מחדש את הספרינגבורד אם תמשיך.";
+
 	RESET_ALERT_CANCEL = "ביטול";
 	RESET_ALERT_CONTINUE = "איפוס";
 	MULTIPLE_ASSIGNMENTS = "(ערכים מרובים)";
-	
 	ENABLED = "פעיל";
 	DISABLED = "כבוי";
-	
 	OUT_OF_DATE_TITLE = "גירסת מערכת ישנה מדי";
 	OUT_OF_DATE_MESSAGE = "Activator פועלת במיטבה על גרסאות iOS עדכניות /nאנא עדכן את גרסתך.";
-	
 	TOO_NEW_TITLE = "גירסת מערכת חדשה מדי";
 	TOO_NEW_MESSAGE = "Activator לא נבדקה על גרסת iOS זו. כנראה שחלק מן האפשרויות לא יפעלו כמתוכנן.";
 	
@@ -40,10 +40,11 @@
 	VERSION_PROMPT_CONTINUE = "המשך";
 	
 	SHOW_ICON = "הצג אייקון";
-	SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD = "הצג את האייקון של Activator במסך הבית";
-	
-	Advertisement = "פרסומת";
+	SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD = "הצג את האייקון של Activator במסך הבית";	
 
+
+
+	Advertisement = "פרסומת";
 	SAFE_MODE_TITLE = "במצב בטוח";
 	SAFE_MODE_MESSAGE = "מכשירך נמצא כעת במצב בטוח. רוב התכונות של Activator מושבתות במצב בטוח. הפעל מחדש את הספרינגבורד כדי לחזור למצב תקין.";
 	SAFE_MODE_CANCEL = "ביטול";
@@ -60,8 +61,19 @@
 	BLACKLIST = "רשימה שחורה";
 	BLACKLIST_DETAIL = "התעלם מפעולות באפליקציות ספציפיות";
 	
-	/* Menus */
+	/* Bookmarks */
 
+	BOOKMARKS = "סימניות";
+	BOOKMARKS_DETAIL = "נהל סימניות פעולות מותאמות";
+	
+	ADD_NEW_BOOKMARK = "צור סימניה";
+	NEW_BOOKMARK = "סימניה חדשה";
+	BOOKMARK_TITLE = "כותרת סימניה";
+	BOOKMARK_URL = "קישור סימניה";
+	BOOKMARK_DESCRIPTION_FORMAT = "בקר ב: %@";
+	
+	/* Menus */
+	
 	"MENUS" = "תפריטים";
 	"MENUS_DETAIL" = "התאם אישית את תפריטי Activator";
 
@@ -73,7 +85,9 @@
 	"CANCEL" = "ביטול";
 	"ACTION" = "פעולה";
 
+	
 	/* Modes */
+	
 
 	"MODE_TITLE_all" = "בכל מקום";
 	"MODE_DESCRIPTION_all" = "";
@@ -88,17 +102,22 @@
 	"MODE_DESCRIPTION_lockscreen" = "כאשר מסך הנעילה נראה לעין";
 	
 	/* Event Groups */
+	
 
-	"EVENT_GROUP_TITLE_Slide In Gesture" = "החלק במחוות";
-	"EVENT_GROUP_TITLE_Motion" = "מחוות";
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "החלקה במחוות";
+	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "החלקה במחוות בשני אצבעות";
+	"EVENT_GROUP_TITLE_Motion" = "תנועה";
+
 	"EVENT_GROUP_TITLE_SpringBoard" = "מסך הבית";
 	"EVENT_GROUP_TITLE_Status Bar" = "סטטוס בר";
 	"EVENT_GROUP_TITLE_Home Button" = "כפתור הבית";
 	"EVENT_GROUP_TITLE_Sleep Button" = "כפתור נעילה";
-	"EVENT_GROUP_TITLE_Volume Buttons" = "כפתורי הווליום";
-	"EVENT_GROUP_TITLE_Headset Button" = "כפתור האוזניה";
-	"EVENT_GROUP_TITLE_Lock Screen" = "מסך נעילה";
+	"EVENT_GROUP_TITLE_Volume Buttons" = "מקשי ווליום";
+	"EVENT_GROUP_TITLE_Headset Button" = "כפתור אוזניה";
+	"EVENT_GROUP_TITLE_Lock Screen" = "מסך הנעילה";
 	"EVENT_GROUP_TITLE_Power" = "חשמל";
+	"EVENT_GROUP_TITLE_Audio" = "אודיו";
+	"EVENT_GROUP_TITLE_Settings" = "הגדרות";
 	
 	/* Events */
 	
@@ -351,6 +370,7 @@
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "הצגת תא קולי";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "פתיחת לשונית תא קולי באפליקציית הטלפון";
 	"LISTENER_TITLE_toggle_3G" = "3G";
+	"LISTENER_TITLE_toggle_Airplane" = "מצב טיסה";
 	"LISTENER_TITLE_toggle_Bluetooth" = "בלוטוס'";
 	"LISTENER_TITLE_toggle_Data" = "נתוני סלולר";
 	"LISTENER_TITLE_toggle_Location" = "מיקום";
@@ -372,6 +392,98 @@
 	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "גלילה אינסופית מטה";
        
         "LISTENER_TITLE_com.rpetrich.voicekeys" = "VoiceKeys";
-        "LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "הפעל/עצור זיהוי קולי"; 
+        "LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "הפעל/עצור זיהוי קולי"; 
 	
 	IN_CYDIA_WARNING = "זהו דבר מסוכן לבצע פעולות כלשהן כאשר סידיה באמצע התקנת תוכנה.";
+
+	"LISTENER_TITLE_libactivator.settings.about" = "אודות";
+	"LISTENER_DESCRIPTION_libactivator.settings.about" = "פתח את עמוד האודות בהגדרות";
+
+	"LISTENER_TITLE_libactivator.settings.accessibility" = "נגישות";
+	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "פתח את הגדרות הנגישות";
+
+	"LISTENER_TITLE_libactivator.settings.auto-lock" = "נעילה אוטו'";
+	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "פתח את הגדרות הנעילה אוטו'";
+
+	"LISTENER_TITLE_libactivator.settings.bluetooth" = "בלוטוס'";
+	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "פתח את הגדרות הבלוטוס'";
+
+	"LISTENER_TITLE_libactivator.settings.brightness" = "בהירות";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "פתח את הגדרות הבהירות";
+
+	"LISTENER_TITLE_libactivator.settings.date-time" = "תאריך ושעה";
+	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "פתח את הגדרות תאריך ושעה";
+
+	"LISTENER_TITLE_libactivator.settings.equalizer" = "אקולייזר";
+	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "פתח את הגדרות האקולייזר";
+
+	"LISTENER_TITLE_libactivator.settings.facetime" = "FaceTime";
+	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "פתח את הגדרות FaceTime";
+
+	"LISTENER_TITLE_libactivator.settings.general" = "כללי";
+	"LISTENER_DESCRIPTION_libactivator.settings.general" = "פתח את העמוד הכללי בהגדרות";
+
+	"LISTENER_TITLE_libactivator.settings.icloud" = "iCloud";
+	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "פתח את הגדרות iCloud";
+
+	"LISTENER_TITLE_libactivator.settings.international" = "בינלאומי";
+	"LISTENER_DESCRIPTION_libactivator.settings.international" = "פתח את הגדרות בינלאומי";
+
+	"LISTENER_TITLE_libactivator.settings.keyboard" = "מקלדת";
+	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "פתח את הגדרות המקלדת";
+
+	"LISTENER_TITLE_libactivator.settings.location-services" = "שירותי מיקום";
+	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "פתח את הגדרות שירותי המיקום";
+
+	"LISTENER_TITLE_libactivator.settings.music" = "מוסיקה";
+	"LISTENER_DESCRIPTION_libactivator.settings.music" = "פתח את הגדרות המוסיקה";
+
+	"LISTENER_TITLE_libactivator.settings.network" = "רשת";
+	"LISTENER_DESCRIPTION_libactivator.settings.network" = "פתח את הגדרות הרשת";
+
+	"LISTENER_TITLE_libactivator.settings.notes" = "פתקים";
+	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "פתח את הגדרות הפתקים";
+
+	"LISTENER_TITLE_libactivator.settings.notifications" = "עדכונים";
+	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "פתח את הגדרות העדכונים";
+
+	"LISTENER_TITLE_libactivator.settings.phone" = "טלפון";
+	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "פתח את הגדרות הטלפון";
+
+	"LISTENER_TITLE_libactivator.settings.photos" = "תמונות";
+	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "פתח את הגדרות התמונות";
+
+	"LISTENER_TITLE_libactivator.settings.safari" = "ספארי";
+	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "פתח את ההגדרות של ספארי";
+
+	"LISTENER_TITLE_libactivator.settings.sounds" = "צלילים";
+	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "פתח את הגדרות הצלילים";
+
+	"LISTENER_TITLE_libactivator.settings.store" = "חנות";
+	"LISTENER_DESCRIPTION_libactivator.settings.store" = "פתח את הגדרות החנות";
+
+	"LISTENER_TITLE_libactivator.settings.twitter" = "טוויטר";
+	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "פתח את ההגדרות של טוויטר";
+
+	"LISTENER_TITLE_libactivator.settings.usage" = "שימוש";
+	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "פתח את עמוד השימוש בהגדרות";
+
+	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "סייעת וירטואלית";
+	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "פתח את הגדרות הסייעת וירטואלית";
+
+	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
+	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "פתח את הגדרות VPN";
+
+	"LISTENER_TITLE_libactivator.settings.wallpaper" = "רקע";
+	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "פתח את הגדרות הרקע";
+
+	"LISTENER_TITLE_libactivator.settings.wifi" = "רשת אלחוטית";
+	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "פתח את הגדרות הרשת אלחוטית";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "מתחתית המסך";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "החלקה מתחתית המסך כלפי מעלה";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "מהפינה השמאלית-תחתונה";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "החלקה מהפינה השמאלית-תחתונה כלפי פנים";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "מהפינה הימנית-תחתונה";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "החלקה מהפינה הימנית-תחתונה כלפי פנים ";
+	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "הצג סמן ווליום";
+	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "הצג את סמן הווליום";
