@@ -61,6 +61,17 @@
 	BLACKLIST = "Lista negra";
 	BLACKLIST_DETAIL = "Ignora eventos en apps específicas";
 
+	/* Bookmarks */
+
+	BOOKMARKS = "Marcadores";
+	BOOKMARKS_DETAIL = "Administra acciones de marcadores";
+	
+	ADD_NEW_BOOKMARK = "Añadir nuevo marcador";
+	NEW_BOOKMARK = "Nuevo marcador";
+	BOOKMARK_TITLE = "Título del marcador";
+	BOOKMARK_URL = "URL del marcador";
+	BOOKMARK_DESCRIPTION_FORMAT = "Visitar %@";
+
         /* Menus */
 	
 	MENUS = "Menús";
@@ -102,6 +113,7 @@
 	"EVENT_GROUP_TITLE_Lock Screen" = "Pantalla de bloqueo";
 	"EVENT_GROUP_TITLE_Power" = "Cargador";
 	"EVENT_GROUP_TITLE_Audio" = "Audio";
+	"EVENT_GROUP_TITLE_Settings" = "Ajustes";
 
 	/* Events */
 	
@@ -350,6 +362,92 @@
 	
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "Buzón de voz";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Muestra la pestaña Buzón de voz";
+
+
+	"LISTENER_TITLE_libactivator.settings.about" = "Acerca";
+	"LISTENER_DESCRIPTION_libactivator.settings.about" = "Abre ajustes en Acerca";
+	
+	"LISTENER_TITLE_libactivator.settings.accessibility" = "Accesibilidad";
+	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "Abre ajustes en Accesibilidad";
+	
+	"LISTENER_TITLE_libactivator.settings.auto-lock" = "Bloqueo automático";
+	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Abre ajustes en Bloqueo aut.";
+	
+	"LISTENER_TITLE_libactivator.settings.bluetooth" = "Bluetooth";
+	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "Abre ajustes en Bluetooth";
+	
+	"LISTENER_TITLE_libactivator.settings.brightness" = "Brillo";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "Abre ajustes en Brillo";
+	
+	"LISTENER_TITLE_libactivator.settings.date-time" = "Fecha y hora";
+	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Abre ajustes en Fecha y hora";
+	
+	"LISTENER_TITLE_libactivator.settings.equalizer" = "Ecualizador";
+	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "Abre ajustes en Ecualizador";
+	
+	"LISTENER_TITLE_libactivator.settings.facetime" = "FaceTime";
+	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "Abre ajustes en FaceTime";
+	
+	"LISTENER_TITLE_libactivator.settings.general" = "General";
+	"LISTENER_DESCRIPTION_libactivator.settings.general" = "Abre ajustes en General";
+	
+	"LISTENER_TITLE_libactivator.settings.icloud" = "iCloud";
+	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "Abre ajustes en iCloud";
+	
+	"LISTENER_TITLE_libactivator.settings.international" = "Internacional";
+	"LISTENER_DESCRIPTION_libactivator.settings.international" = "Abre ajustes en Internacional";
+	
+	"LISTENER_TITLE_libactivator.settings.keyboard" = "Teclado";
+	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "Abre ajustes en Teclado";
+	
+	"LISTENER_TITLE_libactivator.settings.location-services" = "Localización";
+	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "Abre ajustes en Localización";
+	
+	"LISTENER_TITLE_libactivator.settings.music" = "Música";
+	"LISTENER_DESCRIPTION_libactivator.settings.music" = "Abre ajustes en Música";
+	
+	"LISTENER_TITLE_libactivator.settings.network" = "Red";
+	"LISTENER_DESCRIPTION_libactivator.settings.network" = "Abre ajustes en Red";
+	
+	"LISTENER_TITLE_libactivator.settings.notes" = "Notas";
+	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "Abre ajustes en Notas";
+	
+	"LISTENER_TITLE_libactivator.settings.notifications" = "Notificaciones";
+	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "Abre ajustes en Notificaciones";
+	
+	"LISTENER_TITLE_libactivator.settings.phone" = "Teléfono";
+	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "Abre ajustes en Teléfono";
+	
+	"LISTENER_TITLE_libactivator.settings.photos" = "Fotos";
+	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "Abre ajustes en Fotos";
+	
+	"LISTENER_TITLE_libactivator.settings.safari" = "Safari";
+	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "Abre ajustes en Safari";
+	
+	"LISTENER_TITLE_libactivator.settings.sounds" = "Sonidos";
+	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "Abre ajustes en Sonidos";
+	
+	"LISTENER_TITLE_libactivator.settings.store" = "Store";
+	"LISTENER_DESCRIPTION_libactivator.settings.store" = "Abre ajustes en Store";
+	
+	"LISTENER_TITLE_libactivator.settings.twitter" = "Twitter";
+	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "Abre ajustes en Twitter";
+	
+	"LISTENER_TITLE_libactivator.settings.usage" = "Uso";
+	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Abre ajustes en Uso";
+	
+	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Asistente virtual";
+	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Abre ajustes en Asistente virtual";
+	
+	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
+	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Abre ajustes en VPN";
+	
+	"LISTENER_TITLE_libactivator.settings.wallpaper" = "Fondo de pantalla";
+	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Abre ajustes en Fondo pant.";
+	
+	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
+	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Abre ajustes en Wi-Fi";
+
 	
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
