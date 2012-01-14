@@ -123,4 +123,16 @@
 	"Insert" = "הכנס";
 	"Link Text" = "טקסט קישור";
 	"Link URL" = "כתובת קישור";
+
+	"Celeste" = "Celeste";
+	"Voice" = "אודיו";
+	"Today" = "היום";
+
+	"Date Format" = "מבנה תאריך";
+	"Time Format" = "מבנה שעה";
+	"None" = "ללא";
+	"Short" = "קצר";
+	"Medium" = "בינוני";
+	"Long" = "ארוך";
+	"Full" = "מלא";
 }
