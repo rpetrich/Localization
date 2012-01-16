@@ -340,10 +340,10 @@
 	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Permet de basculer la lecture de l'iPod";
 	
 	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Déverrouillage de l'appareil";
-	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Masque l'écran de veille";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Desactive l'écran de veille";
 	
 	"LISTENER_TITLE_libactivator.lockscreen.show" = "Verrouillage de l'appareil";
-	"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "Affiche l'écran de veille";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "Active l'écran de veille";
 	
 	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "Verrouillage/Déverrouillage";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Bascule l'affichage de l'écran de veille";
