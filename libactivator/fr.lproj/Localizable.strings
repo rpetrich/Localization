@@ -322,7 +322,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Déroule le centre de notification";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Composer Tweet";
-	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Lance le compositeur de Tweet";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Lance la redaction d'un Tweet";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Afficher la barre de volume";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Affiche la barre de volume";
