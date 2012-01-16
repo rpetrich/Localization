@@ -20,7 +20,7 @@
 	DONATE_DETAIL = "Contribuer via PayPal";
 	N_ADDITIONAL_EVENTS = "%i Évènements additionnels";
 	RESET_SETTINGS = "Réinitialiser les réglages";
-	RESET_SETTINGS_DETAIL = "Restaure les réglages aux valeurs d’origines";
+	RESET_SETTINGS_DETAIL = "Restaurer les réglages aux valeurs d’origines";
 	RESET_ALERT_TITLE = "Réinitialiser les paramètres d'Activator";
 	RESET_ALERT_MESSAGE = "Etes-vous sûr de vouloir restaurer les paramètres par défaut d'Activator?\nVotre appareil fera un respring si vous continuez.";
 	RESET_ALERT_CANCEL = "Annuler";
