@@ -17,7 +17,7 @@
 	MORE_ACTIONS = "Plus d'actions";
 	MORE_ACTIONS_DETAIL = "Obtenez plus d'actions via Cydia";
 	DONATE = "Faire un don";
-	DONATE_DETAIL = "Contribuez via PayPal";
+	DONATE_DETAIL = "Contribuer via PayPal";
 	N_ADDITIONAL_EVENTS = "%i Évènements additionnels";
 	RESET_SETTINGS = "Réinitialiser les réglages";
 	RESET_SETTINGS_DETAIL = "Restaure les réglages aux valeurs d’origines";
@@ -280,7 +280,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Simule une pression sur le bouton d'accueil";
 
 	"LISTENER_TITLE_libactivator.system.powerdown" = "Mise hors tension";
-	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Mais immédiatement votre appareil hors tension";
+	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Mettre immédiatement votre appareil hors tension";
 	
 	"LISTENER_TITLE_libactivator.system.reboot" = "Redémarre";
 	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "Redémarre immédiatement votre appareil";
@@ -307,7 +307,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Active l'assistant virtuel";
 
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Active Multitâche";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Affiche le switcher multitâche";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Affiche la barre multitâche";
 	
 	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Affiche la barre de lecture en cours";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Affiche le contrôle standard des médias";
@@ -395,58 +395,58 @@
 	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "Ouvre Réglages à iCloud";
 	
 	"LISTENER_TITLE_libactivator.settings.international" = "International";
-	"LISTENER_DESCRIPTION_libactivator.settings.international" = "Ouvre Réglages à International";
+	"LISTENER_DESCRIPTION_libactivator.settings.international" = "Ouvre Réglages International";
 	
 	"LISTENER_TITLE_libactivator.settings.keyboard" = "Clavier";
-	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "Ouvre Réglages à Clavier";
+	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "Ouvre Réglages du Clavier";
 	
 	"LISTENER_TITLE_libactivator.settings.location-services" = "Service de localisation";
-	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "Ouvre Réglages à Service de localisation";
+	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "Ouvre Réglages du Service de localisation";
 	
 	"LISTENER_TITLE_libactivator.settings.music" = "Musique";
-	"LISTENER_DESCRIPTION_libactivator.settings.music" = "Ouvre Réglages à Musique";
+	"LISTENER_DESCRIPTION_libactivator.settings.music" = "Ouvre Réglages de la Musique";
 	
 	"LISTENER_TITLE_libactivator.settings.network" = "Réseau";
-	"LISTENER_DESCRIPTION_libactivator.settings.network" = "Ouvre Réglages à Réseau";
+	"LISTENER_DESCRIPTION_libactivator.settings.network" = "Ouvre Réglages du Réseau";
 	
 	"LISTENER_TITLE_libactivator.settings.notes" = "Notes";
-	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "Ouvre Réglages à Notes";
+	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "Ouvre Réglages des Notes";
 	
 	"LISTENER_TITLE_libactivator.settings.notifications" = "Notifications";
-	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "Ouvre Réglages à Notifications";
+	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "Ouvre Réglages des Notifications";
 	
 	"LISTENER_TITLE_libactivator.settings.phone" = "Téléphone";
-	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "Ouvre Réglages à Téléphone";
+	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "Ouvre Réglages du Téléphone";
 	
 	"LISTENER_TITLE_libactivator.settings.photos" = "Photos";
-	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "Ouvre Réglages à Photos";
+	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "Ouvre Réglages des Photos";
 	
 	"LISTENER_TITLE_libactivator.settings.safari" = "Safari";
-	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "Ouvre Réglages à Safari";
+	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "Ouvre Réglages de Safari";
 	
 	"LISTENER_TITLE_libactivator.settings.sounds" = "Sons";
-	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "Ouvre Réglages à Sons";
+	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "Ouvre Réglages du Sons";
 	
 	"LISTENER_TITLE_libactivator.settings.store" = "Store";
-	"LISTENER_DESCRIPTION_libactivator.settings.store" = "Ouvre Réglages à Store";
+	"LISTENER_DESCRIPTION_libactivator.settings.store" = "Ouvre Réglages du Store";
 	
 	"LISTENER_TITLE_libactivator.settings.twitter" = "Twitter";
-	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "Ouvre Réglages à Twitter";
+	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "Ouvre Réglages de Twitter";
 	
 	"LISTENER_TITLE_libactivator.settings.usage" = "Utilisation";
-	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Ouvre Réglages à Utilisation";
+	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Ouvre Réglages d'Utilisation";
 	
 	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Assistant Virtuel";
-	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Ouvre Réglages à Assistant Virtuel";
+	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Ouvre Réglages de l'Assistant Virtuel";
 	
 	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
-	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Ouvre Réglages à VPN";
+	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Ouvre Réglages du VPN";
 	
 	"LISTENER_TITLE_libactivator.settings.wallpaper" = "Fond d'écran";
-	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Ouvre Réglages à Fond d'écran";
+	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Ouvre Réglages du Fond d'écran";
 	
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
-	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Ouvre Réglages à Wi-Fi";
+	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Ouvre Réglages du Wi-Fi";
 
 	
 	"LISTENER_TITLE_toggle_3G" = "3G";
