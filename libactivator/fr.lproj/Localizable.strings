@@ -368,7 +368,7 @@
 	"LISTENER_DESCRIPTION_libactivator.settings.about" = "Ouvre Réglages à À propos";
 	
 	"LISTENER_TITLE_libactivator.settings.accessibility" = "Accessibilité";
-	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "Ouvre Réglages à Accessibilité;
+	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "Ouvre Réglages à Accessibilité";
 	
 	"LISTENER_TITLE_libactivator.settings.auto-lock" = "Verrouillage auto.";
 	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Ouvre Réglages à Verrouillage auto.";
