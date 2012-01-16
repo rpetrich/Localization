@@ -371,7 +371,7 @@
 	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "Abre ajustes en Accesibilidad";
 	
 	"LISTENER_TITLE_libactivator.settings.auto-lock" = "Bloqueo automático";
-	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Abre ajustes en Bloqueo aut.";
+	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Abre ajustes en Bloqueo automático";
 	
 	"LISTENER_TITLE_libactivator.settings.bluetooth" = "Bluetooth";
 	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "Abre ajustes en Bluetooth";
@@ -443,7 +443,7 @@
 	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Abre ajustes en VPN";
 	
 	"LISTENER_TITLE_libactivator.settings.wallpaper" = "Fondo de pantalla";
-	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Abre ajustes en Fondo pant.";
+	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Abre ajustes en Fondo de pantalla";
 	
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Abre ajustes en Wi-Fi";
