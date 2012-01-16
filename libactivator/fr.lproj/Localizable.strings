@@ -15,7 +15,7 @@
 	CURRENTLY_ASSIGNED_TO = "Actuellement assigné à:";
 	UNASSIGNED = "(non assigné)";
 	MORE_ACTIONS = "Plus d'actions";
-	MORE_ACTIONS_DETAIL = "Obtenez plus d'actions via Cydia";
+	MORE_ACTIONS_DETAIL = "Obtenir plus d'actions via Cydia";
 	DONATE = "Faire un don";
 	DONATE_DETAIL = "Contribuer via PayPal";
 	N_ADDITIONAL_EVENTS = "%i Évènements additionnels";
