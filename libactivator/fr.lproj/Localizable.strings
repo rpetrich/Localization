@@ -338,7 +338,7 @@
 	
 	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Lecture/Pause";
 	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Permet de basculer la lecture de l'iPod";
-
+	
 	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Déverrouillage de l'appareil";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Désactive l'écran de veille";
 	
@@ -370,8 +370,8 @@
 	"LISTENER_TITLE_libactivator.settings.accessibility" = "Accessibilité";
 	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "Ouvre Réglages à Accessibilité";
 	
-	"LISTENER_TITLE_libactivator.settings.auto-lock" = "Verrouillage auto.";
-	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Ouvre Réglages à Verrouillage auto.";
+	"LISTENER_TITLE_libactivator.settings.auto-lock" = "Verrouillage auto";
+	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Ouvre Réglages à Verrouillage auto";
 	
 	"LISTENER_TITLE_libactivator.settings.bluetooth" = "Bluetooth";
 	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "Ouvre Réglages à Bluetooth";
