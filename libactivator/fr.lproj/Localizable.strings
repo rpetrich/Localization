@@ -61,7 +61,7 @@
 	BLACKLIST = "Liste noire";
 	BLACKLIST_DETAIL = "Ignore les événements dans des applications spécifiques";
 	
-		/* Bookmarks */
+    /* Bookmarks */
 
 	BOOKMARKS = "Favoris";
 	BOOKMARKS_DETAIL = "Gérer les actions des favoris personnalisés";
