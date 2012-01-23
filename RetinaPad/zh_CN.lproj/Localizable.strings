@@ -23,4 +23,10 @@
 	"this application" = "该应用程序";
 
 	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "这是您首次在安装了 RetinaPad 的情况下运行该应用程序。\n\n您希望使用 Retina 模式显示吗？\n\n在 RetinaPad 的设置面板中可以找到更多设置选项。";
+
+	"System Information" = "系统信息";
+	"Fake" = "伪造";
+	"Nothing" = "无";
+	"Machine Name" = "设备名称";	
+	"Machine and Hardware Name" = "设备和硬件名称";
 }
