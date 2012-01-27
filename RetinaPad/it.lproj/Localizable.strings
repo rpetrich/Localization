@@ -23,4 +23,10 @@
 	"this application" = "questa applicazione";
 
 	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "È la prima volta che questa applicazione classica viene avviata con RetinaPad installato.\n\nSi vuole applicare la modalità retina?\n\nAltre impostazioni sono presenti nel pannello di configurazione di RetinaPad.";
+
+	"System Information" = "Informazioni di sistema";
+	Fake = Fake;
+	Nothing = Nessuno;
+	"Machine Name" = "Nome macchina";
+	"Machine and Hardware Name" = "Nome macchina ed hardware";
 }
