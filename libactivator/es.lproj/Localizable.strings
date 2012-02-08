@@ -141,8 +141,8 @@
 	"EVENT_TITLE_libactivator.motion.shake" = "Agitar dispositivo";
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "¡Agita y mueve!";
 
-	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Deslizar abajo";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Deliza hacia abajo desde la barra estado";
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Desde arriba";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Arrastra a la pantalla desde arriba";
 
 	"EVENT_TITLE_libactivator.slide-in.top-left" = "Desde arriba izquierda";
 	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "Arrastra a la pantalla desde arriba-izq.";
