@@ -126,6 +126,10 @@
 	"Full" = "Full";
 	"Grayscale" = "Grayscale";
 	"H.264/MOV (experimental)" = "H.264/MOV (experimental)";
+	"H.264/MOV" = "H.264/MOV";
+	"H.264/MOV with Mic Audio" = "H.264/MOV with Mic Audio";
+	"H.264" = "H.264";
+	"H.264 + Mic" = "H.264 + Mic";
 	"Half" = "Half";
 	"Half-scale is not supported when OpenGL capture is enabled" = "Half-scale is not supported when OpenGL capture is enabled";
 	"Hidden" = "Hidden";
