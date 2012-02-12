@@ -126,6 +126,10 @@
 	"Full" = "完全";
 	"Grayscale" = "灰度";
 	"H.264/MOV (experimental)" = "H.264/MOV（试验）";
+	"H.264/MOV" = "H.264/MOV";
+	"H.264/MOV with Mic Audio" = "H.264/MOV 及话筒声音";
+	"H.264" = "H.264";
+	"H.264 + Mic" = "H.264 + 话筒";
 	"Half" = "一半";
 	"Half-scale is not supported when OpenGL capture is enabled" = "当 OpenGL 捕捉开启时，缩放到一半将不被支持。";
 	"Hidden" = "隐藏";
