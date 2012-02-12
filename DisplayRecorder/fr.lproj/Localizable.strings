@@ -1,0 +1,162 @@
+{
+	"Display Recorder" = "Display Recorder";
+    
+	"DisplayRecorder on %@" = "DisplayRecorder sur %@";
+    
+	"Start recording display?" = "Commencer l'enregistrement de l'écran?";
+	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "Commencer l'enregistrement de l'écran?\n\nLes gestes d'activation peuvent être configurés via l'application Réglages.";
+	"Cancel" = "Annuler";
+	"Record" = "Enregistrer";
+    
+	"Recording errored:\n%@\n(Error Code: %i)" = "Erreur d'enregistrement:\n%@\n(Code d'erreur: %i)";
+	"Recording errored:\n%@" = "Erreur d'enregistrement:\n%@";
+	"Recording completed!" = "Enregistrement terminé!";
+	"OK" = "OK";
+    
+	"Display cannot be recorded while uploading to YouTube." = "L'écran ne peut être enregistré pendant que vous uploadez sur YouTube.";
+	
+	"Unable to load framebuffer surface" = "Impossible de charger le 'framebuffer surface'";
+	"Error creating writer: %@" = "Erreur pendant l'écriture: %@";
+	"Unable to start writing" = "Impossible de commencer l'écriture";
+	"Interrupted by another app using the audio/video codec hardware." = "Interrompu par une autre application utilisant le pilote matériel audio/video.";
+	"Failed to write pixel buffer" = "Echec d'écriture du pixel buffer";
+	"Unable to open output file at path %@" = "Impossible d'ouvrir le fichier de sortie au chemin %@";
+	
+	"Toggle Recording" = "Toggle d'enregistrement";
+	"Toggle Web Interface" = "Toggle de l'interface Web";
+    
+	"Begin/end screen recording" = "Débuter/arrêter l'enregistrement de l'écran";
+	"Enable/disable web interface" = "Activer/désactiver l'interface web";
+	
+	"Upload Details" = "Détails de l'Upload";
+	"Upload" = "Upload";
+	"Cancel Upload" = "Annuler l'Upload";
+	
+	"YouTube Terms" = "Conditions d'utilisation de YouTube";
+	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "En cliquant sur 'upload', vous certifiez que vous possédez tous les droits sur le contenu ou que vous avez été autorisé par le propriétaire pour rendre le contenu disponible publiquement sur YouTube, et qu'il est par conséquent conforme aux conditions d'utilisation de YouTube.";
+	"Show Terms" = "Afficher les conditions d'utilisation";
+    
+	"Title" = "Titre";
+	"Description" = "Description";
+	"Category" = "Catégorie";
+	"Public Video" = "Vidéo publique";
+
+	"Film & Animation" = "Films et animations";
+	"Autos & Vehicles" = "Véhicules";
+	"Music" = "Musique";
+	"Pets & Animals" = "Animaux";
+	"Sports" = "Sports";
+	"Travel & Events" = "Voyages et événements";
+	"Gaming" = "Jeux";
+	"Comedy" = "Humour";
+	"People & Blogs" = "People et blogs";
+	"News & Politics" = "Actualités et politique";
+	"Entertainment" = "Divertissement";
+	"Education" = "Education";
+	"Howto & Style" = "Vie pratique et style";
+	"Nonprofits & Activism" = "Associations et organismes";
+	"Science & Technology" = "Science et technologie";
+	"Movies" = "Cinéma";
+	
+	"YouTube Login Missing" = "Identifiant YouTube manquant";
+	"Fill in your login details via the Display Recorder pane in the Settings application." = "Remplissez vos identifiants via le panneau Display Recorder dans l'application Réglages.";
+	"Oversize Video" = "Vidéo surdimensionnée";
+	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "Dans certains cas, YouTube n'acceptera pas les vidéos avec de trop grandes dimensions venant d'un appareil mobile.\nPour de meilleurs résultats, transférez la vidéo sur votre ordinateur et uploadez la via l'interface Web de YouTube ou enregistrez une nouvelle fois votre vidéo en utilisant la mi-échelle dans les Réglages.";
+	"Continue" = "Continuer";
+	
+	"Title is empty" = "Le titre est vide";
+	"YouTube requires that all videos have a title." = "YouTube impose que toutes les vidéos aient un titre.";
+	"Description is empty" = "La description est vide";
+	"YouTube requires that all videos have a description." = "YouTube impose que toutes les vidéos aient une description.";
+    
+	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "Upload échoué car vos identifiants ont été refusés. Allez dans l'application Réglages et ressaisissez-les.\nSi vous vous connectez à l'aide d'un compte Google, vérifiez qu'il est lié à votre pseudo YouTube.";
+	"Upload failed with error:\n" = "Upload échoué avec erreur:\n";
+	"Upload completed successfully\nYouTube link is on the pasteboard" = "Upload achevé avec succès\nLien YouTube dans votre presse-papier";
+	
+	"Help" = "Aide";
+	"Enable" = "Activer";
+	"Disable" = "Désactiver";
+    
+	"Not connected to Wi-Fi" = "Non connecté au Wi-Fi";
+	"Web server disabled" = "Serveur Web désactivé";
+	
+	"Saving to Camera Roll…" = "Sauvegarde vers la pellicule…";
+	"Save Failed!" = "Sauvegarde échouée!";
+	"Unable to save video to camera roll." = "Impossible de sauvegarder vers la pellicule.";
+	
+	"Recording…" = "Enregistrement en cours…";
+	"Stop Recording" = "Stopper l'enregistrement";
+	
+	"1 day" = "1 jour";
+	"%u days" = "%u jours";
+	"1 hr" = "1 h";
+	"1 hour" = "1 heure";
+	"%u hrs" = "%u hs";
+	"%u hours" = "%u heures";
+	"1 min" = "1 min";
+	"1 minute" = "1 minute";
+	"%u mins" = "%u mins";
+	"%u minutes" = "%u minutes";
+	"1 sec" = "1 sec";
+	"1 second" = "1 seconde";
+	"%u secs" = "%u secs";
+	"%u seconds" = "%u secondes";
+	" " = " ";
+
+	"%llu GB" = "%llu GB";
+	"%llu MB" = "%llu MB";
+	"%llu KB" = "%llu KB";
+	"%llu bytes" = "%llu bytes";
+	
+	"Recordings" = "Enregistrements";
+	
+	"Delete Recording" = "Supprimer l'enregistrement";
+	"Upload to YouTube" = "Uploader sur YouTube";
+	"Play Video" = "Lire la Vidéo";
+	"Add to Camera Roll" = "Ajouter à la pellicule";
+
+	"Activation Methods" = "Méthodes d'Activation";
+	"Always" = "Toujours";
+	"Cancel" = "Annuler";
+	"Continue" = "Continuer";
+	"Display Recorder" = "Display Recorder";
+	"For best performance, select the native device orientation" = "Pour de meilleures performances, sélectionnez l'orientation native de l'appareil";
+	"For best results, use the Google login that is linked to your YouTube account" = "Pour de meilleurs résultats, utilisez votre identifiant Google lié à votre compte YouTube";
+	"Framerate" = "Framerate";
+	"Full" = "Pleine";
+	"Grayscale" = "Niveau de gris";
+	"H.264/MOV (experimental)" = "H.264/MOV (expérimental)";
+	"H.264/MOV" = "H.264/MOV";
+	"H.264/MOV with Mic Audio" = "H.264/MOV avec Audio Micro";
+	"H.264" = "H.264";
+	"H.264 + Mic" = "H.264 + Micro";
+	"Half" = "Demi";
+	"Half-scale is not supported when OpenGL capture is enabled" = "La mi-échelle n'est pas supportée quand la capture OpenGL est activée";
+	"Hidden" = "Masqués";
+	"High" = "Haute";
+	"Landscape Left" = "Paysage Gauche";
+	"Landscape Right" = "Paysage Droite";
+	"Large" = "Large";
+	"Lock Framerate" = "Verrouiller le Framerate";
+	"Low" = "Faible";
+	"Medium" = "Moyenne";
+	"MJPEG/AVI (stable)" = "MJPEG/AVI (stable)";
+	"Open in Safari" = "Ouvrir dans Safari";
+	"OpenGL capture" = "Capture OpenGL";
+	"Password" = "Mot de passe";
+	"Portrait" = "Portrait";
+	"Record Audio" = "Enregistrer l'audio";
+	"Rotation" = "Rotation";
+	"Scale" = "Echelle";
+	"Show Taps" = "Afficher les 'Taps'";
+	"Small" = "Petit";
+	"Tap Size" = "Taille des 'Taps'";
+	"Upside Down" = "A l'envers";
+	"User's Guide" = "Guide d'utilisation";
+	"Video Format" = "Format Vidéo";
+	"Video Quality" = "Qualité Vidéo";
+	"Web Server" = "Serveur Web";
+	"When Recording" = "Pendant l'enregistrement";
+	"YouTube Account" = "Compte YouTube";
+	"YouTube or Google Account" = "Compte YouTube ou Google";
+}
