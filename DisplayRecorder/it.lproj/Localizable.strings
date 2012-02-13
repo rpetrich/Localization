@@ -126,6 +126,10 @@
 	"Full" = "Completo";
 	"Grayscale" = "Scala di grigi";
 	"H.264/MOV (experimental)" = "H.264/MOV (sperimentale)";
+	"H.264/MOV" = "H.264/MOV";
+	"H.264/MOV with Mic Audio" = "H.264/MOV con audio microfono";
+	"H.264" = "H.264";
+	"H.264 + Mic" = "H.264 + Mic.";
 	"Half" = "Metà";
 	"Half-scale is not supported when OpenGL capture is enabled" = "Scala a metà non è supportato con cattura OpenGL attivo";
 	"Hidden" = "Nascosto";
