@@ -244,7 +244,7 @@
 	"EVENT_TITLE_libactivator.volume.unmute" = "裝置取消靜音";
 	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "通過“響鈴/靜音”切換按鈕取消靜音";
 
-	"EVENT_TITLE_libactivator.headset-button.press.single" = "按一"下按鈕;
+	"EVENT_TITLE_libactivator.headset-button.press.single" = "按一下按鈕";
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "按一下耳機中央按鈕";
 
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住按鈕";
