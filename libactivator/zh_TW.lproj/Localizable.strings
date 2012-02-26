@@ -110,7 +110,7 @@
 	"EVENT_GROUP_TITLE_Home Button" = "“主畫面”按鈕";
 	"EVENT_GROUP_TITLE_Sleep Button" = "電源鍵";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "音量按鈕";
-	"EVENT_GROUP_TITLE_Headset Button" = "有線耳機";
+	"EVENT_GROUP_TITLE_Headset" = "有線耳機";
 	"EVENT_GROUP_TITLE_Lock Screen" = "“鎖定”螢幕";
 	"EVENT_GROUP_TITLE_Power" = "電源";
 	"EVENT_GROUP_TITLE_Audio" = "音訊";
@@ -244,11 +244,17 @@
 	"EVENT_TITLE_libactivator.volume.unmute" = "裝置取消靜音";
 	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "通過“響鈴/靜音”切換按鈕取消靜音";
 
-	"EVENT_TITLE_libactivator.headset-button.press.single" = "按一下";
+	"EVENT_TITLE_libactivator.headset-button.press.single" = "按一"下按鈕;
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "按一下耳機中央按鈕";
 
-	"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住";
+	"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住按鈕";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按住耳機中央按鈕";
+
+	"EVENT_TITLE_libactivator.headset.connected" = "連接耳機";
+	"EVENT_DESCRIPTION_libactivator.headset.connected" = "裝置插上耳機";
+
+	"EVENT_TITLE_libactivator.headset.disconnected" = "斷開耳機連接";
+	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "裝置拔下耳機";
 
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "按兩下時鐘";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "按兩下時鐘/日期區域";
