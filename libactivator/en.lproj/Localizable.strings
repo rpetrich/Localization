@@ -109,7 +109,7 @@
 	"EVENT_GROUP_TITLE_Home Button" = "Home Button";
 	"EVENT_GROUP_TITLE_Sleep Button" = "Sleep Button";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "Volume Buttons";
-	"EVENT_GROUP_TITLE_Headset Button" = "Wired Headset";
+	"EVENT_GROUP_TITLE_Headset" = "Wired Headset";
 	"EVENT_GROUP_TITLE_Lock Screen" = "Lock Screen";
 	"EVENT_GROUP_TITLE_Power" = "Power";
 	"EVENT_GROUP_TITLE_Audio" = "Audio";
@@ -243,11 +243,17 @@
 	"EVENT_TITLE_libactivator.volume.unmute" = "Unmute device";
 	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "Deactivate mute via ringer switch";
 	
-	"EVENT_TITLE_libactivator.headset-button.press.single" = "Single Press";
+	"EVENT_TITLE_libactivator.headset-button.press.single" = "Button Single Press";
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Press headset button once";	
 	
-	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Short Hold";
+	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Button Short Hold";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Press and hold headset button";	
+	
+	"EVENT_TITLE_libactivator.headset.connected" = "Connected";
+	"EVENT_DESCRIPTION_libactivator.headset.connected" = "Headset plugged into device";	
+	
+	"EVENT_TITLE_libactivator.headset.disconnected" = "Disconnected";
+	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "Headset unplugged from device";	
 	
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Double Tap Clock";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Double-tap clock/date area";
