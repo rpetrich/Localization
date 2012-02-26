@@ -109,7 +109,7 @@
 	"EVENT_GROUP_TITLE_Home Button" = "Botón inicio";
 	"EVENT_GROUP_TITLE_Sleep Button" = "Botón reposo";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "Botones de volumen";
-	"EVENT_GROUP_TITLE_Headset Button" = "Botón del auricular";
+	"EVENT_GROUP_TITLE_Headset Button" = "Conexión de auriculares";
 	"EVENT_GROUP_TITLE_Lock Screen" = "Pantalla de bloqueo";
 	"EVENT_GROUP_TITLE_Power" = "Cargador";
 	"EVENT_GROUP_TITLE_Audio" = "Audio";
@@ -248,6 +248,12 @@
 	
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Pulsación corta";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Mantén pulsado el botón de auriculares";
+
+	"EVENT_TITLE_libactivator.headset.connected" = "Conectado";
+	"EVENT_DESCRIPTION_libactivator.headset.connected" = "Auriculares conectados al dispositivo";	
+	
+	"EVENT_TITLE_libactivator.headset.disconnected" = "Desconectado";
+	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "Auriculares desconectados del dispositivo";
 	
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Tocar dos veces";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Toca 2 veces en el área del reloj";
