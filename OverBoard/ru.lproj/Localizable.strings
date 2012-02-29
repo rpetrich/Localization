@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -27,7 +27,7 @@
 	<key>CLEAR_ICON_CACHE_QUESTION</key>
 	<string>Очистить кэш?</string>
 	<key>COLUMNS</key>
-	<string>Колонок</string>
+	<string>Колонки</string>
 	<key>CONTINUE</key>
 	<string>Продолжить</string>
 	<key>DOCK</key>
