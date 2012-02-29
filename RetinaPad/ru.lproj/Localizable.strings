@@ -1,26 +1,32 @@
 {
-  RetinaPad = RetinaPad;
+	RetinaPad = RetinaPad;
 
-	"Enabled Applications" = "Включённые приложения";
-	"System Applications" = "Системные приложения";
-	"User Applications" = "Приложения пользователя";
-	"Customize which applications Retina mode is applied to." = "Решите, какие приложения будут показаны в режиме Retina.";
+	"Enabled Applications" = "Список приложений";
+	"System Applications" = "Системные";
+	"User Applications" = "Установленные";
+	"Customize which applications Retina mode is applied to." = "Выберите приложения, для которых будет работать RetinaPad.";
 
-	"Always Zoom" = "Всегда приближать";
-	"Allow Upside Down" = "Кверх ногами";
-	"Show Simulated Chrome" = "Показать имитацию Хрома";
-	"Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Чтобы изменения были применены, выйдите из приложений во вкладке многозадачности.";
+	"Always Zoom" = "Всегда увеличивать";
+	"Allow Upside Down" = "Разрешить переворот";
+	"Show Simulated Chrome" = "Имитировать хром";
+	"Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Закройте запущенные приложения с помощью панели многозадачности для принятия изменений.";
 
-	"Portrait in Landscape" = "Портретировать в Альюомном Режиме";
-	"This feature is in beta and is unsupported, for now." = "Эта функция - бета, вы не можете пока использовать её.";
+	"Portrait in Landscape" = "Вертикально при горизонт. ориент.";
+	"This feature is in beta and is unsupported, for now." = "Функция в разработке и пока не поддерживается.";
 
-	"OK" = "OK";
-	"Cancel" = "Отмена";
-	"Apply" = "Применить";
+	OK = OK;
+	Cancel = Отмена;
+	Apply = Применить;
 
-	"To enter retina mode kill %@ via the multitasking switcher bar." = "Чтобы войти в Retina Mode выйдите из %@ во вкладке многозадачности.";
-	"To exit retina mode kill %@ via the multitasking switcher bar." = "Чтобы выйти из Retina Mode выйдите из %@ во вкладке многозадачности.";
-	"this application" = "этого приложения";
+	"To enter retina mode kill %@ via the multitasking switcher bar." = "Для перехода к графике Retina закройте %@ через панель многозадачности.";
+	"To exit retina mode kill %@ via the multitasking switcher bar." = "Для отключения графики Retina закройте %@ через панель многозадачности.";
+	"this application" = "это приложение";
 
-	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "Это впервые, когда обычное приложение было запущено с RetinaPad.\n\nВы хотите применить Retina Mode?\n\nБольше настроек вы найдёте в Настройках RetinaPad.";
+	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "Это первый запуск приложения после установки RetinaPad.\n\nВключить графику Retina?\n\nБольше настроек в разделе RetinaPad (в приложении Настройки).";
+
+	"System Information" = "Системная информация";
+	Fake = Подменять;
+	Nothing = Ничего;
+	"Machine Name" = "Имя устройства";
+	"Machine and Hardware Name" = "Имя устройства и железа";
 }
