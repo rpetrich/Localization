@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>"%@" by %@ </key>
+	<string>"%@" от %@ </string>
+	<key>%ld meters</key>
+	<string>%ld метр.</string>
+	<key>&lt;em&gt;%@&lt;/em&gt; by &lt;strong&gt;%@&lt;/strong&gt; </key>
+	<string>&lt;em&gt;%@&lt;/em&gt; от &lt;strong&gt;%@&lt;/strong&gt; </string>
+	<key>AM</key>
+	<string>AM</string>
+	<key>Actions</key>
+	<string>Действия</string>
+	<key>Add Favorite</key>
+	<string>Доб. в избранное</string>
+	<key>Add Favorite...</key>
+	<string>Доб. в избранное...</string>
+	<key>Aqua</key>
+	<string>Аква</string>
+	<key>Black</key>
+	<string>Черный</string>
+	<key>Blue</key>
+	<string>Синий</string>
+	<key>Bold</key>
+	<string>Жирный</string>
+	<key>Cancel</key>
+	<string>Отмена</string>
+	<key>Celeste</key>
+	<string>Celeste</string>
+	<key>Clear</key>
+	<string>Очистить</string>
+	<key>Clear History</key>
+	<string>Очистить историю</string>
+	<key>Close</key>
+	<string>Закрыть</string>
+	<key>Confirm</key>
+	<string>Подтвердить</string>
+	<key>Continue</key>
+	<string>Продолжить</string>
+	<key>Copy</key>
+	<string>Копир.</string>
+	<key>Copy All</key>
+	<string>Скопир. все</string>
+	<key>Create</key>
+	<string>Создать</string>
+	<key>Cut</key>
+	<string>Вырезать</string>
+	<key>Date Format</key>
+	<string>Формат даты</string>
+	<key>Debug</key>
+	<string>Отладка</string>
+	<key>Default Actions</key>
+	<string>Стандартные действия</string>
+	<key>Delete Favorite</key>
+	<string>Удилить избранное</string>
+	<key>Dial</key>
+	<string>Набрать</string>
+	<key>Dictionary</key>
+	<string>Словарь</string>
+	<key>Donate with PayPal</key>
+	<string>Пожертвовать через PayPal</string>
+	<key>Edit Favorite</key>
+	<string>Ред. избранное</string>
+	<key>Enabled</key>
+	<string>Включено</string>
+	<key>Enter the new favorite details</key>
+	<string>Введите данные</string>
+	<key>Error</key>
+	<string>Ошибка</string>
+	<key>Error retrieving location!</key>
+	<string>Ошибка определения местоположения!</string>
+	<key>Estimated Accuracy:</key>
+	<string>Погрешность:</string>
+	<key>Extended Support</key>
+	<string>Полная поддержка</string>
+	<key>Favorites</key>
+	<string>Избранное</string>
+	<key>Find</key>
+	<string>Найти</string>
+	<key>Find In Page</key>
+	<string>Найти на странице</string>
+	<key>Find Next</key>
+	<string>Искать далее</string>
+	<key>Find Previous</key>
+	<string>Искать выше</string>
+	<key>Font Family</key>
+	<string>Гарнитура шрифта</string>
+	<key>Font Size</key>
+	<string>Размер шрифта</string>
+	<key>Format</key>
+	<string>Формат</string>
+	<key>Fuchsia</key>
+	<string>Фуксия</string>
+	<key>Full</key>
+	<string>Полный</string>
+	<key>Gray</key>
+	<string>Серый</string>
+	<key>Green</key>
+	<string>Зеленый</string>
+	<key>Highlight Color</key>
+	<string>Цвет подчеркивания</string>
+	<key>History</key>
+	<string>История</string>
+	<key>Image</key>
+	<string>Картинка</string>
+	<key>Insert</key>
+	<string>Вставить</string>
+	<key>Italic</key>
+	<string>Курсивный</string>
+	<key>Left to Right</key>
+	<string>Слева направо</string>
+	<key>Lime</key>
+	<string>Лайм</string>
+	<key>Link</key>
+	<string>Ссылка</string>
+	<key>Link Text</key>
+	<string>Текст ссылки</string>
+	<key>Link URL</key>
+	<string>Адрес ссылки</string>
+	<key>Locate</key>
+	<string>Местопол.</string>
+	<key>Long</key>
+	<string>Длинный</string>
+	<key>Lookup</key>
+	<string>Искать</string>
+	<key>Maroon</key>
+	<string>Малиновый</string>
+	<key>Medium</key>
+	<string>Средний</string>
+	<key>More Actions...</key>
+	<string>Больше действий...</string>
+	<key>My Location on Google Maps</key>
+	<string>Местоположение на Google Maps</string>
+	<key>Navy</key>
+	<string>Темно-синий</string>
+	<key>New Favorite</key>
+	<string>Новая запись</string>
+	<key>Next</key>
+	<string>След.</string>
+	<key>No Search Results</key>
+	<string>Ничего не найдено</string>
+	<key>None</key>
+	<string>Нет</string>
+	<key>Not Found</key>
+	<string>Не найдено</string>
+	<key>OFF</key>
+	<string>ВЫКЛ</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ON</key>
+	<string>ВКЛ</string>
+	<key>Olive</key>
+	<string>Оливковый</string>
+	<key>Open in Safari</key>
+	<string>Открыть в Safari</string>
+	<key>PM</key>
+	<string>PM</string>
+	<key>Paste</key>
+	<string>Вставить</string>
+	<key>Paste Complete</key>
+	<string>Вставлено</string>
+	<key>Pasteboard Favorites</key>
+	<string>Избранные буфера вставки</string>
+	<key>Pasteboard History</key>
+	<string>История буфера вставки</string>
+	<key>Pastie</key>
+	<string>Pastie</string>
+	<key>Playing</key>
+	<string>Песня</string>
+	<key>Preferred Client</key>
+	<string>Twitter-клиент</string>
+	<key>Previous</key>
+	<string>Пред.</string>
+	<key>Purple</key>
+	<string>Пурпурный</string>
+	<key>Red</key>
+	<string>Красный</string>
+	<key>Replace</key>
+	<string>Заменить</string>
+	<key>Rich Text For Mail</key>
+	<string>Rich Text For Mail</string>
+	<key>Right to Left</key>
+	<string>Справа налево</string>
+	<key>Scroll</key>
+	<string>Листать</string>
+	<key>Search</key>
+	<string>Найти</string>
+	<key>Select</key>
+	<string>Выбрать</string>
+	<key>Select All</key>
+	<string>Выбрать все</string>
+	<key>Send to Pastie</key>
+	<string>Отправить в Pastie</string>
+	<key>Short</key>
+	<string>Короткий</string>
+	<key>Silver</key>
+	<string>Серебряный</string>
+	<key>Sorted</key>
+	<string>Отсортировано</string>
+	<key>Strikethrough</key>
+	<string>Перечеркнутый</string>
+	<key>TRANSLATION_ABOUT</key>
+	<string>Русификация: Victor Ryabov
+djdarkrider@gmail.com</string>
+	<key>Teal</key>
+	<string>Teal</string>
+	<key>Text Color</key>
+	<string>Цвет текста</string>
+	<key>Text Style</key>
+	<string>Стиль текста</string>
+	<key>The URL has been copied to your clipboard.</key>
+	<string>Адрес скопирован в буфер обмена</string>
+	<key>Time Format</key>
+	<string>Формат времени</string>
+	<key>To Bottom</key>
+	<string>В конец</string>
+	<key>To Top</key>
+	<string>В начало</string>
+	<key>Today</key>
+	<string>Сегодня</string>
+	<key>Translate</key>
+	<string>Перевести</string>
+	<key>Tweet</key>
+	<string>Tweet</string>
+	<key>Unable to submit your pastie.</key>
+	<string>Не удалось отправить в Pastie.</string>
+	<key>Underline</key>
+	<string>Подчеркнуть</string>
+	<key>Unknown</key>
+	<string>Неизвестно</string>
+	<key>Use Icons</key>
+	<string>Пиктограммы</string>
+	<key>Voice</key>
+	<string>Голос</string>
+	<key>White</key>
+	<string>Белый</string>
+	<key>Wikipedia</key>
+	<string>Wikipedia</string>
+	<key>Yellow</key>
+	<string>Желтый</string>
+	<key>all-day</key>
+	<string>весь день</string>
+	<key>biteSMS</key>
+	<string>biteSMS</string>
+	<key>by</key>
+	<string>от</string>
+	<key>lap</key>
+	<string>круг</string>
+	<key>on</key>
+	<string>вкл</string>
+</dict>
+</plist>
