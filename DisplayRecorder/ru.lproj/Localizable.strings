@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTIVATION_METHODS</key>
+	<string>Методы активации</string>
+	<key>ANIMATED</key>
+	<string>Анимация</string>
+	<key>AUTO</key>
+	<string>Авто</string>
+	<key>BACKGROUND_STYLE</key>
+	<string>Фон</string>
+	<key>BADGE_STYLE</key>
+	<string>Наклейки</string>
+	<key>BADGE_STYLE_HIDDEN</key>
+	<string>Спрятать</string>
+	<key>BADGE_STYLE_ON_BOTH</key>
+	<string>Везде</string>
+	<key>BADGE_STYLE_ON_ICONS</key>
+	<string>На иконках</string>
+	<key>BADGE_STYLE_ON_PAGES</key>
+	<string>На страницах</string>
+	<key>CANCEL</key>
+	<string>Отмена</string>
+	<key>CLEAR_ICON_CACHE</key>
+	<string>Очистка (перевод Victor Ryabov)</string>
+	<key>CLEAR_ICON_CACHE_QUESTION</key>
+	<string>Очистить кэш?</string>
+	<key>COLUMNS</key>
+	<string>Колонок</string>
+	<key>CONTINUE</key>
+	<string>Продолжить</string>
+	<key>DOCK</key>
+	<string>Док</string>
+	<key>DOUBLE_HOME_BUTTON</key>
+	<string>Дважды нажать "Домой"</string>
+	<key>FIVE</key>
+	<string>5</string>
+	<key>FOUR</key>
+	<string>4</string>
+	<key>HOME_BUTTON</key>
+	<string>Кнопка "Домой"</string>
+	<key>ONE</key>
+	<string>1</string>
+	<key>PLAY_SOUNDS</key>
+	<string>Звуки</string>
+	<key>REVERSE_ORDER</key>
+	<string>Обратный порядок</string>
+	<key>SEARCH_PAGE</key>
+	<string>Поиск Spotlight</string>
+	<key>SHOW_AS_HOME_SCREEN</key>
+	<string>Стать экраном "Домой"</string>
+	<key>SPRINGBOARD_ICON</key>
+	<string>Иконка</string>
+	<key>SPRINGBOARD_PINCH</key>
+	<string>Свести иконки</string>
+	<key>SPRINGBOARD_SPREAD</key>
+	<string>Развести иконки</string>
+	<key>SYSTEM_WALLPAPER</key>
+	<string>Системные обои</string>
+	<key>THEME</key>
+	<string>Тема</string>
+	<key>THEME_BACKGROUND</key>
+	<string>Фон темы</string>
+	<key>THREE</key>
+	<string>3</string>
+	<key>TWO</key>
+	<string>2</string>
+	<key>VISIBLE_ELEMENTS</key>
+	<string>Видимые элементы</string>
+	<key>WALLPAPER</key>
+	<string>Обои</string>
+</dict>
+</plist>
