@@ -36,7 +36,7 @@
 "EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Нажать кнопку ответа один раз";
 "EVENT_DESCRIPTION_libactivator.lock.hold.short" = "Нажать и держать";
 "EVENT_DESCRIPTION_libactivator.lock.press.double" = "Быстро нажать дважды";
-"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Дважды тапнуть по часам с датой";
+"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Дважды коснуться часов";
 "EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Нажать и держать";
 "EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Нажать на экране \"Домой\"";
 "EVENT_DESCRIPTION_libactivator.menu.press.double" = "Быстро нажать дважды";
@@ -58,8 +58,8 @@
 "EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Потянуть статус бар вниз";
 "EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Потянуть статус бар влево";
 "EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Потянуть статус бар вправо";
-"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Двойное нажатие на статус бар";
-"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Нажать на статус бар";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Двойное касание статус бара";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Коснуться статус бара";
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "2П:Провести снизу экрана вверх";
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "2П:Провести снизу левой части экрана к центру";
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "2П:Провести снизу правой части экрана к центру";
@@ -69,7 +69,7 @@
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "2П:Провести от левой верхней части экрана к центру";
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "2П:Провести от правой верхней части экрана к центру";
 "EVENT_DESCRIPTION_libactivator.volume.both.press" = "Нажать обе клавиши вместе";
-"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "Нажать на окошко громкости";
+"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "Коснуться окошка громкости";
 "EVENT_DESCRIPTION_libactivator.volume.down-up" = "Нажать нижнюю, потом верхнюю";
 "EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "Нажать и держать нижнюю";
 "EVENT_DESCRIPTION_libactivator.volume.down.press" = "Нажать нижнюю кнопку громкости";
@@ -96,7 +96,7 @@
 "EVENT_TITLE_libactivator.headset-button.press.single" = "Одиночное нажатие";
 "EVENT_TITLE_libactivator.lock.hold.short" = "Короткое удержание";
 "EVENT_TITLE_libactivator.lock.press.double" = "Двойное нажатие";
-"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Двойное нажатие на часы";
+"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Двойное касание часов";
 "EVENT_TITLE_libactivator.menu.hold.short" = "Короткое удержание";
 "EVENT_TITLE_libactivator.menu.press.at-springboard" = "Нажатие на экране \"Домой\"";
 "EVENT_TITLE_libactivator.menu.press.double" = "Двойное нажатие";
@@ -109,7 +109,7 @@
 "EVENT_TITLE_libactivator.slide-in.bottom-left" = "Низ экрана-Лево";
 "EVENT_TITLE_libactivator.slide-in.bottom-right" = "Низ экрана-Право";
 "EVENT_TITLE_libactivator.slide-in.left" = "Экран-Лево";
-"EVENT_TITLE_libactivator.slide-in.right" = "Экран-Вправо";
+"EVENT_TITLE_libactivator.slide-in.right" = "Экран-Право";
 "EVENT_TITLE_libactivator.slide-in.top-left" = "Экран-Лево Верх";
 "EVENT_TITLE_libactivator.slide-in.top-right" = "Экран-Право Верх";
 "EVENT_TITLE_libactivator.springboard.pinch" = "Развести";
@@ -118,8 +118,8 @@
 "EVENT_TITLE_libactivator.statusbar.swipe.down" = "Экран-Верх";
 "EVENT_TITLE_libactivator.statusbar.swipe.left" = "Влево";
 "EVENT_TITLE_libactivator.statusbar.swipe.right" = "Вправо";
-"EVENT_TITLE_libactivator.statusbar.tap.double" = "Двойное нажатие";
-"EVENT_TITLE_libactivator.statusbar.tap.single" = "Нажатие";
+"EVENT_TITLE_libactivator.statusbar.tap.double" = "Двойное касание";
+"EVENT_TITLE_libactivator.statusbar.tap.single" = "Касание";
 "EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "2П:Экран-Низ";
 "EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "2П:Низ экрана-Лево";
 "EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "2П:Низ экрана-Право";
@@ -129,7 +129,7 @@
 "EVENT_TITLE_libactivator.two-finger-slide-in.top-left" = "2П:Верх экрана-Лево";
 "EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "2П:Верх экрана-Право";
 "EVENT_TITLE_libactivator.volume.both.press" = "Нажать обе";
-"EVENT_TITLE_libactivator.volume.display-tap" = "Нажать на окошко";
+"EVENT_TITLE_libactivator.volume.display-tap" = "Коснуться окошка";
 "EVENT_TITLE_libactivator.volume.down-up" = "Нижняя, Верхняя";
 "EVENT_TITLE_libactivator.volume.down.hold.short" = "Задержать нижнюю";
 "EVENT_TITLE_libactivator.volume.down.press" = "Нажать нижнюю";
