@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> appears to have built-in support for external displays.
+You may consider disabling Display Out temporarily.</key>
+	<string> похоже имеет встроенную поддержку вывода на экран. Попробуйте временно выключить Display Out.</string>
+	<key>1024</key>
+	<string>1024</string>
+	<key>1024x768 (VGA/HDMI)</key>
+	<string>1024x768 (VGA/HDMI)</string>
+	<key>1080p</key>
+	<string>1080p</string>
+	<key>1280x1024 (HDMI+iPad 2)</key>
+	<string>1280x1024 (HDMI+4S/iPad 2)</string>
+	<key>16:10</key>
+	<string>16:10</string>
+	<key>16:10 Display Stretch</key>
+	<string>16:10 Растянуть</string>
+	<key>16:9</key>
+	<string>16:9</string>
+	<key>16:9 Display Stretch</key>
+	<string>16:9 Растянуть</string>
+	<key>1920x1200 (HDMI+iPad 2)</key>
+	<string>1920x1200 (HDMI+4S/iPad 2)</string>
+	<key>480</key>
+	<string>480</string>
+	<key>600</key>
+	<string>600</string>
+	<key>640x480 (all)</key>
+	<string>640x480 (все)</string>
+	<key>720p</key>
+	<string>720p</string>
+	<key>720p (HDMI-only)</key>
+	<string>720p (только HDMI)</string>
+	<key>768p</key>
+	<string>768p</string>
+	<key>800x600 (VGA/HDMI)</key>
+	<string>800x600 (VGA/HDMI)</string>
+	<key>Always</key>
+	<string>Всегда</string>
+	<key>Aspect Adjust</key>
+	<string>Настройка формата</string>
+	<key>Big</key>
+	<string>Большой</string>
+	<key>Both Displays</key>
+	<string>Оба дисплея</string>
+	<key>Connection Alerts</key>
+	<string>Уведомл. о подключении
+(перевод Victor Ryabov)</string>
+	<key>Dim Brightness</key>
+	<string>Затемнить подсветку</string>
+	<key>Display Out</key>
+	<string>Display Out</string>
+	<key>Enabled</key>
+	<string>Включено</string>
+	<key>Experimental</key>
+	<string>Экспериментальные</string>
+	<key>External Display</key>
+	<string>Внешний дисплей</string>
+	<key>External display connected.</key>
+	<string>Внешний дисплей подключен.</string>
+	<key>External display disconnected.</key>
+	<string>Внешний дисплей отключен.</string>
+	<key>Follow Interface</key>
+	<string>Авто</string>
+	<key>Follow SpringBoard</key>
+	<string>Следить за экраном "Домой"</string>
+	<key>Giant</key>
+	<string>Гигантский</string>
+	<key>High Quality</key>
+	<string>Высокое</string>
+	<key>Horizontal Offset</key>
+	<string>Горизонт. компенсация</string>
+	<key>Huge</key>
+	<string>Огромный</string>
+	<key>Just Main Content</key>
+	<string>Только главное</string>
+	<key>Landscape Left</key>
+	<string>Горизонт. влево</string>
+	<key>Landscape Right</key>
+	<string>Горизонт. вправо</string>
+	<key>Large</key>
+	<string>Обширный</string>
+	<key>Little</key>
+	<string>Малюсенький</string>
+	<key>Low Quality</key>
+	<string>Низкое</string>
+	<key>Max Screen Resolution</key>
+	<string>Разрешение экр.</string>
+	<key>Medium</key>
+	<string>Средний</string>
+	<key>Native Support</key>
+	<string>Нативная поддержка</string>
+	<key>Never</key>
+	<string>Никогда</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>On Connect</key>
+	<string>При подключении</string>
+	<key>OpenGL</key>
+	<string>OpenGL</string>
+	<key>Orientation</key>
+	<string>Ориентация</string>
+	<key>Portrait</key>
+	<string>Вертикально</string>
+	<key>Preserve</key>
+	<string>Сохранять</string>
+	<key>Render Quality</key>
+	<string>Качество</string>
+	<key>Scale</key>
+	<string>Масштаб</string>
+	<key>Show</key>
+	<string>Показывать</string>
+	<key>Show On</key>
+	<string>Показывать на</string>
+	<key>Show Taps</key>
+	<string>Показ касаний</string>
+	<key>Showing taps may cause flicker</key>
+	<string>Показ касание может вызвать мерцание.</string>
+	<key>Shows only the main content on the external display</key>
+	<string>Показывать только главное на внешнем экране.</string>
+	<key>Skip Keyboard/OpenGL</key>
+	<string>Пропуск Keyboard/OpenGL</string>
+	<key>Small</key>
+	<string>Маленький</string>
+	<key>Suppress Flicker</key>
+	<string>Убирать мерцание</string>
+	<key>Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games</key>
+	<string>Убирание мерцания OpenGL может увеличить потребление памяти и   привести к казусам.</string>
+	<key>Suppressing flicker may reduce performance or cause additional memory use in some games</key>
+	<string>Убирание мерцания может снизить быстродействие и увеличить потребление памяти.</string>
+	<key>Tap Size</key>
+	<string>Индик. касаний</string>
+	<key>This app</key>
+	<string>Это прил.</string>
+	<key>Tiny</key>
+	<string>Крошечный</string>
+	<key>Upside-Down</key>
+	<string>Переворот</string>
+	<key>Vertical Offset</key>
+	<string>Вертик. компенсация</string>
+</dict>
+</plist>
