@@ -64,14 +64,14 @@
 
 	/* Bookmarks */
 
-	BOOKMARKS = "書籤";
-	BOOKMARKS_DETAIL = "管理自訂書籤動作";
+	"BOOKMARKS" = "書籤";
+	"BOOKMARKS_DETAIL" = "管理自訂書籤動作";
 
-	ADD_NEW_BOOKMARK = "添加新書籤";
-	NEW_BOOKMARK = "新書籤";
-	BOOKMARK_TITLE = "書籤標題";
-	BOOKMARK_URL = "書籤位址";
-	BOOKMARK_DESCRIPTION_FORMAT = "訪問 %@";
+	"ADD_NEW_BOOKMARK" = "添加新書籤";
+	"NEW_BOOKMARK" = "新書籤";
+	"BOOKMARK_TITLE" = "書籤標題";
+	"BOOKMARK_URL" = "書籤位址";
+	"BOOKMARK_DESCRIPTION_FORMAT" = "訪問 %@";
 
 	/* Menus */
 
@@ -278,7 +278,7 @@
 	"LISTENER_GROUP_TITLE_Audio" = "音訊";
 	"LISTENER_GROUP_TITLE_Settings" = "設定";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "增強滾屏";
-	"LISTENER_GROUP_TITLE_Web Clips" = "網頁剪"輯;
+	"LISTENER_GROUP_TITLE_Web Clips" = "網頁剪輯";
 
 	/* Listener Names */
 
@@ -574,7 +574,7 @@
 
 	"LISTENER_TITLE_com.app1enerd.secustomtext" = "滑桿增强";
 	"LISTENER_DESCRIPTION_com.app1enerd.secustomtext" = "設定自訂滑桿文字";
-
+	
 
 	"LISTENER_TITLE_libactivator.settings.about" = "關於本機";
 	"LISTENER_DESCRIPTION_libactivator.settings.about" = "打開設定的關於本機定頁面";
