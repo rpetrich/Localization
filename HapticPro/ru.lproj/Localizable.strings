@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Activates HapticPro only from the keyboard's modifier keys.</key>
+	<string>Реагирует на модификаторы клавиатуры.</string>
+	<key>Add Click Sounds</key>
+	<string>Добавлять клики</string>
+	<key>Adjust the strength of the vibration.</key>
+	<string>Настроить интенсивность вибрации</string>
+	<key>Are you sure you wish to reset HapticPro to the default settings?</key>
+	<string>Сбросить настройки HapticPro?</string>
+	<key>Buttons</key>
+	<string>Клавиши</string>
+	<key>Cancel</key>
+	<string>Отмена</string>
+	<key>Control the duration of each type of haptic feedback independently.</key>
+	<string>Контролируйте срабатывания вибрации по отдельности.</string>
+	<key>Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing.</key>
+	<string>Из-за ограничений iOS 3.0, работа HapticPro будет приостановлена во время проигрывания музыки.</string>
+	<key>Duration</key>
+	<string>Продолжительность</string>
+	<key>Duration Factor Pressed</key>
+	<string>Продол-ть при нажатии</string>
+	<key>Duration Factor Released</key>
+	<string>Продол-ть при отпускании</string>
+	<key>Duration Factor Repeated</key>
+	<string>Продол-ть при повторе</string>
+	<key>Enable keyboard click sounds on regular buttons.</key>
+	<string>Включить клики клавиатуры на обычных кнопках.</string>
+	<key>Enable/disable haptic feedback based on the status of the ringer switch.</key>
+	<string>Включить/Выключить срабатывание вибрации в зависимости от положения переключателя громкости.</string>
+	<key>HapticPro-Advanced</key>
+	<string>Дополнительные</string>
+	<key>Has no effect on the iPhone 3G</key>
+	<string>Не работает на iPhone 3G</string>
+	<key>Intensity</key>
+	<string>Интенсивность</string>
+	<key>Key Pressed</key>
+	<string>Касанию клавиши</string>
+	<key>Key Released</key>
+	<string>Отпусканию клавиши</string>
+	<key>Key Repeated</key>
+	<string>Повторному касанию</string>
+	<key>Keyboard</key>
+	<string>Клавиатура</string>
+	<key>Only Special Keys</key>
+	<string>Только спец. клавиши</string>
+	<key>Reset</key>
+	<string>Сбросить</string>
+	<key>Reset to Defaults</key>
+	<string>Сброс (перевод Victor Ryabov)</string>
+	<key>Ringer Switch</key>
+	<string>Переключатель</string>
+	<key>Table Cells</key>
+	<string>Ячейки таблиц</string>
+	<key>Test Keyboard</key>
+	<string>Тест клавиатуры</string>
+	<key>Trigger Controls</key>
+	<string>Срабатывать на</string>
+	<key>Trigger Events</key>
+	<string>Срабатывать по</string>
+	<key>Trigger In Ring</key>
+	<string>В Обычном</string>
+	<key>Trigger In Silent</key>
+	<string>В Беззвучном</string>
+	<key>Web Links</key>
+	<string>Ссылки</string>
+</dict>
+</plist>
