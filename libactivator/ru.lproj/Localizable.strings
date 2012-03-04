@@ -150,7 +150,11 @@
 "LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Показать окно Сейчас играет";
 "LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "Следующая песня";
 "LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "Предыдущая песня";
-"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Управление проигрыванием";
+"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Управление воспроизведением";
+"LISTENER_TITLE_libactivator.ipod.pause-playback" = "Пауза";
+"LISTENER_DESCRIPTION_libactivator.ipod.pause-playback" = "Приостанавливает воспроизведение";
+"LISTENER_TITLE_libactivator.ipod.start-playback" = "Играть";
+"LISTENER_DESCRIPTION_libactivator.ipod.start-playback" = "Продолжает воспроизведение";
 "LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Разблокировать";
 "LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "Заблокировать";
 "LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Заблокировать/Разблокировать";
