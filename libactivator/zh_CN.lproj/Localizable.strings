@@ -347,6 +347,12 @@
 	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "播放/暂停";
 	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "播放或暂停 iPod";
 
+	"LISTENER_TITLE_libactivator.ipod.pause-playback" = "暂停";
+	"LISTENER_DESCRIPTION_libactivator.ipod.pause-playback" = "暂停 iPod 播放";
+
+	"LISTENER_TITLE_libactivator.ipod.start-playback" = "播放";
+	"LISTENER_DESCRIPTION_libactivator.ipod.start-playback" = "继续 iPod 播放";
+
 	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "解锁屏幕";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "解除屏幕锁定";
 
