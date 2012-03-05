@@ -208,6 +208,10 @@
 "LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Активировать Голос. упр.";
 "LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Запустить редактор твита";
 "LISTENER_DESCRIPTION_toggle" = "Вкл/Выкл переключатель";
+"EVENT_TITLE_libactivator.headset.connected" = "Подкл. гарнитуры";
+"EVENT_DESCRIPTION_libactivator.headset.connected" = "При подключении гарнитуры";	
+"EVENT_TITLE_libactivator.headset.disconnected" = "Откл. гарнитуры";
+"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "При отключении гарнитуры";	
 "LISTENER_GROUP_TITLE_Audio" = "Музыка";
 "LISTENER_GROUP_TITLE_iPod" = "iPod";
 "LISTENER_GROUP_TITLE_Lock Screen" = "Экран блокировки";
@@ -218,6 +222,7 @@
 "LISTENER_GROUP_TITLE_System Actions" = "Системные действия";
 "LISTENER_GROUP_TITLE_System Applications" = "Системные";
 "LISTENER_GROUP_TITLE_User Applications" = "Установленные";
+"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
 "LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "Автоскролл вниз";
 "LISTENER_TITLE_com.rpetrich.superscroller.autoup" = "Автоскролл вверх";
 "LISTENER_TITLE_com.rpetrich.superscroller.down" = "Вниз";
