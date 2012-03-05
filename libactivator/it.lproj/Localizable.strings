@@ -249,6 +249,12 @@
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Pressione breve";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Mantenere premuto il pulsante auricolare";	
 
+	"EVENT_TITLE_libactivator.headset.connected" = "Connesso";
+	"EVENT_DESCRIPTION_libactivator.headset.connected" = "Auricolare collegato al dispositivo";	
+
+	"EVENT_TITLE_libactivator.headset.disconnected" = "Disconnesso";
+	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "Auricolare scollegato dal dispositivo";
+
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Doppia pressione orologio";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Premere due volte sulla zona ora/data";
 
@@ -270,6 +276,7 @@
 	"LISTENER_GROUP_TITLE_Power" = "Alimentazione";
 	"LISTENER_GROUP_TITLE_Audio" = "Audio";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
+	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
 
 	/* Listener Names */
 
@@ -338,6 +345,12 @@
 
 	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Play/Pausa";
 	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Alterna l'esecuzione iPod";
+
+	"LISTENER_TITLE_libactivator.ipod.pause-playback" = "Pausa";
+	"LISTENER_DESCRIPTION_libactivator.ipod.pause-playback" = "Sospende l'esecuzione iPod";
+
+	"LISTENER_TITLE_libactivator.ipod.start-playback" = "Play";
+	"LISTENER_DESCRIPTION_libactivator.ipod.start-playback" = "Riprende l'esecuzione iPod";
 
 	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Sblocca dispositivo";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Disattiva la lockscreen";
