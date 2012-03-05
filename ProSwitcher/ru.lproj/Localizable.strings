@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT_COPYRIGHT</key>
+	<string>ProSwitcher © 2009-2010. 
+Ryan Petrich соместно с Grant Paul. Перевод: Victor Ryabov.
+Лицензировано GNU LGPL.</string>
+	<key>ACTIVATION_METHODS</key>
+	<string>Методы активации</string>
+	<key>BACKGROUND_STYLE</key>
+	<string>Стиль фона</string>
+	<key>BACKGROUND_STYLE_IMAGE</key>
+	<string>Тема</string>
+	<key>BACKGROUND_STYLE_NONE</key>
+	<string>Прозрачный</string>
+	<key>BECOME_HOME_SCREEN</key>
+	<string>Заменить экран "Домой"</string>
+	<key>BECOME_HOME_SCREEN_BACKGROUND</key>
+	<string>Фон</string>
+	<key>BECOME_HOME_SCREEN_DISABLED</key>
+	<string>Выключено</string>
+	<key>BECOME_HOME_SCREEN_ENABLED</key>
+	<string>Включено</string>
+	<key>DIM_BACKGROUND</key>
+	<string>Затемнять фон</string>
+	<key>DISPLAY_GROUP</key>
+	<string>Внешний вид</string>
+	<key>EMPTY_STYLE</key>
+	<string>Пустой стиль</string>
+	<key>EMPTY_STYLE_BLANK</key>
+	<string>Прозрачный</string>
+	<key>EMPTY_STYLE_DISABLED</key>
+	<string>Выключено</string>
+	<key>EMPTY_STYLE_TEXT</key>
+	<string>Текст</string>
+	<key>EMPTY_TAP_TO_CLOSE</key>
+	<string>Коснуться пустого места для закрытия</string>
+	<key>NO_APPS_RUNNING</key>
+	<string>Нет запущенных прил.</string>
+	<key>PROSWITCHER</key>
+	<string>ProSwitcher</string>
+	<key>ROUNDED_CORNERS</key>
+	<string>Закругл. углы</string>
+	<key>ROUNDED_CORNERS_LARGE</key>
+	<string>Сильно</string>
+	<key>ROUNDED_CORNERS_MEDIUM</key>
+	<string>Средне</string>
+	<key>ROUNDED_CORNERS_NONE</key>
+	<string>Нет</string>
+	<key>ROUNDED_CORNERS_SMALL</key>
+	<string>Немного</string>
+	<key>SHOW_APPLICATION_TITLE</key>
+	<string>Название прил.</string>
+	<key>SHOW_BADGES</key>
+	<string>Наклейки</string>
+	<key>SHOW_CLOSE_BUTTON</key>
+	<string>Кнопка "Закрыть"</string>
+	<key>SHOW_DEFAULT_APPS</key>
+	<string>Стандартные прил.</string>
+	<key>SHOW_DOCK</key>
+	<string>Док</string>
+	<key>SHOW_ICON</key>
+	<string>Иконки</string>
+	<key>SHOW_PAGE_CONTROL</key>
+	<string>Маркеры страниц</string>
+	<key>SHOW_SPRINGBOARD_CARD</key>
+	<string>Экран "Домой"</string>
+	<key>SNAPSHOT_INSET</key>
+	<string>Видимые миниатюры</string>
+	<key>SNAPSHOT_INSET_0</key>
+	<string>1</string>
+	<key>SNAPSHOT_INSET_40</key>
+	<string>3</string>
+	<key>SWIPE_TO_CLOSE</key>
+	<string>Провести для закрытия</string>
+	<key>TAPS_TO_ACTIVATE</key>
+	<string>Касаний для переключ.</string>
+	<key>TAPS_TO_ACTIVATE_DOUBLE</key>
+	<string>2</string>
+	<key>TAPS_TO_ACTIVATE_SINGLE</key>
+	<string>1</string>
+	<key>THEMED_ICONS</key>
+	<string>Менять иконки темой</string>
+	<key>THEMING_GROUP</key>
+	<string>Графика</string>
+	<key>WELCOME_CONTINUE_BUTTON</key>
+	<string>Продолжить</string>
+	<key>WELCOME_MESSAGE</key>
+	<string>Для изменения настроек и установки жестов зайдите в приложение "Настройки".
+
+ProSwitcher © 2009-2010. 
+Ryan Petrich соместно с Grant Paul. Перевод: Victor Ryabov.
+Лицензировано GNU LGPL.</string>
+	<key>WELCOME_TITLE</key>
+	<string>Добро пожаловать в ProSwitcher!</string>
+	<key>ZOOM_ACTIVE_CARD</key>
+	<string>Приближать активное</string>
+</dict>
+</plist>
