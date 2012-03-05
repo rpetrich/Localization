@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>(None)</key>
+	<string>(Нет)</string>
+	<key>(none)</key>
+	<string>(нет)</string>
+	<key>Add Correction...</key>
+	<string>Добавить правило...</string>
+	<key>Add To Dictionary</key>
+	<string>Добавить в словарь</string>
+	<key>Add...</key>
+	<string>Добавить…</string>
+	<key>Are you sure you wish to clear your user dictionary?</key>
+	<string>Вы уверены, что хотите очистить словарь?</string>
+	<key>Autocorrections</key>
+	<string>Автокоррекция</string>
+	<key>Cancel</key>
+	<string>Отмена</string>
+	<key>Clear</key>
+	<string>Очистить</string>
+	<key>Clear User Dictionary</key>
+	<string>Очистить словарь</string>
+	<key>Correct</key>
+	<string>Исправить</string>
+	<key>Correction</key>
+	<string>Исправление</string>
+	<key>Create</key>
+	<string>Создать</string>
+	<key>Dashed Underline</key>
+	<string>Пунктирное подч.</string>
+	<key>Delete Correction</key>
+	<string>Удалить исправление</string>
+	<key>Enabled</key>
+	<string>Включено</string>
+	<key>Enter the new autocorrection details</key>
+	<string>Введите данные правила</string>
+	<key>Enter the updated autocorrection details</key>
+	<string>Внесите изменения в правило</string>
+	<key>Input</key>
+	<string>Ввод</string>
+	<key>Input Text Is Blank</key>
+	<string>Поле ввода не заполнено.</string>
+	<key>Input text may contain only numbers and letters</key>
+	<string>Текст должен состоять из букв и цифр.</string>
+	<key>Input text must be entered to create an autocorrect rule</key>
+	<string>Для создания правила должен быть введен текст.</string>
+	<key>Invalid Characters</key>
+	<string>Недопустимые символы</string>
+	<key>Language</key>
+	<string>Язык</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Output</key>
+	<string>Вывод</string>
+	<key>Output Text Is Blank</key>
+	<string>Поле вывода не заполнено.</string>
+	<key>Output text must be entered to create an autocorrect rule</key>
+	<string>Для создания правила должен быть введен текст замены.</string>
+	<key>Save</key>
+	<string>Сохр.</string>
+	<key>Secondary</key>
+	<string>Второстеп.</string>
+	<key>Shaded Box</key>
+	<string>Затемн. поле</string>
+	<key>Solid Underline</key>
+	<string>Сплошное подч.</string>
+	<key>Squiggly Underline</key>
+	<string>Волнистое подч.</string>
+	<key>Style</key>
+	<string>Стиль</string>
+	<key>Tap to Edit</key>
+	<string>Коснитесь для ред.</string>
+	<key>Use Heuristics</key>
+	<string>Эврист. анализ</string>
+	<key>Visit</key>
+	<string>Сайт (перевод Victor Ryabov)</string>
+</dict>
+</plist>
