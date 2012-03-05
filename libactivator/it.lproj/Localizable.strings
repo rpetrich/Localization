@@ -109,7 +109,7 @@
 	"EVENT_GROUP_TITLE_Home Button" = "Pulsante home";
 	"EVENT_GROUP_TITLE_Sleep Button" = "Pulsante power";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "Pulsanti volume";
-	"EVENT_GROUP_TITLE_Headset Button" = "Pulsanti auricolari";
+	"EVENT_GROUP_TITLE_Headset" = "Auricolari con cavo";
 	"EVENT_GROUP_TITLE_Lock Screen" = "Lockscreen";
 	"EVENT_GROUP_TITLE_Power" = "Alimentazione";
 	"EVENT_GROUP_TITLE_Audio" = "Audio";
