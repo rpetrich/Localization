@@ -1,74 +1,162 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>ACTIVATION_METHODS</key>
-	<string>Методы активации</string>
-	<key>ANIMATED</key>
-	<string>Анимация</string>
-	<key>AUTO</key>
-	<string>Авто</string>
-	<key>BACKGROUND_STYLE</key>
-	<string>Фон</string>
-	<key>BADGE_STYLE</key>
-	<string>Наклейки</string>
-	<key>BADGE_STYLE_HIDDEN</key>
-	<string>Спрятать</string>
-	<key>BADGE_STYLE_ON_BOTH</key>
-	<string>Везде</string>
-	<key>BADGE_STYLE_ON_ICONS</key>
-	<string>На иконках</string>
-	<key>BADGE_STYLE_ON_PAGES</key>
-	<string>На страницах</string>
-	<key>CANCEL</key>
-	<string>Отмена</string>
-	<key>CLEAR_ICON_CACHE</key>
-	<string>Очистка (перевод Victor Ryabov)</string>
-	<key>CLEAR_ICON_CACHE_QUESTION</key>
-	<string>Очистить кэш?</string>
-	<key>COLUMNS</key>
-	<string>Колонок</string>
-	<key>CONTINUE</key>
-	<string>Продолжить</string>
-	<key>DOCK</key>
-	<string>Док</string>
-	<key>DOUBLE_HOME_BUTTON</key>
-	<string>Дважды нажать "Домой"</string>
-	<key>FIVE</key>
-	<string>5</string>
-	<key>FOUR</key>
-	<string>4</string>
-	<key>HOME_BUTTON</key>
-	<string>Кнопка "Домой"</string>
-	<key>ONE</key>
-	<string>1</string>
-	<key>PLAY_SOUNDS</key>
-	<string>Звуки</string>
-	<key>REVERSE_ORDER</key>
-	<string>Обратный порядок</string>
-	<key>SEARCH_PAGE</key>
-	<string>Поиск Spotlight</string>
-	<key>SHOW_AS_HOME_SCREEN</key>
-	<string>Стать экраном "Домой"</string>
-	<key>SPRINGBOARD_ICON</key>
-	<string>Иконка</string>
-	<key>SPRINGBOARD_PINCH</key>
-	<string>Свести иконки</string>
-	<key>SPRINGBOARD_SPREAD</key>
-	<string>Развести иконки</string>
-	<key>SYSTEM_WALLPAPER</key>
-	<string>Системные обои</string>
-	<key>THEME</key>
-	<string>Тема</string>
-	<key>THEME_BACKGROUND</key>
-	<string>Фон темы</string>
-	<key>THREE</key>
-	<string>3</string>
-	<key>TWO</key>
-	<string>2</string>
-	<key>VISIBLE_ELEMENTS</key>
-	<string>Видимые элементы</string>
-	<key>WALLPAPER</key>
-	<string>Обои</string>
-</dict>
-</plist>
+{
+	"Display Recorder" = "Display Recorder";
+
+	"DisplayRecorder on %@" = "DisplayRecorder на %@";
+
+	"Start recording display?" = "Начать запись?";
+	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "Начать запись?\n\Методы активации настраиваются в приложении "Настройки".";
+	"Cancel" = "Отмена";
+	"Record" = "Запись";
+
+	"Recording errored:\n%@\n(Error Code: %i)" = "Произошла ошибка:\n%@\n(Код ошибки: %i)";
+	"Recording errored:\n%@" = "Ошибка записи:\n%@";
+	"Recording completed!" = "Запись завершена!";
+	"OK" = "OK";
+
+	"Display cannot be recorded while uploading to YouTube." = "Невозможно записывать во время выгрузки на YouTube.";
+
+	"Unable to load framebuffer surface" = "Ошибка записи в буфер кадров";
+	"Error creating writer: %@" = "Ошибка записи: %@";
+	"Unable to start writing" = "Ошибка начала записи";
+	"Interrupted by another app using the audio/video codec hardware." = "Прервано приложением, использующим видео/аудио кодек.";
+	"Failed to write pixel buffer" = "Ошибка записи в буфер";
+	"Unable to open output file at path %@" = "Невозможно создать файл %@";
+
+	"Toggle Recording" = "Переключить Запись";
+	"Toggle Web Interface" = "Переключить Веб-интерфейс";
+
+	"Begin/end screen recording" = "Начать/Остановить запись";
+	"Enable/disable web interface" = "Вкл/Выкл веб-интерфейс";
+
+	"Upload Details" = "Детали";
+	"Upload" = "Выгрузить";
+	"Cancel Upload" = "Отменить выгрузку";
+
+	"YouTube Terms" = "Условия YouTube";
+	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "Нажимая "Выгрузить", Вы соглашаетесь с правилами пользования программой и YouTube.";
+	"Show Terms" = "Показать Условия";
+
+	"Title" = "Название";
+	"Description" = "Описание";
+	"Category" = "Категория";
+	"Public Video" = "Публикация";
+
+	"Film & Animation" = "Film & Animation";
+	"Autos & Vehicles" = "Autos & Vehicles";
+	"Music" = "Music";
+	"Pets & Animals" = "Pets & Animals";
+	"Sports" = "Sports";
+	"Travel & Events" = "Travel & Events";
+	"Gaming" = "Gaming";
+	"Comedy" = "Comedy";
+	"People & Blogs" = "People & Blogs";
+	"News & Politics" = "News & Politics";
+	"Entertainment" = "Entertainment";
+	"Education" = "Education";
+	"Howto & Style" = "Howto & Style";
+	"Nonprofits & Activism" = "Nonprofits & Activism";
+	"Science & Technology" = "Science & Technology";
+	"Movies" = "Movies";
+
+	"YouTube Login Missing" = "Не заполнен аккаунт YouTube";
+	"Fill in your login details via the Display Recorder pane in the Settings application." = "Заполните данные аккаунта в приложении "Настройки" во вкладке "Display Recorder".";
+	"Oversize Video" = "Слишком большое видеo";
+	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "Иногда YouTube не принимает видео высокого разрешения с мобильных устройств.\nСкопируйте видео на компьютер и выгрузите через сайт YouTube.";
+	"Continue" = "Продолжить";
+
+	"Title is empty" = "Название не заполнено";
+	"YouTube requires that all videos have a title." = "YouTube требует названия для видео.";
+	"Description is empty" = "Описание не заполнено";
+	"YouTube requires that all videos have a description." = "YouTube требует описания к видео.";
+
+	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "Выгрузка невозможна, так как данные Вашего аккаунта были отвергнуты сервером. Зайдите в приложение "Настройки" и введите их повторно.\nЕсли Вы входите через аккаунт Google, убедитесь, что он связан с аккаунтом YouTube.";
+	"Upload failed with error:\n" = "Ошибка выгрузки:\n";
+	"Upload completed successfully\nYouTube link is on the pasteboard" = "Выгрузка прошла успешно\nСсылка на YouTube в буфере обмена";
+
+	"Help" = "Помощь";
+	"Enable" = "Включено";
+	"Disable" = "Выключено";
+
+	"Not connected to Wi-Fi" = "Нет соединения с Wi-Fi";
+	"Web server disabled" = "Веб-сервер выключен";
+
+	"Saving to Camera Roll…" = "Добавление в Фотопленку…";
+	"Save Failed!" = "Не удалось добавить!";
+	"Unable to save video to camera roll." = "Не удалось добавить запись в Фотопленку.";
+
+	"Recording…" = "Идет запись…";
+	"Stop Recording" = "Остановить запись";
+
+	"1 day" = "1 день";
+	"%u days" = "%u дн";
+	"1 hr" = "1 час";
+	"1 hour" = "1 час";
+	"%u hrs" = "%u час";
+	"%u hours" = "%u час";
+	"1 min" = "1 мин";
+	"1 minute" = "1 минута";
+	"%u mins" = "%u мин";
+	"%u minutes" = "%u мин";
+	"1 sec" = "1 сек";
+	"1 second" = "1 секунда";
+	"%u secs" = "%u сек";
+	"%u seconds" = "%u сек";
+	" " = " ";
+
+	"%llu GB" = "%llu GB";
+	"%llu MB" = "%llu MB";
+	"%llu KB" = "%llu KB";
+	"%llu bytes" = "%llu b";
+
+	"Recordings" = "Записи";
+
+	"Delete Recording" = "Удалить запись";
+	"Upload to YouTube" = "Выгрузить на YouTube";
+	"Play Video" = "Смотреть видео";
+	"Add to Camera Roll" = "Добавить в Фотопленку";
+
+	"Activation Methods" = "Методы активации";
+	"Always" = "Всегда";
+	"Cancel" = "Отмена";
+	"Continue" = "Продолжить";
+	"Display Recorder" = "Display Recorder";
+	"For best performance, select the native device orientation" = "Для лучшего результата используйте стандартную ориентацию устройства.";
+	"For best results, use the Google login that is linked to your YouTube account" = "Для лучшего результата используйте аккаунт Google, связанный с аккаунтом YouTube.";
+	"Framerate" = "Кадров/сек";
+	"Full" = "Полный";
+	"Grayscale" = "Черно-белый";
+	"H.264/MOV (experimental)" = "H.264/MOV (нестабильн.)";
+	"H.264/MOV" = "H.264/MOV";
+	"H.264/MOV with Mic Audio" = "H.264/MOV с микр. аудио";
+	"H.264" = "H.264";
+	"H.264 + Mic" = "H.264 + микр.";
+	"Half" = "Половин.";
+	"Half-scale is not supported when OpenGL capture is enabled" = "Запись в половинном масштабе невозможна, при включенном OpenGL";
+	"Hidden" = "Прятать";
+	"High" = "Высокое";
+	"Landscape Left" = "Горизонтальная (Лево)";
+	"Landscape Right" = "Горизонтальная (Право)";
+	"Large" = "Большой";
+	"Lock Framerate" = "Блок кадр/сек";
+	"Low" = "Низкое";
+	"Medium" = "Средн.";
+	"MJPEG/AVI (stable)" = "MJPEG/AVI (стабильн.)";
+	"Open in Safari" = "Открыть в Safari";
+	"OpenGL capture" = "Захват OpenGL";
+	"Password" = "Пароль";
+	"Portrait" = "Вертиеальная";
+	"Record Audio" = "Запись аудио";
+	"Rotation" = "Переворот";
+	"Scale" = "Масштаб";
+	"Show Taps" = "Касания";
+	"Small" = "Маленький";
+	"Tap Size" = "Размер касаний";
+	"Upside Down" = "Перевернуть";
+	"User's Guide" = "О записи (перевод Victor Ryabov)";
+	"Video Format" = "Формат";
+	"Video Quality" = "Качество";
+	"Web Server" = "Веб-сервер";
+	"When Recording" = "При записи";
+	"YouTube Account" = "Аккаунт YouTube";
+	"YouTube or Google Account" = "Аккаунт YouTube или Google";
+}
