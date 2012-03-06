@@ -70,8 +70,8 @@
 	"YouTube requires that all videos have a description." = "YouTube 要求所有影片必須有描述。";
 
 	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "因驗證資訊錯誤導致上載失敗。前往設定程式重新輸入登入資訊。\n如果您是以 Google 帳戶登入，請確保該帳戶已同 YouTube 用戶名綁定。";
-	"Upload failed with error:\n" = "上傳失敗：\n";
-	"Upload completed successfully\nYouTube link is on the pasteboard" = "上傳成功！\nYouTube 地址已被複製到剪貼板。";
+	"Upload failed with error:\n" = "上載失敗：\n";
+	"Upload completed successfully\nYouTube link is on the pasteboard" = "上載成功！\nYouTube 地址已被複製到剪貼板。";
 	
 	"Help" = "幫助";
 	"Enable" = "啟用";
@@ -111,7 +111,7 @@
 	"Recordings" = "錄製檔";
 	
 	"Delete Recording" = "刪除錄製檔";
-	"Upload to YouTube" = "上傳到 YouTube";
+	"Upload to YouTube" = "上載到 YouTube";
 	"Play Video" = "播放影片";
 	"Add to Camera Roll" = "添加到相機膠捲";
 
