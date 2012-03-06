@@ -28,12 +28,12 @@
 	"Begin/end screen recording" = "開始/結束錄製螢幕";
 	"Enable/disable web interface" = "啟用/禁用網頁介面";
 	
-	"Upload Details" = "上傳詳情";
-	"Upload" = "上傳";
-	"Cancel Upload" = "取消上傳";
+	"Upload Details" = "上載詳情";
+	"Upload" = "上載";
+	"Cancel Upload" = "取消上載";
 	
 	"YouTube Terms" = "YouTube 條款";
-	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "點擊“上傳”代表您保證您擁有內容的全部版權，或您被內容擁有者授權在 Youtube 上公開發佈此內容，並在其它方面亦遵守 Youtube 服務條款。";
+	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "點擊“上載”代表您保證您擁有內容的全部版權，或您被內容擁有者授權在 Youtube 上公開發佈此內容，並在其它方面亦遵守 Youtube 服務條款。";
 	"Show Terms" = "顯示條款";
 
 	"Title" = "標題";
@@ -69,7 +69,7 @@
 	"Description is empty" = "描述為空";
 	"YouTube requires that all videos have a description." = "YouTube 要求所有影片必須有描述。";
 
-	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "因驗證資訊錯誤導致上傳失敗。前往設定程式重新輸入登入資訊。\n如果您是以 Google 帳戶登入，請確保該帳戶已同 YouTube 用戶名綁定。";
+	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "因驗證資訊錯誤導致上載失敗。前往設定程式重新輸入登入資訊。\n如果您是以 Google 帳戶登入，請確保該帳戶已同 YouTube 用戶名綁定。";
 	"Upload failed with error:\n" = "上傳失敗：\n";
 	"Upload completed successfully\nYouTube link is on the pasteboard" = "上傳成功！\nYouTube 地址已被複製到剪貼板。";
 	
@@ -127,7 +127,7 @@
 	"Grayscale" = "灰度";
 	"H.264/MOV (experimental)" = "H.264/MOV（試驗）";
 	"H.264/MOV" = "H.264/MOV";
-	"H.264/MOV with Mic Audio" = "H.264/MOV及 及話筒聲音";
+	"H.264/MOV with Mic Audio" = "H.264/MOV 及話筒聲音";
 	"H.264" = "H.264";
 	"H.264 + Mic" = "H.264 + 話筒";
 	"Half" = "一半";
@@ -153,9 +153,9 @@
 	"Tap Size" = "按鈕大小";
 	"Upside Down" = "倒轉";
 	"User's Guide" = "用戶手冊";
-	"Video Format" = "視訊格式";
-	"Video Quality" = "視訊品質";
-	"Web Server" = "網路服務器";
+	"Video Format" = "影片格式";
+	"Video Quality" = "影片品質";
+	"Web Server" = "網路伺服器";
 	"When Recording" = "錄製時";
 	"YouTube Account" = "YouTube 帳戶";
 	"YouTube or Google Account" = "YouTube 或 Google 帳戶";
