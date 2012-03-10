@@ -153,8 +153,20 @@
 	"EVENT_TITLE_libactivator.slide-in.left" = "From Screen Left";
 	"EVENT_DESCRIPTION_libactivator.slide-in.left" = "Drag onto screen from left";
 	
+	"EVENT_TITLE_libactivator.slide-in.left-top" = "From Screen Left-Top";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left-top" = "Drag onto screen from left-top";
+	
+	"EVENT_TITLE_libactivator.slide-in.left-bottom" = "From Screen Left-Bottom";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left-bottom" = "Drag onto screen from left-bottom";
+	
 	"EVENT_TITLE_libactivator.slide-in.right" = "From Screen Right";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "Drag onto screen from right";
+	
+	"EVENT_TITLE_libactivator.slide-in.right-top" = "From Screen Right-Top";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right-top" = "Drag onto screen from right-top";
+	
+	"EVENT_TITLE_libactivator.slide-in.right-bottom" = "From Screen Right-Bottom";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right-bottom" = "Drag onto screen from right-bottom";
 	
 	"EVENT_TITLE_libactivator.slide-in.bottom" = "From Screen Bottom";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Drag onto screen from below";
@@ -186,8 +198,20 @@
 	"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "From Screen Left";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "Drag onto screen from left";
 	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left-top" = "From Screen Left-Top";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-top" = "Drag onto screen from left-top";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left-bottom" = "From Screen Left-Bottom";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-bottom" = "Drag onto screen from left-bottom";
+	
 	"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "From Screen Right";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "Drag onto screen from right";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right-top" = "From Screen Right-Top";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-top" = "Drag onto screen from right-top";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom" = "From Screen Right-Bottom";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "Drag onto screen from right-bottom";
 	
 	"EVENT_TITLE_libactivator.springboard.pinch" = "Icon Pinch";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Pinch springboard icons with 2 fingers";
