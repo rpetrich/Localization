@@ -182,10 +182,10 @@
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "由螢幕底部向上拖動";
 
 	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "從螢幕下左";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "由螢幕左下向中心拖動";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "由螢幕下左向中心拖動";
 
 	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "從螢幕下右";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "由螢幕右下向中心拖動";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "由螢幕下右向中心拖動";
 
 	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "從螢幕頂部";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "由螢幕頂部狀態列向下拖動";
