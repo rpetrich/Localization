@@ -1,11 +1,11 @@
 {
 	"Display Recorder" = "Display Recorder";
 
-	"DisplayRecorder on %@" = "DisplayRecorder on %@";
+	"DisplayRecorder on %@" = "DisplayRecorder na %@";
 
 	"Start recording display?" = "Rozpocząć nagrywanie ekranu?";
 	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "Rozpocząć nagrywanie ekranu?\n\nGesty aktywacji mogą być skonfigurowane w ustawieniach.";
-	"Cancel" = "Anulu";
+	"Cancel" = "Anuluj";
 	"Record" = "Nagrywaj";
 
 	"Recording errored:\n%@\n(Error Code: %i)" = "Błąd nagrywania:\n%@\n(Kod Błędu: %i)";
@@ -13,7 +13,7 @@
 	"Recording completed!" = "Nagrywanie zakończone!";
 	"OK" = "OK";
 
-	"Display cannot be recorded while uploading to YouTube." = "Ekran nie może być nagrywany podczas uploadowania na YouTube.";
+	"Display cannot be recorded while uploading to YouTube." = "Ekran nie może być nagrywany podczas przesyłania na YouTube.";
 	
 	"Unable to load framebuffer surface" = "Nie można załadować powierzchni framebuffera";
 	"Error creating writer: %@" = "Błąd tworzenia zapisu: %@";
@@ -22,8 +22,8 @@
 	"Failed to write pixel buffer" = "Nie udało zapisać się bufora pixeli";
 	"Unable to open output file at path %@" = "Nie można otworzyć pliku wyjściowego z %@";
 	
-	"Toggle Recording" = "Przełącz Nagrywanie";
-	"Toggle Web Interface" = "Przełącz Interfejs Web";
+	"Toggle Recording" = "Nagrywanie";
+	"Toggle Web Interface" = "Interfejs Web";
 
 	"Begin/end screen recording" = "Rozpocznij/Zatrzymaj nagrywanie ekranu";
 	"Enable/disable web interface" = "Włącz/Wyłącz Interfejs Web";
