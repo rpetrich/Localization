@@ -141,53 +141,77 @@
 	"EVENT_TITLE_libactivator.motion.shake" = "Scuoti dispositivo";
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "Scuotere!";
 
-	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Dal bordo superiore";
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Bordo superiore";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Scorrere dal bordo superiore";
 
-	"EVENT_TITLE_libactivator.slide-in.top-left" = "Dal bordo superiore (sinistra)";
+	"EVENT_TITLE_libactivator.slide-in.top-left" = "Bordo superiore (sinistra)";
 	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "Scorrere dal bordo superiore sinistro";
 
-	"EVENT_TITLE_libactivator.slide-in.top-right" = "Dal bordo superiore (destra)";
+	"EVENT_TITLE_libactivator.slide-in.top-right" = "Bordo superiore (destra)";
 	"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "Scorrere dal bordo superiore destro";
 
-	"EVENT_TITLE_libactivator.slide-in.left" = "Dal bordo laterale (sinistra)";
+	"EVENT_TITLE_libactivator.slide-in.left" = "Bordo laterale (sinistra)";
 	"EVENT_DESCRIPTION_libactivator.slide-in.left" = "Scorrere dal bordo laterale sinistro";
 
-	"EVENT_TITLE_libactivator.slide-in.right" = "Dal bordo laterale (destra)";
+	"EVENT_TITLE_libactivator.slide-in.left-top" = "Bordo laterale (sinistra\superiore)";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left-top" = "Scorrere dal bordo laterale sinistro\superiore";
+
+	"EVENT_TITLE_libactivator.slide-in.left-bottom" = "Bordo laterale (sinistra\inferiore)";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left-bottom" = "Scorrere dal bordo laterale sinistro\inferiore";
+
+	"EVENT_TITLE_libactivator.slide-in.right" = "Bordo laterale (destra)";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "Scorrere dal bordo laterale destro";
 
-	"EVENT_TITLE_libactivator.slide-in.bottom" = "Dal bordo inferiore";
+	"EVENT_TITLE_libactivator.slide-in.right-top" = "Bordo laterale (destra\superiore)";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right-top" = "Scorrere dal bordo laterale destra\superiore";
+
+	"EVENT_TITLE_libactivator.slide-in.right-bottom" = "Bordo laterale (destra\inferiore)";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right-bottom" = "Scorrere dal bordo laterale destra\inferiore";
+
+	"EVENT_TITLE_libactivator.slide-in.bottom" = "Bordo inferiore";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Scorrere dal bordo inferiore";
 
-	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Dal bordo inferiore (sinistra)";
+	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Bordo inferiore (sinistra)";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Scorrere dal bordo inferiore sinistro";
 
-	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Dal bordo inferiore (destra)";
+	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Bordo inferiore (destra)";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Scorrere dal bordo inferiore destro";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "Dal bordo inferiore";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "Bordo inferiore";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "Scorrere dal bordo inferiore";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "Dal bordo inferiore (sinistra)";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "Bordo inferiore (sinistra)";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "Scorrere dal bordo inferiore sinistro";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "Dal bordo inferiore (destra)";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "Bordo inferiore (destra)";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "Scorrere dal bordo inferiore destro";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "Dal bordo superiore";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "Bordo superiore";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "Scorrere dal bordo superiore";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.top-left" = "Dal bordo superiore (sinistra)";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top-left" = "Bordo superiore (sinistra)";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "Scorrere dal bordo superiore sinistro";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "Dal bordo superiore (destra)";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "Bordo superiore (destra)";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "Scorrere dal bordo superiore destro";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "Dal bordo laterale (sinistra)";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "Bordo laterale (sinistra)";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "Scorrere dal bordo laterale sinistro";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "Dal bordo laterale (destra)";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left-top" = "Bordo laterale (sinistra\superiore)";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-top" = "Scorrere dal bordo laterale sinistra\superiore";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left-bottom" = "Bordo laterale (sinistra\inferiore)";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-bottom" = "Scorrere dal bordo laterale sinistra\inferiore";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "Bordo laterale (destra)";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "Scorrere dal bordo laterale destro";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right-top" = "Bordo laterale (destra\superiore)";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-top" = "Scorrere dal bordo laterale destra\superiore";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom" = "Bordo laterale (destra\inferiore)";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "Scorrere dal bordo laterale destra\inferiore";
 
 	"EVENT_TITLE_libactivator.springboard.pinch" = "Zoom icone (comprimi)";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Comprimere le icone con 2 dita";
