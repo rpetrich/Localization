@@ -217,6 +217,7 @@
 "LISTENER_GROUP_TITLE_Lock Screen" = "Экран блокировки";
 "LISTENER_GROUP_TITLE_Phone" = "Телефон";
 "LISTENER_GROUP_TITLE_Power" = "Питание";
+"LISTENER_GROUP_TITLE_Settings" = "Настройки";
 "LISTENER_GROUP_TITLE_SBSettings Toggles" = "Переключатели SBSettings";
 "LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 "LISTENER_GROUP_TITLE_System Actions" = "Системные действия";
