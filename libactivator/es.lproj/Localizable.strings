@@ -152,9 +152,21 @@
 	
 	"EVENT_TITLE_libactivator.slide-in.left" = "Desde la izquierda";
 	"EVENT_DESCRIPTION_libactivator.slide-in.left" = "Arrastra a la pantalla desde la izquierda";
+
+	"EVENT_TITLE_libactivator.slide-in.left-top" = "Desde la izquierda arriba";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left-top" = "Arrastra a la pantalla desde la izq-arriba";
+	
+	"EVENT_TITLE_libactivator.slide-in.left-bottom" = "Desde la izquierda abajo";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left-bottom" = "Arrastra a la pantalla desde la izq-abajo";
 	
 	"EVENT_TITLE_libactivator.slide-in.right" = "Desde la derecha";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "Arrastra a la pantalla desde la derecha";
+
+	"EVENT_TITLE_libactivator.slide-in.right-top" = "Desde la derecha arriba";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right-top" = "Arrastra a la pantalla desde la der-arriba";
+	
+	"EVENT_TITLE_libactivator.slide-in.right-bottom" = "Desde la derecha abajo";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right-bottom" = "Arrastra a la pantalla desde la der-abajo";
 
 	"EVENT_TITLE_libactivator.slide-in.bottom" = "Desde abajo";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Arrastra a la pantalla desde abajo";
@@ -185,9 +197,21 @@
 	
 	"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "Desde la izquierda";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "Arrastra a la pantalla desde la izquierda";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left-top" = "Desde la izquierda arriba";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-top" = "Arrastra a la pantalla desde la izq-arriba";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left-bottom" = "Desde la izquierda abajo";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-bottom" = "Arrastra a la pantalla desde la izq-abajo";
 	
 	"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "Desde la derecha";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "Arrastra a la pantalla desde la derecha";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right-top" = "Desde la derecha arriba";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-top" = "Arrastra a la pantalla desde la der-arriba";
+	
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom" = "Desde la derecha abajo";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "Arrastra a la pantalla desde la der-abajo";
 	
 	"EVENT_TITLE_libactivator.springboard.pinch" = "Pellizcar iconos";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Pellizca los iconos con dos dedos";
