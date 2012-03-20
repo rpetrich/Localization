@@ -24,17 +24,17 @@
 "1920x1200 (HDMI+iPad 2)" = "1920x1200 (HDMI+4S/iPad 2)";
 "1080p" = "1080p";
 
-"Scale" = "Scale";
+"Scale" = "Scale Portrait/Landscape";
 
-"Aspect Adjust" = "Aspect Adjust";
+"Aspect Adjust" = "Aspect Adjust Portrait/Landscape";
 "Preserve" = "Preserve";
 "16:10" = "16:10";
 "16:10 Display Stretch" = "16:10 Display Stretch";
 "16:9" = "16:9";
 "16:9 Display Stretch" = "16:9 Display Stretch";
 
-"Horizontal Offset" = "Horizontal Offset";
-"Vertical Offset" = "Vertical Offset";
+"Horizontal Offset" = "Horizontal Offset Portrait/Landscape";
+"Vertical Offset" = "Vertical Offset Portrait/Landscape";
 
 "Show Taps" = "Show Taps";
 "Never" = "Never";
