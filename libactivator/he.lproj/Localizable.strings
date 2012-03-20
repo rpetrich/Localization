@@ -301,7 +301,7 @@
 "LISTENER_TITLE_toggle_SSH" = "SSH";
 "LISTENER_TITLE_toggle_Syslog" = "Syslog";
 "LISTENER_TITLE_toggle_Wi-Fi" = "רשת-אלחוטית";
-"LOCALIZATION_ABOUT" = "תורגם ע\"י מעוז זוגרבו ואלי יעבץ \nhttp://cydia.co.il \n @elibyy , @zmaoz";
+"LOCALIZATION_ABOUT" = פותח ע"י המפתח הגדול rpetrich ";
 "MENU_TITLE" = "כותרת תפריט";
 "MENUS" = "תפריטים";
 "MENUS_DETAIL" = "התאם אישית את תפריטי Activator";
