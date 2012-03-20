@@ -73,6 +73,7 @@
 "Suppressing flicker may reduce performance or cause additional memory use in some games" = "Suppressing flicker may reduce performance or cause additional memory use in some games";
 "Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games";
 "Suppress Flicker" = "Suppress Flicker";
+"Allow On Lock Screen" = "Allow On Lock Screen"
 
 "Show On" = "Show On";
 "External Display" = "External Display";
