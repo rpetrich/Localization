@@ -183,8 +183,8 @@
 	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "从屏幕下左";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "由屏幕下左向中心拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "从屏幕右下";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "由屏幕右下向中心拖动";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "从屏幕下右";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "由屏幕下右向中心拖动";
 
 	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "从屏幕顶部";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "由屏幕顶部状态栏向下拖动";
@@ -210,8 +210,8 @@
 	"EVENT_TITLE_libactivator.two-finger-slide-in.right-top" = "从屏幕右上";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-top" = "由屏幕右上向中心拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom" = "从屏幕下右";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "由屏幕下右向中心拖动";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom" = "从屏幕右下";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "由屏幕右下向中心拖动";
 
 	"EVENT_TITLE_libactivator.springboard.pinch" = "合拢手指";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "在主屏幕合拢两只手指";
