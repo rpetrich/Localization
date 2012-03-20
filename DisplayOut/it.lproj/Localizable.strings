@@ -73,6 +73,7 @@
 "Suppressing flicker may reduce performance or cause additional memory use in some games" = "Sopprimere lo sfarfallio può causare una riduzione delle prestazioni o un uso addizionale di memoria in alcuni giochi";
 "Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "Sopprimere lo sfarfallio OpenGL può causare un uso maggiore della memoria o un comportamento imprevisto in alcuni giochi";
 "Suppress Flicker" = "Sopprimi sfarfallio";
+"Allow On Lock Screen" = "Permetti nella lockscreen";
 
 "Show On" = "Mostra su";
 "External Display" = "Display esterno";
