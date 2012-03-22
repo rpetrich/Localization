@@ -40,7 +40,7 @@ You may consider disabling Display Out temporarily.</key>
 	<key>Always</key>
 	<string>Всегда</string>
 	<key>Aspect Adjust</key>
-	<string>Настройка формата</string>
+	<string>Настройка формата (В/Г)</string>
 	<key>Big</key>
 	<string>Большой</string>
 	<key>Both Displays</key>
@@ -71,7 +71,7 @@ You may consider disabling Display Out temporarily.</key>
 	<key>High Quality</key>
 	<string>Высокое</string>
 	<key>Horizontal Offset</key>
-	<string>Горизонт. компенсация</string>
+	<string>Горизонт. компенсация (В/Г)</string>
 	<key>Huge</key>
 	<string>Огромный</string>
 	<key>Just Main Content</key>
@@ -109,7 +109,7 @@ You may consider disabling Display Out temporarily.</key>
 	<key>Render Quality</key>
 	<string>Качество</string>
 	<key>Scale</key>
-	<string>Масштаб</string>
+	<string>Масштаб (В/Г)</string>
 	<key>Show</key>
 	<string>Показывать</string>
 	<key>Show On</key>
@@ -139,6 +139,8 @@ You may consider disabling Display Out temporarily.</key>
 	<key>Upside-Down</key>
 	<string>Переворот</string>
 	<key>Vertical Offset</key>
-	<string>Вертик. компенсация</string>
+	<string>Вертик. компенсация (В/Г)</string>
+	<key>Allow On Lock Screen</key>
+	<string>На экр. блок.</string>
 </dict>
 </plist>
