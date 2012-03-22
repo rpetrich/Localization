@@ -73,6 +73,7 @@
 "Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "Desactivar el parpadeo OpenGL puede causar el uso de memoria adicional o un comportamiento inesperado en algunos juegos.";
 "Suppressing flicker may reduce performance or cause additional memory use in some games" = "Desactivar el parpadeo puede reducir el rendimiento o causar uso de memoria adicional en algunos juegos.";
 "Suppress Flicker" = "Desactivar parpadeo";
+"Allow On Lock Screen" = "Permitir pantalla bloqueo";
 
 "Show On" = "Mostrar en";
 "External Display" = "Pantalla externa";
