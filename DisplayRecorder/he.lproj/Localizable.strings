@@ -11,7 +11,9 @@
 	"Recording errored:\n%@\n(Error Code: %i)" = "שגיאת הקלטה:\n%@\n(קוד שגיאה: %i)";
 	"Recording errored:\n%@" = "שגיאת הקלטה:\n%@";
 	"Recording completed!" = "ההקלטה הושלמה!";
-	"OK" = "אוקיי";
+	"OK" = "בסדר";
+        "Delete" = "מחק";
+
 
 	"Display cannot be recorded while uploading to YouTube." = "לא ניתן להקליט את התצוגה בזמן העלאה אל YouTube.";
 	
@@ -114,9 +116,10 @@
 	"Upload to YouTube" = "העלה אל YouTube";
 	"Play Video" = "נגן וידאו";
 	"Add to Camera Roll" = "הוסף לסרט צילום";
-"Activation Methods" = "דרכי הפעלה";
+        "Activation Methods" = "דרכי הפעלה";
 	"Always" = "תמיד";
 	"Cancel" = "ביטול";
+        "Open in iFile" = "פתח באמצעות iFile";
 	"Continue" = "המשך";
 	"Display Recorder" = "Display Recorder";
 	"For best performance, select the native device orientation" = "לתוצאות גבוהות, נא בחר את האוריינטציה המקורית של המכשיר";
