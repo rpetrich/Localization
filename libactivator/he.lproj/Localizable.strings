@@ -211,7 +211,7 @@
 "LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "הצגת כפתורי שליטת המדיה הסטנדרטים";
 "LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "הדמיית לחיצה על כפתור הנעילה";
 "LISTENER_DESCRIPTION_libactivator.system.spotlight" = "הפעלת דף החיפוש של מסך הבית";
-"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "שמירת צילומסך לסרט צילום";
+"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "שמירת צילום מסך לסרט צילום";
 "LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "הפעלת סייעת וירטואלית";
 "LISTENER_DESCRIPTION_libactivator.system.voice-control" = "הפעלת שליטה קולית";
 "LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "טען את יוצר הציוצים";
@@ -287,7 +287,7 @@
 "LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "הצגת הבר המתנגן כעת";
 "LISTENER_TITLE_libactivator.system.sleepbutton" = "כפתור הנעילה";
 "LISTENER_TITLE_libactivator.system.spotlight" = "ספוט-לייט";
-"LISTENER_TITLE_libactivator.system.take-screenshot" = "בצע צילומסך";
+"LISTENER_TITLE_libactivator.system.take-screenshot" = "בצע צילום מסך";
 "LISTENER_TITLE_libactivator.system.virtual-assistant" = "סייעת וירטואלית";
 "LISTENER_TITLE_libactivator.system.voice-control" = "שליטה קולית";
 "LISTENER_TITLE_libactivator.twitter.compose-tweet" = "צור ציוץ";
