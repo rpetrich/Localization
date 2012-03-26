@@ -1,0 +1,47 @@
+{
+	"Correct" = "Correct";
+	"Add To Dictionary" = "Ajouter au dictionnaire";
+	"Cancel" = "Annuler";
+
+	"Enabled" = "Activé";
+	"Language" = "Language";
+	"Use Heuristics" = "Utiliser les Heuristiques";
+	"Clear User Dictionary" = "Effacer le dictionnaire d'utilisateur";
+
+	"OK" = "OK";
+	"Visit" = "Visiter";
+	
+	"Are you sure you wish to clear your user dictionary?" = "Êtes-vous sûr de vouloir effacer le dictionnaire d'utilisateur?";
+	"Clear" = "Clear";
+	
+	"Autocorrections" = "Autocorrections";
+	"Add Correction..." = "Ajouter une Correction...";
+	"Create" = "Créer";
+	"Enter the new autocorrection details" = "Enter the new autocorrection details";
+	"Input" = "Input";
+	"Output" = "Output";
+	"Tap to Edit" = "Clickez pour modifier";
+	"Correction" = "Correction";
+	"Save" = "Sauvegarder";
+	"Enter the updated autocorrection details" = "Entrer les détailes d'autocorrection modifiés.";
+	
+	"Input Text Is Blank" = "La saisie de teste est vide";
+	"Input text must be entered to create an autocorrect rule" = "La saisie de texte doit être entrée pour créer une règle d'autocorrection";
+	"Invalid Characters" = "Les Caractères sont invalides";
+	"Input text may contain only numbers and letters" = "La saisie de texte peut seulement contenir des lettres et des chiffres";
+	"Output Text Is Blank" = "Le texte de sortie est vide";
+	"Output text must be entered to create an autocorrect rule" = "La sortie de texte doit être entrée pour créer une règle d'autocorrection";
+	"Delete Correction" = "Effacer la Correction";
+	
+	"Style" = "Style";
+	"Squiggly Underline" = "Squiggly Souligné";
+	"Solid Underline" = "Solide Souligné";
+	"Dashed Underline" = "Dashed Souligné";
+	"Shaded Box" = "Shaded Box";
+	
+	"Secondary" = "Secondaire";
+	"(None)" = "(Rien)";
+	"(none)" = "(rien)";
+	
+	"Add..." = "Ajouter...";
+}
