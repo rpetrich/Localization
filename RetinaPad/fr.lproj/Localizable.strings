@@ -1,0 +1,32 @@
+{
+	RetinaPad = RetinaPad;
+
+	"Enabled Applications" = "Applications Activées";
+	"System Applications" = "Applications du Systeme Activées";
+	"User Applications" = "Applications de l'Utilisateur";
+	"Customize which applications Retina mode is applied to." = "Personnaliser les applications auxquelles le mode Retina est appliqué.";
+	
+	"Always Zoom" = "Toujours Zoomer";
+	"Allow Upside Down" = "Autoriser le mode à l'envers";
+	"Show Simulated Chrome" = "Montré le Chrome simulé";
+	"Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Les applications classiques qui sont présentement ouvertes doivent êtres fermer via la barre de multitâche.";
+	
+	"Portrait in Landscape" = "Portrait dans Paysage";
+	"This feature is in beta and is unsupported, for now." = "Pour l'instant, cette caractéristique est en beta et non pris en charge.";
+	
+	OK = OK;
+	Cancel = Annuler;
+	Apply = Appliquer;
+	
+	"To enter retina mode kill %@ via the multitasking switcher bar." = "Pour entrer dans le mode retina, tuer %@ via la barre de multitâche.";
+	"To exit retina mode kill %@ via the multitasking switcher bar." = "Pour sortir le mode retina, tuer %@ via la barre de multitâche.";
+	"this application" = "cette application";
+
+	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "Ceci est la première fois que cette application classique à été exécutée avec RetinaPad installé.\n\nVoulez-vous appliquer le mode retina?\n\nPlus d'options peuvent êtres trouvées dans les réglages de RetinaPad.";
+	
+	"System Information" = "Informations du Système";
+	Fake = Faux;
+	Nothing = Rien;
+	"Machine Name" = "Nom de la Machine";
+	"Machine and Hardware Name" = "Nom de la Machine et de l'hardware";
+}
