@@ -80,7 +80,8 @@
 "EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Нажать и держать верхнюю";
 "EVENT_DESCRIPTION_libactivator.volume.up.press" = "Нажать верхнюю кнопку громкости";
 "EVENT_GROUP_TITLE_Audio" = "Аудио";
-"EVENT_GROUP_TITLE_Headset Button" = "Гарнитура";
+"EVENT_GROUP_TITLE_Headset Button" = "Кнопка гарнитуры";
+"EVENT_GROUP_TITLE_Headset" = "Гарнитура";
 "EVENT_GROUP_TITLE_Home Button" = "Кнопка \"Домой\"";
 "EVENT_GROUP_TITLE_Lock Screen" = "Экран блокировки";
 "EVENT_GROUP_TITLE_Motion" = "Акселерометр";
