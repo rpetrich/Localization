@@ -51,7 +51,8 @@
 	SAFE_MODE_RESTART = "Restart";
 
 	ACTIVATOR_DISABLED = "Activator Wyłączony";
-	ACTIVATOR_DISABLED_MESSAGE = "Większość funkcji Activator'a są w tym momencie wyłączonych, ponieważ rozszerzenie Mobile Substrate nie działa. Jeśli twoje urządzenie jest w trybie awaryjnym "Safe Mode", zobaczysz \"Exit Safe Mode\" na górze ekranu. Możesz tapnąć \"Restart\" żeby powrócić do normalnego trybu.";
+
+	ACTIVATOR_DISABLED_MESSAGE = "Większość funkcji Activator'a są w tym momencie wyłączonych, ponieważ rozszerzenie Mobile Substrate nie działa. Jeśli twoje urządzenie jest w trybie awaryjnym \"Safe Mode\", zobaczysz \"Exit Safe Mode\" na górze ekranu. Możesz tapnąć \"Restart\" żeby powrócić do normalnego trybu.";
 
 	ACTIVATOR_CORRUPT = "Activator Uszkodzony";
 	ACTIVATOR_CORRUPT_MESSAGE = "Większość funkcji Activator'a są w tym momencie wyłączonych, ponieważ wewnętrzne pliki 	Activator'a są uszkodzone. Spróbuj iść do Cydii i przeinstaluj Activator'a.";
