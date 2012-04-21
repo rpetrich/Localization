@@ -373,8 +373,8 @@
 	"LISTENER_TITLE_libactivator.ipod.pause-playback" = "Pausa";
 	"LISTENER_DESCRIPTION_libactivator.ipod.pause-playback" = "Sospende l'esecuzione iPod";
 
-	"LISTENER_TITLE_libactivator.ipod.start-playback" = "Play";
-	"LISTENER_DESCRIPTION_libactivator.ipod.start-playback" = "Riprende l'esecuzione iPod";
+	"LISTENER_TITLE_libactivator.ipod.resume-playback" = "Play";
+	"LISTENER_DESCRIPTION_libactivator.ipod.resume-playback" = "Riprende l'esecuzione iPod";
 
 	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Sblocca dispositivo";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Disattiva la lockscreen";
