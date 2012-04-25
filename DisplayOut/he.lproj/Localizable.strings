@@ -36,7 +36,7 @@
 "Horizontal Offset" = "קיזוז אפקי";
 "Vertical Offset" = "קיזוז אנכי";
 
-"Show Taps" = "הצג נגיעות";
+"Show Taps" = "הצגת נגיעות";
 "Never" = "אף פעם";
 "Always" = "תמיד";
 "Skip Keyboard/OpenGL" = "דלג על מקלדת/OpenGL";
@@ -71,10 +71,13 @@
 
 "OpenGL" = "OpenGL";
 "Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "הסתרת הבהוב OpenGL עשוי לגרום לשימוש גבוה בזיכרון או לשגיאות במשחקים מסוימים";
+"Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "הסתרת הבהוב עשוייה לצרוך זכרון בכמות גבוהה או לגרום לשגיאות במשחקים מסוימים";
 "Suppress Flicker" = "הסתרת הבהוב";
+"Allow On Lock Screen" = "פעיל במסך הנעילה";
 
 "Show On" = "הצג ב";
 "External Display" = "תצוגה חיצונית";
+
 "Both Displays" = "שני התצוגות";
 "Render Quality" = "עיבוד איכות";
 "Low Quality" = "איכות נמוכה";
