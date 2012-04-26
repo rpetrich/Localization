@@ -349,3 +349,5 @@
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-top" = "2П:Провести от правой верхней части экрана к центру";	
 "EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom" = "2П:Низ экрана-Право";
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "2П:Провести от правой нижней части экрана к центру";
+"LISTENER_TITLE_libactivator.ipod.resume-playback" = "Воспроизвести";
+"LISTENER_DESCRIPTION_libactivator.ipod.resume-playback" = "Продолжить воспроизведение";
