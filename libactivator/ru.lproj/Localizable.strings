@@ -113,8 +113,8 @@
 "EVENT_TITLE_libactivator.slide-in.right" = "Экран-Право";
 "EVENT_TITLE_libactivator.slide-in.top-left" = "Экран-Лево Верх";
 "EVENT_TITLE_libactivator.slide-in.top-right" = "Экран-Право Верх";
-"EVENT_TITLE_libactivator.springboard.pinch" = "Развести";
-"EVENT_TITLE_libactivator.springboard.spread" = "Свести";
+"EVENT_TITLE_libactivator.springboard.pinch" = "Свести";
+"EVENT_TITLE_libactivator.springboard.spread" = "Развести";
 "EVENT_TITLE_libactivator.statusbar.hold" = "Держать";
 "EVENT_TITLE_libactivator.statusbar.swipe.down" = "Экран-Верх";
 "EVENT_TITLE_libactivator.statusbar.swipe.left" = "Влево";
