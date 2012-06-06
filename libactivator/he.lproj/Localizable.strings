@@ -367,3 +367,17 @@
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "החלקה מהפינה הימנית-תחתונה של המסך";
 "EVENT_TITLE_libactivator.springboard.pinch" = "צביטת אייקונים";  
 "EVENT_DESCRIPTION_libactivator.springboard.pinch" = "צביטת אייקוני הספרינגבורד ב2 אצבעות";
+"EVENT_TITLE_libactivator.menu.hold.long" = "לחיצה ארוכה";
+"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "לחיצה ארוכה על כפתור הבית";
+"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "לחיצה כפולה בשמאל";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "לחיצה כפולה על הצד השמאלי";
+"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "לחיצה כפולה בימין";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "לחיצה כפולה על הצד הימני";
+"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "לחיצה על הצד הימני";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "לחיצה בודדת על ימין הסטטוס-בר";
+"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "לחיצה על הצד השמאלי";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "לחיצה בודדת על שמאל הסטטוס-בר";
+"EVENT_TITLE_libactivator.statusbar.hold.left" = "לחיצה והחזקה על הצד השמאלי";
+"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "לחיצה והחזקה של שמאל הסטטוס-בר";
+"EVENT_TITLE_libactivator.statusbar.hold.right" = "לחיצה והחזקה על הצד הימני";
+"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "לחיצה והחזקה של ימין הסטטוס-בר";
