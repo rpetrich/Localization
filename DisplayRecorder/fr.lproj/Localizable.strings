@@ -130,7 +130,7 @@
 	"H.264/MOV with Mic Audio" = "H.264/MOV avec Audio Micro";
 	"H.264" = "H.264";
 	"H.264 + Mic" = "H.264 + Micro";
-	"Half" = "Demi";
+	"Half" = "Demie";
 	"Half-scale is not supported when OpenGL capture is enabled" = "La mi-échelle n'est pas supportée quand la capture OpenGL est activée";
 	"Hidden" = "Masqués";
 	"High" = "Haute";
