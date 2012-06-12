@@ -127,6 +127,9 @@
 	"EVENT_TITLE_libactivator.menu.hold.short" = "按住";
 	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "按住“主畫面”按鈕";
 
+	"EVENT_TITLE_libactivator.menu.hold.long" = "長按";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "長按“主畫面”按鈕";
+
 	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "在“主畫面”螢幕按一下";
 	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "在“主畫面”螢幕時按一下“主畫面”按鈕";
 
@@ -153,6 +156,24 @@
 
 	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "從螢幕頂部";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "由螢幕頂部狀態列向下拖動";
+
+	"EVENT_TITLE_libactivator.statusbar.hold.left" = "按住左側";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "按住狀態列左側區域";
+
+	"EVENT_TITLE_libactivator.statusbar.hold.right" = "按住右侧";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "按住狀態列右侧區域";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "按兩下左側";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "按兩下狀態列左側區域";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "按兩下右侧";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "按兩下狀態列右侧區域";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "按一下左側";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "按一下狀態列左側區域";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "按一下右侧";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "按一下狀態列右侧區域";
 
 	"EVENT_TITLE_libactivator.slide-in.top-left" = "從螢幕上左";
 	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "由螢幕上左向中心拖動";
@@ -605,7 +626,6 @@
 	"LISTENER_TITLE_com.app1enerd.secustomtext" = "滑桿增强";
 	"LISTENER_DESCRIPTION_com.app1enerd.secustomtext" = "設定自訂滑桿文字";
 	
-
 	"LISTENER_TITLE_libactivator.settings.about" = "關於本機";
 	"LISTENER_DESCRIPTION_libactivator.settings.about" = "打開設定的關於本機定頁面";
 
