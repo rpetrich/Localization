@@ -351,3 +351,17 @@
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "2П:Провести от правой нижней части экрана к центру";
 "LISTENER_TITLE_libactivator.ipod.resume-playback" = "Воспроизвести";
 "LISTENER_DESCRIPTION_libactivator.ipod.resume-playback" = "Продолжить воспроизведение";
+"EVENT_TITLE_libactivator.menu.hold.long" = "Длинное нажатие";
+"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Нажать и держать";
+"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Двойное касание слева";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Дважды коснуться слева";
+"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "Двойное касание справа";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "Дважды коснуться справа";
+"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "Коснуться справа";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "Один раз коснуться справа";
+"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "Коснуться слева";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "Один раз коснуться слева";
+"EVENT_TITLE_libactivator.statusbar.hold.left" = "Задержать слева";
+"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Нажать и держать слева";
+"EVENT_TITLE_libactivator.statusbar.hold.right" = "Задержать справа";
+"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Нажать и держать справа";
