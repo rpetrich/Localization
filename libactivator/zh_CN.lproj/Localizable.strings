@@ -126,6 +126,9 @@
 	"EVENT_TITLE_libactivator.menu.hold.short" = "按住";
 	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "按住主屏幕按钮";
 
+	"EVENT_TITLE_libactivator.menu.hold.long" = "长按";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "长按主屏幕按钮";
+
 	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "在主屏幕按一下";
 	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "在主屏幕时按一下主屏幕按钮";
 
@@ -233,6 +236,24 @@
 
 	"EVENT_TITLE_libactivator.statusbar.tap.single" = "按一下";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "按一下顶部状态栏";
+
+	"EVENT_TITLE_libactivator.statusbar.hold.left" = "按住左侧";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "按住状态栏左侧区域";
+
+	"EVENT_TITLE_libactivator.statusbar.hold.right" = "按住右侧";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "按住状态栏右侧区域";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "按两下左侧";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "按两下状态栏左侧区域";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "按两下右侧";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "按两下状态栏右侧区域";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "按一下左侧";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "按一下状态栏左侧区域";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "按一下右侧";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "按一下状态栏右侧区域";
 
 	"EVENT_TITLE_libactivator.volume.display-tap" = "点击音量显示窗口";
 	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "按一下音量按钮后点击屏幕中音量提示框";
@@ -603,8 +624,6 @@
 
 	"LISTENER_TITLE_com.app1enerd.secustomtext" = "滑块增强";
 	"LISTENER_DESCRIPTION_com.app1enerd.secustomtext" = "设置自定义滑块文字";
-
-
 
 	"LISTENER_TITLE_libactivator.settings.about" = "关于本机";
 	"LISTENER_DESCRIPTION_libactivator.settings.about" = "打开设置的关于本机页面";
