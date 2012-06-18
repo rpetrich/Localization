@@ -75,7 +75,7 @@
 	/* Menus */
 	
 	MENUS = "Menus";
-	MENUS_DETAIL = "Gére les menus personnalisés d’Activator";
+	MENUS_DETAIL = "Gérer les menus personnalisés d’Activator";
 	
 	ADD_NEW_MENU = "Ajouter un nouveau menu";
 	NEW_MENU = "Nouveau menu";
