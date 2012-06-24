@@ -40,4 +40,8 @@
 	SYSTEM_WALLPAPER = "System Wallpaper";
 	THEME = "Theme";
 	WALLPAPER = "Wallpaper";
+
+	PAGE_TITLES = "Page Titles";
+	SHOW_TITLES = "Show Titles";
+	TITLES = "Titles";
 }
