@@ -70,5 +70,11 @@
 	<string>Видимые элементы</string>
 	<key>WALLPAPER</key>
 	<string>Обои</string>
+	<key>PAGE_TITLES</key>
+	<string>Подписи страниц</string>
+	<key>SHOW_TITLES</key>
+	<string>Показать подписи</string>
+	<key>TITLES</key>
+	<string>Подписи</string>
 </dict>
 </plist>
