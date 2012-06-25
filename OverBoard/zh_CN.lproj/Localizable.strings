@@ -26,7 +26,7 @@
 	"BADGE_STYLE_ON_PAGES" = "页面上";
 	"BADGE_STYLE_ON_BOTH" = "两个上";
 
-	"PLAY_SOUNDS" = "播放声音";
+	"PLAY_SOUNDS" = "播放提示音";
 
 	"CLEAR_ICON_CACHE" = "清理图标缓存";
 	"CLEAR_ICON_CACHE_QUESTION" = "清理图标缓存？";
