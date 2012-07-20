@@ -352,7 +352,7 @@
 "LISTENER_TITLE_libactivator.ipod.resume-playback" = "Воспроизвести";
 "LISTENER_DESCRIPTION_libactivator.ipod.resume-playback" = "Продолжить воспроизведение";
 "EVENT_TITLE_libactivator.menu.hold.long" = "Длинное нажатие";
-"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Нажать и держать";
+"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Нажать и долго держать";
 "EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Двойное касание слева";
 "EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Дважды коснуться слева";
 "EVENT_TITLE_libactivator.statusbar.tap.double.right" = "Двойное касание справа";
@@ -365,3 +365,17 @@
 "EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Нажать и держать слева";
 "EVENT_TITLE_libactivator.statusbar.hold.right" = "Задержать справа";
 "EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Нажать и держать справа";
+"EVENT_TITLE_libactivator.menu.hold.long" = "Длинное нажатие";
+"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Нажать и держать клавишу "Домой" ";
+"EVENT_TITLE_libactivator.statusbar.hold.left" = "Держать слева";
+"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Нажать и держать в левой части СБ";
+"EVENT_TITLE_libactivator.statusbar.hold.right" = "Держать справа";
+"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Нажать и держать в правой части СБ";
+"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Двойное нажатие слева";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Нажать дважды в левой части СБ";
+"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "Двойное нажатие справа";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "Нажать дважды в правой части СБ";
+"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "Нажатие слева";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "Нажать в левой части СБ";
+"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "Нажатие справа";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "Нажать в правой части СБ";
