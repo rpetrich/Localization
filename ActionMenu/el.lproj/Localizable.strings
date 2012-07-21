@@ -1,0 +1,132 @@
+{
+	"OK" = "OK";
+	"Cancel" = "Ακύρωση";
+	"ON" = "Ι";
+	"OFF" = "Ο";
+	"all-day" = "Όλη-Μέρα";
+	"AM" = "πμ";
+	"PM" = "μμ";
+	"by" = "από";
+	"on" = "on";
+	"lap" = "lap";
+	"Enabled" = "Ενεργοποιημένο";
+	"Use Icons" = "Με εικονίδια";
+	"Actions" = "Ενέργειες";
+	"More Actions..." = "Περισσότερες Ενέργειες...";
+	"Donate with PayPal" = "Δωρεά με Paypal";
+	"Copy All" = "Αντιγραφή Όλων";
+	"Debug" = "Debug";
+	"Dial" = "Κλήση";
+	"Favorites" = "Αγαπημένα";
+	"History" = "Ιστορικό";
+	"Lookup" = "Αναζήτηση";
+	"Scroll" = "Scroll";
+	"Tweet" = "Tweet";
+	"Pasteboard Favorites" = "Pasteboard Αγαπημένα";
+	"Delete Favorite" = "Διαγραφή Αγαπημένου";
+	"Add Favorite..." = "Προσθήκη Αγαπημένου...";
+	"Add Favorite" = "Προσθήκη Αγαπημένου";
+	"Create" = "Δημιουργία";
+	"Enter the new favorite details" = "Προσθέστε τις λεπτομέρειες του αγπαπημένου";
+	"Open in Safari" = "Άνοιγμα σε Safari";
+	"Search" = "Αναζήτηση";
+	"Wikipedia" = "Wikipedia";
+	"Dictionary" = "Λεξικό";
+	"Translate" = "Μετάφραση";
+	"Find" = "Βρες";
+	"Find In Page" = "Βρες στη σελίδα";
+	"Find Next" = "Βρες Επόμενο";
+	"Find Previous" = "Βρες Προηγούμενο";
+	"Next" = "Επόμενο";
+	"Previous" = "Προηγούμενο";
+	"Not Found" = "Δεν Βρέθηκε";
+	"Clear" = "Καθαρισμός";
+	"Confirm" = "Επιβεβαίωση";
+	"Pasteboard History" = "Pasteboard Ιστορικό";
+	
+	"Right to Left" = "Από Δεξιά προς Αριστερά ";
+	"Left to Right" = "Από Αριστεράπρος Δεξιά";
+	"Sorted" = "Ταξινομημένα";
+	"New Favorite" = "Νέο Αγαπημένο";
+	"biteSMS" = "biteSMS";
+	"Extended Support" = "Extended Support";
+	"TRANSLATION_ABOUT" = "";
+	
+	"Preferred Client" = "Προεπιλεγμένη Εφαρμογή";
+	
+	"Clear History" = "Διαγραφή Ιστορικού";
+	"Close" = "Κλείσιμο";
+	
+	"Cut" = "Αποκοπή";
+	"Copy" = "Αντιγραφή";
+	"Paste" = "Επικόλληση";
+	"Select" = "Επιλογή";
+	"Select All" = "Επιλογή Όλων";
+	
+	"Locate" = "Εντοπισμός";
+	"Error retrieving location!" = "Σφάλμα ετνοπισμού!";
+	"Estimated Accuracy:" = "Υπολογισμός Ακρίβειας:";
+	"%ld meters" = "%ld meters";
+	"My Location on Google Maps" = "Η τοποθεσία μου στο Google Maps";
+	"Pastie" = "Pastie";
+	"Send to Pastie" = "Αποστολή στο Pastie";
+	"Paste Complete" = "Επιτυχής Επικόλληση";
+	"The URL has been copied to your clipboard." = "URL στο clipboard.";
+	"Continue" = "Συνέχεια";
+	"Error" = "Σφάλμα";
+	"Unable to submit your pastie." = "Αδύνατη αντιγραφή στο pastie.";
+	"No Search Results" = "Δεν βρέθηκαν αποτελέσματα";
+	
+	"Edit Favorite" = "Επεξεργασία Αγαπημένου";
+	"To Top" = "Στην Κορυφή";
+	"To Bottom" = "Στο Τέλος";
+	
+	"Rich Text For Mail" = "Εμπλουτισμένο Κείμενο";
+	"Format" = "Format";
+	"Bold" = "Έντονα";
+	"Italic" = "Πλάγια";
+	"Underline" = "Υπογράμμιση";
+	"Strikethrough" = "Strikethrough";
+	"Image" = "Εικόνα";
+	"Text Style" = "Στυλ Γραφής";
+	"Font Size" = "Μέγεθος Γραμ/σειράς";
+	"Font Family" = "Γραμματοσειρά";
+	"Text Color" = "Χρώμα Κειμένου";
+	"Highlight Color" = "Έντονο Χρώμα";
+	"Black" = "Μαύρο";
+	"White" = "Άσπρο";
+	"Silver" = "Ασημί";
+	"Gray" = "Γκρι";
+	"Red" = "Κόκκινο";
+	"Maroon" = "Κεραμιδί";
+	"Yellow" = "Κίτρινο";
+	"Olive" = "Λαδί";
+	"Lime" = "Λάιμ";
+	"Green" = "Πράσινο";
+	"Aqua" = "Άκουα";
+	"Teal" = "Γαλάζιο";
+	"Blue" = "Μπλε";
+	"Navy" = "Μπλε Σκούρο";
+	"Fuchsia" = "Φούξια";
+	"Purple" = "Μωβ";
+    "None" = "Χωρίς";
+	"Unknown" = "Άγνωστο";
+	
+	"Playing" = "Παίζει";
+	"\"%@\" by %@ " = "\"%@\" by %@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> by <strong>%@</strong> ";
+	
+	"Default Actions" = "Προεπιλεγμένη Ενέργεια";
+	"Replace" = "Αντικατάσταση";
+	
+	"Link" = "Link";
+	"Insert" = "Εισαγωγή";
+	"Link Text" = "Link Text";
+	"Link URL" = "Link URL";
+	
+	"Celeste" = "Celeste";
+	"Voice" = "Φωνή";
+	"Today" = "Σήμερα";
+    "Date Format" = "Διάταξη Ημερομηνίας";
+    "Time Format" = "Διάταξη Ώρας";
+}
