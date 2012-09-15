@@ -366,7 +366,7 @@
 "EVENT_TITLE_libactivator.statusbar.hold.right" = "Задержать справа";
 "EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Нажать и держать справа";
 "EVENT_TITLE_libactivator.menu.hold.long" = "Длинное нажатие";
-"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Нажать и держать клавишу "Домой" ";
+"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Нажать и держать клавишу \"Домой\"";
 "EVENT_TITLE_libactivator.statusbar.hold.left" = "Держать слева";
 "EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Нажать и держать в левой части СБ";
 "EVENT_TITLE_libactivator.statusbar.hold.right" = "Держать справа";
