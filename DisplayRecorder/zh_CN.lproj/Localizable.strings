@@ -159,4 +159,10 @@
 	"When Recording" = "录制时";
 	"YouTube Account" = "YouTube 账户";
 	"YouTube or Google Account" = "YouTube 或 Google 账户";
+
+	"For best performance, select the native device orientation and perform necessary orientation adjustments in a video editing package" = "为保证最佳效果，请选择设备默认旋转方向并再视频编辑中做适当的方向调整。";
+	"Device" = "设备";
+	"Native Device Orientation" = "设备默认方向";
+	"H.264/MOV with Mic Audio" = "H.264/MOV 及话筒音频";
+	"H.264 + Mic" = "H.264 + 话筒";
 }
