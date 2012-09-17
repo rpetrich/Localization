@@ -124,7 +124,10 @@
 	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "Premere due volte il pulsante power";
 
 	"EVENT_TITLE_libactivator.menu.hold.short" = "Pressione breve";
-	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Mantenere premuto il pulsante home";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Mantenere premuto il pulsante home brevemente";
+
+	"EVENT_TITLE_libactivator.menu.hold.long" = "Pressione lunga";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Mantenere premuto il pulsante home a lungo";
 
 	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "Pressione singola";
 	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Premere il pulsante home (SpringBoard)";
@@ -230,6 +233,24 @@
 
 	"EVENT_TITLE_libactivator.statusbar.tap.single" = "Singola pressione";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Premere una volta sulla barra di stato";
+
+	"EVENT_TITLE_libactivator.statusbar.hold.left" = "Pressione a sinistra";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Mantenere premuto la parte sinistra della barra di stato";
+
+	"EVENT_TITLE_libactivator.statusbar.hold.right" = "Pressione a destra";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Mantenere premuto la parte destra della barra di stato";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Doppia pressione a sinistra";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Premere due volte la parte sinistra della barra di stato";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "Doppia pressione a destra";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "Premere due volte la parte destra della barra di stato";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "Singola pressione a sinistra";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "Premere una volta sulla parte sinistra della barra di stato";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "Singola pressione a destra";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "Premere una volta sulla parte destra della barra di stato";
 
 	"EVENT_TITLE_libactivator.statusbar.tap.double" = "Doppia pressione";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Premere due volte sulla barra di stato";
@@ -400,7 +421,6 @@
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "Mostra segreteria";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Avvia il telefono in segreteria";
 
-
 	"LISTENER_TITLE_libactivator.settings.about" = "Info";
 	"LISTENER_DESCRIPTION_libactivator.settings.about" = "Apre le impostazioni in info";
 
@@ -484,7 +504,6 @@
 
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Apre le impostazioni in  Wi-Fi";
-
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
