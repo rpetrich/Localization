@@ -120,7 +120,7 @@
 	"Cancel" = "取消";
 	"Continue" = "繼續";
 	"Display Recorder" = "螢幕錄製";
-	"For best performance, select the native device orientation" = "為保證最佳性能，請選擇裝置預設旋轉方向。";
+	"For best performance, select the native device orientation" = "為保證最佳效果，請選擇裝置預設旋轉方向。";
 	"For best results, use the Google login that is linked to your YouTube account" = "為保證最佳效果，請使用您鏈接到 YouTube 帳戶的 Google 帳戶。";
 	"Framerate" = "幀數";
 	"Full" = "完全";
@@ -156,7 +156,13 @@
 	"Video Format" = "影片格式";
 	"Video Quality" = "影片品質";
 	"Web Server" = "網路伺服器";
-	"When Recording" = "錄製時";
+	"When Recording" = "錄製時;"
 	"YouTube Account" = "YouTube 帳戶";
 	"YouTube or Google Account" = "YouTube 或 Google 帳戶";
+
+	"For best performance, select the native device orientation and perform necessary orientation adjustments in a video editing package" = "為保證最佳效果，請選擇裝置預設旋轉方向并再於視訊編輯中做適當的方向調整。";
+	"Device" = "裝置";
+	"Native Device Orientation" = "裝置預設方向";
+	"H.264/MOV with Mic Audio" = "H.264/MOV 及話筒音訊";
+	"H.264 + Mic" = "H.264 + 話筒";
 }
