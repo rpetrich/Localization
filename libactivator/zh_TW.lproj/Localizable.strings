@@ -339,18 +339,6 @@
 	"EVENT_TITLE_libactivator.three-finger.tap" = "三指按一下";
 	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "在螢幕用三指按一下";
 
-	"EVENT_TITLE_libactivator.facebook.compose-post" = "編寫 Facebook 文章";
-	"EVENT_DESCRIPTION_libactivator.facebook.compose-post" = "啟動 Facebook 文章編輯器";
-
-	"EVENT_TITLE_libactivator.mail.compose-message" = "編寫郵件";
-	"EVENT_DESCRIPTION_libactivator.mail.compose-message" = "啟動郵件編輯器";
-
-	"EVENT_TITLE_libactivator.sms.compose-message" = "編寫簡訊";
-	"EVENT_DESCRIPTION_libactivator.sms.compose-message" = "啟動簡訊編輯器";
-
-	"EVENT_TITLE_libactivator.weibo.compose-post" = "編寫微博";
-	"EVENT_DESCRIPTION_libactivator.weibo.compose-post" = "啟動微博編輯器";
-
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系統動作";
@@ -423,6 +411,18 @@
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "編寫推文";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "啟動推文編輯器";
+
+	"LISTENER_TITLE_libactivator.facebook.compose-post" = "編寫 Facebook 文章";
+	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "啟動 Facebook 文章編輯器";
+
+	"LISTENER_TITLE_libactivator.mail.compose-message" = "編寫郵件";
+	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "啟動郵件編輯器";
+
+	"LISTENER_TITLE_libactivator.sms.compose-message" = "編寫簡訊";
+	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "啟動簡訊編輯器";
+
+	"LISTENER_TITLE_libactivator.weibo.compose-post" = "編寫微博";
+	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "啟動微博編輯器";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "顯示音量列";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "顯示音量滑桿";
