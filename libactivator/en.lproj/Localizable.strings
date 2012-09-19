@@ -26,6 +26,7 @@
 	"RESET_ALERT_CANCEL" = "Cancel";
 	"RESET_ALERT_CONTINUE" = "Reset";
 	"MULTIPLE_ASSIGNMENTS" = "(multiple)";
+	"UNKNOWN_ASSIGNMENT" = "(unknown)";
 
 	"ENABLED" = "Enabled";
 	"DISABLED" = "Disabled";
