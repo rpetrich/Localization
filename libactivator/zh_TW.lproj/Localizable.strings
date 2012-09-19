@@ -1,5 +1,5 @@
 {
-	"LOCALIZATION_ABOUT" = "繁體中文：Merlin (autopear)";
+	"LOCALIZATION_ABOUT" = "中文：Merlin (autopear)";
 	
 	/* Settings Controller */
 
@@ -26,6 +26,7 @@
 	"RESET_ALERT_CANCEL" = "取消";
 	"RESET_ALERT_CONTINUE" = "重置";
 	"MULTIPLE_ASSIGNMENTS" = "【多個】";
+	"UNKNOWN_ASSIGNMENT" = "【未知】";
 
 	"ENABLED" = "啟用";
 	"DISABLED" = "禁用";
@@ -115,6 +116,7 @@
 	"EVENT_GROUP_TITLE_Power" = "電源";
 	"EVENT_GROUP_TITLE_Audio" = "音訊";
 	"EVENT_GROUP_TITLE_Settings" = "設定";
+	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "多點觸摸手勢";
 
 	/* Events */
 
@@ -235,10 +237,10 @@
 	"EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom" = "從螢幕右下";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "由螢幕右下向中心拖動";
 
-	"EVENT_TITLE_libactivator.springboard.pinch" = "往內撥動手指";
+	"EVENT_TITLE_libactivator.springboard.pinch" = "往內撥動雙指";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "在“主畫面”螢幕往內撥動兩隻手指";
 
-	"EVENT_TITLE_libactivator.springboard.spread" = "往外撥動手指";
+	"EVENT_TITLE_libactivator.springboard.spread" = "往外撥動雙指";
 	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "在“主畫面”螢幕往外撥動兩隻手指";
 
 	"EVENT_TITLE_libactivator.statusbar.hold" = "按住";
@@ -256,8 +258,8 @@
 	"EVENT_TITLE_libactivator.statusbar.tap.single" = "按一下";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "按一下頂部狀態列";
 
-	"EVENT_TITLE_libactivator.volume.display-tap" = "點擊音量顯示視窗";
-	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "按一下音量按鈕後點擊螢幕中音量提示框";
+	"EVENT_TITLE_libactivator.volume.display-tap" = "觸摸音量顯示視窗";
+	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "按一下音量按鈕後觸摸螢幕中音量提示框";
 
 	"EVENT_TITLE_libactivator.volume.down-up" = "下鍵＞上鍵";
 	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "先按下音量按鈕，再按上音量按鈕";
@@ -310,6 +312,45 @@
 	"EVENT_TITLE_libactivator.power.disconnected" = "斷開電源";
 	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "已停止外接供電";
 
+	"EVENT_TITLE_libactivator.five-finger.pinch" = "往內撥動五指";
+	"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "在螢幕往內撥動五隻手指";
+
+	"EVENT_TITLE_libactivator.five-finger.spread" = "往外撥動五指";
+	"EVENT_DESCRIPTION_libactivator.five-finger.spread" = "在螢幕往外撥動五隻手指";
+
+	"EVENT_TITLE_libactivator.five-finger.tap" = "五指按一下";
+	"EVENT_DESCRIPTION_libactivator.five-finger.tap" = "在螢幕用五指按一下";
+
+	"EVENT_TITLE_libactivator.four-finger.pinch" = "往內撥動四指";
+	"EVENT_DESCRIPTION_libactivator.four-finger.pinch" = "在螢幕往內撥動四隻手指";
+
+	"EVENT_TITLE_libactivator.four-finger.spread" = "往外撥動四指";
+	"EVENT_DESCRIPTION_libactivator.four-finger.spread" = "在螢幕往外撥動四隻手指";
+
+	"EVENT_TITLE_libactivator.four-finger.tap" = "四指按一下";
+	"EVENT_DESCRIPTION_libactivator.four-finger.tap" = "在螢幕用四指按一下";
+
+	"EVENT_TITLE_libactivator.three-finger.pinch" = "往內撥動三指";
+	"EVENT_DESCRIPTION_libactivator.three-finger.pinch" = "在螢幕往內撥動三隻手指";
+
+	"EVENT_TITLE_libactivator.three-finger.spread" = "往外撥動三指";
+	"EVENT_DESCRIPTION_libactivator.three-finger.spread" = "在螢幕用三指按一下";
+
+	"EVENT_TITLE_libactivator.three-finger.tap" = "三指按一下";
+	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "在螢幕用三指按一下";
+
+	"EVENT_TITLE_libactivator.facebook.compose-post" = "編寫 Facebook 文章";
+	"EVENT_DESCRIPTION_libactivator.facebook.compose-post" = "啟動 Facebook 文章編輯器";
+
+	"EVENT_TITLE_libactivator.mail.compose-message" = "編寫郵件";
+	"EVENT_DESCRIPTION_libactivator.mail.compose-message" = "啟動郵件編輯器";
+
+	"EVENT_TITLE_libactivator.sms.compose-message" = "編寫簡訊";
+	"EVENT_DESCRIPTION_libactivator.sms.compose-message" = "啟動簡訊編輯器";
+
+	"EVENT_TITLE_libactivator.weibo.compose-post" = "編寫微博";
+	"EVENT_DESCRIPTION_libactivator.weibo.compose-post" = "啟動微博編輯器";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系統動作";
@@ -317,17 +358,22 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "使用者應用程式";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "“鎖定”螢幕";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 開關";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "開關";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "開關（啟用）";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "開關（禁用）";
 	"LISTENER_GROUP_TITLE_Phone" = "電話";
 	"LISTENER_GROUP_TITLE_Power" = "電源";
 	"LISTENER_GROUP_TITLE_Audio" = "音訊";
 	"LISTENER_GROUP_TITLE_Settings" = "設定";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "增強滾屏";
 	"LISTENER_GROUP_TITLE_Web Clips" = "網頁剪輯";
+	"LISTENER_GROUP_TITLE_Sharing" = "分享";
 
 	/* Listener Names */
 
 	"LISTENER_DESCRIPTION_toggle" = "打開/關閉開關";
+	"LISTENER_DESCRIPTION_toggle_enable" = "打開開關";
+	"LISTENER_DESCRIPTION_toggle_disable" = "關閉開關";
 	"LISTENER_DESCRIPTION_application" = "啟動該應用程式";
 
 	"LISTENER_TITLE_libactivator.system.homebutton" = "“主畫面”按鈕";
@@ -375,8 +421,8 @@
 	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "激活通知中心";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "下拉式通知中心";
 
-	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "撰寫 Tweet";
-	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "啟動内置 Tweet 編輯器";
+	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "編寫推文";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "啟動推文編輯器";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "顯示音量列";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "顯示音量滑桿";
@@ -590,8 +636,8 @@
 	"LISTENER_TITLE_com.zimm.circuitous.reverse.activator" = "Circuitous";
 	"LISTENER_DESCRIPTION_com.zimm.circuitous.reverse.activator" = "應用程式逆向運行順序";
 
-	"LISTENER_TITLE_irealsms3.Menu" = "iRealSMS 3.0 菜單";
-	"LISTENER_DESCRIPTION_irealsms3.Menu" = "主屏幕按鈕菜單";
+	"LISTENER_TITLE_irealsms3.Menu" = "iRealSMS 3.0 項目列";
+	"LISTENER_DESCRIPTION_irealsms3.Menu" = "“主畫面”按鈕項目列";
 
 	"LISTENER_TITLE_irealsms3.QuickQueue" = "收到簡訊的快速隊列";
 	"LISTENER_DESCRIPTION_irealsms3.QuickQueue" = "iRealSMS 3.0 快速隊列";
@@ -603,7 +649,7 @@
 	"LISTENER_DESCRIPTION_irealsms3.unhidealerts" = "iRealSMS 3.0 顯示/隱藏";
 
 	"LISTENER_TITLE_com.pedrofranceschi.physcroll" = "激活物理滾屏";
-	"LISTENER_DESCRIPTION_com.pedrofranceschi.physcroll" = "激活物理滾屏以使用加速計和/或音量按鈕來滾動屏幕";
+	"LISTENER_DESCRIPTION_com.pedrofranceschi.physcroll" = "激活物理滾屏以使用加速計和/或音量按鈕來滾動螢幕";
 
 	"LISTENER_TITLE_com.mathieubolard.killbackground" = "KillBackground";
 	"LISTENER_DESCRIPTION_com.mathieubolard.killbackground" = "退出全部多工運行的應用程式";
@@ -735,4 +781,24 @@
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "開始或停止語音識别";
 
 	"IN_CYDIA_WARNING" = "在 Cydia 安裝軟體時進行其他操作會有潛在的危險。";
+	
+	"ASSIGNMENTS" = "配置";
+	"ASSIGNMENTS_DETAIL" = "事件配置總覽";
+
+	"BACKUP_ASSIGNMENTS" = "備份配置";
+	"BACKUP_ASSIGNMENTS_DETAIL" = "導出事件及項目單配置";
+
+	"RESTORE_ASSIGNMENTS" = "還原配置";
+	"RESTORE_ASSIGNMENTS_DETAIL" = "還原已導出的配置";
+
+	"RESTORE_ALERT_TITLE" = "還原 Activator 设置";
+	"RESTORE_ALERT_MESSAGE" = "您確定要還原已導出的配置嗎？\n如繼續，您的設備將從“主畫面”註銷。";
+
+	"RESTORE_ALERT_CANCEL" = "取消";
+	"RESTORE_ALERT_CONTINUE" = "還原";
+
+	"BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "導出的配置備份儲存於 %@。該備份檔在與 iTunes 或 iCloud 同步時會被備份。";
+
+	"FAILED_TO_OPEN_SETTINGS_FILE" = "無法打開設定檔以寫入";
+	"FAILED_TO_WRITE_SETTINGS_FILE" = "無法寫入設定檔：";
 }

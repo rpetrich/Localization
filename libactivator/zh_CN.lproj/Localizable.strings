@@ -1,5 +1,5 @@
 {
-	"LOCALIZATION_ABOUT" = "简体中文：Merlin (autopear)";
+	"LOCALIZATION_ABOUT" = "中文：Merlin (autopear)";
 
 	/* Settings Controller */
 
@@ -26,6 +26,7 @@
 	"RESET_ALERT_CANCEL" = "取消";
 	"RESET_ALERT_CONTINUE" = "重置";
 	"MULTIPLE_ASSIGNMENTS" = "【多个】";
+	"UNKNOWN_ASSIGNMENT" = "【未知】";
 
 	"ENABLED" = "启用";
 	"DISABLED" = "禁用";
@@ -114,6 +115,7 @@
 	"EVENT_GROUP_TITLE_Power" = "电源";
 	"EVENT_GROUP_TITLE_Audio" = "音频";
 	"EVENT_GROUP_TITLE_Settings" = "设置";
+	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "多点触摸手势";
 
 	/* Events */
 
@@ -216,10 +218,10 @@
 	"EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom" = "从屏幕右下";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "由屏幕右下向中心拖动";
 
-	"EVENT_TITLE_libactivator.springboard.pinch" = "合拢手指";
+	"EVENT_TITLE_libactivator.springboard.pinch" = "合拢双指";
 	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "在主屏幕合拢两只手指";
 
-	"EVENT_TITLE_libactivator.springboard.spread" = "张开手指";
+	"EVENT_TITLE_libactivator.springboard.spread" = "张开双指";
 	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "在主屏幕张开两只手指";
 
 	"EVENT_TITLE_libactivator.statusbar.hold" = "按住";
@@ -255,8 +257,8 @@
 	"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "按一下右侧";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "按一下状态栏右侧区域";
 
-	"EVENT_TITLE_libactivator.volume.display-tap" = "点击音量显示窗口";
-	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "按一下音量按钮后点击屏幕中音量提示框";
+	"EVENT_TITLE_libactivator.volume.display-tap" = "触摸音量显示窗口";
+	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "按一下音量按钮后触摸屏幕中音量提示框";
 
 	"EVENT_TITLE_libactivator.volume.down-up" = "下键＞上键";
 	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "先按下音量按钮，再按上音量按钮";
@@ -309,6 +311,45 @@
 	"EVENT_TITLE_libactivator.power.disconnected" = "断开电源";
 	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "已停止外接供电";
 
+	"EVENT_TITLE_libactivator.five-finger.pinch" = "合拢五指";
+	"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "在屏幕合拢五只手指";
+
+	"EVENT_TITLE_libactivator.five-finger.spread" = "张开五指";
+	"EVENT_DESCRIPTION_libactivator.five-finger.spread" = "在屏幕张开五只手指";
+
+	"EVENT_TITLE_libactivator.five-finger.tap" = "五指按一下";
+	"EVENT_DESCRIPTION_libactivator.five-finger.tap" = "在屏幕用五指按一下";
+
+	"EVENT_TITLE_libactivator.four-finger.pinch" = "合拢四指";
+	"EVENT_DESCRIPTION_libactivator.four-finger.pinch" = "在屏幕合拢四只手指";
+
+	"EVENT_TITLE_libactivator.four-finger.spread" = "张开四指";
+	"EVENT_DESCRIPTION_libactivator.four-finger.spread" = "在屏幕张开四只手指";
+
+	"EVENT_TITLE_libactivator.four-finger.tap" = "四指按一下";
+	"EVENT_DESCRIPTION_libactivator.four-finger.tap" = "在屏幕用四指按一下";
+
+	"EVENT_TITLE_libactivator.three-finger.pinch" = "合拢三指";
+	"EVENT_DESCRIPTION_libactivator.three-finger.pinch" = "在屏幕合拢三只手指";
+
+	"EVENT_TITLE_libactivator.three-finger.spread" = "张开三指";
+	"EVENT_DESCRIPTION_libactivator.three-finger.spread" = "在屏幕用三指按一下";
+
+	"EVENT_TITLE_libactivator.three-finger.tap" = "三指按一下";
+	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "在屏幕用三指按一下";
+
+	"EVENT_TITLE_libactivator.facebook.compose-post" = "编写 Facebook 文章";
+	"EVENT_DESCRIPTION_libactivator.facebook.compose-post" = "启动 Facebook 文章编辑器";
+
+	"EVENT_TITLE_libactivator.mail.compose-message" = "编写邮件";
+	"EVENT_DESCRIPTION_libactivator.mail.compose-message" = "启动邮件编辑器";
+
+	"EVENT_TITLE_libactivator.sms.compose-message" = "编写短信";
+	"EVENT_DESCRIPTION_libactivator.sms.compose-message" = "启动短信编辑器";
+
+	"EVENT_TITLE_libactivator.weibo.compose-post" = "编写微博";
+	"EVENT_DESCRIPTION_libactivator.weibo.compose-post" = "启动微博编辑器";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
@@ -316,17 +357,22 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "用户应用程序";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "锁屏";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 开关";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "开关";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "开关（启用）";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "开关（禁用）";
 	"LISTENER_GROUP_TITLE_Phone" = "电话";
 	"LISTENER_GROUP_TITLE_Power" = "电源";
 	"LISTENER_GROUP_TITLE_Audio" = "音频";
 	"LISTENER_GROUP_TITLE_Settings" = "设置";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "增强滚屏";
 	"LISTENER_GROUP_TITLE_Web Clips" = "网页剪辑";
+	"LISTENER_GROUP_TITLE_Sharing" = "分享";
 
 	/* Listener Names */
 
 	"LISTENER_DESCRIPTION_toggle" = "打开/关闭开关";
+	"LISTENER_DESCRIPTION_toggle_enable" = "打开开关";
+	"LISTENER_DESCRIPTION_toggle_disable" = "关闭开关";
 	"LISTENER_DESCRIPTION_application" = "启动该应用程序";
 
 	"LISTENER_TITLE_libactivator.system.homebutton" = "主屏幕按钮";
@@ -374,8 +420,8 @@
 	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "激活通知中心";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "下拉式通知中心";
 
-	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "编写 Tweet";
-	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "启动内置 Tweet 编辑器";
+	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "编写推文";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "启动推文编辑器";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "显示音量栏";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "显示音量滑块";
@@ -734,4 +780,24 @@
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "开始或停止语音识别";
 
 	"IN_CYDIA_WARNING" = "在 Cydia 安装软件时进行其它操作会有潜在的危险。";
+	
+	"ASSIGNMENTS" = "配置";
+	"ASSIGNMENTS_DETAIL" = "事件配置总览";
+
+	"BACKUP_ASSIGNMENTS" = "备份配置";
+	"BACKUP_ASSIGNMENTS_DETAIL" = "导出事件及菜单配置";
+
+	"RESTORE_ASSIGNMENTS" = "还原配置";
+	"RESTORE_ASSIGNMENTS_DETAIL" = "还原已导出的配置";
+
+	"RESTORE_ALERT_TITLE" = "还原 Activator 设置";
+	"RESTORE_ALERT_MESSAGE" = "您确定要还原已导出的配置吗？\n如继续，您的设备将从主屏幕注销。";
+
+	"RESTORE_ALERT_CANCEL" = "取消";
+	"RESTORE_ALERT_CONTINUE" = "还原";
+
+	"BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "导出的配置备份储存于 %@。该备份文件在与 iTunes 或 iCloud 同步时会被备份。";
+
+	"FAILED_TO_OPEN_SETTINGS_FILE" = "无法打开设置文件以写入";
+	"FAILED_TO_WRITE_SETTINGS_FILE" = "无法写入设置文件：";
 }
