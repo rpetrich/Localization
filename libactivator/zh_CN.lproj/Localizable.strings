@@ -11,7 +11,7 @@
 	"ALREADY_ASSIGNED_TO" = "已分配给\n%@";
 	"ALERT_CANCEL" = "取消";
 	"ALERT_REASSIGN" = "重新分配";
-	"ACTIVATOR" = "Activator 配置";
+	"ACTIVATOR" = "Activator 设置";
 	"CURRENTLY_ASSIGNED_TO" = "当前分配给:";
 	"UNASSIGNED" = "【未分配】";
 	"MORE_ACTIONS" = "更多动作";
@@ -21,7 +21,7 @@
 	"N_ADDITIONAL_EVENTS" = "%i 个额外触发";
 	"RESET_SETTINGS" = "重置";
 	"RESET_SETTINGS_DETAIL" = "重设所有配置为默认";
-	"RESET_ALERT_TITLE" = "重设 Activator 配置";
+	"RESET_ALERT_TITLE" = "重设 Activator 设置";
 	"RESET_ALERT_MESSAGE" = "您确定要将 Activator 的设置还原为默认吗？\n\n如果选择继续，您的设备将会从主屏幕注销。";
 	"RESET_ALERT_CANCEL" = "取消";
 	"RESET_ALERT_CONTINUE" = "重置";
@@ -338,18 +338,6 @@
 	"EVENT_TITLE_libactivator.three-finger.tap" = "三指按一下";
 	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "在屏幕用三指按一下";
 
-	"EVENT_TITLE_libactivator.facebook.compose-post" = "编写 Facebook 文章";
-	"EVENT_DESCRIPTION_libactivator.facebook.compose-post" = "启动 Facebook 文章编辑器";
-
-	"EVENT_TITLE_libactivator.mail.compose-message" = "编写邮件";
-	"EVENT_DESCRIPTION_libactivator.mail.compose-message" = "启动邮件编辑器";
-
-	"EVENT_TITLE_libactivator.sms.compose-message" = "编写短信";
-	"EVENT_DESCRIPTION_libactivator.sms.compose-message" = "启动短信编辑器";
-
-	"EVENT_TITLE_libactivator.weibo.compose-post" = "编写微博";
-	"EVENT_DESCRIPTION_libactivator.weibo.compose-post" = "启动微博编辑器";
-
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
@@ -422,6 +410,18 @@
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "编写推文";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "启动推文编辑器";
+
+	"LISTENER_TITLE_libactivator.facebook.compose-post" = "编写 Facebook 文章";
+	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "启动 Facebook 文章编辑器";
+
+	"LISTENER_TITLE_libactivator.mail.compose-message" = "编写邮件";
+	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "启动邮件编辑器";
+
+	"LISTENER_TITLE_libactivator.sms.compose-message" = "编写短信";
+	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "启动短信编辑器";
+
+	"LISTENER_TITLE_libactivator.weibo.compose-post" = "编写微博";
+	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "启动微博编辑器";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "显示音量栏";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "显示音量滑块";
