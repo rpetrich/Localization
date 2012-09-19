@@ -386,7 +386,7 @@
 "RESTORE_ASSIGNMENTS" = "Восстановить назначения";
 "RESTORE_ASSIGNMENTS_DETAIL" = "Восстановить сохраненные назначения";
 "UNKNOWN_ASSIGNMENT" = "(неизвестно)";
-"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Мультитач жесты"
+"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Мультитач жесты";
 "EVENT_TITLE_libactivator.five-finger.pinch" = "Свести 5 пальцев";
 "EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "Свести 5 пальцев на экране";
 "EVENT_TITLE_libactivator.four-finger.pinch" = "Свести 4 пальца";
