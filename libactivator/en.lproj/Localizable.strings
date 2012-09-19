@@ -114,6 +114,7 @@
 	"EVENT_GROUP_TITLE_Power" = "Power";
 	"EVENT_GROUP_TITLE_Audio" = "Audio";
 	"EVENT_GROUP_TITLE_Settings" = "Settings";
+	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Multi-Touch Gesture";
 
 	/* Events */
 
@@ -309,6 +310,45 @@
 	"EVENT_TITLE_libactivator.power.disconnected" = "Disconnected";
 	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Stop receiving A/C power";
 
+	"EVENT_TITLE_libactivator.five-finger.pinch" = "Five Finger Pinch";
+	"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "Pinch screen with five fingers";
+
+	"EVENT_TITLE_libactivator.five-finger.spread" = "Five Finger Spread";
+	"EVENT_DESCRIPTION_libactivator.five-finger.spread" = "Spread screen with five fingers";
+
+	"EVENT_TITLE_libactivator.five-finger.tap" = "Five Finger Tap";
+	"EVENT_DESCRIPTION_libactivator.five-finger.tap" = "Tap screen with five fingers";
+
+	"EVENT_TITLE_libactivator.four-finger.pinch" = "Four Finger Pinch";
+	"EVENT_DESCRIPTION_libactivator.four-finger.pinch" = "Pinch screen with four fingers";
+
+	"EVENT_TITLE_libactivator.four-finger.spread" = "Four Finger Spread";
+	"EVENT_DESCRIPTION_libactivator.four-finger.spread" = "Spread screen with four fingers";
+
+	"EVENT_TITLE_libactivator.four-finger.tap" = "Four Finger Tap";
+	"EVENT_DESCRIPTION_libactivator.four-finger.tap" = "Tap screen with four fingers";
+
+	"EVENT_TITLE_libactivator.three-finger.pinch" = "Three Finger Pinch";
+	"EVENT_DESCRIPTION_libactivator.three-finger.pinch" = "Pinch screen with three fingers";
+
+	"EVENT_TITLE_libactivator.three-finger.spread" = "Three Finger Spread";
+	"EVENT_DESCRIPTION_libactivator.three-finger.spread" = "Spread screen with three fingers";
+
+	"EVENT_TITLE_libactivator.three-finger.tap" = "Three Finger Tap";
+	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "Tap screen with three fingers";
+
+	"EVENT_TITLE_libactivator.facebook.compose-post" = "Compose Facebook Post";
+	"EVENT_DESCRIPTION_libactivator.facebook.compose-post" = "Launch modal Facebook composer";
+
+	"EVENT_TITLE_libactivator.mail.compose-message" = "Compose Mail";
+	"EVENT_DESCRIPTION_libactivator.mail.compose-message" = "Launch modal email composer";
+
+	"EVENT_TITLE_libactivator.sms.compose-message" = "Compose Text";
+	"EVENT_DESCRIPTION_libactivator.sms.compose-message" = "Launch modal text message composer";
+
+	"EVENT_TITLE_libactivator.weibo.compose-post" = "Compose Weibo Post";
+	"EVENT_DESCRIPTION_libactivator.weibo.compose-post" = "Launch modal Weibo composer";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
@@ -316,16 +356,21 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "User Applications";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "Lock Screen";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings Toggles";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Toggles";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Toggles (Enable)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Toggles (Disable)";
 	"LISTENER_GROUP_TITLE_Phone" = "Phone";
 	"LISTENER_GROUP_TITLE_Power" = "Power";
 	"LISTENER_GROUP_TITLE_Audio" = "Audio";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
+	"LISTENER_GROUP_TITLE_Sharing" = "Sharing";
 
 	/* Listener Names */
 
 	"LISTENER_DESCRIPTION_toggle" = "Activate/deactivate toggle";
+	"LISTENER_DESCRIPTION_toggle_enable" = "Activate toggle";
+	"LISTENER_DESCRIPTION_toggle_disable" = "Deactivate toggle";
 	"LISTENER_DESCRIPTION_application" = "Activate application";
 
 	"LISTENER_TITLE_libactivator.system.homebutton" = "Home Button";
@@ -530,4 +575,25 @@
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Start/stop voice recognition";
 
 	"IN_CYDIA_WARNING" = "It is potentially dangerous to perform actions while Cydia is installing software.";
+
+
+	"ASSIGNMENTS" = "Assignments";
+	"ASSIGNMENTS_DETAIL" = "Overview all event assignments";
+
+	"BACKUP_ASSIGNMENTS" = "Backup Assignments";
+	"BACKUP_ASSIGNMENTS_DETAIL" = "Export event and menu assignments";
+
+	"RESTORE_ASSIGNMENTS" = "Restore Assignments";
+	"RESTORE_ASSIGNMENTS_DETAIL" = "Restore exported assignments";
+
+	"RESTORE_ALERT_TITLE" = "Restore Activator Settings";
+	"RESTORE_ALERT_MESSAGE" = "Are you sure you wish to restore settings to the exported copy?\nYour device will respring if you continue.";
+
+	"RESTORE_ALERT_CANCEL" = "Cancel";
+	"RESTORE_ALERT_CONTINUE" = "Restore";
+
+	"BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "Exported backup is stored at %@ and is backed up when you sync with iTunes or iCloud.";
+
+	"FAILED_TO_OPEN_SETTINGS_FILE" = "Failed to open settings file for writing";
+	"FAILED_TO_WRITE_SETTINGS_FILE" = "Failed to write to settings file: ";
 }
