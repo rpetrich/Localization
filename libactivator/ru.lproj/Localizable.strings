@@ -423,4 +423,6 @@
 "RESTORE_ALERT_CANCEL" = "Отмена";
 "RESTORE_ALERT_CONTINUE" = "Восстановить";
 "FAILED_TO_OPEN_SETTINGS_FILE" = "Не удалось создать файл настроек";
-"FAILED_TO_WRITE_SETTINGS_FILE" = "Не удалось записать настройки в файл";
+"FAILED_TO_WRITE_SETTINGS_FILE" = "Не удалось записать настройки в файл: ";
+"LISTENER_GROUP_TITLE_Web Clips" = "Веб-приложения";
+  "LISTENER_GROUP_TITLE_Sharing" = "Редакторы";
