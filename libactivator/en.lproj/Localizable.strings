@@ -338,18 +338,6 @@
 	"EVENT_TITLE_libactivator.three-finger.tap" = "Three Finger Tap";
 	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "Tap screen with three fingers";
 
-	"EVENT_TITLE_libactivator.facebook.compose-post" = "Compose Facebook Post";
-	"EVENT_DESCRIPTION_libactivator.facebook.compose-post" = "Launch modal Facebook composer";
-
-	"EVENT_TITLE_libactivator.mail.compose-message" = "Compose Mail";
-	"EVENT_DESCRIPTION_libactivator.mail.compose-message" = "Launch modal email composer";
-
-	"EVENT_TITLE_libactivator.sms.compose-message" = "Compose Text";
-	"EVENT_DESCRIPTION_libactivator.sms.compose-message" = "Launch modal text message composer";
-
-	"EVENT_TITLE_libactivator.weibo.compose-post" = "Compose Weibo Post";
-	"EVENT_DESCRIPTION_libactivator.weibo.compose-post" = "Launch modal Weibo composer";
-
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
@@ -421,6 +409,18 @@
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Compose Tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Launch modal tweet composer";
+
+	"LISTENER_TITLE_libactivator.facebook.compose-post" = "Compose Facebook Post";
+	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Launch modal Facebook composer";
+
+	"LISTENER_TITLE_libactivator.mail.compose-message" = "Compose Mail";
+	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Launch modal email composer";
+
+	"LISTENER_TITLE_libactivator.sms.compose-message" = "Compose Text";
+	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Launch modal text message composer";
+
+	"LISTENER_TITLE_libactivator.weibo.compose-post" = "Compose Weibo Post";
+	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Launch modal Weibo composer";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Show Volume Bar";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Show the volume slider";
