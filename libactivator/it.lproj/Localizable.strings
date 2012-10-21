@@ -1,103 +1,104 @@
 {
-	LOCALIZATION_ABOUT = "Tradotto da Sagitt";
+	"LOCALIZATION_ABOUT" = "Tradotto da Sagitt";
 
 	/* Settings Controller */
 
-	CANT_DEACTIVATE_REMAINING = "Impossibile disattivare\nevento rimanente";
-	AT_LEAST_ONE_ASSIGNMENT_REQUIRED = "Almeno un evento deve essere\nassegnato a %@";
-	ALERT_OK = "OK";
-	ALERT_IGNORE = "Ignora";
-	ALERT_VALUE_AND = " e ";
-	ALREADY_ASSIGNED_TO = "Già assegnato a\n%@";
-	ALERT_CANCEL = "Annulla";
-	ALERT_REASSIGN = "Riassegna";
-	ACTIVATOR = "Activator";
-	CURRENTLY_ASSIGNED_TO = "Attualmente assegnato a:";
-	UNASSIGNED = "(non assegnato)";
-	MORE_ACTIONS = "Altre azioni";
-	MORE_ACTIONS_DETAIL = "Scarica altre azioni da Cydia";
-	DONATE = "Dona";
-	DONATE_DETAIL = "Contribuisci con PayPal";
-	N_ADDITIONAL_EVENTS = "%i eventi aggiuntivi";
-	RESET_SETTINGS = "Ripristina impostazioni";
-	RESET_SETTINGS_DETAIL = "Reimposta tutti i valori predefiniti";
-	RESET_ALERT_TITLE = "Ripristina impostazioni";
-	RESET_ALERT_MESSAGE = "Sei sicuro di voler ripristinare le impostazioni predefinite di Activator?\nSe continui il dispositivo effettuerà un respring.";
-	RESET_ALERT_CANCEL = "Annulla";
-	RESET_ALERT_CONTINUE = "Reimposta";
-	MULTIPLE_ASSIGNMENTS = "(multipli)";
+	"CANT_DEACTIVATE_REMAINING" = "Impossibile disattivare\nevento rimanente";
+	"AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "Almeno un evento deve essere\nassegnato a %@";
+	"ALERT_OK" = "OK";
+	"ALERT_IGNORE" = "Ignora";
+	"ALERT_VALUE_AND" = " e ";
+	"ALREADY_ASSIGNED_TO" = "Già assegnato a\n%@";
+	"ALERT_CANCEL" = "Annulla";
+	"ALERT_REASSIGN" = "Riassegna";
+	"ACTIVATOR" = "Activator";
+	"CURRENTLY_ASSIGNED_TO" = "Attualmente assegnato a:";
+	"UNASSIGNED" = "(non assegnato)";
+	"MORE_ACTIONS" = "Altre azioni";
+	"MORE_ACTIONS_DETAIL" = "Scarica altre azioni da Cydia";
+	"DONATE" = "Dona";
+	"DONATE_DETAIL" = "Contribuisci con PayPal";
+	"N_ADDITIONAL_EVENTS" = "%i eventi aggiuntivi";
+	"RESET_SETTINGS" = "Ripristina impostazioni";
+	"RESET_SETTINGS_DETAIL" = "Reimposta tutti i valori predefiniti";
+	"RESET_ALERT_TITLE" = "Ripristina impostazioni";
+	"RESET_ALERT_MESSAGE" = "Sei sicuro di voler ripristinare le impostazioni predefinite di Activator?\nSe continui il dispositivo effettuerà un respring.";
+	"RESET_ALERT_CANCEL" = "Annulla";
+	"RESET_ALERT_CONTINUE" = "Reimposta";
+	"MULTIPLE_ASSIGNMENTS" = "(multipli)";
+	"UNKNOWN_ASSIGNMENT" = "(sconosciuto)";
 
-	ENABLED = "Abilitato";
-	DISABLED = "Disabilitato";
+	"ENABLED" = "Abilitato";
+	"DISABLED" = "Disabilitato";
 
-	OUT_OF_DATE_TITLE = "Versione di sistema vecchia";
-	OUT_OF_DATE_MESSAGE = "Activator funziona al meglio solo sulle nuove versioni di iOS.\nConsidera un aggiornamento.";
+	"OUT_OF_DATE_TITLE" = "Versione di sistema vecchia";
+	"OUT_OF_DATE_MESSAGE" = "Activator funziona al meglio solo sulle nuove versioni di iOS.\nConsidera un aggiornamento.";
 
-	TOO_NEW_TITLE = "Versione di sistema troppo nuova";
-	TOO_NEW_MESSAGE = "Activator non è stato testato con questa versione di iOS.\nAlcune funzioni potrebbero non funzionare.";
+	"TOO_NEW_TITLE" = "Versione di sistema troppo nuova";
+	"TOO_NEW_MESSAGE" = "Activator non è stato testato con questa versione di iOS.\nAlcune funzioni potrebbero non funzionare.";
 
-	VERSION_PROMPT_MORE_INFO = "Più info";
-	VERSION_PROMPT_IGNORE = "Ignora";
-	VERSION_PROMPT_CONTINUE = "Continua";
+	"VERSION_PROMPT_MORE_INFO" = "Più info";
+	"VERSION_PROMPT_IGNORE" = "Ignora";
+	"VERSION_PROMPT_CONTINUE" = "Continua";
 
-	SHOW_ICON = "Mostra icona";
-	SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD = "Mostra l'icona sulla SpringBoard";
+	"SHOW_ICON" = "Mostra icona";
+	"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "Mostra l'icona sulla SpringBoard";
 
-	Advertisement = "Pubblicità";
+	"Advertisement" = "Pubblicità";
 
-	SAFE_MODE_TITLE = "In Safe Mode";
-	SAFE_MODE_MESSAGE = "Il dispositivo è attualmente in Safe Mode. La maggior parte delle funzioni di Activator sono disabilitate mentre il dispositivo è in Safe Mode. Riavvia la SpringBoard per tornare nella modalità normale.";
-	SAFE_MODE_CANCEL = "Annulla";
-	SAFE_MODE_RESTART = "Riavvia";
+	"SAFE_MODE_TITLE" = "In Safe Mode";
+	"SAFE_MODE_MESSAGE" = "Il dispositivo è attualmente in Safe Mode. La maggior parte delle funzioni di Activator sono disabilitate mentre il dispositivo è in Safe Mode. Riavvia la SpringBoard per tornare nella modalità normale.";
+	"SAFE_MODE_CANCEL" = "Annulla";
+	"SAFE_MODE_RESTART" = "Riavvia";
 
-	ACTIVATOR_DISABLED = "Activator disabilitato";
-	ACTIVATOR_DISABLED_MESSAGE = "La maggior parte delle funzioni di Activator sono attualmente disabilitate poiché il Mobile Substrate non sta funzionando correttamente. Se il dispositivo è in Safe Mode, sarà visibile la scritta \"Exit Safe Mode\" in alto, cliccandoci e successivamente cliccando su \"Restart\" si potrà tornare alla modalità normale.";
+	"ACTIVATOR_DISABLED" = "Activator disabilitato";
+	"ACTIVATOR_DISABLED_MESSAGE" = "La maggior parte delle funzioni di Activator sono attualmente disabilitate poiché il Mobile Substrate non sta funzionando correttamente. Se il dispositivo è in Safe Mode, sarà visibile la scritta \"Exit Safe Mode\" in alto, cliccandoci e successivamente cliccando su \"Restart\" si potrà tornare alla modalità normale.";
 
-	ACTIVATOR_CORRUPT = "Activator corrotto";
-	ACTIVATOR_CORRUPT_MESSAGE = "La maggior parte delle funzioni di Activator sono attualmente disabilitate poiché sembra che i file interni di Activator non siano corretti. Provare reinstallando Activator tramite Cydia.";
-	CORRUPT_CANCEL = "Annulla";
-	CORRUPT_LAUNCH_CYDIA = "Avvia Cydia";
+	"ACTIVATOR_CORRUPT" = "Activator corrotto";
+	"ACTIVATOR_CORRUPT_MESSAGE" = "La maggior parte delle funzioni di Activator sono attualmente disabilitate poiché sembra che i file interni di Activator non siano corretti. Provare reinstallando Activator tramite Cydia.";
+	"CORRUPT_CANCEL" = "Annulla";
+	"CORRUPT_LAUNCH_CYDIA" = "Avvia Cydia";
 
-	BLACKLIST = "Blacklist";
-	BLACKLIST_DETAIL = "Ignora gli eventi in applicazioni specifiche";
+	"BLACKLIST" = "Blacklist";
+	"BLACKLIST_DETAIL" = "Ignora gli eventi in applicazioni specifiche";
 
 	/* Bookmarks */
 
-	BOOKMARKS = "Preferiti";
-	BOOKMARKS_DETAIL = "Gestisci azioni dei preferiti personalizzati";
+	"BOOKMARKS" = "Preferiti";
+	"BOOKMARKS_DETAIL" = "Gestisci azioni dei preferiti personalizzati";
 
-	ADD_NEW_BOOKMARK = "Aggiungi un nuovo preferito";
-	NEW_BOOKMARK = "Nuovo preferito";
-	BOOKMARK_TITLE = "Titolo preferito";
-	BOOKMARK_URL = "URL preferito";
-	BOOKMARK_DESCRIPTION_FORMAT = "Visita %@";
+	"ADD_NEW_BOOKMARK" = "Aggiungi un nuovo preferito";
+	"NEW_BOOKMARK" = "Nuovo preferito";
+	"BOOKMARK_TITLE" = "Titolo preferito";
+	"BOOKMARK_URL" = "URL preferito";
+	"BOOKMARK_DESCRIPTION_FORMAT" = "Visita %@";
 
 	/* Menus */
 
-	MENUS = "Menu";
-	MENUS_DETAIL = "Gestisci i menu personalizzati";
+	"MENUS" = "Menu";
+	"MENUS_DETAIL" = "Gestisci i menu personalizzati";
 
-	ADD_NEW_MENU = "Aggiungi un nuovo menu";
-	NEW_MENU = "Nuovo menu";
-	MENU_TITLE = "Titolo menu";
-	ADD = "Aggiungi";
-	ADD_ACTION = "Aggiungi azione";
-	CANCEL = "Annulla";
-	ACTION = "Azione";
+	"ADD_NEW_MENU" = "Aggiungi un nuovo menu";
+	"NEW_MENU" = "Nuovo menu";
+	"MENU_TITLE" = "Titolo menu";
+	"ADD" = "Aggiungi";
+	"ADD_ACTION" = "Aggiungi azione";
+	"CANCEL" = "Annulla";
+	"ACTION" = "Azione";
 
 	/* Modes */
 
-	MODE_TITLE_all = "Ovunque";
-	MODE_DESCRIPTION_all = "";
+	"MODE_TITLE_all" = "Ovunque";
+	"MODE_DESCRIPTION_all" = "";
 
-	MODE_TITLE_springboard = "Nella schemata home";
-	MODE_DESCRIPTION_springboard = "Icone della SpringBoard visibili";
+	"MODE_TITLE_springboard" = "Nella schemata home";
+	"MODE_DESCRIPTION_springboard" = "Icone della SpringBoard visibili";
 
-	MODE_TITLE_application = "Nelle applicazioni";
-	MODE_DESCRIPTION_application = "Applicazione visibile";
+	"MODE_TITLE_application" = "Nelle applicazioni";
+	"MODE_DESCRIPTION_application" = "Applicazione visibile";
 
-	MODE_TITLE_lockscreen = "Nella lockscreen";
-	MODE_DESCRIPTION_lockscreen = "Bloccato con lockscreen visibile";
+	"MODE_TITLE_lockscreen" = "Nella lockscreen";
+	"MODE_DESCRIPTION_lockscreen" = "Bloccato con lockscreen visibile";
 
 	/* Event Groups */
 
@@ -114,6 +115,7 @@
 	"EVENT_GROUP_TITLE_Power" = "Alimentazione";
 	"EVENT_GROUP_TITLE_Audio" = "Audio";
 	"EVENT_GROUP_TITLE_Settings" = "Impostazioni";
+	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Gesti multi-touch";
 
 	/* Events */
 
@@ -309,6 +311,33 @@
 	"EVENT_TITLE_libactivator.power.disconnected" = "Disconnesso";
 	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Al termine della ricezione di corrente";
 
+	"EVENT_TITLE_libactivator.five-finger.pinch" = "Comprimi con 5 dita";
+	"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "Comprimi lo schermo con 5 dita";
+
+	"EVENT_TITLE_libactivator.five-finger.spread" = "Allarga con 5 dita";
+	"EVENT_DESCRIPTION_libactivator.five-finger.spread" = "Allarga lo schermo con 5 dita";
+
+	"EVENT_TITLE_libactivator.five-finger.tap" = "Pressione con 5 dita";
+	"EVENT_DESCRIPTION_libactivator.five-finger.tap" = "Premere lo schermo con 5 dita";
+
+	"EVENT_TITLE_libactivator.four-finger.pinch" = "Comprimi con 4 dita";
+	"EVENT_DESCRIPTION_libactivator.four-finger.pinch" = "Comprimi lo schermo con 4 dita";
+
+	"EVENT_TITLE_libactivator.four-finger.spread" = "Allarga con 4 dita";
+	"EVENT_DESCRIPTION_libactivator.four-finger.spread" = "Allarga lo schermo con 4 dita";
+
+	"EVENT_TITLE_libactivator.four-finger.tap" = "Pressione con 4 dita";
+	"EVENT_DESCRIPTION_libactivator.four-finger.tap" = "Premere lo schermo con 4 dita";
+
+	"EVENT_TITLE_libactivator.three-finger.pinch" = "Comprimi con 3 dita";
+	"EVENT_DESCRIPTION_libactivator.three-finger.pinch" = "Comprimi lo schermo con 3 dita";
+
+	"EVENT_TITLE_libactivator.three-finger.spread" = "Allarga con 3 dita";
+	"EVENT_DESCRIPTION_libactivator.three-finger.spread" = "Allarga lo schermo con 3 dita";
+
+	"EVENT_TITLE_libactivator.three-finger.tap" = "Pressione con 3 dita";
+	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "Premere lo schermo con 3 dita";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "Azioni sistema";
@@ -317,15 +346,20 @@
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "Lockscreen";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Interruttori di SBSettings";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Interruttori (Abilita)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Interruttori (Disabilita)";
 	"LISTENER_GROUP_TITLE_Phone" = "Telefono";
 	"LISTENER_GROUP_TITLE_Power" = "Alimentazione";
 	"LISTENER_GROUP_TITLE_Audio" = "Audio";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
+	"LISTENER_GROUP_TITLE_Sharing" = "Condivisione";
 
 	/* Listener Names */
 
 	"LISTENER_DESCRIPTION_toggle" = "Attiva/disattiva l'interruttore";
+	"LISTENER_DESCRIPTION_toggle_enable" = "Attiva l'interruttore";
+	"LISTENER_DESCRIPTION_toggle_disable" = "Disattiva l'interruttore";
 	"LISTENER_DESCRIPTION_application" = "Attiva applicazione";
 
 	"LISTENER_TITLE_libactivator.system.homebutton" = "Pulsante home";
@@ -375,6 +409,18 @@
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Componi tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Avvia il compositore tweet";
+
+	"LISTENER_TITLE_libactivator.facebook.compose-post" = "Componi facebook";
+	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Avvia il compositore facebook";
+
+	"LISTENER_TITLE_libactivator.mail.compose-message" = "Componi mail";
+	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Avvia il compositore mail";
+
+	"LISTENER_TITLE_libactivator.sms.compose-message" = "Componi messaggio";
+	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Avvia il compositore messaggi";
+
+	"LISTENER_TITLE_libactivator.weibo.compose-post" = "Componi weibo";
+	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Avvia il compositore weibo";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Mostra barra volume";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Mostra la barra del volume";
@@ -529,5 +575,26 @@
 	"LISTENER_TITLE_com.rpetrich.voicekeys" = "VoiceKeys";
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Avvia/Ferma il riconoscimento vocale";
 
-	IN_CYDIA_WARNING = "È potenzialmente pericoloso eseguire delle azioni mentre è in corso un'installazione di un software da Cydia.";
+	"IN_CYDIA_WARNING" = "È potenzialmente pericoloso eseguire delle azioni mentre è in corso un'installazione di un software da Cydia.";
+
+
+	"ASSIGNMENTS" = "Assegnazioni";
+	"ASSIGNMENTS_DETAIL" = "Visualizza tutte le assegnazioni eventi";
+
+	"BACKUP_ASSIGNMENTS" = "Salva assegnazioni";
+	"BACKUP_ASSIGNMENTS_DETAIL" = "Esporta eventi e assegnazioni";
+
+	"RESTORE_ASSIGNMENTS" = "Ripristina assegnazioni";
+	"RESTORE_ASSIGNMENTS_DETAIL" = "Ripristina assegnazioni esportate";
+
+	"RESTORE_ALERT_TITLE" = "Ripristina impostazioni";
+	"RESTORE_ALERT_MESSAGE" = "Sei sicuro di voler ripristinare le impostazioni della copia esportata?\nSe continui il dispositivo effettuerà un respring.";
+
+	"RESTORE_ALERT_CANCEL" = "Annulla";
+	"RESTORE_ALERT_CONTINUE" = "Ripristina";
+
+	"BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "Il salvataggio esportato è localizzato in %@ e verrà salvato quando sincronizzerai con iTunes o iCloud.";
+
+	"FAILED_TO_OPEN_SETTINGS_FILE" = "Apertura file impostazioni, per scrittura, fallita";
+	"FAILED_TO_WRITE_SETTINGS_FILE" = "Scrittura file impostazioni fallita: ";
 }
