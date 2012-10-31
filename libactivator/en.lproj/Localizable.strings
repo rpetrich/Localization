@@ -422,6 +422,12 @@
 	"LISTENER_TITLE_libactivator.weibo.compose-post" = "Compose Weibo Post";
 	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Launch modal Weibo composer";
 
+	"LISTENER_TITLE_libactivator.audio.decrease-volume" = "Volume Down";
+	"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "Decrease audio volume by one step";
+
+	"LISTENER_TITLE_libactivator.audio.increase-volume" = "Volume Up";
+	"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "Increase audio volume by one step";
+
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Show Volume Bar";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Show the volume slider";
 
