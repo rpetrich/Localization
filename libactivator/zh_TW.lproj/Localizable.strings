@@ -424,6 +424,12 @@
 	"LISTENER_TITLE_libactivator.weibo.compose-post" = "編寫微博";
 	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "啟動微博編輯器";
 
+	"LISTENER_TITLE_libactivator.audio.decrease-volume" = "調低音量";
+	"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "調低一格音量";
+
+	"LISTENER_TITLE_libactivator.audio.increase-volume" = "調高音量";
+	"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "調高一格音量";
+
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "顯示音量列";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "顯示音量滑桿";
 
