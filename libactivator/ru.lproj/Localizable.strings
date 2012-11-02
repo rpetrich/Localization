@@ -425,4 +425,8 @@
 "FAILED_TO_OPEN_SETTINGS_FILE" = "Не удалось создать файл настроек";
 "FAILED_TO_WRITE_SETTINGS_FILE" = "Не удалось записать настройки в файл: ";
 "LISTENER_GROUP_TITLE_Web Clips" = "Веб-приложения";
-  "LISTENER_GROUP_TITLE_Sharing" = "Редакторы";
+"LISTENER_GROUP_TITLE_Sharing" = "Редакторы";
+"LISTENER_TITLE_libactivator.audio.decrease-volume" = "Уменьшить громкость";
+"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "Уменьшить громкость на деление";
+"LISTENER_TITLE_libactivator.audio.increase-volume" = "Увеличить громкость";	
+"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "Увеличить громкость на деление";
