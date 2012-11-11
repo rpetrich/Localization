@@ -1,0 +1,162 @@
+{
+	"Display Recorder" = "Display Recorder";
+
+	"DisplayRecorder on %@" = "DisplayRecorder on %@";
+
+	"Start recording display?" = "画面の録画を開始しますか？";
+	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "画面の録画を開始しますか？\n\nActivationジェスチャは設定アプリから設定できます。";
+	"Cancel" = "キャンセル";
+	"Record" = "録画";
+
+	"Recording errored:\n%@\n(Error Code: %i)" = "録画エラー:\n%@\n(Error Code: %i)";
+	"Recording errored:\n%@" = "録画エラー:\n%@";
+	"Recording completed!" = "録画成功！";
+	"OK" = "OK";
+
+	"Display cannot be recorded while uploading to YouTube." = "YouTubeにアップロードしてる時には録画できません。";
+	
+	"Unable to load framebuffer surface" = "Framebuffer surfaceを読み込めませんでした";
+	"Error creating writer: %@" = "Writer作成エラー: %@";
+	"Unable to start writing" = "書き込みの開始ができませんでした";
+	"Interrupted by another app using the audio/video codec hardware." = "Audio/Videoコーデックハードウェアを使用中の他のアプリによって割り込まれました。";
+	"Failed to write pixel buffer" = "ピクセルバッファ書き込みに失敗";
+	"Unable to open output file at path %@" = "%@ を出力ファイルとして開けませんでした";
+	
+	"Toggle Recording" = "録画切り替え";
+	"Toggle Web Interface" = "Webインターフェース切り替え";
+
+	"Begin/end screen recording" = "録画の開始・終了";
+	"Enable/disable web interface" = "Webインターフェースの有効化・無効化";
+	
+	"Upload Details" = "アップロード詳細";
+	"Upload" = "アップロード";
+	"Cancel Upload" = "アップロードをキャンセル";
+	
+	"YouTube Terms" = "YouTube 使用条件";
+	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "「アップロード」をクリックした時、あなたはコンテンツについて全ての権利を持つか、権利者からYouTubeへの公開を認められ、そうでなければ、YouTubeサービス利用規約に準拠していることを証明したことになります";
+	"Show Terms" = "使用条件を表示";
+
+	"Title" = "タイトル";
+	"Description" = "説明";
+	"Category" = "カテゴリ";
+	"Public Video" = "動画を公開";
+
+	"Film & Animation" = "映画とアニメ";
+	"Autos & Vehicles" = "自動車と乗り物";
+	"Music" = "音楽";
+	"Pets & Animals" = "ペットと動物";
+	"Sports" = "スポーツ";
+	"Travel & Events" = "旅行とイベント";
+	"Gaming" = "ゲーム";
+	"Comedy" = "コメディ";
+	"People & Blogs" = "ブログ";
+	"News & Politics" = "ニュース";
+	"Entertainment" = "エンターテイメント";
+	"Education" = "教育";
+	"Howto & Style" = "ハウツーとスタイル";
+	"Nonprofits & Activism" = "非営利団体と社会活動";
+	"Science & Technology" = "科学と技術";
+	"Movies" = "映画";
+	
+	"YouTube Login Missing" = "YouTubeへのログインに失敗";
+	"Fill in your login details via the Display Recorder pane in the Settings application." = "設定アプリのDisplay Recorderの設定でログイン情報を書いて下さい。";
+	"Oversize Video" = "Oversize Video";
+	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "時としてYouTubeはモバイルデバイスから解像度の大きな動画のアップロードを許可していません。\n最高の結果を得るためには、コンピュータに動画を転送しYouTubeのWebインターフェースからアップロードを行うか、設定から動画の大きさを半分にして録画しなおして下さい。";
+	"Continue" = "続ける";
+	
+	"Title is empty" = "タイトルが空です";
+	"YouTube requires that all videos have a title." = "YouTubeの全てのビデオはタイトルが必要です。";
+	"Description is empty" = "説明が空です";
+	"YouTube requires that all videos have a description." = "YouTubeの全てのビデオは説明が必要です。";
+
+	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "アカウントが拒絶されたためアップロードに失敗しました。 設定アプリを開き入力しなおして下さい。\nGoogleアカウントでログインしている場合、YouTubeアカウントとリンクされているかどうかを確認して下さい。";
+	"Upload failed with error:\n" = "アップロード失敗エラー:\n";
+	"Upload completed successfully\nYouTube link is on the pasteboard" = "アップロード完了\nリンクはクリップボードにコピーされています";
+	
+	"Help" = "ヘルプ";
+	"Enable" = "有効化";
+	"Disable" = "無効化";
+
+	"Not connected to Wi-Fi" = "Wi-Fiに接続されていません";
+	"Web server disabled" = "Webサーバは無効";
+	
+	"Saving to Camera Roll…" = "カメラロールに保存中…";
+	"Save Failed!" = "保存失敗！";
+	"Unable to save video to camera roll." = "カメラロールに動画を保存できませんでした。";
+	
+	"Recording…" = "録画中…";
+	"Stop Recording" = "録画終了";
+	
+	"1 day" = "1 日";
+	"%u days" = "%u 日";
+	"1 hr" = "1 時";
+	"1 hour" = "1 時";
+	"%u hrs" = "%u 時";
+	"%u hours" = "%u 時";
+	"1 min" = "1 分";
+	"1 minute" = "1 分";
+	"%u mins" = "%u 分";
+	"%u minutes" = "%u 分";
+	"1 sec" = "1 秒";
+	"1 second" = "1 秒";
+	"%u secs" = "%u 秒";
+	"%u seconds" = "%u 秒";
+	" " = " ";
+
+	"%llu GB" = "%llu GB";
+	"%llu MB" = "%llu MB";
+	"%llu KB" = "%llu KB";
+	"%llu bytes" = "%llu バイト";
+	
+	"Recordings" = "動画";
+	
+	"Delete Recording" = "動画を削除";
+	"Upload to YouTube" = "YouTubeにアップロード";
+	"Play Video" = "動画を再生";
+	"Add to Camera Roll" = "カメラロールへ追加";
+
+	"Activation Methods" = "Activationジェスチャ";
+	"Always" = "いつでも";
+	"Cancel" = "キャンセル";
+	"Continue" = "続ける";
+	"Display Recorder" = "Display Recorder";
+	"For best performance, select the native device orientation" = "最高の結果を得るためには、Native Device Orientationを選んで下さい";
+	"For best results, use the Google login that is linked to your YouTube account" = "最高の結果を得るためには、YouTubeアカウントにリンクされているGoogleアカウントでログインして下さい";
+	"Framerate" = "フレームレート";
+	"Full" = "通常";
+	"Grayscale" = "グレースケール";
+	"H.264/MOV (experimental)" = "H.264/MOV (experimental)";
+	"H.264/MOV" = "H.264/MOV";
+	"H.264/MOV with Mic Audio" = "H.264/MOV + マイク音声";
+	"H.264" = "H.264";
+	"H.264 + Mic" = "H.264 + マイク";
+	"Half" = "半分";
+	"Half-scale is not supported when OpenGL capture is enabled" = "OpenGLキャプチャが有効な場合は大きさを半分にしての録画はできません";
+	"Hidden" = "表示しない";
+	"High" = "高";
+	"Landscape Left" = "横 (左向き)";
+	"Landscape Right" = "横 (右向き)";
+	"Large" = "大";
+	"Lock Framerate" = "フレームレートを固定";
+	"Low" = "低";
+	"Medium" = "中";
+	"MJPEG/AVI (stable)" = "MJPEG/AVI (stable)";
+	"Open in Safari" = "Safariで開く";
+	"OpenGL capture" = "OpenGLキャプチャ";
+	"Password" = "パスワード";
+	"Portrait" = "縦";
+	"Record Audio" = "音声を録音";
+	"Rotation" = "回転";
+	"Scale" = "大きさ";
+	"Show Taps" = "タップを表示";
+	"Small" = "小";
+	"Tap Size" = "タップの大きさ";
+	"Upside Down" = "逆向き";
+	"User's Guide" = "ユーザーガイド";
+	"Video Format" = "動画の形式";
+	"Video Quality" = "動画の品質";
+	"Web Server" = "Webサーバ";
+	"When Recording" = "録画中";
+	"YouTube Account" = "YouTubeアカウント";
+	"YouTube or Google Account" = "YouTubeまたはGoogleアカウント";
+}
