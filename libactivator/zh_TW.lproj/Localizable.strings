@@ -347,8 +347,8 @@
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "“鎖定”螢幕";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "開關";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "開關（啟用）";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "開關（禁用）";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "開關（開啟）";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "開關（關閉）";
 	"LISTENER_GROUP_TITLE_Phone" = "電話";
 	"LISTENER_GROUP_TITLE_Power" = "電源";
 	"LISTENER_GROUP_TITLE_Audio" = "音訊";
