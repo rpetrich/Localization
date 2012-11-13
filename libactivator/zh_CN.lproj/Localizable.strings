@@ -346,8 +346,8 @@
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "锁屏";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "开关";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "开关（启用）";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "开关（禁用）";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "开关（开启）";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "开关（关闭）";
 	"LISTENER_GROUP_TITLE_Phone" = "电话";
 	"LISTENER_GROUP_TITLE_Power" = "电源";
 	"LISTENER_GROUP_TITLE_Audio" = "音频";
@@ -355,6 +355,8 @@
 	"LISTENER_GROUP_TITLE_SuperScroller" = "增强滚屏";
 	"LISTENER_GROUP_TITLE_Web Clips" = "网页剪辑";
 	"LISTENER_GROUP_TITLE_Sharing" = "分享";
+	"LISTENER_GROUP_TITLE_Device UIRotation" = "设备方向";
+	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 
 	/* Listener Names */
 
@@ -396,7 +398,7 @@
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "激活多任务栏";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "显示多任务栏（应用程序切换器）";
 
-	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "显示正在播放屏幕";
+	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "显示正在播放栏";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "显示标准音频/视频控制";
 
 	"LISTENER_TITLE_libactivator.system.nothing" = "无事件";
@@ -676,6 +678,30 @@
 
 	"LISTENER_TITLE_com.app1enerd.secustomtext" = "滑块增强";
 	"LISTENER_DESCRIPTION_com.app1enerd.secustomtext" = "设置自定义滑块文字";
+
+	"LISTENER_TITLE_com.ichitaso.uirotation.down" = "倒转";
+	"LISTENER_DESCRIPTION_com.ichitaso.uirotation.down" = "上下颠倒";
+
+	"LISTENER_TITLE_com.ichitaso.uirotation.left" = "横屏向左";
+	"LISTENER_DESCRIPTION_com.ichitaso.uirotation.left" = "向左旋转";
+
+	"LISTENER_TITLE_com.ichitaso.uirotation.right" = "横屏向右";
+	"LISTENER_DESCRIPTION_com.ichitaso.uirotation.right" = "向右旋转";
+
+	"LISTENER_TITLE_com.ichitaso.uirotation.up" = "正常";
+	"LISTENER_DESCRIPTION_com.ichitaso.uirotation.up" = "竖直方向";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.apps" = "谷歌应用";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "访问谷歌应用程序列表";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.goggles" = "Goggles";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.goggles" = "访问谷歌 Goggles 功能";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.search" = "文字搜索";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.search" = "访问谷歌文字搜索";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "语音搜索";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "访问谷歌语音搜索";
 
 	"LISTENER_TITLE_libactivator.settings.about" = "关于本机";
 	"LISTENER_DESCRIPTION_libactivator.settings.about" = "打开设置的关于本机页面";

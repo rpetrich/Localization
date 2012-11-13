@@ -356,6 +356,8 @@
 	"LISTENER_GROUP_TITLE_SuperScroller" = "增強滾屏";
 	"LISTENER_GROUP_TITLE_Web Clips" = "網頁剪輯";
 	"LISTENER_GROUP_TITLE_Sharing" = "分享";
+	"LISTENER_GROUP_TITLE_Device UIRotation" = "裝置方向";
+	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 
 	/* Listener Names */
 
@@ -397,7 +399,7 @@
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "啟動多工列";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "顯示多工列（應用程式切換器）";
 
-	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "顯示正在播放螢幕";
+	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "顯示正在播放列";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "顯示標準音樂/影片控制";
 
 	"LISTENER_TITLE_libactivator.system.nothing" = "無事件";
@@ -678,6 +680,30 @@
 	"LISTENER_TITLE_com.app1enerd.secustomtext" = "滑桿增强";
 	"LISTENER_DESCRIPTION_com.app1enerd.secustomtext" = "設定自訂滑桿文字";
 	
+	"LISTENER_TITLE_com.ichitaso.uirotation.down" = "倒轉";
+	"LISTENER_DESCRIPTION_com.ichitaso.uirotation.down" = "上下顛倒";
+
+	"LISTENER_TITLE_com.ichitaso.uirotation.left" = "橫屏向左";
+	"LISTENER_DESCRIPTION_com.ichitaso.uirotation.left" = "向左旋轉";
+
+	"LISTENER_TITLE_com.ichitaso.uirotation.right" = "橫屏向右";
+	"LISTENER_DESCRIPTION_com.ichitaso.uirotation.right" = "向右旋轉";
+
+	"LISTENER_TITLE_com.ichitaso.uirotation.up" = "正常";
+	"LISTENER_DESCRIPTION_com.ichitaso.uirotation.up" = "豎直方向";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.apps" = "Google 應用";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "訪問 Google 應用程式列";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.goggles" = "Goggles";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.goggles" = "訪問 Google Goggles 功能";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.search" = "文字搜尋";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.search" = "訪問 Google 文字搜尋";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "語音搜尋";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "訪問 Google 語音搜尋";
+
 	"LISTENER_TITLE_libactivator.settings.about" = "關於本機";
 	"LISTENER_DESCRIPTION_libactivator.settings.about" = "打開設定的關於本機定頁面";
 
