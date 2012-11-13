@@ -354,6 +354,7 @@
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
 	"LISTENER_GROUP_TITLE_Sharing" = "Sharing";
+	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 
 	/* Listener Names */
 
@@ -557,6 +558,18 @@
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Open Settings to Wi-Fi";
 
+	"LISTENER_TITLE_com.rpetrich.activoice.apps" = "Google Apps";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "Activate Google's apps list";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.goggles" = "Goggles";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.goggles" = "Activate Google's goggles feature";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.search" = "Text Search";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.search" = "Activate Google's text search";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "Voice Search";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Activate Google's voice search";
+
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
 	"LISTENER_TITLE_toggle_Data" = "Data";
@@ -582,7 +595,6 @@
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Start/stop voice recognition";
 
 	"IN_CYDIA_WARNING" = "It is potentially dangerous to perform actions while Cydia is installing software.";
-
 
 	"ASSIGNMENTS" = "Assignments";
 	"ASSIGNMENTS_DETAIL" = "Overview all event assignments";
