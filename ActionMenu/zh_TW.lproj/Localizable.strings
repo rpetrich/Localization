@@ -23,7 +23,7 @@
 	"History" = "歷史記錄";
 	"Lookup" = "查閱";
 	"Scroll" = "滾動";
-	"Tweet" = "發表到 Tweet";
+	"Tweet" = "推文";
 	"Pasteboard Favorites" = "剪貼板收藏";
 	"Delete Favorite" = "刪除收藏";
 	"Add Favorite..." = "添加收藏…";
@@ -45,6 +45,7 @@
 	"Clear" = "清理";
 	"Confirm" = "確認";
 	"Pasteboard History" = "剪貼板歷史記錄";
+	"Upgrade" = "升級";
 
 	"Right to Left" = "右至左";
 	"Left to Right" = "左至右";
@@ -52,7 +53,7 @@
 	"New Favorite" = "新收藏";
 	"biteSMS" = "biteSMS";
 	"Extended Support" = "擴展支持";
-	"TRANSLATION_ABOUT" = "繁體中文：Merlin";
+	"TRANSLATION_ABOUT" = "繁體中文：Merlin (autopear)";
 
 	"Preferred Client" = "首選用戶端";
 
@@ -138,4 +139,9 @@
 	"Medium" = "中";
 	"Long" = "長";
 	"Full" = "完整";
+
+	"Sina Weibo" = "新浪微博";
+	"Weibo" = "微博";
+	"Facebook" = "Facebook";
+	"Twitter" = "推特 ";
 }
