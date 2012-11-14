@@ -430,3 +430,12 @@
 "LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "Уменьшить громкость на деление";
 "LISTENER_TITLE_libactivator.audio.increase-volume" = "Увеличить громкость";	
 "LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "Увеличить громкость на деление";
+"LISTENER_TITLE_com.rpetrich.activoice.apps" = "Приложения от Google";
+"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "Активировать список прил. Google";
+"LISTENER_TITLE_com.rpetrich.activoice.goggles" = "Goggles";
+"LISTENER_DESCRIPTION_com.rpetrich.activoice.goggles" = "Активировать Google's goggles";
+"LISTENER_TITLE_com.rpetrich.activoice.search" = "Текстовый поиск";
+"LISTENER_DESCRIPTION_com.rpetrich.activoice.search" = "Активировать текстовый поиск Google";
+"LISTENER_TITLE_com.rpetrich.activoice.voice" = "Голосовой поиск";
+"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Активировать голосовой поиск Google";
+"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
