@@ -354,6 +354,7 @@
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
 	"LISTENER_GROUP_TITLE_Sharing" = "Condivisione";
+	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 
 	/* Listener Names */
 
@@ -421,6 +422,12 @@
 
 	"LISTENER_TITLE_libactivator.weibo.compose-post" = "Componi weibo";
 	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Avvia il compositore weibo";
+
+	"LISTENER_TITLE_libactivator.audio.decrease-volume" = "Volume giù";
+	"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "Diminuisce il volume di un passo";
+
+	"LISTENER_TITLE_libactivator.audio.increase-volume" = "Volume sù";
+	"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "Aumenta il volume di un passo";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Mostra barra volume";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Mostra la barra del volume";
@@ -551,6 +558,18 @@
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Apre le impostazioni in  Wi-Fi";
 
+	"LISTENER_TITLE_com.rpetrich.activoice.apps" = "Applicazioni google";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "Attiva la lista applicazioni di google";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.goggles" = "Goggles";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.goggles" = "Attiva la funzione goggles di google";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.search" = "Ricerca testo";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.search" = "Attiva la ricerca testo di google";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "Ricerca vocale";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Attiva la ricerca vocale di gogole";
+
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
 	"LISTENER_TITLE_toggle_Data" = "Data";
@@ -576,7 +595,6 @@
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Avvia/Ferma il riconoscimento vocale";
 
 	"IN_CYDIA_WARNING" = "È potenzialmente pericoloso eseguire delle azioni mentre è in corso un'installazione di un software da Cydia.";
-
 
 	"ASSIGNMENTS" = "Assegnazioni";
 	"ASSIGNMENTS_DETAIL" = "Visualizza tutte le assegnazioni eventi";
