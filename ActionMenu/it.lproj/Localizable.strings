@@ -43,6 +43,7 @@
 	Clear = Pulisci;
 	Confirm = Conferma;
 	"Pasteboard History" = "Tabella cronologia";
+	"Upgrade" = "Aggiorna";
 
 	"Right to Left" = "Da destra verso sinistra";
 	"Left to Right" = "Da sinistra verso destra";
@@ -135,4 +136,9 @@
 	"Medium" = "Medio";
 	"Long" = "Lungo";
 	"Full" = "Completo";
+
+	"Sina Weibo" = "Sina Weibo";
+	"Weibo" = "Weibo";
+	"Facebook" = "Facebook";
+	"Twitter" = "Twitter";
 }
