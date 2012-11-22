@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> </key>
+	<string> </string>
+	<key>%llu GB</key>
+	<string>%llu GB</string>
+	<key>%llu KB</key>
+	<string>%llu KB</string>
+	<key>%llu MB</key>
+	<string>%llu MB</string>
+	<key>%llu bytes</key>
+	<string>%llu Bytes</string>
+	<key>%u days</key>
+	<string>%u Tage</string>
+	<key>%u hours</key>
+	<string>%u Stunden</string>
+	<key>%u hrs</key>
+	<string>%u hrs</string>
+	<key>%u mins</key>
+	<string>%u min</string>
+	<key>%u minutes</key>
+	<string>%u Minuten</string>
+	<key>%u seconds</key>
+	<string>%u Sekunden</string>
+	<key>%u secs</key>
+	<string>%u sek</string>
+	<key>1 day</key>
+	<string>1 Tag</string>
+	<key>1 hour</key>
+	<string>1 Stunde</string>
+	<key>1 hr</key>
+	<string>1 hr</string>
+	<key>1 min</key>
+	<string>1 min</string>
+	<key>1 minute</key>
+	<string>1 Minute</string>
+	<key>1 sec</key>
+	<string>1 sec</string>
+	<key>1 second</key>
+	<string>1 Sekunde</string>
+	<key>Activation Methods</key>
+	<string>Activator Methoden</string>
+	<key>Add to Camera Roll</key>
+	<string>Zur Kamera-Rolle hinzufügen</string>
+	<key>Always</key>
+	<string>Immer</string>
+	<key>Autos &amp; Vehicles</key>
+	<string>Autos &amp; Fahrzeuge</string>
+	<key>Begin/end screen recording</key>
+	<string>Starte/Beende Aufnahme</string>
+	<key>By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service</key>
+	<string>Wenn du auf Upload klickst, alzeptierst du dass du die Rechte über diesem Video hast und du akzeptierst die Lizenzvereinbahrung von YouTube!</string>
+	<key>Cancel</key>
+	<string>Abbrechen</string>
+	<key>Cancel Upload</key>
+	<string>Upload abbrechen</string>
+	<key>Category</key>
+	<string>Kategorie</string>
+	<key>Comedy</key>
+	<string>Komödie</string>
+	<key>Continue</key>
+	<string>Fortsetzen</string>
+	<key>Delete Recording</key>
+	<string>Aufnahme löschen</string>
+	<key>Description</key>
+	<string>Beschreibung</string>
+	<key>Description is empty</key>
+	<string>Beschreibung ist leer</string>
+	<key>Disable</key>
+	<string>Deaktivieren</string>
+	<key>Display Recorder</key>
+	<string>Display Recorder</string>
+	<key>Display cannot be recorded while uploading to YouTube.</key>
+	<string>Bildschirm kann nicht aufgenommen werden wenn du gerade Uploadest</string>
+	<key>DisplayRecorder on %@</key>
+	<string>DisplayRecorder on %@</string>
+	<key>Education</key>
+	<string>Bildung</string>
+	<key>Enable</key>
+	<string>Aktivieren</string>
+	<key>Enable/disable web interface</key>
+	<string>Aktiviere/Deaktiviere Webinterface</string>
+	<key>Entertainment</key>
+	<string>Unterhaltung</string>
+	<key>Error creating writer: %@</key>
+	<string>Fehler: %@</string>
+	<key>Failed to write pixel buffer</key>
+	<string>Fehler während des buffern der Pixel</string>
+	<key>Fill in your login details via the Display Recorder pane in the Settings application.</key>
+	<string>Fülle deine YouTube Login Daten in der Einstellungen App unter Display Recorder ein.</string>
+	<key>Film &amp; Animation</key>
+	<string>Film &amp; Animation</string>
+	<key>For best performance, select the native device orientation</key>
+	<string>Für die beste Performance wähle die ursprüngliche Gerät Orientierung</string>
+	<key>For best results, use the Google login that is linked to your YouTube account</key>
+	<string>Für die besten Ergebnisse benütze deinen Google Login, der mit deinem YouTube Account verlinkt ist</string>
+	<key>Framerate</key>
+	<string>Framerate</string>
+	<key>Full</key>
+	<string>Voll</string>
+	<key>Gaming</key>
+	<string>Spiele</string>
+	<key>Grayscale</key>
+	<string>Grayscale</string>
+	<key>H.264</key>
+	<string>H.264</string>
+	<key>H.264 + Mic</key>
+	<string>H.264 + Mic</string>
+	<key>H.264/MOV</key>
+	<string>H.264/MOV</string>
+	<key>H.264/MOV (experimental)</key>
+	<string>H.264/MOV (experimental)</string>
+	<key>H.264/MOV with Mic Audio</key>
+	<string>H.264/MOV mit Mic Audio</string>
+	<key>Half</key>
+	<string>Halb</string>
+	<key>Half-scale is not supported when OpenGL capture is enabled</key>
+	<string>Half-scale is not supported when OpenGL capture is enabled</string>
+	<key>Help</key>
+	<string>Hilfe</string>
+	<key>Hidden</key>
+	<string>Versteckt</string>
+	<key>High</key>
+	<string>High</string>
+	<key>Howto &amp; Style</key>
+	<string>Praktische Tipps &amp; Styling</string>
+	<key>In some cases, YouTube will not accept videos with large dimensions from a mobile device.
+For best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings.</key>
+	<string>In machen Fällen akzeptiert YouTube nicht so große Videos von Mobilgeräten. Für die besten Ergebnisse schicke das Video auf den Computer und uploade das Video via dem Webinterface von YouTube oder nehme das Video nochmal mit der halber Zoom Option in den Einstallungen auf.</string>
+	<key>Interrupted by another app using the audio/video codec hardware.</key>
+	<string>Die Aufnahme wurde unterbrochen weil ein anderes Video/Audio App verwendet wird.</string>
+	<key>Landscape Left</key>
+	<string>Linke Ausrichtungen</string>
+	<key>Landscape Right</key>
+	<string>Rechte Ausrichtung</string>
+	<key>Large</key>
+	<string>Groß</string>
+	<key>Lock Framerate</key>
+	<string>Ausrichtung sperren</string>
+	<key>Low</key>
+	<string>Klein</string>
+	<key>MJPEG/AVI (stable)</key>
+	<string>MJPEG/AVI (stable)</string>
+	<key>Medium</key>
+	<string>Mittel</string>
+	<key>Movies</key>
+	<string>Film &amp; Animation</string>
+	<key>Music</key>
+	<string>Musik</string>
+	<key>News &amp; Politics</key>
+	<string>Nachrichten &amp; Politik</string>
+	<key>Nonprofits &amp; Activism</key>
+	<string>Nonprofits &amp; Activism</string>
+	<key>Not connected to Wi-Fi</key>
+	<string>Nicht mit dem Wi-Fi verbunden</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Open in Safari</key>
+	<string>In Safari öffnen</string>
+	<key>OpenGL capture</key>
+	<string>OpenGL Aufnahme</string>
+	<key>Oversize Video</key>
+	<string>Zu großes Video</string>
+	<key>Password</key>
+	<string>Passwort</string>
+	<key>People &amp; Blogs</key>
+	<string>Leute &amp; Blogs</string>
+	<key>Pets &amp; Animals</key>
+	<string>Tiere</string>
+	<key>Play Video</key>
+	<string>Video abspielen</string>
+	<key>Portrait</key>
+	<string>Portrait</string>
+	<key>Public Video</key>
+	<string>Öffentliches Video</string>
+	<key>Record</key>
+	<string>Aufnehmen</string>
+	<key>Record Audio</key>
+	<string>Audio aufnehmen</string>
+	<key>Recording completed!</key>
+	<string>Aufnahme fertiggestellt!</string>
+	<key>Recording errored:
+%@</key>
+	<string>Fehler bei der Aufnahme:
+%@</string>
+	<key>Recording errored:
+%@
+(Error Code: %i)</key>
+	<string>Fehler bei der Aufnahme:
+%@
+(Fehler Code: %i)</string>
+	<key>Recordings</key>
+	<string>Aufnahmen</string>
+	<key>Recording…</key>
+	<string>Nimmt auf…</string>
+	<key>Rotation</key>
+	<string>Drehung</string>
+	<key>Save Failed!</key>
+	<string>Fehler beim Speichern!</string>
+	<key>Saving to Camera Roll…</key>
+	<string>Aufnahme wird zur Kamerarolle hinzugefügt...</string>
+	<key>Scale</key>
+	<string>Zoom</string>
+	<key>Science &amp; Technology</key>
+	<string>Wissenschaft &amp; Technik</string>
+	<key>Show Taps</key>
+	<string>Taps anzeigen</string>
+	<key>Show Terms</key>
+	<string>Terms anzeigen</string>
+	<key>Small</key>
+	<string>Klein</string>
+	<key>Sports</key>
+	<string>Sport</string>
+	<key>Start recording display?</key>
+	<string>Aufnahme Starten?</string>
+	<key>Start recording display?
+
+Activation gestures may be setup via the Settings application.</key>
+	<string>Aufnahme starten?
+
+Activator Methoden können via der Einstellungen App eingestellt werden.
+</string>
+	<key>Stop Recording</key>
+	<string>Aufnahme stoppen</string>
+	<key>Tap Size</key>
+	<string>Tap Größe</string>
+	<key>Title</key>
+	<string>Titel</string>
+	<key>Title is empty</key>
+	<string>Titel ist leer!</string>
+	<key>Toggle Recording</key>
+	<string>Aufnahme einstellen</string>
+	<key>Toggle Web Interface</key>
+	<string>Web Interface einstellen</string>
+	<key>Travel &amp; Events</key>
+	<string>Reisen &amp; Events</string>
+	<key>Unable to load framebuffer surface</key>
+	<string>Unfähig zum laden des FrameBuffer SurfaceUnable.</string>
+	<key>Unable to open output file at path %@</key>
+	<string>Unfähig zum öffnen des Pfades der Datei %@</string>
+	<key>Unable to save video to camera roll.</key>
+	<string>Unfähig zum hinzufügen des Videos zur Kamerarolle.</string>
+	<key>Unable to start writing</key>
+	<string>Unfähig zum schreiben der Datei</string>
+	<key>Upload</key>
+	<string>Upload</string>
+	<key>Upload Details</key>
+	<string>Upload Details</string>
+	<key>Upload completed successfully
+YouTube link is on the pasteboard</key>
+	<string>Der Upload war erfolgreich. Der YouTube Link wurde zum Pasteboard kopiert</string>
+	<key>Upload failed because your login credentials were refused. Go to the settings application and reenter them.
+If you are logging in via a Google account, ensure it is linked with your YouTube username.</key>
+	<string>Der Upload wurde unterbrochen weil die Login-Daten falsch waren. Wenn sie richtig waren gib einfach die Daten noch einmal ein.</string>
+	<key>Upload failed with error:
+</key>
+	<string>Upload wurde ubterbrochen wegen Fehler:
+</string>
+	<key>Upload to YouTube</key>
+	<string>Upload auf YouTube</string>
+	<key>Upside Down</key>
+	<string>Verkehrt</string>
+	<key>User's Guide</key>
+	<string>User's Guide</string>
+	<key>Video Format</key>
+	<string>Video Format</string>
+	<key>Video Quality</key>
+	<string>Video Qualität</string>
+	<key>Web Server</key>
+	<string>Web Server</string>
+	<key>Web server disabled</key>
+	<string>Web server ausgeschaltet</string>
+	<key>When Recording</key>
+	<string>Während der Aufnahme:</string>
+	<key>YouTube Account</key>
+	<string>YouTube Account</string>
+	<key>YouTube Login Missing</key>
+	<string>YouTube Login fehlt</string>
+	<key>YouTube Terms</key>
+	<string>YouTube Terms</string>
+	<key>YouTube or Google Account</key>
+	<string>YouTube oder Google Account</string>
+	<key>YouTube requires that all videos have a description.</key>
+	<string>YouTube verlangt dass alle Videos eine Beschreibung haben.</string>
+	<key>YouTube requires that all videos have a title.</key>
+	<string>YouTube verlangt dass alle Videos einen Titel haben.</string>
+</dict>
+</plist>
