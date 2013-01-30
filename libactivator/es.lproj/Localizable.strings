@@ -354,6 +354,7 @@
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
 	"LISTENER_GROUP_TITLE_Sharing" = "Sharing";
+	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 	
 	/* Listener Names */
 
@@ -421,6 +422,12 @@
 
 	"LISTENER_TITLE_libactivator.weibo.compose-post" = "Escribir en Weibo";
 	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Lanza el módulo de escribir en Weibo";
+
+	"LISTENER_TITLE_libactivator.audio.decrease-volume" = "Bajar volumen";
+	"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "Disminuye el volumen de audio";
+
+	"LISTENER_TITLE_libactivator.audio.increase-volume" = "Subir volumen";
+	"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "Aumenta el volumen de audio";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Barra de volumen";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Muestra el deslizador del volumen";
@@ -550,6 +557,18 @@
 	
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Abre ajustes en Wi-Fi";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.apps" = "Google Apps";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "Activa la lista de apps de Google";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.goggles" = "Goggles";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.goggles" = "Activa la función Google goggles";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.search" = "Buscar texto";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.search" = "Activa la búsqueda de texto de Google";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "Buscar por voz";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Activa la búsqueda por voz de Google";
 	
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
@@ -576,7 +595,6 @@
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Inicia/para el reconocimiento de voz";
 
 	"IN_CYDIA_WARNING" = "Es potencialmente peligroso activar acciones mientras Cydia está instalando software.";
-
 
 	"ASSIGNMENTS" = "Asignaciones";
 	"ASSIGNMENTS_DETAIL" = "Vista general de todas las asignaciones";
