@@ -1,103 +1,104 @@
 {
-  LOCALIZATION_ABOUT = "";
+  "LOCALIZATION_ABOUT" = "";
 
-  /* Settings Controller */
+	/* Settings Controller */
 
-  CANT_DEACTIVATE_REMAINING = "既存の設定を\n無効化できません";
-	AT_LEAST_ONE_ASSIGNMENT_REQUIRED = "%@には最低1つ以上\n設定を割り当ててください";
-	ALERT_OK = "OK";
-	ALERT_IGNORE = "無視";
-	ALERT_VALUE_AND = " と ";
-	ALREADY_ASSIGNED_TO = "%@は既に割り当てられています";
-	ALERT_CANCEL = "キャンセル";
-	ALERT_REASSIGN = "再設定してください";
-	ACTIVATOR = "Activator";
-	CURRENTLY_ASSIGNED_TO = "現在の設定:";
-	UNASSIGNED = "(未設定)";
-	MORE_ACTIONS = "その他の動作";
-	MORE_ACTIONS_DETAIL = "その他の動作をCydiaで入手";
-	DONATE = "寄付";
-	DONATE_DETAIL = "PayPalで寄付";
-	N_ADDITIONAL_EVENTS = "%i個の追加イベント";
-	RESET_SETTINGS = "設定をリセット";
-	RESET_SETTINGS_DETAIL = "全ての設定を初期値に戻す";
-	RESET_ALERT_TITLE = "Activatorの設定をリセット";
-	RESET_ALERT_MESSAGE = "本当にActivatorの設定を初期化してもよろしいですか？\n設定はRespring後に初期化されます。";
-	RESET_ALERT_CANCEL = "キャンセル";
-	RESET_ALERT_CONTINUE = "リセット";
-	MULTIPLE_ASSIGNMENTS = "(複数設定)";
+	"CANT_DEACTIVATE_REMAINING" = "既存の設定を\n無効化できません";
+	"AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "%@には最低1つ以上\n設定を割り当ててください";
+	"ALERT_OK" = "OK";
+	"ALERT_IGNORE" = "無視";
+	"ALERT_VALUE_AND" = " と ";
+	"ALREADY_ASSIGNED_TO" = "%@は既に割り当てられています";
+	"ALERT_CANCEL" = "キャンセル";
+	"ALERT_REASSIGN" = "再設定してください";
+	"ACTIVATOR" = "Activator";
+	"CURRENTLY_ASSIGNED_TO" = "現在の設定:";
+	"UNASSIGNED" = "(未設定)";
+	"MORE_ACTIONS" = "その他の動作";
+	"MORE_ACTIONS_DETAIL" = "その他の動作をCydiaで入手";
+	"DONATE" = "寄付";
+	"DONATE_DETAIL" = "PayPalで寄付";
+	"N_ADDITIONAL_EVENTS" = "%i個の追加イベント";
+	"RESET_SETTINGS" = "設定をリセット";
+	"RESET_SETTINGS_DETAIL" = "全ての設定を初期値に戻す";
+	"RESET_ALERT_TITLE" = "Activatorの設定をリセット";
+	"RESET_ALERT_MESSAGE" = "本当にActivatorの設定を初期化してもよろしいですか？\n設定はRespring後に初期化されます。";
+	"RESET_ALERT_CANCEL" = "キャンセル";
+	"RESET_ALERT_CONTINUE" = "リセット";
+	"MULTIPLE_ASSIGNMENTS" = "(複数設定)";
+	"UNKNOWN_ASSIGNMENT" = "(不明)";
 
-	ENABLED = "有効";
-	DISABLED = "無効";
+	"ENABLED" = "有効";
+	"DISABLED" = "無効";
 
-	OUT_OF_DATE_TITLE = "iOSのバージョンが古過ぎます";
-	OUT_OF_DATE_MESSAGE = "Activatorは最新のiOSに最適化されています。\nデバイスのアップデートを行ってください。";
+	"OUT_OF_DATE_TITLE" = "iOSのバージョンが古過ぎます";
+	"OUT_OF_DATE_MESSAGE" = "Activatorは最新のiOSに最適化されています。\nデバイスのアップデートを行ってください。";
 
-	TOO_NEW_TITLE = "未確認のiOSバージョンです";
-	TOO_NEW_MESSAGE = "ActivatorはこのiOSでの動作が確認されていません。\nいくつかの項目は正常に動作しない可能性があります。";
+	"TOO_NEW_TITLE" = "未確認のiOSバージョンです";
+	"TOO_NEW_MESSAGE" = "ActivatorはこのiOSでの動作が確認されていません。\nいくつかの項目は正常に動作しない可能性があります。";
 
-	VERSION_PROMPT_MORE_INFO = "詳細情報";
-	VERSION_PROMPT_IGNORE = "無視";
-	VERSION_PROMPT_CONTINUE = "続行";
+	"VERSION_PROMPT_MORE_INFO" = "詳細情報";
+	"VERSION_PROMPT_IGNORE" = "無視";
+	"VERSION_PROMPT_CONTINUE" = "続行";
 
-	SHOW_ICON = "アイコンを表示";
-	SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD = "ホームにアイコンを表示する";
+	"SHOW_ICON" = "アイコンを表示";
+	"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "ホームにアイコンを表示する";
 
-	Advertisement = "広告";
+	"Advertisement" = "広告";
 
-	SAFE_MODE_TITLE = "セーフモード";
-	SAFE_MODE_MESSAGE = "デバイスはセーフモードで動作しています。そのため、ほぼ全てのActivatorの機能が無効化されています。Respringすると通常のモードに戻ります。";
-	SAFE_MODE_CANCEL = "キャンセル";
-	SAFE_MODE_RESTART = "Respring";
+	"SAFE_MODE_TITLE" = "セーフモード";
+	"SAFE_MODE_MESSAGE" = "デバイスはセーフモードで動作しています。そのため、ほぼ全てのActivatorの機能が無効化されています。Respringすると通常のモードに戻ります。";
+	"SAFE_MODE_CANCEL" = "キャンセル";
+	"SAFE_MODE_RESTART" = "Respring";
 
-	ACTIVATOR_DISABLED = "Activatorは無効です";
-	ACTIVATOR_DISABLED_MESSAGE = "MobileSubstrateが機能していないため、ほぼ全てのActivatorの機能が無効化されています。もしセーフモードである場合は、ステータスバー上の \"Exit Safe Mode\" をタップし \"Restart\" をタップすることで通常のモードに戻ります。";
+	"ACTIVATOR_DISABLED" = "Activatorは無効です";
+	"ACTIVATOR_DISABLED_MESSAGE" = "MobileSubstrateが機能していないため、ほぼ全てのActivatorの機能が無効化されています。もしセーフモードである場合は、ステータスバー上の \"Exit Safe Mode\" をタップし \"Restart\" をタップすることで通常のモードに戻ります。";
 
-	ACTIVATOR_CORRUPT = "Activatorが破損しています";
-	ACTIVATOR_CORRUPT_MESSAGE = "Activatorのファイルが破損している可能性があるため、ほぼ全てのActivatorの機能が無効化されています。Cydiaを起動しActivatorを再インストールしてください。";
-	CORRUPT_CANCEL = "キャンセル";
-	CORRUPT_LAUNCH_CYDIA = "Cydiaを起動";
+	"ACTIVATOR_CORRUPT" = "Activatorが破損しています";
+	"ACTIVATOR_CORRUPT_MESSAGE" = "Activatorのファイルが破損している可能性があるため、ほぼ全てのActivatorの機能が無効化されています。Cydiaを起動しActivatorを再インストールしてください。";
+	"CORRUPT_CANCEL" = "キャンセル";
+	"CORRUPT_LAUNCH_CYDIA" = "Cydiaを起動";
 
-	BLACKLIST = "ブラックリスト";
-	BLACKLIST_DETAIL = "特定のアプリケーションで動作を無効化";
+	"BLACKLIST" = "ブラックリスト";
+	"BLACKLIST_DETAIL" = "特定のアプリケーションで動作を無効化";
 
 	/* Bookmarks */
 
-	BOOKMARKS = "ブックマーク";
-	BOOKMARKS_DETAIL = "ブックマーク設定を管理";
+	"BOOKMARKS" = "ブックマーク";
+	"BOOKMARKS_DETAIL" = "ブックマーク設定を管理";
 
-	ADD_NEW_BOOKMARK = "ブックマークを追加";
-	NEW_BOOKMARK = "新規ブックマーク";
-	BOOKMARK_TITLE = "ブックマークのタイトル";
-	BOOKMARK_URL = "ブックマークのURL";
-	BOOKMARK_DESCRIPTION_FORMAT = "%@ にアクセス";
+	"ADD_NEW_BOOKMARK" = "ブックマークを追加";
+	"NEW_BOOKMARK" = "新規ブックマーク";
+	"BOOKMARK_TITLE" = "ブックマークのタイトル";
+	"BOOKMARK_URL" = "ブックマークのURL";
+	"BOOKMARK_DESCRIPTION_FORMAT" = "%@ にアクセス";
 
 	/* Menus */
 
-	MENUS = "メニュー";
-	MENUS_DETAIL = "Activatorの動作を自分で設定できます";
+	"MENUS" = "メニュー";
+	"MENUS_DETAIL" = "Activatorの動作を自分で設定できます";
 
-	ADD_NEW_MENU = "新規メニューを追加";
-	NEW_MENU = "新規メニュー";
-	MENU_TITLE = "メニューのタイトル";
-	ADD = "追加";
-	ADD_ACTION = "新規設定";
-	CANCEL = "キャンセル";
-	ACTION = "動作の設定";
+	"ADD_NEW_MENU" = "新規メニューを追加";
+	"NEW_MENU" = "新規メニュー";
+	"MENU_TITLE" = "メニューのタイトル";
+	"ADD" = "追加";
+	"ADD_ACTION" = "新規設定";
+	"CANCEL" = "キャンセル";
+	"ACTION" = "動作の設定";
 
 	/* Modes */
 
-	MODE_TITLE_all = "常時起動";
-	MODE_DESCRIPTION_all = "常に";
+	"MODE_TITLE_all" = "常時起動";
+	"MODE_DESCRIPTION_all" = "";
 
-	MODE_TITLE_springboard = "ホーム画面上での動作";
-	MODE_DESCRIPTION_springboard = "ホーム画面上での動作を設定";
+	"MODE_TITLE_springboard" = "ホーム画面上での動作";
+	"MODE_DESCRIPTION_springboard" = "ホーム画面上での動作を設定";
 
-	MODE_TITLE_application = "アプリ上での動作";
-	MODE_DESCRIPTION_application = "アプリ起動中での動作を設定";
+	"MODE_TITLE_application" = "アプリ上での動作";
+	"MODE_DESCRIPTION_application" = "アプリ起動中での動作を設定";
 
-	MODE_TITLE_lockscreen = "ロック画面上での動作";
-	MODE_DESCRIPTION_lockscreen = "ロック画面上での動作を設定";
+	"MODE_TITLE_lockscreen" = "ロック画面上での動作";
+	"MODE_DESCRIPTION_lockscreen" = "ロック画面上での動作を設定";
 
 	/* Event Groups */
 
@@ -114,6 +115,7 @@
 	"EVENT_GROUP_TITLE_Power" = "電源";
 	"EVENT_GROUP_TITLE_Audio" = "オーディオ";
 	"EVENT_GROUP_TITLE_Settings" = "設定";
+	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Multi-Touch Gesture";
 
 	/* Events */
 
@@ -123,8 +125,11 @@
 	"EVENT_TITLE_libactivator.lock.press.double" = "2回押す";
 	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "スリープボタンを2回押す";
 
-	"EVENT_TITLE_libactivator.menu.hold.short" = "長押し";
-	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "ホームボタンを長押し";
+	"EVENT_TITLE_libactivator.menu.hold.short" = "やや長押し";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "ホームボタンをやや長押し";
+	
+	"EVENT_TITLE_libactivator.menu.hold.long" = "長押し";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "ホームボタンを長押し";
 
 	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "1回押す";
 	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "ホーム画面上でホームボタンを1回押す";
@@ -168,8 +173,8 @@
 	"EVENT_TITLE_libactivator.slide-in.right-bottom" = "スクリーン右下";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right-bottom" = "スクリーン右下から上にスワイプ";
 
-	"EVENT_TITLE_libactivator.slide-in.bottom" = "スクリーン上部";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "スクリーン上部から下にスワイプ";
+	"EVENT_TITLE_libactivator.slide-in.bottom" = "スクリーン下部";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "スクリーン下部から上にスワイプ";
 
 	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "スクリーン左下";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "スクリーン左下から上にスワイプ";
@@ -231,6 +236,24 @@
 	"EVENT_TITLE_libactivator.statusbar.tap.single" = "1回タップ";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "ステータスバーを1回タップ";
 
+	"EVENT_TITLE_libactivator.statusbar.hold.left" = "左側長押し";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "ステータスバー左側を長押し";
+
+	"EVENT_TITLE_libactivator.statusbar.hold.right" = "右側長押し";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "ステータスバー右側を長押し";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "左側を2回タップ";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "ステータスバーの左側を2回タップ";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "右側を2回タップ";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "ステータスバーの右側を2回タップ";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "左側を1回タップ";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "ステータスバーの左側を1回タップ";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "右側を1回タップ";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "ステータスバーの右側を1回タップ";
+
 	"EVENT_TITLE_libactivator.statusbar.tap.double" = "2回タップ";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "ステータスバーを2回タップ";
 
@@ -288,23 +311,55 @@
 	"EVENT_TITLE_libactivator.power.disconnected" = "充電終了";
 	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "デバイスの充電が終了(切断)されたとき";
 
+	"EVENT_TITLE_libactivator.five-finger.pinch" = "5本指でピンチイン";
+	"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "5本指で画面をピンチイン";
+
+	"EVENT_TITLE_libactivator.five-finger.spread" = "5本指でピンチアウト";
+	"EVENT_DESCRIPTION_libactivator.five-finger.spread" = "5本指で画面をピンチアウト";
+
+	"EVENT_TITLE_libactivator.five-finger.tap" = "5本指でタップ";
+	"EVENT_DESCRIPTION_libactivator.five-finger.tap" = "5本指で画面をタップ";
+
+	"EVENT_TITLE_libactivator.four-finger.pinch" = "4本指でピンチイン";
+	"EVENT_DESCRIPTION_libactivator.four-finger.pinch" = "4本指で画面をピンチイン";
+
+	"EVENT_TITLE_libactivator.four-finger.spread" = "4本指でピンチアウト";
+	"EVENT_DESCRIPTION_libactivator.four-finger.spread" = "4本指で画面をピンチアウト";
+
+	"EVENT_TITLE_libactivator.four-finger.tap" = "4本指でタップ";
+	"EVENT_DESCRIPTION_libactivator.four-finger.tap" = "4本指で画面をタップ";
+
+	"EVENT_TITLE_libactivator.three-finger.pinch" = "3本指でピンチイン";
+	"EVENT_DESCRIPTION_libactivator.three-finger.pinch" = "3本指で画面をピンチイン";
+
+	"EVENT_TITLE_libactivator.three-finger.spread" = "3本指でピンチアウト";
+	"EVENT_DESCRIPTION_libactivator.three-finger.spread" = "3本指で画面をピンチアウト";
+
+	"EVENT_TITLE_libactivator.three-finger.tap" = "3本指でタップ";
+	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "3本指で画面をタップ";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "システムの動作";
-	"LISTENER_GROUP_TITLE_System Applications" = "デフォルトアプリ";
-	"LISTENER_GROUP_TITLE_User Applications" = "サードパーティ製アプリ";
+	"LISTENER_GROUP_TITLE_System Applications" = "システム・アプリケーション";
+	"LISTENER_GROUP_TITLE_User Applications" = "ユーザー・アプリケーション";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "ロック画面";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettingsのトグル";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Toggles (Enable)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Toggles (Disable)";
 	"LISTENER_GROUP_TITLE_Phone" = "電話";
 	"LISTENER_GROUP_TITLE_Power" = "電源";
 	"LISTENER_GROUP_TITLE_Audio" = "オーディオ";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 	"LISTENER_GROUP_TITLE_Web Clips" = "ウェブクリップ";
+	"LISTENER_GROUP_TITLE_Sharing" = "Sharing";
 
 	/* Listener Names */
 
 	"LISTENER_DESCRIPTION_toggle" = "有効化/無効化";
+	"LISTENER_DESCRIPTION_toggle_enable" = "Activate toggle";
+	"LISTENER_DESCRIPTION_toggle_disable" = "Deactivate toggle";
 	"LISTENER_DESCRIPTION_application" = "このAppを起動";
 
 	"LISTENER_TITLE_libactivator.system.homebutton" = "ホーム";
@@ -329,7 +384,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Spotlightを表示";
 
 	"LISTENER_TITLE_libactivator.system.take-screenshot" = "スクリーンショット";
-	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "スクリーンショットを表示";
+	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "スクリーンショットを撮影";
 
 	"LISTENER_TITLE_libactivator.system.voice-control" = "音声コントロール";
 	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "音声コントロールを表示";
@@ -354,6 +409,18 @@
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "ツイート";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "ツイート投稿画面を表示";
+
+	"LISTENER_TITLE_libactivator.facebook.compose-post" = "Facebookへ投稿";
+	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Facebook投稿画面を表示";
+
+	"LISTENER_TITLE_libactivator.mail.compose-message" = "メールを送る";
+	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "メール.appを立ち上げる";
+
+	"LISTENER_TITLE_libactivator.sms.compose-message" = "SMSを送る";
+	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "メッセージ.appを立ち上げる";
+
+	"LISTENER_TITLE_libactivator.weibo.compose-post" = "Weiboへ投稿";
+	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Launch modal Weibo composer";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "ボリュームバー";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "音量調整のスライダーを表示";
@@ -399,7 +466,6 @@
 
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "ボイスメール";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "電話.appのボイスメールを開く";
-
 
 	"LISTENER_TITLE_libactivator.settings.about" = "情報";
 	"LISTENER_DESCRIPTION_libactivator.settings.about" = "情報の設定を開く";
@@ -485,7 +551,6 @@
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Wi-Fiの設定を開く";
 
-
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
 	"LISTENER_TITLE_toggle_Data" = "データ通信";
@@ -510,5 +575,26 @@
 	"LISTENER_TITLE_com.rpetrich.voicekeys" = "ボイスボタン";
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "音声認識を開始/終了";
 
-	IN_CYDIA_WARNING = "ソフトウェアをインストール中はActivatorの設定が無効化されます。";
+	IN_CYDIA_WARNING = "Cydiaでソフトウェアをインストールする時は、Activatorの設定が無効化されます。";
+
+
+	"ASSIGNMENTS" = "割り当て";
+	"ASSIGNMENTS_DETAIL" = "すべてのイベントの割り当てを表示";
+
+	"BACKUP_ASSIGNMENTS" = "設定のバックアップ";
+	"BACKUP_ASSIGNMENTS_DETAIL" = "イベントやメニューの設定をエクスポート";
+
+	"RESTORE_ASSIGNMENTS" = "設定の復元";
+	"RESTORE_ASSIGNMENTS_DETAIL" = "エクスポートした設定を復元";
+
+	"RESTORE_ALERT_TITLE" = "Activatorの設定を復元する";
+	"RESTORE_ALERT_MESSAGE" = "エクスポートした設定を復元してもよろしいですか？\n実行した場合、デバイスがRespringされます。";
+
+	"RESTORE_ALERT_CANCEL" = "キャンセル";
+	"RESTORE_ALERT_CONTINUE" = "復元";
+
+	"BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "エクスポートした設定は %@ に保存され、iTunes か iCloudで同期した時にバックアップされます。";
+
+	"FAILED_TO_OPEN_SETTINGS_FILE" = "設定ファイルを開くことができませんでした";
+	"FAILED_TO_WRITE_SETTINGS_FILE" = "設定ファイルへの書き込みに失敗しました: ";
 }
