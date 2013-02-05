@@ -1,5 +1,5 @@
 {
-	RetinaPad = RetinaPad;
+	"RetinaPad" = "RetinaPad";
 
 	"Enabled Applications" = "Список приложений";
 	"System Applications" = "Системные";
@@ -14,9 +14,9 @@
 	"Portrait in Landscape" = "Вертикально при горизонт. ориент.";
 	"This feature is in beta and is unsupported, for now." = "Функция в разработке и пока не поддерживается.";
 
-	OK = OK;
-	Cancel = Отмена;
-	Apply = Применить;
+	"OK" = "OK";
+	"Cancel" = "Отмена";
+	"Apply" = "Применить";
 
 	"To enter retina mode kill %@ via the multitasking switcher bar." = "Для перехода к графике Retina закройте %@ через панель многозадачности.";
 	"To exit retina mode kill %@ via the multitasking switcher bar." = "Для отключения графики Retina закройте %@ через панель многозадачности.";
@@ -25,8 +25,8 @@
 	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "Это первый запуск приложения после установки RetinaPad.\n\nВключить графику Retina?\n\nБольше настроек в разделе RetinaPad (в приложении Настройки).";
 
 	"System Information" = "Системная информация";
-	Fake = Подменять;
-	Nothing = Ничего;
+	"Fake" = "Подменять";
+	"Nothing" = "Ничего";
 	"Machine Name" = "Имя устройства";
 	"Machine and Hardware Name" = "Имя устройства и железа";
 }
