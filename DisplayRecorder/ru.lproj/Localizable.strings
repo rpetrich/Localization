@@ -4,7 +4,7 @@
 	"DisplayRecorder on %@" = "DisplayRecorder на %@";
 
 	"Start recording display?" = "Начать запись?";
-	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "Начать запись?\n\Методы активации настраиваются в приложении "Настройки".";
+	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "Начать запись?\n\Методы активации настраиваются в приложении Настройки.";
 	"Cancel" = "Отмена";
 	"Record" = "Запись";
 
@@ -33,7 +33,7 @@
 	"Cancel Upload" = "Отменить выгрузку";
 
 	"YouTube Terms" = "Условия YouTube";
-	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "Нажимая "Выгрузить", Вы соглашаетесь с правилами пользования программой и YouTube.";
+	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "Нажимая Выгрузить, Вы соглашаетесь с правилами пользования программой и YouTube.";
 	"Show Terms" = "Показать Условия";
 
 	"Title" = "Название";
@@ -59,7 +59,7 @@
 	"Movies" = "Movies";
 
 	"YouTube Login Missing" = "Не заполнен аккаунт YouTube";
-	"Fill in your login details via the Display Recorder pane in the Settings application." = "Заполните данные аккаунта в приложении "Настройки" во вкладке "Display Recorder".";
+	"Fill in your login details via the Display Recorder pane in the Settings application." = "Заполните данные аккаунта в приложении Настройки в разделе Display Recorder.";
 	"Oversize Video" = "Слишком большое видеo";
 	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "Иногда YouTube не принимает видео высокого разрешения с мобильных устройств.\nСкопируйте видео на компьютер и выгрузите через сайт YouTube.";
 	"Continue" = "Продолжить";
@@ -69,7 +69,7 @@
 	"Description is empty" = "Описание не заполнено";
 	"YouTube requires that all videos have a description." = "YouTube требует описания к видео.";
 
-	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "Выгрузка невозможна, так как данные Вашего аккаунта были отвергнуты сервером. Зайдите в приложение "Настройки" и введите их повторно.\nЕсли Вы входите через аккаунт Google, убедитесь, что он связан с аккаунтом YouTube.";
+	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "Выгрузка невозможна, так как данные Вашего аккаунта были отвергнуты сервером. Зайдите в приложение Настройки и введите их повторно.\nЕсли Вы входите через аккаунт Google, убедитесь, что он связан с аккаунтом YouTube.";
 	"Upload failed with error:\n" = "Ошибка выгрузки:\n";
 	"Upload completed successfully\nYouTube link is on the pasteboard" = "Выгрузка прошла успешно\nСсылка на YouTube в буфере обмена";
 
@@ -144,7 +144,7 @@
 	"Open in Safari" = "Открыть в Safari";
 	"OpenGL capture" = "Захват OpenGL";
 	"Password" = "Пароль";
-	"Portrait" = "Вертиеальная";
+	"Portrait" = "Вертикальная";
 	"Record Audio" = "Запись аудио";
 	"Rotation" = "Переворот";
 	"Scale" = "Масштаб";
@@ -159,6 +159,6 @@
 	"When Recording" = "При записи";
 	"YouTube Account" = "Аккаунт YouTube";
 	"YouTube or Google Account" = "Аккаунт YouTube или Google";
-        "Open in iFile" = "Открыть в iFile";
-        "Send via Bluetooth" = "Отправить по Bluetooth";
+	"Open in iFile" = "Открыть в iFile";
+	"Send via Bluetooth" = "Отправить по Bluetooth";
 }
