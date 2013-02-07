@@ -439,3 +439,9 @@
 "LISTENER_TITLE_com.rpetrich.activoice.voice" = "Голосовой поиск";
 "LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Активировать голосовой поиск Google";
 "LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Яркость и обои";
+"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "Открыть Настройки->Яркость и обои";
+"LISTENER_TITLE_a3tweaks.auxo.showmedia" = "Управление медиа";
+"LISTENER_DESCRIPTION_a3tweaks.auxo.showmedia" = "Показать упр. медиа Auxo";
+"LISTENER_TITLE_a3tweaks.auxo.showtoggles" = "Переключатели";
+"LISTENER_DESCRIPTION_a3tweaks.auxo.showtoggles" = "Показать переключатели Auxo";
