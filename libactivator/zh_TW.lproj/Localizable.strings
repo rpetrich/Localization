@@ -406,7 +406,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "停用原始動作";
 
 	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "SpringBoard 第一頁";
-	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "訪問第一個圖示頁面";
+	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "跳轉到第一個圖示頁面";
 
 	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "激活通知中心";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "下拉式通知中心";
@@ -692,6 +692,12 @@
 	"LISTENER_TITLE_com.ichitaso.uirotation.up" = "正常";
 	"LISTENER_DESCRIPTION_com.ichitaso.uirotation.up" = "豎直方向";
 
+	"LISTENER_TITLE_a3tweaks.auxo.showmedia" = "顯示多媒體控制";
+	"LISTENER_DESCRIPTION_a3tweaks.auxo.showmedia" = "顯示 Auxo 的多媒體控制";
+
+	"LISTENER_TITLE_a3tweaks.auxo.showtoggles" = "顯示開關";
+	"LISTENER_DESCRIPTION_a3tweaks.auxo.showtoggles" = "顯示 Auxo 的開關";
+
 	"LISTENER_TITLE_com.rpetrich.activoice.apps" = "Google 應用";
 	"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "訪問 Google 應用程式列";
 
@@ -718,6 +724,9 @@
 
 	"LISTENER_TITLE_libactivator.settings.brightness" = "亮度";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "打開設定的亮度頁面";
+
+	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "亮度與背景圖片";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "打開設定的亮度與背景圖片頁面";
 
 	"LISTENER_TITLE_libactivator.settings.date-time" = "日期與時間";
 	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "打開設定的日期與時間頁面";
