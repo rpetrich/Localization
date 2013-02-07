@@ -489,6 +489,9 @@
 	"LISTENER_TITLE_libactivator.settings.brightness" = "Brightness";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "Open Settings to Brightness";
 
+	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Brightness & Wallpaper";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "Open Settings to Brightness/Wallpaper page";
+
 	"LISTENER_TITLE_libactivator.settings.date-time" = "Date & Time";
 	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Open Settings to Date & Time";
 
