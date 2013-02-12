@@ -358,10 +358,10 @@
 
 	/* Listener Names */
 
-	"LISTENER_DESCRIPTION_toggle" = "Attiva/disattiva l'interruttore";
+	"LISTENER_DESCRIPTION_toggle" = "Alterna attiva/disattiva l'interruttore";
 	"LISTENER_DESCRIPTION_toggle_enable" = "Attiva l'interruttore";
 	"LISTENER_DESCRIPTION_toggle_disable" = "Disattiva l'interruttore";
-	"LISTENER_DESCRIPTION_application" = "Attiva applicazione";
+	"LISTENER_DESCRIPTION_application" = "Avvia l'applicazione";
 
 	"LISTENER_TITLE_libactivator.system.homebutton" = "Pulsante home";
 	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Simula il pulsante home";
@@ -382,7 +382,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Simula il pulsante power";
 
 	"LISTENER_TITLE_libactivator.system.spotlight" = "Spotlight";
-	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Mostra il cerca nella SpringBoard";
+	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Mostra il cerca";
 
 	"LISTENER_TITLE_libactivator.system.take-screenshot" = "Cattura schermo";
 	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Cattura il contenuto dello schermo";
@@ -402,11 +402,11 @@
 	"LISTENER_TITLE_libactivator.system.nothing" = "Nessuna azione";
 	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "Sopprime l'azione originale";
 
-	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "Prima pagine SpringBoard";
+	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "Prima pagina";
 	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Salta alla prima pagina di icone";
 
 	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Attiva centro notifiche";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Trascina giù il centro notifiche";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Mostra il centro notifiche";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Componi tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Avvia il compositore tweet";
@@ -460,19 +460,19 @@
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Alterna visualizzazione lockscreen";
 
 	"LISTENER_TITLE_libactivator.phone.contacts" = "Mostra contatti";
-	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Avvia il telefono in contatti";
+	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Avvia telefono in contatti";
 
 	"LISTENER_TITLE_libactivator.phone.favorites" = "Mostra preferiti";
-	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "Avvia il telefono in preferiti";
+	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "Avvia telefono in preferiti";
 
 	"LISTENER_TITLE_libactivator.phone.keypad" = "Mostra tastierino";
-	"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "Avvia il telefono in tastierino";
+	"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "Avvia telefono in tastierino";
 
 	"LISTENER_TITLE_libactivator.phone.recents" = "Mostra recenti";
-	"LISTENER_DESCRIPTION_libactivator.phone.recents" = "Avvia il telefono in recenti";
+	"LISTENER_DESCRIPTION_libactivator.phone.recents" = "Avvia telefono in recenti";
 
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "Mostra segreteria";
-	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Avvia il telefono in segreteria";
+	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Avvia telefono in segreteria";
 
 	"LISTENER_TITLE_libactivator.settings.about" = "Info";
 	"LISTENER_DESCRIPTION_libactivator.settings.about" = "Apre le impostazioni in info";
@@ -488,6 +488,9 @@
 
 	"LISTENER_TITLE_libactivator.settings.brightness" = "Luminosità";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "Apre le impostazioni in luminosità";
+
+	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Luminosità e sfondo";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "Apre le impostazioni in luminosità e sfondo";
 
 	"LISTENER_TITLE_libactivator.settings.date-time" = "Data e ora";
 	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Apre le impostazioni in data e ora";
@@ -514,13 +517,13 @@
 	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "Apre le impostazioni in localizzazione";
 
 	"LISTENER_TITLE_libactivator.settings.music" = "Musica";
-	"LISTENER_DESCRIPTION_libactivator.settings.music" = "Apre le impostazioni in Musica";
+	"LISTENER_DESCRIPTION_libactivator.settings.music" = "Apre le impostazioni in musica";
 
 	"LISTENER_TITLE_libactivator.settings.network" = "Rete";
 	"LISTENER_DESCRIPTION_libactivator.settings.network" = "Apre le impostazioni in rete";
 
 	"LISTENER_TITLE_libactivator.settings.notes" = "Note";
-	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "Apre le impostazioni in Note";
+	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "Apre le impostazioni in note";
 
 	"LISTENER_TITLE_libactivator.settings.notifications" = "Notifiche";
 	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "Apre le impostazioni in notifiche";
@@ -556,7 +559,7 @@
 	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Apre le impostazioni in sfondo";
 
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
-	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Apre le impostazioni in  Wi-Fi";
+	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Apre le impostazioni in Wi-Fi";
 
 	"LISTENER_TITLE_com.rpetrich.activoice.apps" = "Applicazioni google";
 	"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "Attiva la lista applicazioni di google";
@@ -592,7 +595,7 @@
 	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "Scorre continuamente giù";
 
 	"LISTENER_TITLE_com.rpetrich.voicekeys" = "VoiceKeys";
-	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Avvia/Ferma il riconoscimento vocale";
+	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Avvia/ferma il riconoscimento vocale";
 
 	"IN_CYDIA_WARNING" = "È potenzialmente pericoloso eseguire delle azioni mentre è in corso un'installazione di un software da Cydia.";
 
