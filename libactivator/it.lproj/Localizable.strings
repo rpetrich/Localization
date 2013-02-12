@@ -59,7 +59,7 @@
 	"CORRUPT_CANCEL" = "Annulla";
 	"CORRUPT_LAUNCH_CYDIA" = "Avvia Cydia";
 
-	"BLACKLIST" = "Blacklist";
+	"BLACKLIST" = "Lista nera";
 	"BLACKLIST_DETAIL" = "Ignora gli eventi in applicazioni specifiche";
 
 	/* Bookmarks */
