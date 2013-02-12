@@ -25,8 +25,8 @@
 	"Toggle Recording" = "Alterna registrazione";
 	"Toggle Web Interface" = "Alterna interfaccia WEB";
 
-	"Begin/end screen recording" = "Avvia/Ferma registrazione schermo";
-	"Enable/disable web interface" = "Abilita/Disabilita interfaccia WEB";
+	"Begin/end screen recording" = "Avvia/ferma registrazione schermo";
+	"Enable/disable web interface" = "Abilita/disabilita interfaccia WEB";
 
 	"Upload Details" = "Dettagli caricamento";
 	"Upload" = "Carica";
