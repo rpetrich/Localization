@@ -103,7 +103,7 @@
 	/* Event Groups */
 	
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "Gestos de deslizar";
-	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Deslizar con dos dedos";
+	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Gestos deslizar con dos dedos";
 	"EVENT_GROUP_TITLE_Motion" = "Movimiento";
 	"EVENT_GROUP_TITLE_SpringBoard" = "SpringBoard";
 	"EVENT_GROUP_TITLE_Status Bar" = "Barra de estado";
@@ -242,11 +242,11 @@
 	"EVENT_TITLE_libactivator.statusbar.hold.right" = "Presionar derecha";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Toca y mantén en la parte derecha de la barra";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Doble toque izquierda";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Doble toque en la parte izquierda de la barra";
+	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Toque doble izquierda";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Toque doble en la parte izquierda de la barra";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "Doble toque derecha";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "Doble toque en la parte derecha de la barra";
+	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "Toque doble derecha";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "Toque doble en la parte derecha de la barra";
 
 	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "Toque izquierda";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "Toca la parte izquierda de la barra";
@@ -488,6 +488,9 @@
 	
 	"LISTENER_TITLE_libactivator.settings.brightness" = "Brillo";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "Abre ajustes en Brillo";
+
+	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Brillo y fondo de pantalla";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "Abre ajustes en Brillo y fondo";
 	
 	"LISTENER_TITLE_libactivator.settings.date-time" = "Fecha y hora";
 	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Abre ajustes en Fecha y hora";
