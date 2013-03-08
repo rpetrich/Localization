@@ -775,11 +775,17 @@
 	"LISTENER_TITLE_libactivator.settings.sounds" = "声音";
 	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "打开设置的声音页面";
 
-	"LISTENER_TITLE_libactivator.settings.store" = "Store";
-	"LISTENER_DESCRIPTION_libactivator.settings.store" = "打开设置的 Store 页面";
+	"LISTENER_TITLE_libactivator.settings.store" = "iTunes Store 和 App Store";
+	"LISTENER_DESCRIPTION_libactivator.settings.store" = "打开设置的 iTunes Store 和 App Store 页面";
 
 	"LISTENER_TITLE_libactivator.settings.twitter" = "Twitter";
 	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "打开设置的 Twitter 页面";
+
+	"LISTENER_TITLE_libactivator.settings.facebook" = "Facebook";
+	"LISTENER_DESCRIPTION_libactivator.settings.facebook" = "打开设置的 Facebook 页面";
+
+	"LISTENER_TITLE_libactivator.settings.weibo" = "新浪微博";
+	"LISTENER_DESCRIPTION_libactivator.settings.weibo" = "打开设置的新浪微博页面";
 
 	"LISTENER_TITLE_libactivator.settings.usage" = "用量";
 	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "打开设置的用量页面";
