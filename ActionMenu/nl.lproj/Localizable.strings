@@ -1,0 +1,144 @@
+{
+	"OK" = "OK";
+	"Cancel" = "Annuleer";
+	"ON" = "AAN";
+	"OFF" = "UIT";
+	"all-day" = "hele dag";
+	"AM" = "AM";
+	"PM" = "PM";
+	"by" = "door";
+	"on" = "aan";
+	"lap" = "ronde";
+	"Enabled" = "Ingeschakeld";
+	"Use Icons" = "Gebruik Iconen";
+	"Actions" = "Acties";
+	"More Actions..." = "Meer Acties...";
+	"Donate with PayPal" = "Doneer via PayPal";
+	"Copy All" = "Kopieer Alles";
+	"Debug" = "Debug";
+	"Dial" = "Bel";
+	"Favorites" = "Favorieten";
+	"History" = "Historie";
+	"Lookup" = "Zoek op";
+	"Scroll" = "Scroll";
+	"Tweet" = "Tweet";
+	"Pasteboard Favorites" = "Klembord Favorieten";
+	"Delete Favorite" = "Verwijder Favoriet";
+	"Add Favorite..." = "Voeg Favoriet Toe...";
+	"Add Favorite" = "Voeg Favoriet Toe";
+	"Create" = "Creëer";
+	"Enter the new favorite details" = "Voer details in voor de nieuwe favoriet";
+	"Open in Safari" = "Open in Safari";
+	"Search" = "Zoeken";
+	"Wikipedia" = "Wikipedia";
+	"Dictionary" = "Woordenboek";
+	"Translate" = "Vertaal";
+	"Find" = "Zoek";
+	"Find In Page" = "Zoek Op Pagina";
+	"Find Next" = "Zoek Volgende";
+	"Find Previous" = "Zoek Vorige";
+	"Next" = "Volgende";
+	"Previous" = "Vorige";
+	"Not Found" = "Niet Gevonden";
+	"Clear" = "Wis";
+	"Confirm" = "Bevestig";
+	"Pasteboard History" = "Klembord Favorieten";
+	"Upgrade" = "Upgraden";
+
+	"Right to Left" = "Rechts naar Links";
+	"Left to Right" = "Links naar Rechts;
+	"Sorted" = "Gesorteerd";
+	"New Favorite" = "Nieuwe Favoriet";
+	"biteSMS" = "biteSMS";
+	"Extended Support" = "Uitgebreide Ondersteuning";
+	"TRANSLATION_ABOUT" = "Vertaald door @vroeeem";
+
+	"Preferred Client" = "Geprefereerde Client";
+
+	"Clear History" = "Verwijder Historie";
+	"Close" = "Sluit";
+
+	"Cut" = "Knip";
+	"Copy" = "Kopieer";
+	"Paste" = "Plak";
+	"Select" = "Select";
+	"Select All" = "Select All";
+
+	"Locate" = "Lokatie";
+	"Error retrieving location!" = "Fout bij ophalen lokatie!";
+	"Estimated Accuracy:" = "Geschatte Nauwkeurigheid:";
+	"%ld meters" = "%ld meters";
+	"My Location on Google Maps" = "Mijn Lokatie op Google Maps";
+	"Pastie" = "Pastie";
+	"Send to Pastie" = "Stuur naar Pastie";
+	"Paste Complete" = "Paste Voltooid";
+	"The URL has been copied to your clipboard." = "De link is gekopieerd naar het klembord.";
+	"Continue" = "Ga door";
+	"Error" = "Fout";
+	"Unable to submit your pastie." = "Pastie verzenden niet mogelijk.";
+	"No Search Results" = "Geen Zoekresultaten";
+
+	"Edit Favorite" = "Wijzig Favoriet";
+	"To Top" = "Naar Boven";
+	"To Bottom" = "Naar Beneden";
+
+	"Rich Text For Mail" = "Rich Text For Mail";
+	"Format" = "Lettertype";
+	"Bold" = "Dik";
+	"Italic" = "Schuin";
+	"Underline" = "Onderstreept";
+	"Strikethrough" = "Doorgestreept";
+	"Image" = "Afbeelding";
+	"Text Style" = "Tekststijl";
+	"Font Size" = "Lettergrootte";
+	"Font Family" = "Lettertype";
+	"Text Color" = "Tekstkleur";
+	"Highlight Color" = "Markeerkleur";
+	"Black" = "Zwart";
+	"White" = "Wit";
+	"Silver" = "Zilver";
+	"Gray" = "Grijs";
+	"Red" = "Rood";
+	"Maroon" = "Kastanjebruin";
+	"Yellow" = "Geel";
+	"Olive" = "Olijfgroen";
+	"Lime" = "Limoen";
+	"Green" = "Groen";
+	"Aqua" = "Cyaan";
+	"Teal" = "Teal";
+	"Blue" = "Blauw";
+	"Navy" = "Marineblauw";
+	"Fuchsia" = "Magenta";
+	"Purple" = "Paars";
+	"None" = "Geen";
+	"Unknown" = "Onbekend";
+
+	"Playing" = "Speelt";
+	"\"%@\" by %@ " = "\"%@\" door %@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> door <strong>%@</strong> ";
+
+	"Default Actions" = "Standaardacties";
+	"Replace" = "Vervang";
+
+	"Link" = "Link";
+	"Insert" = "Voeg In";
+	"Link Text" = "Linktekst";
+	"Link URL" = "Link URL";
+
+	"Celeste" = "Celeste";
+	"Voice" = "Spraak";
+	"Today" = "Vandaag";
+
+	"Date Format" = "Datumsformaat";
+	"Time Format" = "Tijdsformaat";
+	"None" = "Geen";
+	"Short" = "Kort";
+	"Medium" = "Gemiddeld";
+	"Long" = "Lang";
+	"Full" = "Volledig";
+	
+	"Sina Weibo" = "Sina Weibo";
+	"Weibo" = "Weibo";
+	"Facebook" = "Facebook";
+	"Twitter" = "Twitter";
+}
