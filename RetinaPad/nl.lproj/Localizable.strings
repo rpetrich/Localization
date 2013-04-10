@@ -1,0 +1,32 @@
+{
+	RetinaPad = RetinaPad;
+
+	"Enabled Applications" = "Ingeschakelde Applicaties";
+	"System Applications" = "Systeemapplicaties";
+	"User Applications" = "Gebruikersapplicaties";
+	"Customize which applications Retina mode is applied to." = "Pas aan op welke applicaties Retina modus toegepast wordt.";
+	
+	"Always Zoom" = "Zoom Altijd";
+	"Allow Upside Down" = "Sta Ondersteboven Toe";
+	"Show Simulated Chrome" = "Toon Chrome Simulatie";
+	"Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Klassieke apps die momenteel aanstaan dienen gesloten te worden via de multitasking balk om de aanpassingen toe te passen.";
+	
+	"Portrait in Landscape" = "Portret in Landschap";
+	"This feature is in beta and is unsupported, for now." = "Deze functie is beta en wordt voorlopig niet ondersteund.";
+	
+	OK = OK;
+	Cancel = Annuleer;
+	Apply = Pas Toe;
+	
+	"To enter retina mode kill %@ via the multitasking switcher bar." = "Om retina modus te activeren sluit %@ af via de multitasking balk.";
+	"To exit retina mode kill %@ via the multitasking switcher bar." = "Om retina modus te deactiveren sluit %@ af via de multitasking balk.";
+	"this application" = "deze applicatie";
+
+	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "Dit is de eerste keer dat deze klassieke applicatie gestart is sinds de installatie van RetinaPad.\n\nWil je retina modus toepassen?\n\nMeer instellingen kunnen worden gevonden in RetinaPad's Instellingen paneel.";
+	
+	"System Information" = "Systeeminformatie";
+	Fake = Nep;
+	Nothing = Niets;
+	"Machine Name" = "Machinenaam";
+	"Machine and Hardware Name" = "Machine– en Hardware-naam";
+}
