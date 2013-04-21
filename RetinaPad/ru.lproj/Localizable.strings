@@ -1,32 +1,60 @@
-{
-	"RetinaPad" = "RetinaPad";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Allow Upside Down</key>
+	<string>Переворот</string>
+	<key>Always Zoom</key>
+	<string>Всегда увеличивать</string>
+	<key>Apply</key>
+	<string>Применить</string>
+	<key>Cancel</key>
+	<string>Отмена</string>
+	<key>Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect.</key>
+	<string>Запущенные приложения должны быть закрыты через панель многозадачности для принятия изменений.</string>
+	<key>Customize which applications Retina mode is applied to.</key>
+	<string>Выбрать приложения для запуска в режиме режиме Retina.</string>
+	<key>Enabled Applications</key>
+	<string>Активно для приложений</string>
+	<key>Fake</key>
+	<string>Подменять идентификатор</string>
+	<key>Machine Name</key>
+	<string>Устройства</string>
+	<key>Machine and Hardware Name</key>
+	<string>Устройства и железа</string>
+	<key>Nothing</key>
+	<string>Нет</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Portrait in Landscape</key>
+	<string>Портретная ориент. в альбомной</string>
+	<key>RetinaPad</key>
+	<string>RetinaPad</string>
+	<key>Show Simulated Chrome</key>
+	<string>Показывать рамку</string>
+	<key>System Applications</key>
+	<string>Системные приложения</string>
+	<key>System Information</key>
+	<string>Системная информация</string>
+	<key>This feature is in beta and is unsupported, for now.</key>
+	<string>Эта функция находится в разработке и пока не поддерживается.</string>
+	<key>This is the first time this classic application has been launched with RetinaPad installed.
 
-	"Enabled Applications" = "Список приложений";
-	"System Applications" = "Системные";
-	"User Applications" = "Установленные";
-	"Customize which applications Retina mode is applied to." = "Выберите приложения, для которых будет работать RetinaPad.";
+Do you wish to apply retina mode?
 
-	"Always Zoom" = "Всегда увеличивать";
-	"Allow Upside Down" = "Разрешить переворот";
-	"Show Simulated Chrome" = "Имитировать хром";
-	"Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Закройте запущенные приложения с помощью панели многозадачности для принятия изменений.";
+More settings may be found in RetinaPad's Settings pane.</key>
+	<string>Данное приложение не было выбрано для работы в режиме Retina.
 
-	"Portrait in Landscape" = "Вертикально при горизонт. ориент.";
-	"This feature is in beta and is unsupported, for now." = "Функция в разработке и пока не поддерживается.";
+Активировать режим Retina?
 
-	"OK" = "OK";
-	"Cancel" = "Отмена";
-	"Apply" = "Применить";
-
-	"To enter retina mode kill %@ via the multitasking switcher bar." = "Для перехода к графике Retina закройте %@ через панель многозадачности.";
-	"To exit retina mode kill %@ via the multitasking switcher bar." = "Для отключения графики Retina закройте %@ через панель многозадачности.";
-	"this application" = "это приложение";
-
-	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "Это первый запуск приложения после установки RetinaPad.\n\nВключить графику Retina?\n\nБольше настроек в разделе RetinaPad (в приложении Настройки).";
-
-	"System Information" = "Системная информация";
-	"Fake" = "Подменять";
-	"Nothing" = "Ничего";
-	"Machine Name" = "Имя устройства";
-	"Machine and Hardware Name" = "Имя устройства и железа";
-}
+Больше настроек находится в Настройках в разделе RetinaPad.</string>
+	<key>To enter retina mode kill %@ via the multitasking switcher bar.</key>
+	<string>Для активации режима Retina закройте %@ через панель многозадачности.</string>
+	<key>To exit retina mode kill %@ via the multitasking switcher bar.</key>
+	<string>Для деактивации режима Retina %@ через панель многозадачности.</string>
+	<key>User Applications</key>
+	<string>Установленные приложения</string>
+	<key>this application</key>
+	<string>это приложение</string>
+</dict>
+</plist>
