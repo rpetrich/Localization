@@ -1,0 +1,48 @@
+{
+	OK = "OK";
+
+	PULL_ENABLE_PREFIX = "Pull to Enable";
+	PULL_DISABLE_PREFIX = "Pull to Disable";
+	RELEASE_ENABLE_PREFIX = "Release to Enable";
+	RELEASE_DISABLE_PREFIX = "Release to Disable";
+	PULLDOWN_TEXT = " Do Not Disturb";
+
+	/* Settings Main Pane */
+
+	AUTHORS = "by Sentry and Ryan Petrich.";
+	AUTHORS_PURCHASED = "by Sentry and Ryan Petrich.\nThank you for your purchase.";
+
+	LOVE_GAMES = "I'm loving #Luna from @A3tweaks!";
+	CANNOT_SEND_TWEET = "Cannot send tweet";
+	CANNOT_SEND_TWEET_DETAILS = "As you don't have any Twitter accounts setup, you can't send a love tweet";
+
+	IN_NOTIFICATION_CENTER = "In Notification Center";
+	ON_LOCK_SCREEN = "On Lock Screen";
+	ACTIVATION_INSTRUCTIONS = "Enable Do Not Disturb via Luna by pulling down from the top of the screen in Notification Center or the Lock Screen.";
+
+	NOCTURNAL_BANNERS = "Nocturnal Banners";
+	NOCTURNAL_BANNER_ALERT_TONES = "Alert Tones";
+	NOCTURNAL_BANNER_INSTRUCTIONS = "With Do Not Disturb enabled, notifications that arrive while unlocked will appear as Nocturnal Banners in the status bar.";
+
+	THE_CREATORS = "The Creators";
+
+	SUPPORT_EMAIL_LINK = "A³tweaks Support";
+	LUNA_SUPPORT = "Luna Support";
+	CANNOT_SEND_MAIL = "Cannot send mail";
+	CANNOT_SEND_MAIL_DETAILS = "As you don't have any mail accounts setup, you can't send a support email";
+
+	LOCALIZATION_ABOUT = "";
+
+	/* Settings Creators Pane */
+
+	CREATORS = "Creators";
+
+	SENTRY = "Sentry";
+	SENTRY_HANDLE = "(@Sentry_NC)";
+	SENTRY_INFO = "User Interface Designer\nDesigner of Luna & Auxo\nFounder of A Cubed";
+	RYAN_PETRICH = "Ryan Petrich";
+	RYAN_PETRICH_HANDLE = "(@rpetrich)";
+	RYAN_PETRICH_INFO = "Mobile Software Engineer\nDeveloper of Luna\nTea Enthusiast";
+	FOLLOW_A3TWEAKS = "Follow A³tweaks";
+
+}
