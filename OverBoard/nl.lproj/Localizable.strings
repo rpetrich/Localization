@@ -1,0 +1,47 @@
+{
+	
+	ACTIVATION_METHODS = "Activatiemethoden";
+	HOME_BUTTON = "Thuisknop";
+	DOUBLE_HOME_BUTTON = "Dubbel Thuisknop";
+	SPRINGBOARD_ICON = "SpringBoard Icoon";
+	SPRINGBOARD_PINCH = "SpringBoard Knijp";
+	SPRINGBOARD_SPREAD = "SpringBoard Spreid";
+	
+	VISIBLE_ELEMENTS = "Zichtbare Elementen";
+	COLUMNS = "Kolommen";
+	ONE = "Een";
+	TWO = "Twee";
+	THREE = "Drie";
+	FOUR = "Vier";
+	FIVE = "Vijf";
+	AUTO = "Auto";
+	DOCK = "Dock";
+	SEARCH_PAGE = "Zoekpagina";
+	ANIMATED = "Geanimeerd";
+	REVERSE_ORDER = "Omgedraaide Volgorde";
+	SHOW_AS_HOME_SCREEN = "Toon als Beginscherm";
+
+	BADGE_STYLE = "Badge-Stijl";
+	BADGE_STYLE_HIDDEN = "Verborgen";
+	BADGE_STYLE_ON_ICONS = "Op Iconen";
+	BADGE_STYLE_ON_PAGES = "Op Pagina's";
+	BADGE_STYLE_ON_BOTH = "Op Beide";
+	
+	PLAY_SOUNDS = "Speel Geluiden";
+
+	"CLEAR_ICON_CACHE" = "Leeg Icoon Cache";
+	"CLEAR_ICON_CACHE_QUESTION" = "Icon Cache Legen?";
+	
+	CONTINUE = "Ga Door";
+	CANCEL = "Annuleer";
+	
+	BACKGROUND_STYLE = "Achtergrondstijl";
+	THEME_BACKGROUND = "Theme Achtergrond";
+	SYSTEM_WALLPAPER = "Systeemachtergrond";
+	THEME = "Theme";
+	WALLPAPER = "Achtergrond";
+
+	PAGE_TITLES = "Paginatitels";
+	SHOW_TITLES = "Toon Titels";
+	TITLES = "Titels";
+}

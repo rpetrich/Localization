@@ -1,0 +1,47 @@
+{
+	"Trigger Events" = "Voorwaarden";
+	"Key Pressed" = "Toets Ingedrukt";
+	"Key Released" = "Toets Losgelaten";
+	"Key Repeated" = "Toets Herhaald";
+
+	"Trigger Controls" = "Voorwaarden Controles";
+	"Keyboard" = "Toetsenbord";
+	"Buttons" = "Knoppen";
+	"Table Cells" = "Tabelcellen";
+	"Web Links" = "Web Links";
+
+	"Duration" = "Duur";
+
+	"Test Keyboard" = "Test Toetsenbord";
+
+	"HapticPro-Advanced" = "Geavanceerde Instellingen";
+	"Reset to Defaults" = "Herstel Standaardinstellingen";
+	"Are you sure you wish to reset HapticPro to the default settings?" = "Weet je zeker dat je de standaardinstellingen van HapticPro wilt herstellen?";
+	"Cancel" = "Annuleer";
+	"Reset" = "Herstel";
+	
+	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "Wegens limitaties van iPhone OS 3.0 zal HapticPro uitgeschakeld worden als er geluid wordt afgespeeld.";
+	
+	
+	"Intensity" = "Intensiteit";
+	"Adjust the strength of the vibration." = "Wijzig de sterkte van de vibratie.";
+	"Has no effect on the iPhone 3G" = "Heeft geen effect op de iPhone 3G";
+	
+	"Only Special Keys" = "Alleen Speciale Toetsen";
+	"Activates HapticPro only from the keyboard's modifier keys." = "Activeert HapticPro alleen via modificatietoetsen van het toetsenbord.";
+
+	"Buttons" = "Knoppen";
+	"Add Click Sounds" = "Voeg Klikgeluiden Toe";
+	"Enable keyboard click sounds on regular buttons." = "Schakel toetsenbord klikgeluiden in bij gewone knoppen.";
+	
+	"Ringer Switch" = "Zijschakelaar";
+	"Trigger In Ring" = "Actief Wanneer Geluid Aan";
+	"Trigger In Silent" = "Actief Wanneer Geluid Uit";
+	"Enable/disable haptic feedback based on the status of the ringer switch." = "Activeer/deactiveer haptische feedback afhankelijk van de zijschakelaar.";
+
+	"Duration" = "Duur";
+	"Duration Factor Pressed" = "Duur Factor Ingedrukt";
+	"Duration Factor Released" = "Duur Factor Losgelaten";
+	"Duration Factor Repeated" = "Duur Factor Herhaald";
+	"Control the duration of each type of haptic feedback independently." = "Beheer de duur van elke soort haptische feedback afzonderlijk.";
+}

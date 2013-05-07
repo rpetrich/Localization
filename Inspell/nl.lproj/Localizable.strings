@@ -1,0 +1,47 @@
+{
+	"Correct" = "Corrigeer";
+	"Add To Dictionary" = "Voeg Toe Aan Woordenboek";
+	"Cancel" = "Annuleer";
+
+	"Enabled" = "Ingeschakeld";
+	"Language" = "Taal";
+	"Use Heuristics" = "Gebruik Heuristiek";
+	"Clear User Dictionary" = "Wis Gebruikerswoordenboek";
+
+	"OK" = "OK";
+	"Visit" = "Bezoek";
+	
+	"Are you sure you wish to clear your user dictionary?" = "Weet je zeker dat je het gebruikerswoordenboek wilt wissen?";
+	"Clear" = "Wis";
+	
+	"Autocorrections" = "Autocorrecties";
+	"Add Correction..." = "Voeg Correctie Toe...";
+	"Create" = "Creëer";
+	"Enter the new autocorrection details" = "Voer de nieuwe autocorrectie details in";
+	"Input" = "Invoer";
+	"Output" = "Uitvoer";
+	"Tap to Edit" = "Tap om te Wijzigen";
+	"Correction" = "Correctie";
+	"Save" = "Bewaar";
+	"Enter the updated autocorrection details" = "Voer de bijgewerkte autocorrectie details in";
+	
+	"Input Text Is Blank" = "Tekstinvoer Is Leeg";
+	"Input text must be entered to create an autocorrect rule" = "Voer invoertekst in om een autocorrect regel te creëren";
+	"Invalid Characters" = "Ongeldige Tekens";
+	"Input text may contain only numbers and letters" = "Ingevoerde tekst mag alleen letters en nummers bevatten";
+	"Output Text Is Blank" = "Uitvoertekst Is Leeg";
+	"Output text must be entered to create an autocorrect rule" = "Voer uitvoertekst in om een autocorrect regel te creëren";
+	"Delete Correction" = "Verwijder Correctie";
+	
+	"Style" = "Stijl";
+	"Squiggly Underline" = "Kronkelend Onderstreept";
+	"Solid Underline" = "Solide Onderstreept";
+	"Dashed Underline" = "Gestippeld Onderstreept";
+	"Shaded Box" = "Gearceerd Vak";
+	
+	"Secondary" = "Secundari";
+	"(None)" = "(Geen)";
+	"(none)" = "(geen)";
+	
+	"Add..." = "Voeg Toe...";
+}
