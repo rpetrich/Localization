@@ -1,0 +1,48 @@
+{
+	OK = "OK";
+
+	PULL_ENABLE_PREFIX = "Tirez pour Activer";
+	PULL_DISABLE_PREFIX = "Tirez pour Désactiver";
+	RELEASE_ENABLE_PREFIX = "Relâchez pour Activer";
+	RELEASE_DISABLE_PREFIX = "Relâchez pour Désactiver";
+	PULLDOWN_TEXT = " Ne pas Déranger";
+
+	/* Settings Main Pane */
+
+	AUTHORS = "par Sentry et Ryan Petrich.";
+	AUTHORS_PURCHASED = "par Sentry et Ryan Petrich.\nMerci pour votre achat.";
+
+	LOVE_GAMES = "J'adore #Luna de @A3tweaks!";
+	CANNOT_SEND_TWEET = "Impossible d'envoyer le tweet";
+	CANNOT_SEND_TWEET_DETAILS = "Comme vous n'avez pas configuré de compte Twitter, vous ne pouvez pas envoyer de tweet d'amour";
+
+	IN_NOTIFICATION_CENTER = "Dans le Centre de Notifications";
+	ON_LOCK_SCREEN = "Sur l'écran de déverrouillage";
+	ACTIVATION_INSTRUCTIONS = "Activez Ne pas Déranger via Luna en tirant vers le bas du haut de l'écran à partir du Centre de Notifications ou de l'écran de déverrouillage.";
+
+	NOCTURNAL_BANNERS = "Bannières Noctures";
+	NOCTURNAL_BANNER_ALERT_TONES = "Sons d'alertes";
+	NOCTURNAL_BANNER_INSTRUCTIONS = "Avec Ne pas Déranger activé, les notifications qui arrivent lorsque l'appareil est verrouilé apparaîtront en tant que Bannières Noctures dans la barre de status.";
+
+	THE_CREATORS = "Les Créateurs";
+
+	SUPPORT_EMAIL_LINK = "Support A³tweaks";
+	LUNA_SUPPORT = "Support Luna";
+	CANNOT_SEND_MAIL = "Impossible d'envoyer le email";
+	CANNOT_SEND_MAIL_DETAILS = "Comme vous n'avez pas configuré de compte mail, vous ne pouvez pas envoyer d'email de support";
+
+	LOCALIZATION_ABOUT = "McNight";
+
+	/* Settings Creators Pane */
+
+	CREATORS = "Créateurs";
+
+	SENTRY = "Sentry";
+	SENTRY_HANDLE = "(@Sentry_NC)";
+	SENTRY_INFO = "Designer d'interface utilisateur\nDesigner de Luna & Auxo\nFondateur de A Cubed";
+	RYAN_PETRICH = "Ryan Petrich";
+	RYAN_PETRICH_HANDLE = "(@rpetrich)";
+	RYAN_PETRICH_INFO = "Ingénieur Logiciel Mobile\nDéveloppeur de Luna\Amateur de Thé";
+	FOLLOW_A3TWEAKS = "Suivre A³tweaks";
+
+}
