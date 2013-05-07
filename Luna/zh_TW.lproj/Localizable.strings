@@ -1,0 +1,48 @@
+{
+	"OK" = "確定";
+
+	"PULL_ENABLE_PREFIX" = "下拉以啟用";
+	"PULL_DISABLE_PREFIX" = "下拉以禁用";
+	"RELEASE_ENABLE_PREFIX" = "松開以啟用";
+	"RELEASE_DISABLE_PREFIX" = "松開以禁用";
+	"PULLDOWN_TEXT" = "勿擾模式";
+
+	/* Settings Main Pane */
+
+	"AUTHORS" = "作者：Sentry 和 Ryan Petrich";
+	"AUTHORS_PURCHASED" = "作者：Sentry 和 Ryan Petrich\n感謝購買。";
+
+	"LOVE_GAMES" = "我中意 @A3tweaks 的 #Luna ！";
+	"CANNOT_SEND_TWEET" = "無法發推";
+	"CANNOT_SEND_TWEET_DETAILS" = "您沒有設定 Twitter 賬戶，因此無法發推。";
+
+	"IN_NOTIFICATION_CENTER" = "在通知中心";
+	"ON_LOCK_SCREEN" = "在鎖定螢幕";
+	"ACTIVATION_INSTRUCTIONS" = "在通知中心或鎖定螢幕的頂部向下拉以啟用勿擾模式。";
+
+	"NOCTURNAL_BANNERS" = "夜間模式橫幅";
+	"NOCTURNAL_BANNER_ALERT_TONES" = "提醒音";
+	"NOCTURNAL_BANNER_INSTRUCTIONS" = "啟用勿擾模式時，解鎖狀態下收到的通知將會在狀態列以夜間模式橫幅顯示。";
+
+	"THE_CREATORS" = "開發者";
+
+	"SUPPORT_EMAIL_LINK" = "A³tweaks 支援";
+	"LUNA_SUPPORT" = "Luna 支援";
+	"CANNOT_SEND_MAIL" = "無法發送郵件";
+	"CANNOT_SEND_MAIL_DETAILS" = "您沒有設定任何郵件賬戶，因此無法發送支持郵件。";
+
+	"LOCALIZATION_ABOUT" = "Merlin Mao";
+
+	/* Settings Creators Pane */
+
+	"CREATORS" = "開發者";
+
+	"SENTRY" = "Sentry";
+	"SENTRY_HANDLE" = "（@Sentry_NC）";
+	"SENTRY_INFO" = "界面設計\nLuna 和 Auxo 的設計者\nA Cubed 創始人";
+	"RYAN_PETRICH" = "Ryan Petrich";
+	"RYAN_PETRICH_HANDLE" = "（@rpetrich）";
+	"RYAN_PETRICH_INFO" = "移動軟體工程師\nLuna 開發者\n狂熱茶愛好者";
+	"FOLLOW_A3TWEAKS" = "關注 A³tweaks";
+
+}
