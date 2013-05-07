@@ -1,0 +1,63 @@
+{
+	PROSWITCHER = ProSwitcher;
+	
+	/* Settings Controller */
+	
+	ACTIVATION_METHODS = "Activatiemethoden";
+	
+	BECOME_HOME_SCREEN = "Become Home Screen";
+	BECOME_HOME_SCREEN_DISABLED = "Uitgeschakeld";
+	BECOME_HOME_SCREEN_ENABLED = "Ingeschakeld";
+	BECOME_HOME_SCREEN_BACKGROUND = "Achtergrond";
+	
+	SHOW_ICON = "Toon Icoon";
+	
+	DISPLAY_GROUP = "Scherm";
+	SHOW_APPLICATION_TITLE = "Applicatietitel";
+	SHOW_BADGES = "Toon Badges";
+	ZOOM_ACTIVE_CARD = "Zoom Actieve Kaart";
+	SHOW_CLOSE_BUTTON = "Sluitknop";
+	EMPTY_TAP_TO_CLOSE = "Tap Lege Ruimte om te Sluiten";
+	
+	ROUNDED_CORNERS = "Ronde Hoeken";
+	ROUNDED_CORNERS_NONE = "Geen";
+	ROUNDED_CORNERS_SMALL = "Klein";
+	ROUNDED_CORNERS_MEDIUM = "Medium";
+	ROUNDED_CORNERS_LARGE = "Groot";
+	
+	SHOW_PAGE_CONTROL = "Pagina Puntjes";
+	SHOW_SPRINGBOARD_CARD = "SpringBoard Kaart";
+	SHOW_DEFAULT_APPS = "Toon Standaard Apps";
+	SWIPE_TO_CLOSE = "Swipe om te Sluiten";
+	
+	EMPTY_STYLE = "Lege Stijl";
+	EMPTY_STYLE_TEXT = "Tekst";
+	EMPTY_STYLE_BLANK = "Blanco";
+	EMPTY_STYLE_DISABLED = "Uitgeschakeld";
+	
+	SNAPSHOT_INSET = "Kaarten Zichtbaar";
+	SNAPSHOT_INSET_40 = "Drie";
+	SNAPSHOT_INSET_0 = "Een";
+	
+	TAPS_TO_ACTIVATE = "Taps Om Te Activeren";
+	TAPS_TO_ACTIVATE_SINGLE = "Een";
+	TAPS_TO_ACTIVATE_DOUBLE = "Twee";
+	
+	THEMING_GROUP = "Theming";
+	
+	THEMED_ICONS = "Gethemede Iconen";
+	SHOW_DOCK = "Toon Dock";
+	DIM_BACKGROUND = "Dim Achtergrond";
+	
+	BACKGROUND_STYLE = "Achtgrond Stijl";
+	BACKGROUND_STYLE_NONE = "Transparant";
+	BACKGROUND_STYLE_IMAGE = "Theme";
+	
+	ABOUT_COPYRIGHT = "ProSwitcher © 2009-2013 Ryan Petrich & Grant Paul en is gelicenseerd onder de GNU LGPL.";
+	
+	NO_APPS_RUNNING = "Geen Draaiende Apps";
+	
+	WELCOME_TITLE = "Welkom Bij ProSwitcher";
+	WELCOME_MESSAGE = "Om instellingen te wijzigen of gebaren in te stellen, ga naar de Instellingen app.\n\n(c) 2009-2013 Ryan Petrich & Grant Paul\nLGPL-Gelicenseerd";
+	WELCOME_CONTINUE_BUTTON = "Ga Door";
+}

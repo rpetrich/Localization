@@ -1,0 +1,87 @@
+"Display Out" = "Display Out";
+
+"Enabled" = "Ingeschakeld";
+
+"Orientation" = "Oriëntatie";
+"Follow Interface" = "Volg Interface";
+"Follow SpringBoard" = "Volg SpringBoard";
+"Landscape Left" = "Landschap Links";
+"Landscape Right" = "Landschap Rechts";
+"Portrait" = "Portret";
+"Upside-Down" = "Ondersteboven";
+
+"Max Screen Resolution" = "Maximale Schermresolutie";
+"480" = "480";
+"640x480 (all)" = "640x480 (alles)";
+"600" = "600";
+"800x600 (VGA/HDMI)" = "800x600 (VGA/HDMI)";
+"720p" = "720p";
+"720p (HDMI-only)" = "720p (alleen HDMI)";
+"768p" = "768p";
+"1024x768 (VGA/HDMI)" = "1024x768 (VGA/HDMI)";
+"1280x1024 (HDMI+iPad 2)" = "1280x1024 (HDMI+4S/iPad 2)";
+"1024" = "1024";
+"1920x1200 (HDMI+iPad 2)" = "1920x1200 (HDMI+4S/iPad 2)";
+"1080p" = "1080p";
+
+"Scale" = "Zoom Portret/Landschap";
+
+"Aspect Adjust" = "Beeldverhouding aanpassen aan Portret/Landschap";
+"Preserve" = "Behoud";
+"16:10" = "16:10";
+"16:10 Display Stretch" = "16:10 Beeldscherm Uitrekken";
+"16:9" = "16:9";
+"16:9 Display Stretch" = "16:9 Beeldscherm Uitrekken";
+
+"Horizontal Offset" = "Horizontale Offset Portret/Landschap";
+"Vertical Offset" = "Verticale Offset Portret/Landschap";
+
+"Show Taps" = "Geef Taps Weer";
+"Never" = "Nooit";
+"Always" = "Altijd";
+"Skip Keyboard/OpenGL" = "Sla Toetsenbord/OpenGL Over";
+
+"Tap Size" = "Tap-grootte";
+"Huge" = "Gigantisch";
+"Giant" = "Enorm";
+"Big" = "Groter";
+"Large" = "Groot";
+"Medium" = "Medium";
+"Small" = "Klein";
+"Little" = "Kleiner";
+"Tiny" = "Minuscuul";
+
+"Showing taps may cause flicker" = "Taps weergeven kan flikkeringen veroorzaken";
+
+"Experimental" = "Experimenteel";
+
+"Native Support" = "Native Ondersteuning";
+
+"This app" = "Deze app";
+" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = " lijkt ingebouwde ondersteuning voor externe beeldschermen te hebben.\nHet zou beter zijn om Display Out tijdelijk uit te schakelen.";
+"OK" = "OK";
+
+"Just Main Content" = "Alleen Hoofdinhoud";
+"Shows only the main content on the external display" = "Toont alleen de hoofdinhoud op het externe scherm";
+
+"Connection Alerts" = "Verbindingswaarschuwingen";
+"Show" = "Geef Weer";
+"External display connected." = "Extern scherm verbonden.";
+"External display disconnected." = "Extern scherm ontkoppeld.";
+
+"OpenGL" = "OpenGL";
+"Suppressing flicker may reduce performance or cause additional memory use in some games" = "Flikkeringen onderdrukken kan de prestaties verminderen of in sommige games extra geheugen gebruiken";
+"Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "OpenGL flikkeringen onderdrukken kan extra geheugengebruik veroorzaken of onverwacht gedrag in sommige games";
+"Suppress Flicker" = "Onderdruk Flikkeringen";
+"Allow On Lock Screen" = "Sta Toe Op Toegangsscherm";
+
+"Show On" = "Geef Weer Op";
+"External Display" = "Extern Scherm";
+"Both Displays" = "Beide Schermen";
+
+"Render Quality" = "Render Kwaliteit";
+"Low Quality" = "Lage Kwaliteit";
+"High Quality" = "Hoge Kwaliteit";
+
+"Dim Brightness" = "Dim Helderheid";
+"On Connect" = "Op Aansluiting";
