@@ -31,7 +31,7 @@
 	CANNOT_SEND_MAIL = "Impossible d'envoyer le email";
 	CANNOT_SEND_MAIL_DETAILS = "Comme vous n'avez pas configuré de compte mail, vous ne pouvez pas envoyer d'email de support";
 
-	LOCALIZATION_ABOUT = "McNight";
+	LOCALIZATION_ABOUT = "Traduction par McNight";
 
 	/* Settings Creators Pane */
 
