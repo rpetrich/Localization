@@ -1,1 +1,41 @@
-Test
+{
+SWIPE_STYLE = "Estilo deslizar";
+LEFT_AND_UP_TO_OPEN = "Izquierda y arriba para abrir app";
+JUST_LEFT_TO_OPEN = "Sólo izquierda para abrir app";
+LEFT_AND_UP = "Izquierda y arriba";
+JUST_LEFT = "Sólo izquierda";
+
+TAPPING_GRABBER = "Tapping Grabber";
+BOUNCES_LOCK_SCREEN = "Bounces Lock Screen";
+OPENS_FIRST_APP = "Abre la 1ª app";
+BOUNCES = "Bounces";
+
+SHOW_GRABBER = "Mostar grabber";
+ALWAYS = "Siempre";
+WHEN_NO_NOTIFICATION = "Cuando No hay notificaciones está activo";
+STANDARD = "Estándar";
+
+SHOW_SLIDESHOW_BUTTON = "Mostrar botón Slideshow";
+
+ICON_COUNT = "Contador de iconos";
+ONE = "Uno";
+TWO = "Dos";
+THREE = "Tres";
+FOUR = "Cuatro";
+FIVE = "Cinco";
+SIX = "Seis";
+SEVEN = "Siete";
+EIGHT = "Ocho";
+NINE = "Nueve";
+TEN = "Diez";
+ELEVEN = "Once";
+TWELVE = "Doce";
+
+REQUIRE_PASSCODE = "Requiere código";
+
+QUICK_LAUNCH_APPS = "App acceso rápido";
+ICON = "Icono";
+APP = "App";
+
+PASSCODE_WARNING = "Si hay un código establecido, las aplicaciones con acceso seguro a sus datos mediante encriptación (como Mail) requieren el código de acceso para funcionar correctamente.";
+}
