@@ -29,7 +29,7 @@
 	"SUPPORT_EMAIL_LINK" = "A³tweaks 支援";
 	"LUNA_SUPPORT" = "Luna 支援";
 	"CANNOT_SEND_MAIL" = "無法發送郵件";
-	"CANNOT_SEND_MAIL_DETAILS" = "您沒有設定任何郵件賬戶，因此無法發送支持郵件。";
+	"CANNOT_SEND_MAIL_DETAILS" = "您沒有設定任何郵件賬戶，因此無法發送支援郵件。";
 
 	"LOCALIZATION_ABOUT" = "繁體中文：Merlin Mao";
 

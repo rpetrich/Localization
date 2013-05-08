@@ -1,0 +1,41 @@
+{
+	"SWIPE_STYLE" = "滑动样式";
+	"LEFT_AND_UP_TO_OPEN" = "向左后向上以启动应用程序";
+	"JUST_LEFT_TO_OPEN" = "向左以启动应用程序";
+	"LEFT_AND_UP" = "向左后向上";
+	"JUST_LEFT" = "向左";
+
+	"TAPPING_GRABBER" = "点击抓取标记";
+	"BOUNCES_LOCK_SCREEN" = "振动锁定屏幕";
+	"OPENS_FIRST_APP" = "启动首个应用程序";
+	"BOUNCES" = "振动";
+
+	"SHOW_GRABBER" = "显示抓取标记";
+	"ALWAYS" = "总是";
+	"WHEN_NO_NOTIFICATION" = "当没有活动通知时";
+	"STANDARD" = "标准";
+
+	"SHOW_SLIDESHOW_BUTTON" = "显示幻灯片按钮";
+
+	"ICON_COUNT" = "图标数";
+	"ONE" = "一";
+	"TWO" = "二";
+	"THREE" = "三";
+	"FOUR" = "四";
+	"FIVE" = "五";
+	"SIX" = "六";
+	"SEVEN" = "七";
+	"EIGHT" = "八";
+	"NINE" = "九";
+	"TEN" = "十";
+	"ELEVEN" = "十一";
+	"TWELVE" = "十二";
+
+	"REQUIRE_PASSCODE" = "要求密码";
+
+	"QUICK_LAUNCH_APPS" = "快速启动应用程序";
+	"ICON" = "图标";
+	"APP" = "应用程序";
+
+	"PASSCODE_WARNING" = "如果设置了设备解锁密码，需要使用加密方式获取数据的应用程序（如邮件）需要使用密码才能正常工作。";
+}
