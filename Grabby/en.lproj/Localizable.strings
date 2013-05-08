@@ -1,0 +1,41 @@
+{
+	SWIPE_STYLE = "Swipe Style";
+	LEFT_AND_UP_TO_OPEN = "Left and Up to Open App";
+	JUST_LEFT_TO_OPEN = "Just Left to Open App";
+	LEFT_AND_UP = "Left and Up";
+	JUST_LEFT = "Just Left";
+
+	TAPPING_GRABBER = "Tapping Grabber";
+	BOUNCES_LOCK_SCREEN = "Bounces Lock Screen";
+	OPENS_FIRST_APP = "Opens First App";
+	BOUNCES = "Bounces";
+
+	SHOW_GRABBER = "Show Grabber";
+	ALWAYS = "Always";
+	WHEN_NO_NOTIFICATION = "When No Notification Is Active";
+	STANDARD = "Standard";
+
+	SHOW_SLIDESHOW_BUTTON = "Show Slideshow Button";
+	
+	ICON_COUNT = "Icon Count";
+	ONE = "One";
+	TWO = "Two";
+	THREE = "Three";
+	FOUR = "Four";
+	FIVE = "Five";
+	SIX = "Six";
+	SEVEN = "Seven";
+	EIGHT = "Eight";
+	NINE = "Nine";
+	TEN = "Ten";
+	ELEVEN = "Eleven";
+	TWELVE = "Twelve";
+
+	REQUIRE_PASSCODE = "Require Passcode";
+
+	QUICK_LAUNCH_APPS = "Quick Launch Apps";
+	ICON = "Icon";
+	APP = "App";
+
+	PASSCODE_WARNING = "If a device passcode is set, apps that secure access to their data using encryption (such as Mail) require the passcode to behave properly";
+}
