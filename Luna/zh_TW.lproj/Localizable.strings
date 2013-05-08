@@ -31,7 +31,7 @@
 	"CANNOT_SEND_MAIL" = "無法發送郵件";
 	"CANNOT_SEND_MAIL_DETAILS" = "您沒有設定任何郵件賬戶，因此無法發送支持郵件。";
 
-	"LOCALIZATION_ABOUT" = "Merlin Mao";
+	"LOCALIZATION_ABOUT" = "繁體中文：Merlin Mao";
 
 	/* Settings Creators Pane */
 

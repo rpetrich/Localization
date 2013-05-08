@@ -31,7 +31,7 @@
 	"CANNOT_SEND_MAIL" = "无法发送邮件";
 	"CANNOT_SEND_MAIL_DETAILS" = "您没有设置任何邮件账户，因此无法发送支持邮件。";
 
-	"LOCALIZATION_ABOUT" = "Merlin Mao";
+	"LOCALIZATION_ABOUT" = "简体中文：Merlin Mao";
 
 	/* Settings Creators Pane */
 
