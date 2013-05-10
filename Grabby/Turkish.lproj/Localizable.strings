@@ -1,0 +1,41 @@
+{
+	SWIPE_STYLE = "Kaydırma Yöntemi";
+	LEFT_AND_UP_TO_OPEN = "Sola ve Yukarı Kaydırınca";
+	JUST_LEFT_TO_OPEN = "Sadece Sola Kaydırınca";
+	LEFT_AND_UP = "Sola ve Yukarı";
+	JUST_LEFT = "Sadece Sola";
+
+	TAPPING_GRABBER = "Tutucuya Dokununca";
+	BOUNCES_LOCK_SCREEN = "Kilit Ekranı Zıplar";
+	OPENS_FIRST_APP = "İlk Uygulamayı Açar";
+	BOUNCES = "Zıplar";
+
+	SHOW_GRABBER = "Tutucuyu Göster";
+	ALWAYS = "Her Zaman";
+	WHEN_NO_NOTIFICATION = "Sadece Hiç Bildirim Yokken";
+	STANDARD = "Standart";
+
+	SHOW_SLIDESHOW_BUTTON = "Slayt Gösterisi Butonu";
+
+	ICON_COUNT = "Simge Sayısı";
+	ONE = "Bir";
+	TWO = "İki";
+	THREE = "Üç";
+	FOUR = "Dört";
+	FIVE = "Beş";
+	SIX = "Altı";
+	SEVEN = "Yedi";
+	EIGHT = "Sekiz";
+	NINE = "Dokuz";
+	TEN = "On";
+	ELEVEN = "On Bir";
+	TWELVE = "On İki";
+
+	REQUIRE_PASSCODE = "Kilit Kodu İste";
+
+	QUICK_LAUNCH_APPS = "Hızlı Erişim Uygulamaları";
+	ICON = "Simge";
+	APP = "Uygulama";
+
+	PASSCODE_WARNING = "Kilit kodu aktifse, Mail uygulaması gibi güvenli erişim gerektiren uygulamaların düzgün çalışması için şifre sorulacaktır.";
+}
