@@ -31,6 +31,8 @@
 	ELEVEN = "Eleven";
 	TWELVE = "Twelve";
 
+	SCREENSHOT_PRIVACY = "Screenshot Privacy";
+
 	REQUIRE_PASSCODE = "Require Passcode";
 
 	QUICK_LAUNCH_APPS = "Quick Launch Apps";
