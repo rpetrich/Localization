@@ -37,6 +37,12 @@
 
 	REQUIRE_PASSCODE = "Require Passcode";
 
+	DRAG_STYLE = "Drag Style";
+	SMOOTH_DRAGGING = "Smooth Dragging";
+	SMOOTH = "Smooth";
+	LOCK_TO_ICON = "Lock to Icon";
+	LOCKED = "Locked";
+
 	QUICK_LAUNCH_APPS = "Quick Launch Apps";
 	ICON = "Icon";
 	APP = "App";
