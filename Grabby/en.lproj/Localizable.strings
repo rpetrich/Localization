@@ -33,6 +33,8 @@
 
 	SCREENSHOT_PRIVACY = "Screenshot Privacy";
 
+	CLICK_SOUNDS = "Click Sounds";
+
 	REQUIRE_PASSCODE = "Require Passcode";
 
 	QUICK_LAUNCH_APPS = "Quick Launch Apps";
