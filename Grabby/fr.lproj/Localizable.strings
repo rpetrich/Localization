@@ -1,5 +1,9 @@
 {
-	SWIPE_STYLE = "Style du Swipe";
+	SETTINGS = "Réglages";
+	OPTIONS = "Options";
+	ADVANCED_SETTINGS = "Réglages Avancés";
+
+    SWIPE_STYLE = "Style du Swipe";
 	LEFT_AND_UP_TO_OPEN = "Gauche et Haut pour ouvrir l'App";
 	JUST_LEFT_TO_OPEN = "Juste Gauche pour ouvrir l'App";
 	LEFT_AND_UP = "Gauche et Haut";
@@ -31,7 +35,17 @@
 	ELEVEN = "Onze";
 	TWELVE = "Douze";
 
+    SCREENSHOT_PRIVACY = "Confidentialité des Screenshots";
+    
+	CLICK_SOUNDS = "Sons des Clics";
+    
 	REQUIRE_PASSCODE = "Nécessite Verrouillage par Code";
+    
+    DRAG_STYLE = "Style du Glissement";
+	SMOOTH_DRAGGING = "Glissement Lisse";
+	SMOOTH = "Lisse";
+	LOCK_TO_ICON = "Verrouiller l'Icône";
+	LOCKED = "Verrouillé";
 
 	QUICK_LAUNCH_APPS = "Lancement Rapide d'Apps";
 	ICON = "Icône";
