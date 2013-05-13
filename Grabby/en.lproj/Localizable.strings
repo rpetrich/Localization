@@ -1,4 +1,8 @@
 {
+	SETTINGS = "Settings";
+	OPTIONS = "Options";
+	ADVANCED_SETTINGS = "Advanced Settings";
+
 	SWIPE_STYLE = "Swipe Style";
 	LEFT_AND_UP_TO_OPEN = "Left and Up to Open App";
 	JUST_LEFT_TO_OPEN = "Just Left to Open App";
