@@ -1,0 +1,45 @@
+{
+	SWIPE_STYLE = "Modalità di Attivazione";
+	LEFT_AND_UP_TO_OPEN = "Scorrendo Verso Sinistra e Verso l'Alto";
+	JUST_LEFT_TO_OPEN = "Scorrendo Verso Sinistra";
+	LEFT_AND_UP = "A Sinistra e in Alto";
+	JUST_LEFT = "Solo Verso Sinistra";
+
+	TAPPING_GRABBER = "Modalità di Risposta al Tocco";
+	BOUNCES_LOCK_SCREEN = "Effetto Rimbalzo Lock Screen";
+	OPENS_FIRST_APP = "Apri La Prima Applicazione";
+	BOUNCES = "Rimbalzo";
+
+	SHOW_GRABBER = "Visualizza Barra di Selezione";
+	ALWAYS = "Sempre";
+	WHEN_NO_NOTIFICATION = "Soltando in Assenza di Notifiche";
+	STANDARD = "Senza Notifiche";
+
+	SHOW_SLIDESHOW_BUTTON = "Abilita Presentazione Immagini";
+	
+	ICON_COUNT = "Numero di Icone";
+	ONE = "Una";
+	TWO = "Due";
+	THREE = "Tre";
+	FOUR = "Quattro";
+	FIVE = "Cinque";
+	SIX = "Sei";
+	SEVEN = "Seven";
+	EIGHT = "Otto";
+	NINE = "Nove";
+	TEN = "Dieci";
+	ELEVEN = "Undici";
+	TWELVE = "Dodici";
+
+	SCREENSHOT_PRIVACY = "Funzioni di Sicurezza Screenshot";
+
+	CLICK_SOUNDS = "Attiva Effetti Sonori";
+
+	REQUIRE_PASSCODE = "Richiedi Codice di Sicurezza";
+
+	QUICK_LAUNCH_APPS = "Seleziona le Applicazioni da Visualizzare";
+	ICON = "Seleziona l'Icona";
+	APP = "Selezione l'Applicazione";
+
+	PASSCODE_WARNING = "Se il dispositivo dispone di un codice di sicurezza attivo al rientro dalla schermata di blocco, le applicazioni che proteggono l'accesso ai propri dati utilizzando metodi crittografici (come ad esempio l'applicazione Mail) richiederanno l'inserimento del codice.";
+}
