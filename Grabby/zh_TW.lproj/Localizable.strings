@@ -1,4 +1,8 @@
 {
+	"SETTINGS" = "設定";
+	"OPTIONS" = "選項";
+	"ADVANCED_SETTINGS" = "進階設定";
+
 	"SWIPE_STYLE" = "滑動樣式";
 	"LEFT_AND_UP_TO_OPEN" = "向左後向上以啟動啟應用程式";
 	"JUST_LEFT_TO_OPEN" = "向左以啟動應用程式";
@@ -33,7 +37,15 @@
 
 	"SCREENSHOT_PRIVACY" = "螢幕快照隱私";
 
+	"CLICK_SOUNDS" = "點擊提示音";
+
 	"REQUIRE_PASSCODE" = "要求密碼";
+	
+	"DRAG_STYLE" = "拖動樣式";
+	"SMOOTH_DRAGGING" = "平滑拖動";
+	"SMOOTH" = "平滑";
+	"LOCK_TO_ICON" = "鎖定到圖示";
+	"LOCKED" = "鎖定";
 
 	"QUICK_LAUNCH_APPS" = "快速啟動應用程式";
 	"ICON" = "圖示";
