@@ -1,0 +1,55 @@
+{
+SETTINGS = "Inställningar";
+OPTIONS = "Alternativ";
+ADVANCED_SETTINGS = "Avancerade inställningar";
+
+SWIPE_STYLE = "Svepstil";
+LEFT_AND_UP_TO_OPEN = "Vänster och upp för att öppna app";
+JUST_LEFT_TO_OPEN = "Endast vänster för att öppna app";
+LEFT_AND_UP = "Vänster och upp";
+JUST_LEFT = "Endast vänster";
+
+TAPPING_GRABBER = "Tryck på Grabber";
+BOUNCES_LOCK_SCREEN = "Studsar låsskärm";
+OPENS_FIRST_APP = "Öppnar första app";
+BOUNCES = "Studsar";
+
+SHOW_GRABBER = "Visa Grabber";
+ALWAYS = "Alltid";
+WHEN_NO_NOTIFICATION = "När ingen notis är aktiv";
+STANDARD = "Standard";
+
+SHOW_SLIDESHOW_BUTTON = "Visa bildspelsknapp";
+
+ICON_COUNT = "Ikonmängd";
+ONE = "En";
+TWO = "Två";
+THREE = "Tre";
+FOUR = "Fyra";
+FIVE = "Fem";
+SIX = "Sex";
+SEVEN = "Sju";
+EIGHT = "Åtta";
+NINE = "Nio";
+TEN = "Tio";
+ELEVEN = "Elva";
+TWELVE = "Tolv";
+
+SCREENSHOT_PRIVACY = "Integritetspolicy för skärmdumpar";
+
+CLICK_SOUNDS = "Klickljud";
+
+REQUIRE_PASSCODE = "Kräv lösenkod";
+
+DRAG_STYLE = "Dragstil";
+SMOOTH_DRAGGING = "Mjukt dragande";
+SMOOTH = "Mjuk";
+LOCK_TO_ICON = "Lås till ikon";
+LOCKED = "Låst";
+
+QUICK_LAUNCH_APPS = "Quick Launch Apps";
+ICON = "Ikon";
+APP = "App";
+
+PASSCODE_WARNING = "Om ett lösenkodslås är aktiverat behöver appar som säkrar tillgång via kryptering (ex. Mail) lösenkoden för att fungera som de ska";
+}
