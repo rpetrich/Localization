@@ -35,7 +35,7 @@ TEN = "Tio";
 ELEVEN = "Elva";
 TWELVE = "Tolv";
 
-SCREENSHOT_PRIVACY = "Integritetspolicy för skärmdumpar";
+SCREENSHOT_PRIVACY = "Dölj skärmdumpar";
 
 CLICK_SOUNDS = "Klickljud";
 
@@ -47,7 +47,7 @@ SMOOTH = "Mjuk";
 LOCK_TO_ICON = "Lås till ikon";
 LOCKED = "Låst";
 
-QUICK_LAUNCH_APPS = "Quick Launch Apps";
+QUICK_LAUNCH_APPS = "Snabbstartsappar";
 ICON = "Ikon";
 APP = "App";
 
