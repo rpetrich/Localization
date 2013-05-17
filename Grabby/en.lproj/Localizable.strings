@@ -13,6 +13,7 @@
 	BOUNCES_LOCK_SCREEN = "Bounces Lock Screen";
 	OPENS_FIRST_APP = "Opens First App";
 	BOUNCES = "Bounces";
+	SHOWS_ICONS = "Shows Icons";
 
 	SHOW_GRABBER = "Show Grabber";
 	ALWAYS = "Always";
@@ -50,6 +51,10 @@
 	QUICK_LAUNCH_APPS = "Quick Launch Apps";
 	ICON = "Icon";
 	APP = "App";
+
+	QUICK_LAUNCH_ACTIONS = "Quick Launch Actions";
+	ACTION = "Action";
+	IMAGE = "Image";
 
 	PASSCODE_WARNING = "If a device passcode is set, apps that secure access to their data using encryption (such as Mail) require the passcode to behave properly";
 }
