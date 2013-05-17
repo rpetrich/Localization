@@ -3,619 +3,619 @@
 
 	/* Settings Controller */
 
-	"CANT_DEACTIVATE_REMAINING" = "Can't deactivate\nremaining event";
-	"AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "At least one event must be\nassigned to %@";
+	"CANT_DEACTIVATE_REMAINING" = "Kan resterende actie\nniet deactiveren";
+	"AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "Minstens één actie moet worden\ntoegewezen aan %@";
 	"ALERT_OK" = "OK";
-	"ALERT_IGNORE" = "Ignore";
-	"ALERT_VALUE_AND" = " and ";
-	"ALREADY_ASSIGNED_TO" = "Already assigned to\n%@";
-	"ALERT_CANCEL" = "Cancel";
-	"ALERT_REASSIGN" = "Reassign";
+	"ALERT_IGNORE" = "Negeer";
+	"ALERT_VALUE_AND" = " en ";
+	"ALREADY_ASSIGNED_TO" = "Al toegewezen aan\n%@";
+	"ALERT_CANCEL" = "Annuleer";
+	"ALERT_REASSIGN" = "Wijs opnieuw toe";
 	"ACTIVATOR" = "Activator";
-	"CURRENTLY_ASSIGNED_TO" = "Currently assigned to:";
-	"UNASSIGNED" = "(unassigned)";
-	"MORE_ACTIONS" = "More Actions";
-	"MORE_ACTIONS_DETAIL" = "Get more actions via Cydia";
-	"DONATE" = "Donate";
-	"DONATE_DETAIL" = "Contribute via PayPal";
-	"N_ADDITIONAL_EVENTS" = "%i additional events";
-	"RESET_SETTINGS" = "Reset Settings";
-	"RESET_SETTINGS_DETAIL" = "Return all settings to the default values";
-	"RESET_ALERT_TITLE" = "Reset Activator Settings";
-	"RESET_ALERT_MESSAGE" = "Are you sure you wish to reset Activator settings to defaults?\nYour device will respring if you continue.";
-	"RESET_ALERT_CANCEL" = "Cancel";
+	"CURRENTLY_ASSIGNED_TO" = "Momenteel toegewezen aan:";
+	"UNASSIGNED" = "(niet toegewezen)";
+	"MORE_ACTIONS" = "Meer Acties";
+	"MORE_ACTIONS_DETAIL" = "Haal meer acties via Cydia";
+	"DONATE" = "Doneer";
+	"DONATE_DETAIL" = "Draag bij via PayPal";
+	"N_ADDITIONAL_EVENTS" = "%i extra acties";
+	"RESET_SETTINGS" = "Reset Instellingen";
+	"RESET_SETTINGS_DETAIL" = "Alle instellingen terugzetten naar de standaardwaarden";
+	"RESET_ALERT_TITLE" = "Reset Instellingen Activator";
+	"RESET_ALERT_MESSAGE" = "Weet je zeker dat je de Activator standaardinstellingen wilt terugzetten?\nJe apparaat zal respringen als je doorgaat.";
+	"RESET_ALERT_CANCEL" = "Annuleer";
 	"RESET_ALERT_CONTINUE" = "Reset";
-	"MULTIPLE_ASSIGNMENTS" = "(multiple)";
+	"MULTIPLE_ASSIGNMENTS" = "(meerdere)";
 	"UNKNOWN_ASSIGNMENT" = "(unknown)";
 
-	"ENABLED" = "Enabled";
-	"DISABLED" = "Disabled";
+	"ENABLED" = "Ingeschakeld";
+	"DISABLED" = "Uitgeschakeld";
 
-	"OUT_OF_DATE_TITLE" = "System Version Out Of Date";
-	"OUT_OF_DATE_MESSAGE" = "Activator performs best on a modern version of iOS.\nPlease consider upgrading.";
+	"OUT_OF_DATE_TITLE" = "Systeemversie Verouderd";
+	"OUT_OF_DATE_MESSAGE" = "Activator functioneert het beste op een moderne versie van iOS.\nOverweeg bijwerken s.v.p.";
 
-	"TOO_NEW_TITLE" = "System Version Too New";
-	"TOO_NEW_MESSAGE" = "Activator has not been tested with this version of iOS.\nSome features may not work as designed.";
+	"TOO_NEW_TITLE" = "Systeemversie Te Nieuw";
+	"TOO_NEW_MESSAGE" = "Activator is nog niet getest met deze versie van iOS.\nSommige functies werken mogelijk niet zoals bedoeld.";
 
-	"VERSION_PROMPT_MORE_INFO" = "More Info";
-	"VERSION_PROMPT_IGNORE" = "Ignore";
-	"VERSION_PROMPT_CONTINUE" = "Continue";
+	"VERSION_PROMPT_MORE_INFO" = "Meer Info";
+	"VERSION_PROMPT_IGNORE" = "Negeer";
+	"VERSION_PROMPT_CONTINUE" = "Ga Door";
 
-	"SHOW_ICON" = "Show Icon";
-	"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "Show Activator Icon on SpringBoard";
+	"SHOW_ICON" = "Toon Icon";
+	"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "Toon Activator Icoon op SpringBoard";
 
-	"Advertisement" = "Advertisement";
+	"Advertisement" = "Advertentie";
 
 	"SAFE_MODE_TITLE" = "In Safe Mode";
-	"SAFE_MODE_MESSAGE" = "Your device is currently running in Safe Mode. Most features of Activator are disabled while the device is in safe mode. Restart SpringBoard to return to the normal mode.";
-	"SAFE_MODE_CANCEL" = "Cancel";
-	"SAFE_MODE_RESTART" = "Restart";
+	"SAFE_MODE_MESSAGE" = "Je apparaat draait momenteel in Safe Mode. De meeste functies van Activator zijn uitgeschakeld tijdens Safe Mode. Respring SpringBoard om terug te keren naar de normale modus.";
+	"SAFE_MODE_CANCEL" = "Annuleer";
+	"SAFE_MODE_RESTART" = "Herstart";
 
-	"ACTIVATOR_DISABLED" = "Activator Disabled";
-	"ACTIVATOR_DISABLED_MESSAGE" = "Most features of Activator are currently disabled because Mobile Substrate is not functioning. If your device is in Safe Mode, you will see \"Exit Safe Mode\" at the top of your screen, and you can tap \"Restart\" to return to normal mode.";
+	"ACTIVATOR_DISABLED" = "Activator Uitgeschakeld";
+	"ACTIVATOR_DISABLED_MESSAGE" = "De meeste functies van Activator zijn momenteel uitgeschakeld omdat Mobile Substrate niet werkt. Als je apparaat in Safe Mode is, zie je \"Exit Safe Mode\" bovenaan je scherm, en kun je \"Restart\" tappen om terug te keren naar de normale modus.";
 
-	"ACTIVATOR_CORRUPT" = "Activator Corrupt";
-	"ACTIVATOR_CORRUPT_MESSAGE" = "Most features of Activator are currently disabled because Activator's internal files seem to be incorrect. Try going into Cydia and reinstalling Activator.";
-	"CORRUPT_CANCEL" = "Cancel";
-	"CORRUPT_LAUNCH_CYDIA" = "Launch Cydia";
+	"ACTIVATOR_CORRUPT" = "Activator Gecorrumpeerd";
+	"ACTIVATOR_CORRUPT_MESSAGE" = "De meeste functies van Activator zijn momenteel uitgeschakeld omdat Activator's interne bestanden incorrect lijken te zijn. Probeer Activator opnieuw te installeren in Cydia.";
+	"CORRUPT_CANCEL" = "Annuleer";
+	"CORRUPT_LAUNCH_CYDIA" = "Open Cydia";
 
 	"BLACKLIST" = "Blacklist";
-	"BLACKLIST_DETAIL" = "Ignore events in specific applications";
+	"BLACKLIST_DETAIL" = "Negeer acties in specifieke applicaties";
 
 	/* Bookmarks */
 
-	"BOOKMARKS" = "Bookmarks";
-	"BOOKMARKS_DETAIL" = "Manage custom bookmark actions";
+	"BOOKMARKS" = "Bladwijzers";
+	"BOOKMARKS_DETAIL" = "Beheer aangepaste bladwijzer-acties";
 
-	"ADD_NEW_BOOKMARK" = "Add New Bookmark";
-	"NEW_BOOKMARK" = "New Bookmark";
-	"BOOKMARK_TITLE" = "Bookmark Title";
-	"BOOKMARK_URL" = "Bookmark URL";
-	"BOOKMARK_DESCRIPTION_FORMAT" = "Visit %@";
+	"ADD_NEW_BOOKMARK" = "Voeg Bladwijzer Toe";
+	"NEW_BOOKMARK" = "Nieuwe Bladwijzer";
+	"BOOKMARK_TITLE" = "Bladwijzer Titel";
+	"BOOKMARK_URL" = "Bladwijzer Adres";
+	"BOOKMARK_DESCRIPTION_FORMAT" = "Bezoek %@";
 
 	/* Menus */
 
-	"MENUS" = "Menus";
-	"MENUS_DETAIL" = "Manage custom Activator menus";
+	"MENUS" = "Menu's";
+	"MENUS_DETAIL" = "Beheer aangepaste Activator menu's";
 
-	"ADD_NEW_MENU" = "Add New Menu";
-	"NEW_MENU" = "New Menu";
-	"MENU_TITLE" = "Menu Title";
-	"ADD" = "Add";
-	"ADD_ACTION" = "Add Action";
-	"CANCEL" = "Cancel";
-	"ACTION" = "Action";
+	"ADD_NEW_MENU" = "Voeg Menu Toe";
+	"NEW_MENU" = "Nieuw Menu";
+	"MENU_TITLE" = "Menutitel";
+	"ADD" = "Voeg Toe";
+	"ADD_ACTION" = "Voeg Actie Toe";
+	"CANCEL" = "Annuleer";
+	"ACTION" = "Actie";
 
 	/* Modes */
 
-	"MODE_TITLE_all" = "Anywhere";
+	"MODE_TITLE_all" = "Overal";
 	"MODE_DESCRIPTION_all" = "";
 
-	"MODE_TITLE_springboard" = "At Home Screen";
-	"MODE_DESCRIPTION_springboard" = "When SpringBoard icons are visible";
+	"MODE_TITLE_springboard" = "Op Beginscherm";
+	"MODE_DESCRIPTION_springboard" = "Als SpringBoard iconen zichtbaar zijn";
 
-	"MODE_TITLE_application" = "In Application";
-	"MODE_DESCRIPTION_application" = "When an application is visible";
+	"MODE_TITLE_application" = "In Applicatie";
+	"MODE_DESCRIPTION_application" = "Als een applicatie zichtbaar is";
 
-	"MODE_TITLE_lockscreen" = "At Lock Screen";
-	"MODE_DESCRIPTION_lockscreen" = "When is locked and lock screen is visible";
+	"MODE_TITLE_lockscreen" = "Op Lockscreen";
+	"MODE_DESCRIPTION_lockscreen" = "Als is vergrendeld en lockscreen zichtbaar";
 
 	/* Event Groups */
 
-	"EVENT_GROUP_TITLE_Slide In Gesture" = "Slide In Gesture";
-	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Two Finger Slide In Gesture";
-	"EVENT_GROUP_TITLE_Motion" = "Motion";
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "Slide In Gebaar";
+	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Twee-Vinger Slide In Gebaar";
+	"EVENT_GROUP_TITLE_Motion" = "Beweging";
 	"EVENT_GROUP_TITLE_SpringBoard" = "SpringBoard";
-	"EVENT_GROUP_TITLE_Status Bar" = "Status Bar";
-	"EVENT_GROUP_TITLE_Home Button" = "Home Button";
-	"EVENT_GROUP_TITLE_Sleep Button" = "Sleep Button";
-	"EVENT_GROUP_TITLE_Volume Buttons" = "Volume Buttons";
-	"EVENT_GROUP_TITLE_Headset" = "Wired Headset";
-	"EVENT_GROUP_TITLE_Lock Screen" = "Lock Screen";
-	"EVENT_GROUP_TITLE_Power" = "Power";
+	"EVENT_GROUP_TITLE_Status Bar" = "Statusbalk";
+	"EVENT_GROUP_TITLE_Home Button" = "Thuisknop";
+	"EVENT_GROUP_TITLE_Sleep Button" = "Slaapknop";
+	"EVENT_GROUP_TITLE_Volume Buttons" = "Volumeknoppen";
+	"EVENT_GROUP_TITLE_Headset" = "Bekabelde Headset";
+	"EVENT_GROUP_TITLE_Lock Screen" = "Lockscreen";
+	"EVENT_GROUP_TITLE_Power" = "Stroom";
 	"EVENT_GROUP_TITLE_Audio" = "Audio";
-	"EVENT_GROUP_TITLE_Settings" = "Settings";
-	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Multi-Touch Gesture";
+	"EVENT_GROUP_TITLE_Settings" = "Instellingen";
+	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Multi-Touch Gebaar";
 
 	/* Events */
 
-	"EVENT_TITLE_libactivator.lock.hold.short" = "Short Hold";
-	"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "Press and hold sleep button";
+	"EVENT_TITLE_libactivator.lock.hold.short" = "Kort Vasthouden";
+	"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "Druk en houd slaapknop ingedrukt";
 
-	"EVENT_TITLE_libactivator.lock.press.double" = "Double Press";
-	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "Quickly press sleep button twice";
+	"EVENT_TITLE_libactivator.lock.press.double" = "Dubbele Druk";
+	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "Druk snel de slaapknop tweemaal in";
 
-	"EVENT_TITLE_libactivator.menu.hold.short" = "Short Hold";
-	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Press and hold home button";
+	"EVENT_TITLE_libactivator.menu.hold.short" = "Kort Vasthouden";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Druk en houd thuisknop ingedrukt";
 
-	"EVENT_TITLE_libactivator.menu.hold.long" = "Long Hold";
-	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Press and long hold home button";
+	"EVENT_TITLE_libactivator.menu.hold.long" = "Lang Vasthouden";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Druk en houd slaapknop lang ingedrukt";
 
-	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "Single Press at SpringBoard";
-	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Press home button when at springboard";
+	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "Enkele Druk bij SpringBoard";
+	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Druk thuisknop wanneer bij springboard";
 
-	"EVENT_TITLE_libactivator.menu.press.double" = "Double Press";
-	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "Quickly press home button twice";
+	"EVENT_TITLE_libactivator.menu.press.double" = "Dubbele Druk";
+	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "Druk snel de thuisknop tweemaal in";
 
-	"EVENT_TITLE_libactivator.menu.press.single" = "Single Press";
-	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "Press home button once";
+	"EVENT_TITLE_libactivator.menu.press.single" = "Enkele Druk";
+	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "Druk thuisknop eenmaal";
 
-	"EVENT_TITLE_libactivator.menu.press.triple" = "Triple Press";
-	"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "Press home button three times";
+	"EVENT_TITLE_libactivator.menu.press.triple" = "Driedubbele Druk";
+	"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "Druk thuisknop driemaal";
 
-	"EVENT_TITLE_libactivator.motion.shake" = "Shake Device";
-	"EVENT_DESCRIPTION_libactivator.motion.shake" = "Shake and bake!";
+	"EVENT_TITLE_libactivator.motion.shake" = "Schud Apparaat";
+	"EVENT_DESCRIPTION_libactivator.motion.shake" = "Schud vanuit je mouwen!";
 
-	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "From Screen Top";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Drag onto screen from statusbar";
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Van Boven Scherm";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Sleep naar scherm vanaf statusbalk";
 
-	"EVENT_TITLE_libactivator.slide-in.top-left" = "From Screen Top-Left";
-	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "Drag onto screen from top-left";
+	"EVENT_TITLE_libactivator.slide-in.top-left" = "Van Boven-Links Scherm";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "Sleep naar scherm van boven-links";
 
-	"EVENT_TITLE_libactivator.slide-in.top-right" = "From Screen Top-Right";
-	"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "Drag onto screen from top-right";
+	"EVENT_TITLE_libactivator.slide-in.top-right" = "Van Boven-Rechts Scherm";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "Sleep naar scherm van boven-rechts";
 
-	"EVENT_TITLE_libactivator.slide-in.left" = "From Screen Left";
-	"EVENT_DESCRIPTION_libactivator.slide-in.left" = "Drag onto screen from left";
+	"EVENT_TITLE_libactivator.slide-in.left" = "Van Links Scherm";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left" = "Sleep naar scherm van links";
 
-	"EVENT_TITLE_libactivator.slide-in.left-top" = "From Screen Left-Top";
-	"EVENT_DESCRIPTION_libactivator.slide-in.left-top" = "Drag onto screen from left-top";
+	"EVENT_TITLE_libactivator.slide-in.left-top" = "Van Links-Boven Scherm";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left-top" = "Sleep naar scherm van links-boven";
 
-	"EVENT_TITLE_libactivator.slide-in.left-bottom" = "From Screen Left-Bottom";
-	"EVENT_DESCRIPTION_libactivator.slide-in.left-bottom" = "Drag onto screen from left-bottom";
+	"EVENT_TITLE_libactivator.slide-in.left-bottom" = "Van Links-Beneden Scherm";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left-bottom" = "Sleep naar scherm van links-beneden";
 
-	"EVENT_TITLE_libactivator.slide-in.right" = "From Screen Right";
-	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "Drag onto screen from right";
+	"EVENT_TITLE_libactivator.slide-in.right" = "Van Rechts Scherm";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "Sleep naar scherm van rechts";
 
-	"EVENT_TITLE_libactivator.slide-in.right-top" = "From Screen Right-Top";
-	"EVENT_DESCRIPTION_libactivator.slide-in.right-top" = "Drag onto screen from right-top";
+	"EVENT_TITLE_libactivator.slide-in.right-top" = "Van Rechts-Boven Scherm";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right-top" = "Sleep naar scherm van rechts-boven";
 
-	"EVENT_TITLE_libactivator.slide-in.right-bottom" = "From Screen Right-Bottom";
-	"EVENT_DESCRIPTION_libactivator.slide-in.right-bottom" = "Drag onto screen from right-bottom";
+	"EVENT_TITLE_libactivator.slide-in.right-bottom" = "Van Rechts-Beneden Scherm";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right-bottom" = "Sleep naar scherm van rechts-beneden";
 
-	"EVENT_TITLE_libactivator.slide-in.bottom" = "From Screen Bottom";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Drag onto screen from below";
+	"EVENT_TITLE_libactivator.slide-in.bottom" = "Van Beneden Scherm";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Sleep naar scherm van beneden";
 
-	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "From Screen Bottom-Left";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Drag onto screen from bottom-left";
+	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Van Beneden-Links Scherm";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Sleep naar scherm van beneden-links";
 
-	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "From Screen Bottom-Right";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Drag onto screen from bottom-right";
+	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Van Beneden-Rechts Scherm";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Sleep naar scherm van beneden-rechts";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "From Screen Bottom";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "Drag onto screen from below";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "Van Beneden Scherm";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "Sleep naar scherm van beneden";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "From Screen Bottom-Left";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "Drag onto screen from bottom-left";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "Van Beneden-Links Scherm";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "Sleep naar scherm van beneden-links";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "From Screen Bottom-Right";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "Drag onto screen from bottom-right";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "Van Beneden-Rechts Scherm";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "Sleep naar scherm van beneden-rechts";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "From Screen Top";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "Drag onto screen from statusbar";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "Van Boven Scherm";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "Sleep naar scherm vanaf statusbalk";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.top-left" = "From Screen Top-Left";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "Drag onto screen from top-left";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top-left" = "Van Boven-Links Scherm";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "Sleep naar scherm van boven-links";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "From Screen Top-Right";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "Drag onto screen from top-right";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "Van Boven-Rechts Scherm";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "Sleep naar scherm van rechts-boven";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "From Screen Left";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "Drag onto screen from left";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "Van Links Scherm";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "Sleep naar scherm van links";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.left-top" = "From Screen Left-Top";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-top" = "Drag onto screen from left-top";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left-top" = "Van Links-Boven Scherm";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-top" = "Sleep naar scherm van links-boven";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.left-bottom" = "From Screen Left-Bottom";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-bottom" = "Drag onto screen from left-bottom";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left-bottom" = "Van Links-Beneden Scherm";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-bottom" = "Sleep naar scherm van links-beneden";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "From Screen Right";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "Drag onto screen from right";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "Van Rechts Scherm";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "Sleep naar scherm van rechts";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.right-top" = "From Screen Right-Top";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-top" = "Drag onto screen from right-top";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right-top" = "Van Rechts-Boven Scherm";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-top" = "Sleep naar scherm van rechts-boven";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom" = "From Screen Right-Bottom";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "Drag onto screen from right-bottom";
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom" = "Van Rechts-Beneden Scherm";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "Sleep naar scherm van rechts-beneden";
 
-	"EVENT_TITLE_libactivator.springboard.pinch" = "Icon Pinch";
-	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Pinch springboard icons with 2 fingers";
+	"EVENT_TITLE_libactivator.springboard.pinch" = "Icoon Kneep";
+	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Knijp springboard iconen met 2 vingers";
 
-	"EVENT_TITLE_libactivator.springboard.spread" = "Icon Spread";
-	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "Spread springboard icons with 2 fingers";
+	"EVENT_TITLE_libactivator.springboard.spread" = "Icoon Spreid";
+	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "Spreid springboard iconen met 2 vingers";
 
-	"EVENT_TITLE_libactivator.statusbar.hold" = "Hold";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Tap and hold on the status bar";
+	"EVENT_TITLE_libactivator.statusbar.hold" = "Houd Vast";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Tap en hou vast op de statusbar";
 
-	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Swipe Left";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Tap and drag left on status bar";
+	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Sleep Links";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Tap en sleep links op statusbalk";
 
-	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "Swipe Right";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Tap and drag right on status bar";
+	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "Sleep Rechts";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Tap en sleep rechts op statusbalk";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.single" = "Single Tap";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Single-tap on status bar";
+	"EVENT_TITLE_libactivator.statusbar.tap.single" = "Enkele Tap";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Tap eenmaal op statusbalk";
 
-	"EVENT_TITLE_libactivator.statusbar.hold.left" = "Hold Left";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Tap and hold on the left part of statusbar";
+	"EVENT_TITLE_libactivator.statusbar.hold.left" = "Houd Links Vast";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Tap en hou vast op de linkerkant van de statusbalk";
 
-	"EVENT_TITLE_libactivator.statusbar.hold.right" = "Hold Right";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Tap and hold on the right part of statusbar";
+	"EVENT_TITLE_libactivator.statusbar.hold.right" = "Houd Rechts Van";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Tap en hou vast op de rechterkant van de statusbalk";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Double Tap Left";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Double-tap on the left part of the statusbar";
+	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Dubbeltap Links";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Tap tweemaal op de linkerkant van de statusbalk";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "Double Tap Right";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "Double-tap on the right part of the statusbar";
+	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "Dubbeltap Rechts";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "Tap tweemaal op de rechterkant van de statusbalk";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "Single Tap Left";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "Single-tap on the left part of the statusbar";
+	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "Enkele Tap Links";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "Tap eenmaal op de linkerkant van de statusbalk";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "Single Tap Right";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "Single-tap on the right part of the statusbar";
+	"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "Enkele Tap Rechts";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "Tap eenmaal op de rechterkant van de statusbalk";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.double" = "Double Tap";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Double-tap on status bar";
+	"EVENT_TITLE_libactivator.statusbar.tap.double" = "Dubbeltap";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Tap tweemaal op statusbalk";
 
 	"EVENT_TITLE_libactivator.volume.display-tap" = "Display Tap";
-	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "Tap on volume heads up display";
+	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "Tap op de volume heads-up display";
 
-	"EVENT_TITLE_libactivator.volume.down-up" = "Down, Up";
-	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "Press volume down, then up";
+	"EVENT_TITLE_libactivator.volume.down-up" = "Omlaag, Omhoog";
+	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "Druk volume omlaag, daarna omhoog";
 
-	"EVENT_TITLE_libactivator.volume.up-down" = "Up, Down";
-	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Press volume up, then down";
+	"EVENT_TITLE_libactivator.volume.up-down" = "Omhoog, Omlaag";
+	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Druk volume omhoog, daarna omlaag";
 
-	"EVENT_TITLE_libactivator.volume.down.press" = "Down Press";
-	"EVENT_DESCRIPTION_libactivator.volume.down.press" = "Press down volume button";
+	"EVENT_TITLE_libactivator.volume.down.press" = "Omlaag Drukken";
+	"EVENT_DESCRIPTION_libactivator.volume.down.press" = "Druk volume omlaag knop";
 
-	"EVENT_TITLE_libactivator.volume.up.press" = "Up Press";
-	"EVENT_DESCRIPTION_libactivator.volume.up.press" = "Press up volume button";
+	"EVENT_TITLE_libactivator.volume.up.press" = "Omhoog Drukken";
+	"EVENT_DESCRIPTION_libactivator.volume.up.press" = "Druk volume omhoog knop";
 
-	"EVENT_TITLE_libactivator.volume.both.press" = "Both Press";
-	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Press both buttons simultaneously";
+	"EVENT_TITLE_libactivator.volume.both.press" = "Beide Drukken";
+	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Druk beide knoppen tegelijk";
 
-	"EVENT_TITLE_libactivator.volume.down.hold.short" = "Down Short Hold";
-	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "Press and hold down button";
+	"EVENT_TITLE_libactivator.volume.down.hold.short" = "Kort Omlaag Vasthouden";
+	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "Druk en houd omlaag knop vast";
 
-	"EVENT_TITLE_libactivator.volume.up.hold.short" = "Up Short Hold";
-	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Press and hold up button";
+	"EVENT_TITLE_libactivator.volume.up.hold.short" = "Kort Omhoog Vasthouden";
+	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Druk en houd omhoog knop vast";
 
-	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Toggle Mute Switch Twice";
-	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Flip mute switch on/off and back";
+	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Schakel Muteknop Tweemaal";
+	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Schakel muteknop aan/uit en terug";
 
-	"EVENT_TITLE_libactivator.volume.mute" = "Mute device";
-	"EVENT_DESCRIPTION_libactivator.volume.mute" = "Activate mute via ringer switch";
+	"EVENT_TITLE_libactivator.volume.mute" = "Mute Apparaat";
+	"EVENT_DESCRIPTION_libactivator.volume.mute" = "Activeer demping via geluidsschakelaar";
 
-	"EVENT_TITLE_libactivator.volume.unmute" = "Unmute device";
-	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "Deactivate mute via ringer switch";
+	"EVENT_TITLE_libactivator.volume.unmute" = "Unmute Apparaat";
+	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "Deactiveer demping via geluidsschakelaar";
 
-	"EVENT_TITLE_libactivator.headset-button.press.single" = "Button Single Press";
-	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Press headset button once";
+	"EVENT_TITLE_libactivator.headset-button.press.single" = "Druk Knop Eenmaal";
+	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Druk headset-knop eenmaal in";
 
-	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Button Short Hold";
-	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Press and hold headset button";
+	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Knop Kort Inhouden";
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Druk en houd headset-knop kort ingedrukt";
 
-	"EVENT_TITLE_libactivator.headset.connected" = "Connected";
-	"EVENT_DESCRIPTION_libactivator.headset.connected" = "Headset plugged into device";
+	"EVENT_TITLE_libactivator.headset.connected" = "Verbonden";
+	"EVENT_DESCRIPTION_libactivator.headset.connected" = "Headset ingeplugd in apparaat";
 
-	"EVENT_TITLE_libactivator.headset.disconnected" = "Disconnected";
-	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "Headset unplugged from device";
+	"EVENT_TITLE_libactivator.headset.disconnected" = "Ontkoppeld";
+	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "Headset ontkoppeld van device";
 
-	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Double Tap Clock";
-	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Double-tap clock/date area";
+	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Dubbeltap Klok";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Dubbeltap klok/datum ruimte";
 
-	"EVENT_TITLE_libactivator.power.connected" = "Connected";
-	"EVENT_DESCRIPTION_libactivator.power.connected" = "Begin receiving A/C power";
+	"EVENT_TITLE_libactivator.power.connected" = "Verbonden";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "Begint met stroom ontvangen";
 
-	"EVENT_TITLE_libactivator.power.disconnected" = "Disconnected";
-	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Stop receiving A/C power";
+	"EVENT_TITLE_libactivator.power.disconnected" = "Ontkoppeld";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Stopt met stroom ontvangen";
 
-	"EVENT_TITLE_libactivator.five-finger.pinch" = "Five Finger Pinch";
-	"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "Pinch screen with five fingers";
+	"EVENT_TITLE_libactivator.five-finger.pinch" = "Vijf-Vinger Kneep";
+	"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "Knijp scherm met vijf vingers";
 
-	"EVENT_TITLE_libactivator.five-finger.spread" = "Five Finger Spread";
-	"EVENT_DESCRIPTION_libactivator.five-finger.spread" = "Spread screen with five fingers";
+	"EVENT_TITLE_libactivator.five-finger.spread" = "Vijf-Vinger Spreid";
+	"EVENT_DESCRIPTION_libactivator.five-finger.spread" = "Spreid scherm met vijf vingers";
 
-	"EVENT_TITLE_libactivator.five-finger.tap" = "Five Finger Tap";
-	"EVENT_DESCRIPTION_libactivator.five-finger.tap" = "Tap screen with five fingers";
+	"EVENT_TITLE_libactivator.five-finger.tap" = "Vijf-Vinger Tap";
+	"EVENT_DESCRIPTION_libactivator.five-finger.tap" = "Tap scherm met vijf vingers";
 
-	"EVENT_TITLE_libactivator.four-finger.pinch" = "Four Finger Pinch";
-	"EVENT_DESCRIPTION_libactivator.four-finger.pinch" = "Pinch screen with four fingers";
+	"EVENT_TITLE_libactivator.four-finger.pinch" = "Vier-Vinger Kneep";
+	"EVENT_DESCRIPTION_libactivator.four-finger.pinch" = "Knijp scherm met vier vingers";
 
-	"EVENT_TITLE_libactivator.four-finger.spread" = "Four Finger Spread";
-	"EVENT_DESCRIPTION_libactivator.four-finger.spread" = "Spread screen with four fingers";
+	"EVENT_TITLE_libactivator.four-finger.spread" = "Vier-Vinger Spreid";
+	"EVENT_DESCRIPTION_libactivator.four-finger.spread" = "Spreid scherm met vier vingers";
 
-	"EVENT_TITLE_libactivator.four-finger.tap" = "Four Finger Tap";
-	"EVENT_DESCRIPTION_libactivator.four-finger.tap" = "Tap screen with four fingers";
+	"EVENT_TITLE_libactivator.four-finger.tap" = "Vier-Vinger Tap";
+	"EVENT_DESCRIPTION_libactivator.four-finger.tap" = "Tap scherm met vier vingers";
 
-	"EVENT_TITLE_libactivator.three-finger.pinch" = "Three Finger Pinch";
-	"EVENT_DESCRIPTION_libactivator.three-finger.pinch" = "Pinch screen with three fingers";
+	"EVENT_TITLE_libactivator.three-finger.pinch" = "Drie-Vinger Kneep";
+	"EVENT_DESCRIPTION_libactivator.three-finger.pinch" = "Knijp scherm met drie vingers";
 
-	"EVENT_TITLE_libactivator.three-finger.spread" = "Three Finger Spread";
-	"EVENT_DESCRIPTION_libactivator.three-finger.spread" = "Spread screen with three fingers";
+	"EVENT_TITLE_libactivator.three-finger.spread" = "Drie-Vinger Spreid";
+	"EVENT_DESCRIPTION_libactivator.three-finger.spread" = "Spreid scherm met drie vingers";
 
-	"EVENT_TITLE_libactivator.three-finger.tap" = "Three Finger Tap";
-	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "Tap screen with three fingers";
+	"EVENT_TITLE_libactivator.three-finger.tap" = "Drie-Vinger Tap";
+	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "Tap scherm met drie vingers";
 
 	/* Listener Groups */
 
-	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
-	"LISTENER_GROUP_TITLE_System Applications" = "System Applications";
-	"LISTENER_GROUP_TITLE_User Applications" = "User Applications";
+	"LISTENER_GROUP_TITLE_System Actions" = "Systeemacties";
+	"LISTENER_GROUP_TITLE_System Applications" = "Systeemapplicaties";
+	"LISTENER_GROUP_TITLE_User Applications" = "Gebruikersapplicaties";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
-	"LISTENER_GROUP_TITLE_Lock Screen" = "Lock Screen";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Toggles";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Toggles (Enable)";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Toggles (Disable)";
-	"LISTENER_GROUP_TITLE_Phone" = "Phone";
-	"LISTENER_GROUP_TITLE_Power" = "Power";
+	"LISTENER_GROUP_TITLE_Lock Screen" = "Lockscreen";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Schakelaars";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Schakelaars (Schakel In)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Schakelaars (Schakel Uit)";
+	"LISTENER_GROUP_TITLE_Phone" = "Telefoon";
+	"LISTENER_GROUP_TITLE_Power" = "Stroom";
 	"LISTENER_GROUP_TITLE_Audio" = "Audio";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
-	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
-	"LISTENER_GROUP_TITLE_Sharing" = "Sharing";
+	"LISTENER_GROUP_TITLE_Web Clips" = "Webclips";
+	"LISTENER_GROUP_TITLE_Sharing" = "Delen";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 
 	/* Listener Names */
 
-	"LISTENER_DESCRIPTION_toggle" = "Activate/deactivate toggle";
-	"LISTENER_DESCRIPTION_toggle_enable" = "Activate toggle";
-	"LISTENER_DESCRIPTION_toggle_disable" = "Deactivate toggle";
-	"LISTENER_DESCRIPTION_application" = "Activate application";
+	"LISTENER_DESCRIPTION_toggle" = "Activeer/deactiveer schakelaar";
+	"LISTENER_DESCRIPTION_toggle_enable" = "Activeer schakelaar";
+	"LISTENER_DESCRIPTION_toggle_disable" = "Deactiveer schakelaar";
+	"LISTENER_DESCRIPTION_application" = "Activeer applicatie";
 
-	"LISTENER_TITLE_libactivator.system.homebutton" = "Home Button";
-	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Simulate a press of the home button";
+	"LISTENER_TITLE_libactivator.system.homebutton" = "Thuisknop";
+	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Simuleer een druk op de thuisknop";
 
-	"LISTENER_TITLE_libactivator.system.powerdown" = "Power Down";
-	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Immediately powers down the device";
+	"LISTENER_TITLE_libactivator.system.powerdown" = "Zet Uit";
+	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Schakelt direct het apparaat direct";
 
-	"LISTENER_TITLE_libactivator.system.reboot" = "Reboot";
-	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "Immediately reboots the device";
+	"LISTENER_TITLE_libactivator.system.reboot" = "Herstart";
+	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "Herstart direct het apparaat";
 
 	"LISTENER_TITLE_libactivator.system.respring" = "Respring";
-	"LISTENER_DESCRIPTION_libactivator.system.respring" = "Relaunch SpringBoard normally";
+	"LISTENER_DESCRIPTION_libactivator.system.respring" = "Herstart SpringBoard normaal";
 
-	"LISTENER_TITLE_libactivator.system.safemode" = "Safe Mode";
-	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "Relaunch SpringBoard in safe mode";
+	"LISTENER_TITLE_libactivator.system.safemode" = "Veilige Modus";
+	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "Herstart SpringBoard in de veilige modus";
 
-	"LISTENER_TITLE_libactivator.system.sleepbutton" = "Sleep Button";
-	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Simulate a press of the sleep button";
+	"LISTENER_TITLE_libactivator.system.sleepbutton" = "Slaapknop";
+	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Simuleer een druk op de slaapknop";
 
 	"LISTENER_TITLE_libactivator.system.spotlight" = "Spotlight";
-	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Activate SpringBoard's search page";
+	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Activeer SpringBoard's zoekpagina";
 
-	"LISTENER_TITLE_libactivator.system.take-screenshot" = "Take Screenshot";
-	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Save screen contents to photos";
+	"LISTENER_TITLE_libactivator.system.take-screenshot" = "Neem Schermafbeelding";
+	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Bewaar scherminhoud als foto";
 
 	"LISTENER_TITLE_libactivator.system.voice-control" = "Voice Control";
-	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Activate Voice Control";
+	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Activeer Stembediening";
 
-	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "Virtual Assistant";
-	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Activate virtual assistant";
+	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "Siri";
+	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Activeer Siri";
 
-	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Activate Switcher";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Show application switcher";
+	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Activeer Switcher";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Toon multitaskingbalk";
 
-	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Show Now Playing Bar";
-	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Show the standard media controls";
+	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Toon Geluidsregelaars";
+	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Toon de standaard geluidsregelaars";
 
-	"LISTENER_TITLE_libactivator.system.nothing" = "Do Nothing";
-	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "Suppress original action";
+	"LISTENER_TITLE_libactivator.system.nothing" = "Doe Niets";
+	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "Onderdruk originele actie";
 
-	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "First SpringBoard Page";
-	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Jump to first page of icons";
+	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "Eerste SpringBoard Pagina";
+	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Spring naar eerste pagina met iconen";
 
-	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Activate Notification Center";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Pull down notification center";
+	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Activeer Berichtencentrum";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Sleep het Berichtencentrum omlaag";
 
-	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Compose Tweet";
-	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Launch modal tweet composer";
+	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Stel Tweet Op";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Open modale tweet-opsteller";
 
-	"LISTENER_TITLE_libactivator.facebook.compose-post" = "Compose Facebook Post";
-	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Launch modal Facebook composer";
+	"LISTENER_TITLE_libactivator.facebook.compose-post" = "Stel Facebook Post Op";
+	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Open modale Facebook-opsteller";
 
-	"LISTENER_TITLE_libactivator.mail.compose-message" = "Compose Mail";
-	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Launch modal email composer";
+	"LISTENER_TITLE_libactivator.mail.compose-message" = "Stel Mail Op";
+	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Open modale email-opsteller";
 
-	"LISTENER_TITLE_libactivator.sms.compose-message" = "Compose Text";
-	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Launch modal text message composer";
+	"LISTENER_TITLE_libactivator.sms.compose-message" = "Stel Bericht Op";
+	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Open modale bericht-opsteller";
 
-	"LISTENER_TITLE_libactivator.weibo.compose-post" = "Compose Weibo Post";
-	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Launch modal Weibo composer";
+	"LISTENER_TITLE_libactivator.weibo.compose-post" = "Stel Weibo Post Op";
+	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Open modale Weibo-opsteller";
 
-	"LISTENER_TITLE_libactivator.audio.decrease-volume" = "Volume Down";
-	"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "Decrease audio volume by one step";
+	"LISTENER_TITLE_libactivator.audio.decrease-volume" = "Volume Omlaag";
+	"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "Verlaag audiovolume met één stap";
 
-	"LISTENER_TITLE_libactivator.audio.increase-volume" = "Volume Up";
-	"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "Increase audio volume by one step";
+	"LISTENER_TITLE_libactivator.audio.increase-volume" = "Volume Omhoog";
+	"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "Verhoog audiovolume met één stap";
 
-	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Show Volume Bar";
-	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Show the volume slider";
+	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Toon Volumebalk";
+	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Toon de volumeregelaar";
 
-	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod Controls";
-	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Show now playing popup";
+	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod-Regelaars";
+	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Toon de geluidsregelaars popup";
 
-	"LISTENER_TITLE_libactivator.ipod.next-track" = "Next Track";
-	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "Skips to next song";
+	"LISTENER_TITLE_libactivator.ipod.next-track" = "Volgende Nummer";
+	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "Springt naar het volgende nummer";
 
-	"LISTENER_TITLE_libactivator.ipod.previous-track" = "Previous Track";
-	"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "Returns to previous song";
+	"LISTENER_TITLE_libactivator.ipod.previous-track" = "Vorige nummer";
+	"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "Keert terug naar het vorige nummer";
 
-	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Play/Pause";
-	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Toggles iPod playback";
+	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Speel af/Pauzeer";
+	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Schakelt afspelen iPod";
 
-	"LISTENER_TITLE_libactivator.ipod.pause-playback" = "Pause";
-	"LISTENER_DESCRIPTION_libactivator.ipod.pause-playback" = "Suspends iPod playback";
+	"LISTENER_TITLE_libactivator.ipod.pause-playback" = "Pauzeer";
+	"LISTENER_DESCRIPTION_libactivator.ipod.pause-playback" = "Onderbreekt afspelen iPod";
 
-	"LISTENER_TITLE_libactivator.ipod.resume-playback" = "Play";
-	"LISTENER_DESCRIPTION_libactivator.ipod.resume-playback" = "Resumes iPod playback";
+	"LISTENER_TITLE_libactivator.ipod.resume-playback" = "Speel Af";
+	"LISTENER_DESCRIPTION_libactivator.ipod.resume-playback" = "Hervat afspelen iPod";
 
-	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Unlock Device";
-	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Dismiss lock screen";
+	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Ontgrendel Apparaat";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Ontgrendelt het apparaat";
 
-	"LISTENER_TITLE_libactivator.lockscreen.show" = "Lock Device";
-	"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "Show lock screen";
+	"LISTENER_TITLE_libactivator.lockscreen.show" = "Vergrendel Apparaat";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "Toont vergrendelscherm";
 
-	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "Lock/Unlock";
-	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Toggle showing lock screen";
+	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "Ver-/Ontgrendel";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Schakel tonen vergrendelscherm";
 
-	"LISTENER_TITLE_libactivator.phone.contacts" = "Show Contacts";
-	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Launch Phone to the Contacts tab";
+	"LISTENER_TITLE_libactivator.phone.contacts" = "Toon Contacten";
+	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Opent Telefoon op de Contacten-tab";
 
-	"LISTENER_TITLE_libactivator.phone.favorites" = "Show Favorites";
-	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "Launch Phone to the Favorites tab";
+	"LISTENER_TITLE_libactivator.phone.favorites" = "Toon Favorieten";
+	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "Opent Telefoon op de Favorieten-tab";
 
-	"LISTENER_TITLE_libactivator.phone.keypad" = "Show Keypad";
-	"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "Launch Phone to the Keypad tab";
+	"LISTENER_TITLE_libactivator.phone.keypad" = "Toon Toetsen";
+	"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "Opent Telefoon op de Toetsen-tab";
 
-	"LISTENER_TITLE_libactivator.phone.recents" = "Show Recents";
-	"LISTENER_DESCRIPTION_libactivator.phone.recents" = "Launch Phone to the Recents tab";
+	"LISTENER_TITLE_libactivator.phone.recents" = "Toon Recent";
+	"LISTENER_DESCRIPTION_libactivator.phone.recents" = "Open Telefoon op de Recent-tab";
 
-	"LISTENER_TITLE_libactivator.phone.voicemail" = "Show Voicemail";
-	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Launch Phone to the Voicemail tab";
+	"LISTENER_TITLE_libactivator.phone.voicemail" = "Toon Voicemail";
+	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Opent Telefoon op de Voicemail-tab";
 
-	"LISTENER_TITLE_libactivator.settings.about" = "About";
-	"LISTENER_DESCRIPTION_libactivator.settings.about" = "Open Settings to About";
+	"LISTENER_TITLE_libactivator.settings.about" = "Info";
+	"LISTENER_DESCRIPTION_libactivator.settings.about" = "Open Instellingen op Info";
 
-	"LISTENER_TITLE_libactivator.settings.accessibility" = "Accessibility";
-	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "Open Settings to Accessibility";
+	"LISTENER_TITLE_libactivator.settings.accessibility" = "Toegankelijkheid";
+	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "Open Instellingen op Toegankelijkheid";
 
-	"LISTENER_TITLE_libactivator.settings.auto-lock" = "Auto-Lock";
-	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Open Settings to Auto-Lock";
+	"LISTENER_TITLE_libactivator.settings.auto-lock" = "Automatisch slot";
+	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Open Instellingen op Automatisch slot";
 
 	"LISTENER_TITLE_libactivator.settings.bluetooth" = "Bluetooth";
-	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "Open Settings to Bluetooth";
+	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "Open Instellingen op Bluetooth";
 
-	"LISTENER_TITLE_libactivator.settings.brightness" = "Brightness";
-	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "Open Settings to Brightness";
+	"LISTENER_TITLE_libactivator.settings.brightness" = "Helderheid";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "Open Instellingen op Helderheid";
 
-	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Brightness & Wallpaper";
-	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "Open Settings to Brightness/Wallpaper page";
+	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Helderheid en achtergrond";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "Open Instellingen op Helderheid/Achtergrond pagina";
 
-	"LISTENER_TITLE_libactivator.settings.date-time" = "Date & Time";
-	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Open Settings to Date & Time";
+	"LISTENER_TITLE_libactivator.settings.date-time" = "Datum en tijd";
+	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Open Instellingen op Datum en tijd";
 
 	"LISTENER_TITLE_libactivator.settings.equalizer" = "Equalizer";
-	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "Open Settings to Equalizer";
+	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "Open Instellingen op Equalizer";
 
 	"LISTENER_TITLE_libactivator.settings.facetime" = "FaceTime";
-	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "Open Settings to FaceTime";
+	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "Open Instellingen op FaceTime";
 
-	"LISTENER_TITLE_libactivator.settings.general" = "General";
-	"LISTENER_DESCRIPTION_libactivator.settings.general" = "Open Settings to General";
+	"LISTENER_TITLE_libactivator.settings.general" = "Algemeen";
+	"LISTENER_DESCRIPTION_libactivator.settings.general" = "Open Instellingen op Algemeen";
 
 	"LISTENER_TITLE_libactivator.settings.icloud" = "iCloud";
-	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "Open Settings to iCloud";
+	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "Open Instellingen op iCloud";
 
-	"LISTENER_TITLE_libactivator.settings.international" = "International";
-	"LISTENER_DESCRIPTION_libactivator.settings.international" = "Open Settings to International";
+	"LISTENER_TITLE_libactivator.settings.international" = "Internationaal";
+	"LISTENER_DESCRIPTION_libactivator.settings.international" = "Open Instellingen op Internationaal";
 
-	"LISTENER_TITLE_libactivator.settings.keyboard" = "Keyboard";
-	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "Open Settings to Keyboard";
+	"LISTENER_TITLE_libactivator.settings.keyboard" = "Toetsenbord";
+	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "Open Instellingen op Toetsenbord";
 
-	"LISTENER_TITLE_libactivator.settings.location-services" = "Location Services";
-	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "Open Settings to Location Services";
+	"LISTENER_TITLE_libactivator.settings.location-services" = "Locatievoorzieningen";
+	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "Open Instellingen op Locatievoorzieningen";
 
-	"LISTENER_TITLE_libactivator.settings.music" = "Music";
-	"LISTENER_DESCRIPTION_libactivator.settings.music" = "Open Settings to Music";
+	"LISTENER_TITLE_libactivator.settings.music" = "Muziek";
+	"LISTENER_DESCRIPTION_libactivator.settings.music" = "Open Instellingen op Muziek";
 
-	"LISTENER_TITLE_libactivator.settings.network" = "Network";
-	"LISTENER_DESCRIPTION_libactivator.settings.network" = "Open Settings to Network";
+	"LISTENER_TITLE_libactivator.settings.network" = "Mobiel netwerk";
+	"LISTENER_DESCRIPTION_libactivator.settings.network" = "Open Instellingen op Mobiel Netwerk";
 
-	"LISTENER_TITLE_libactivator.settings.notes" = "Notes";
-	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "Open Settings to Notes";
+	"LISTENER_TITLE_libactivator.settings.notes" = "Notities";
+	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "Open Instellingen op Notities";
 
-	"LISTENER_TITLE_libactivator.settings.notifications" = "Notifications";
-	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "Open Settings to Notifications";
+	"LISTENER_TITLE_libactivator.settings.notifications" = "Berichtgeving";
+	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "Open Instellingen op Berichtgeving";
 
-	"LISTENER_TITLE_libactivator.settings.phone" = "Phone";
-	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "Open Settings to Phone";
+	"LISTENER_TITLE_libactivator.settings.phone" = "Telefoon";
+	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "Open Instellingen op Telefoon";
 
-	"LISTENER_TITLE_libactivator.settings.photos" = "Photos";
-	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "Open Settings to Photos";
+	"LISTENER_TITLE_libactivator.settings.photos" = "Foto's en Camera";
+	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "Open Instellingen op Foto's en Camera";
 
 	"LISTENER_TITLE_libactivator.settings.safari" = "Safari";
-	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "Open Settings to Safari";
+	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "Open Instellingen op Safari";
 
-	"LISTENER_TITLE_libactivator.settings.sounds" = "Sounds";
-	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "Open Settings to Sounds";
+	"LISTENER_TITLE_libactivator.settings.sounds" = "Geluiden";
+	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "Open Instellingen op Geluiden";
 
-	"LISTENER_TITLE_libactivator.settings.store" = "Store";
-	"LISTENER_DESCRIPTION_libactivator.settings.store" = "Open Settings to Store";
+	"LISTENER_TITLE_libactivator.settings.store" = "iTunes en App Stores";
+	"LISTENER_DESCRIPTION_libactivator.settings.store" = "Open Instellingen op iTunes en App Stores";
 
 	"LISTENER_TITLE_libactivator.settings.twitter" = "Twitter";
-	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "Open Settings to Twitter";
+	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "Open Instellingen op Twitter";
 
-	"LISTENER_TITLE_libactivator.settings.usage" = "Usage";
-	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Open Settings to Usage";
+	"LISTENER_TITLE_libactivator.settings.usage" = "Gebruik";
+	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Open Instellingen op Gebruik";
 
-	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Virtual Assistant";
-	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Open Settings to Virtual Assistant";
+	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Siri";
+	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Open Instellingen op Siri";
 
 	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
-	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Open Settings to VPN";
+	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Open Instellingen op VPN";
 
-	"LISTENER_TITLE_libactivator.settings.wallpaper" = "Wallpaper";
-	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Open Settings to Wallpaper";
+	"LISTENER_TITLE_libactivator.settings.wallpaper" = "Achtergrond";
+	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Open Instellingen op Achtergrond";
 
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
-	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Open Settings to Wi-Fi";
+	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Open Instellingen op Wi-Fi";
 
 	"LISTENER_TITLE_com.rpetrich.activoice.apps" = "Google Apps";
-	"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "Activate Google's apps list";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "Activeer Google's apps lijst";
 
 	"LISTENER_TITLE_com.rpetrich.activoice.goggles" = "Goggles";
-	"LISTENER_DESCRIPTION_com.rpetrich.activoice.goggles" = "Activate Google's goggles feature";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.goggles" = "Activeer Google's goggles functie";
 
-	"LISTENER_TITLE_com.rpetrich.activoice.search" = "Text Search";
-	"LISTENER_DESCRIPTION_com.rpetrich.activoice.search" = "Activate Google's text search";
+	"LISTENER_TITLE_com.rpetrich.activoice.search" = "Zoek";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.search" = "Activeer Google's tekst-zoeken";
 
-	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "Voice Search";
-	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Activate Google's voice search";
+	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "Spraak";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Activeer Google's spraak-zoeken";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
-	"LISTENER_TITLE_toggle_Data" = "Data";
-	"LISTENER_TITLE_toggle_Location" = "Location";
-	"LISTENER_TITLE_toggle_Phone" = "Phone";
+	"LISTENER_TITLE_toggle_Data" = "Mobiele Data";
+	"LISTENER_TITLE_toggle_Location" = "Locatie";
+	"LISTENER_TITLE_toggle_Phone" = "Telefoon";
 	"LISTENER_TITLE_toggle_SSH" = "SSH";
 	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
 	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
 
-	"LISTENER_TITLE_com.rpetrich.superscroller.up" = "Up";
-	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.up" = "Scroll one page up";
+	"LISTENER_TITLE_com.rpetrich.superscroller.up" = "Omhoog";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.up" = "Scroll één pagina omhoog";
 
-	"LISTENER_TITLE_com.rpetrich.superscroller.down" = "Down";
-	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.down" = "Scroll one page down";
+	"LISTENER_TITLE_com.rpetrich.superscroller.down" = "Omlaag";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.down" = "Scroll één pagina omlaag";
 
-	"LISTENER_TITLE_com.rpetrich.superscroller.autoup" = "Autoscroll Up";
-	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autoup" = "Continuous scroll upwards";
+	"LISTENER_TITLE_com.rpetrich.superscroller.autoup" = "Auto-Scroll Omhoog";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autoup" = "Continu omhoog scrollen";
 
-	"LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "Autoscroll Down";
-	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "Continuous scroll downwards";
+	"LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "Auto-Scroll Omlaag";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "Continu omlaag scrollen";
 
 	"LISTENER_TITLE_com.rpetrich.voicekeys" = "VoiceKeys";
-	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Start/stop voice recognition";
+	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Start/stop spraakherkenning";
 
-	"IN_CYDIA_WARNING" = "It is potentially dangerous to perform actions while Cydia is installing software.";
+	"IN_CYDIA_WARNING" = "Het is mogelijk gevaarlijk om acties uit te voeren, terwijl Cydia aan het installeren is.";
 
-	"ASSIGNMENTS" = "Assignments";
-	"ASSIGNMENTS_DETAIL" = "Overview all event assignments";
+	"ASSIGNMENTS" = "Opdrachten";
+	"ASSIGNMENTS_DETAIL" = "Overzicht van alle actie-opdrachten";
 
-	"BACKUP_ASSIGNMENTS" = "Backup Assignments";
-	"BACKUP_ASSIGNMENTS_DETAIL" = "Export event and menu assignments";
+	"BACKUP_ASSIGNMENTS" = "Back-up Opdrachten";
+	"BACKUP_ASSIGNMENTS_DETAIL" = "Exporteer acties en menu opdrachten";
 
-	"RESTORE_ASSIGNMENTS" = "Restore Assignments";
-	"RESTORE_ASSIGNMENTS_DETAIL" = "Restore exported assignments";
+	"RESTORE_ASSIGNMENTS" = "Herstel Opdrachten";
+	"RESTORE_ASSIGNMENTS_DETAIL" = "Herstel geëxporteerde opdrachten";
 
-	"RESTORE_ALERT_TITLE" = "Restore Activator Settings";
-	"RESTORE_ALERT_MESSAGE" = "Are you sure you wish to restore settings to the exported copy?\nYour device will respring if you continue.";
+	"RESTORE_ALERT_TITLE" = "Herstel Activator Instellingen";
+	"RESTORE_ALERT_MESSAGE" = "Weet je zeker dat je de instellingen wilt herstellen van de geëxporteerde kopie?\nJe apparaat zal respringen als je doorgaat.";
 
-	"RESTORE_ALERT_CANCEL" = "Cancel";
-	"RESTORE_ALERT_CONTINUE" = "Restore";
+	"RESTORE_ALERT_CANCEL" = "Annuleer";
+	"RESTORE_ALERT_CONTINUE" = "Herstel";
 
-	"BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "Exported backup is stored at %@ and is backed up when you sync with iTunes or iCloud.";
+	"BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "Geëxporteerde back-up is opgeslagen op %@  en wordt geback-upt wanneer je met iTunes of iCloud synchroniseert.";
 
-	"FAILED_TO_OPEN_SETTINGS_FILE" = "Failed to open settings file for writing";
-	"FAILED_TO_WRITE_SETTINGS_FILE" = "Failed to write to settings file: ";
+	"FAILED_TO_OPEN_SETTINGS_FILE" = "Openen instellingsbestand om naar te schrijven mislukt";
+	"FAILED_TO_WRITE_SETTINGS_FILE" = "Schrijven naar instellingsbestand mislukt: ";
 }
