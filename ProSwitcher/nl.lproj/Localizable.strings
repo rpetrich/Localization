@@ -49,7 +49,7 @@
 	SHOW_DOCK = "Toon Dock";
 	DIM_BACKGROUND = "Dim Achtergrond";
 	
-	BACKGROUND_STYLE = "Achtgrond Stijl";
+	BACKGROUND_STYLE = "Achtergrond Stijl";
 	BACKGROUND_STYLE_NONE = "Transparant";
 	BACKGROUND_STYLE_IMAGE = "Theme";
 	
