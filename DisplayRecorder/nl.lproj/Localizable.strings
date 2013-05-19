@@ -1,106 +1,106 @@
 {
 	"Display Recorder" = "Display Recorder";
 
-	"DisplayRecorder on %@" = "DisplayRecorder on %@";
+	"DisplayRecorder on %@" = "DisplayRecorder op %@";
 
-	"Start recording display?" = "Start recording display?";
-	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "Start recording display?\n\nActivation gestures may be setup via the Settings application.";
-	"Cancel" = "Cancel";
-	"Record" = "Record";
+	"Start recording display?" = "Begin schermopname?";
+	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "Begin schermopname?\n\nActivatie-gebaren kunnen worden ingesteld via de Instellingen applicatie.";
+	"Cancel" = "Annuleer";
+	"Record" = "Neem op";
 
-	"Recording errored:\n%@\n(Error Code: %i)" = "Recording errored:\n%@\n(Error Code: %i)";
-	"Recording errored:\n%@" = "Recording errored:\n%@";
-	"Recording completed!" = "Recording completed!";
+	"Recording errored:\n%@\n(Error Code: %i)" = "Opnamefout:\n%@\n(Error Code: %i)";
+	"Recording errored:\n%@" = "Opnamefout:\n%@";
+	"Recording completed!" = "Opname compleet!";
 	"OK" = "OK";
 
-	"Display cannot be recorded while uploading to YouTube." = "Display cannot be recorded while uploading to YouTube.";
+	"Display cannot be recorded while uploading to YouTube." = "Scherm kan niet worden opgenomen tijdens het uploaden naar YouTube.";
 	
-	"Unable to load framebuffer surface" = "Unable to load framebuffer surface";
-	"Error creating writer: %@" = "Error creating writer: %@";
-	"Unable to start writing" = "Unable to start writing";
-	"Interrupted by another app using the audio/video codec hardware." = "Interrupted by another app using the audio/video codec hardware.";
-	"Failed to write pixel buffer" = "Failed to write pixel buffer";
-	"Unable to open output file at path %@" = "Unable to open output file at path %@";
+	"Unable to load framebuffer surface" = "Niet in staat framebuffer oppervlak te laden";
+	"Error creating writer: %@" = "Fout bij het maken van schrijver: %@";
+	"Unable to start writing" = "Niet in staat te beginnen met schrijven";
+	"Interrupted by another app using the audio/video codec hardware." = "Onderbroken door een andere app die de audio/video codec hardware gebruikt.";
+	"Failed to write pixel buffer" = "Pixel buffer schrijven mislukt";
+	"Unable to open output file at path %@" = "Niet in staat om uitvoerbestand te openen op %@";
 	
-	"Toggle Recording" = "Toggle Recording";
-	"Toggle Web Interface" = "Toggle Web Interface";
+	"Toggle Recording" = "Schakel Opname";
+	"Toggle Web Interface" = "Schakel Webinterface";
 
-	"Begin/end screen recording" = "Begin/end screen recording";
-	"Enable/disable web interface" = "Enable/disable web interface";
+	"Begin/end screen recording" = "Begin/stop schermopname";
+	"Enable/disable web interface" = "Activeer/deactiveer webinterface";
 	
 	"Upload Details" = "Upload Details";
 	"Upload" = "Upload";
-	"Cancel Upload" = "Cancel Upload";
+	"Cancel Upload" = "Annuleer Upload";
 	
-	"YouTube Terms" = "YouTube Terms";
-	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service";
-	"Show Terms" = "Show Terms";
+	"YouTube Terms" = "YouTube Voorwaarden";
+	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "Met het drukken op 'upload', verklaart u dat u alle vereiste rechten over de inhoud óf over de toestemming van de eigenaar beschikt om de inhoud publiekelijk beschikbaar te stellen op YouTube en dat het voldoet aan de overige Servicevoorwaarden van YouTube";
+	"Show Terms" = "Toon Voorwaarden";
 
-	"Title" = "Title";
-	"Description" = "Description";
-	"Category" = "Category";
-	"Public Video" = "Public Video";
+	"Title" = "Titel";
+	"Description" = "Beschrijving";
+	"Category" = "Categorie";
+	"Public Video" = "Openbare Video";
 
-	"Film & Animation" = "Film & Animation";
-	"Autos & Vehicles" = "Autos & Vehicles";
-	"Music" = "Music";
-	"Pets & Animals" = "Pets & Animals";
-	"Sports" = "Sports";
-	"Travel & Events" = "Travel & Events";
+	"Film & Animation" = "Film & Animatie";
+	"Autos & Vehicles" = "Auto's & Voertuigen";
+	"Music" = "Muziek";
+	"Pets & Animals" = "Huisdieren & Dieren";
+	"Sports" = "Sport";
+	"Travel & Events" = "Reizen & Evenementen";
 	"Gaming" = "Gaming";
-	"Comedy" = "Comedy";
-	"People & Blogs" = "People & Blogs";
-	"News & Politics" = "News & Politics";
-	"Entertainment" = "Entertainment";
-	"Education" = "Education";
-	"Howto & Style" = "Howto & Style";
-	"Nonprofits & Activism" = "Nonprofits & Activism";
-	"Science & Technology" = "Science & Technology";
-	"Movies" = "Movies";
+	"Comedy" = "Humor";
+	"People & Blogs" = "Mensen & Blogs";
+	"News & Politics" = "Nieuws & Politiek";
+	"Entertainment" = "Amusement";
+	"Education" = "Onderwijs";
+	"Howto & Style" = "Zo-doe-je-dat & Stijl";
+	"Nonprofits & Activism" = "Non-profit & Activisme";
+	"Science & Technology" = "Wetenschap & Technologie";
+	"Movies" = "Films";
 	
-	"YouTube Login Missing" = "YouTube Login Missing";
-	"Fill in your login details via the Display Recorder pane in the Settings application." = "Fill in your login details via the Display Recorder pane in the Settings application.";
-	"Oversize Video" = "Oversize Video";
-	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings.";
-	"Continue" = "Continue";
+	"YouTube Login Missing" = "YouTube Login Ontbreekt";
+	"Fill in your login details via the Display Recorder pane in the Settings application." = "Vul uw login gegevens in via het Display Recorder paneel in de Instellingen applicatie.";
+	"Oversize Video" = "Vergroot Video";
+	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "In sommige gevallen zal YouTube video's met grote afmetingen niet accepteren vanaf een mobiel apparaat.\nVoor de beste resultaten, verplaats de video naar een computer en upload via YouTube's webinterface of neem uw eigen video opnieuw op middels de schaal optie in Instellingen.";
+	"Continue" = "Ga door";
 	
-	"Title is empty" = "Title is empty";
-	"YouTube requires that all videos have a title." = "YouTube requires that all videos have a title.";
-	"Description is empty" = "Description is empty";
-	"YouTube requires that all videos have a description." = "YouTube requires that all videos have a description.";
+	"Title is empty" = "Titel is leeg";
+	"YouTube requires that all videos have a title." = "YouTube vereist dat alle video's een titel hebben.";
+	"Description is empty" = "Beschrijving is leeg";
+	"YouTube requires that all videos have a description." = "YouTube vereist dat alle video's een beschrijving hebben.";
 
-	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username.";
-	"Upload failed with error:\n" = "Upload failed with error:\n";
-	"Upload completed successfully\nYouTube link is on the pasteboard" = "Upload completed successfully\nYouTube link is on the pasteboard";
+	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "Uploaden mislukt omdat de inloggegevens werden geweigerd. Ga naar de Instellingen applicatie en voer ze opnieuw in.\n Als u probeert in te loggen middels een Google account, zorg dat het gelinked is met uw YouTube gebruikersnaam.";
+	"Upload failed with error:\n" = "Upload mislukt met error:\n";
+	"Upload completed successfully\nYouTube link is on the pasteboard" = "Upload succesvol voltooid\nYouTube link is gekopieerd";
 	
 	"Help" = "Help";
-	"Enable" = "Enable";
-	"Disable" = "Disable";
+	"Enable" = "Activeer";
+	"Disable" = "Deactiveer";
 
-	"Not connected to Wi-Fi" = "Not connected to Wi-Fi";
-	"Web server disabled" = "Web server disabled";
+	"Not connected to Wi-Fi" = "Niet verbonden met Wi-Fi";
+	"Web server disabled" = "Webserver gedeactiveerd";
 	
-	"Saving to Camera Roll…" = "Saving to Camera Roll…";
-	"Save Failed!" = "Save Failed!";
-	"Unable to save video to camera roll." = "Unable to save video to camera roll.";
+	"Saving to Camera Roll…" = "Opslaan in Filmrol…";
+	"Save Failed!" = "Opslaan Mislukt!";
+	"Unable to save video to camera roll." = "Niet in staat video op te slaan in filmrol.";
 	
-	"Recording…" = "Recording…";
-	"Stop Recording" = "Stop Recording";
+	"Recording…" = "Neemt op…";
+	"Stop Recording" = "Stop Opname";
 	
-	"1 day" = "1 day";
-	"%u days" = "%u days";
-	"1 hr" = "1 hr";
-	"1 hour" = "1 hour";
-	"%u hrs" = "%u hrs";
-	"%u hours" = "%u hours";
-	"1 min" = "1 min";
-	"1 minute" = "1 minute";
-	"%u mins" = "%u mins";
-	"%u minutes" = "%u minutes";
-	"1 sec" = "1 sec";
-	"1 second" = "1 second";
-	"%u secs" = "%u secs";
-	"%u seconds" = "%u seconds";
+	"1 day" = "1 dag";
+	"%u days" = "%u dagen";
+	"1 hr" = "1 u";
+	"1 hour" = "1 uur";
+	"%u hrs" = "%u u";
+	"%u hours" = "%u uren";
+	"1 min" = "1 min.";
+	"1 minute" = "1 minuut";
+	"%u mins" = "%u min.";
+	"%u minutes" = "%u minuten";
+	"1 sec" = "1 sec.";
+	"1 second" = "1 seconde";
+	"%u secs" = "%u sec.";
+	"%u seconds" = "%u seconden";
 	" " = " ";
 
 	"%llu GB" = "%llu GB";
@@ -108,55 +108,55 @@
 	"%llu KB" = "%llu KB";
 	"%llu bytes" = "%llu bytes";
 	
-	"Recordings" = "Recordings";
+	"Recordings" = "Opnames";
 	
-	"Delete Recording" = "Delete Recording";
-	"Upload to YouTube" = "Upload to YouTube";
-	"Play Video" = "Play Video";
-	"Add to Camera Roll" = "Add to Camera Roll";
+	"Delete Recording" = "Verwijder Opname";
+	"Upload to YouTube" = "Upload naar YouTube";
+	"Play Video" = "Speel Video";
+	"Add to Camera Roll" = "Voeg toe aan Filmrol";
 
-	"Activation Methods" = "Activation Methods";
-	"Always" = "Always";
-	"Cancel" = "Cancel";
-	"Continue" = "Continue";
+	"Activation Methods" = "Activatiemethoden";
+	"Always" = "Altijd";
+	"Cancel" = "Annuleer";
+	"Continue" = "Ga door";
 	"Display Recorder" = "Display Recorder";
-	"For best performance, select the native device orientation" = "For best performance, select the native device orientation";
-	"For best results, use the Google login that is linked to your YouTube account" = "For best results, use the Google login that is linked to your YouTube account";
+	"For best performance, select the native device orientation" = "Voor de beste prestatie selecteer de standaardoriëntatie";
+	"For best results, use the Google login that is linked to your YouTube account" = "Voor de beste resultaten gebruikt u de Google login gekoppeld aan uw YouTube account";
 	"Framerate" = "Framerate";
-	"Full" = "Full";
-	"Grayscale" = "Grayscale";
-	"H.264/MOV (experimental)" = "H.264/MOV (experimental)";
+	"Full" = "Volledig";
+	"Grayscale" = "Grijstinten";
+	"H.264/MOV (experimental)" = "H.264/MOV (experimenteel)";
 	"H.264/MOV" = "H.264/MOV";
-	"H.264/MOV with Mic Audio" = "H.264/MOV with Mic Audio";
+	"H.264/MOV with Mic Audio" = "H.264/MOV met Geluid Mic.";
 	"H.264" = "H.264";
 	"H.264 + Mic" = "H.264 + Mic";
 	"Half" = "Half";
-	"Half-scale is not supported when OpenGL capture is enabled" = "Half-scale is not supported when OpenGL capture is enabled";
-	"Hidden" = "Hidden";
-	"High" = "High";
-	"Landscape Left" = "Landscape Left";
-	"Landscape Right" = "Landscape Right";
-	"Large" = "Large";
-	"Lock Framerate" = "Lock Framerate";
-	"Low" = "Low";
+	"Half-scale is not supported when OpenGL capture is enabled" = "Half-schalen wordt niet ondersteund als OpenGL ingeschakeld is";
+	"Hidden" = "Verborgen";
+	"High" = "Hoog";
+	"Landscape Left" = "Landschap Links";
+	"Landscape Right" = "Landschap Rechts";
+	"Large" = "Groot";
+	"Lock Framerate" = "Vergrendel Framerate";
+	"Low" = "Laag";
 	"Medium" = "Medium";
-	"MJPEG/AVI (stable)" = "MJPEG/AVI (stable)";
+	"MJPEG/AVI (stable)" = "MJPEG/AVI (stabiel)";
 	"Open in Safari" = "Open in Safari";
-	"OpenGL capture" = "OpenGL capture";
-	"Password" = "Password";
-	"Portrait" = "Portrait";
-	"Record Audio" = "Record Audio";
-	"Rotation" = "Rotation";
-	"Scale" = "Scale";
-	"Show Taps" = "Show Taps";
-	"Small" = "Small";
-	"Tap Size" = "Tap Size";
-	"Upside Down" = "Upside Down";
-	"User's Guide" = "User's Guide";
+	"OpenGL capture" = "OpenGL filmen";
+	"Password" = "Wachtwoord";
+	"Portrait" = "Portret";
+	"Record Audio" = "Neem Geluid op";
+	"Rotation" = "Rotatie";
+	"Scale" = "Schalen";
+	"Show Taps" = "Geef Taps Weer";
+	"Small" = "Klein";
+	"Tap Size" = "Tap-grootte";
+	"Upside Down" = "Ondersteboven";
+	"User's Guide" = "Gebruikershandleiding";
 	"Video Format" = "Video Format";
 	"Video Quality" = "Video Quality";
-	"Web Server" = "Web Server";
-	"When Recording" = "When Recording";
+	"Web Server" = "Webserver";
+	"When Recording" = "Tijdens Opname";
 	"YouTube Account" = "YouTube Account";
-	"YouTube or Google Account" = "YouTube or Google Account";
+	"YouTube or Google Account" = "YouTube of Google Account";
 }
