@@ -15,12 +15,12 @@
 	"CURRENTLY_ASSIGNED_TO" = "Momenteel toegewezen aan:";
 	"UNASSIGNED" = "(niet toegewezen)";
 	"MORE_ACTIONS" = "Meer Acties";
-	"MORE_ACTIONS_DETAIL" = "Haal meer acties via Cydia";
+	"MORE_ACTIONS_DETAIL" = "Haal meer acties op via Cydia";
 	"DONATE" = "Doneer";
 	"DONATE_DETAIL" = "Draag bij via PayPal";
 	"N_ADDITIONAL_EVENTS" = "%i extra acties";
 	"RESET_SETTINGS" = "Reset Instellingen";
-	"RESET_SETTINGS_DETAIL" = "Alle instellingen terugzetten naar de standaardwaarden";
+	"RESET_SETTINGS_DETAIL" = "Standaardinstellingen terugzetten";
 	"RESET_ALERT_TITLE" = "Reset Instellingen Activator";
 	"RESET_ALERT_MESSAGE" = "Weet je zeker dat je de Activator standaardinstellingen wilt terugzetten?\nJe apparaat zal respringen als je doorgaat.";
 	"RESET_ALERT_CANCEL" = "Annuleer";
@@ -41,7 +41,7 @@
 	"VERSION_PROMPT_IGNORE" = "Negeer";
 	"VERSION_PROMPT_CONTINUE" = "Ga Door";
 
-	"SHOW_ICON" = "Toon Icon";
+	"SHOW_ICON" = "Toon Icoon";
 	"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "Toon Activator Icoon op SpringBoard";
 
 	"Advertisement" = "Advertentie";
@@ -98,7 +98,7 @@
 	"MODE_DESCRIPTION_application" = "Als een applicatie zichtbaar is";
 
 	"MODE_TITLE_lockscreen" = "Op Lockscreen";
-	"MODE_DESCRIPTION_lockscreen" = "Als is vergrendeld en lockscreen zichtbaar";
+	"MODE_DESCRIPTION_lockscreen" = "Als vergrendelscherm zichtbaar is";
 
 	/* Event Groups */
 
@@ -237,16 +237,16 @@
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Tap eenmaal op statusbalk";
 
 	"EVENT_TITLE_libactivator.statusbar.hold.left" = "Houd Links Vast";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Tap en hou vast op de linkerkant van de statusbalk";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Tap en houd vast op de linkerkant";
 
 	"EVENT_TITLE_libactivator.statusbar.hold.right" = "Houd Rechts Van";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Tap en hou vast op de rechterkant van de statusbalk";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Tap en houd vast op de rechterkant";
 
 	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Dubbeltap Links";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Tap tweemaal op de linkerkant van de statusbalk";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Tap tweemaal op de linkerkant";
 
 	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "Dubbeltap Rechts";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "Tap tweemaal op de rechterkant van de statusbalk";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "Tap tweemaal op de rechterkant";
 
 	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "Enkele Tap Links";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "Tap eenmaal op de linkerkant van de statusbalk";
@@ -294,18 +294,18 @@
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Druk headset-knop eenmaal in";
 
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Knop Kort Inhouden";
-	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Druk en houd headset-knop kort ingedrukt";
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Druk en houd headset-knop kort in";
 
-	"EVENT_TITLE_libactivator.headset.connected" = "Verbonden";
+	"EVENT_TITLE_libactivator.headset.connected" = "Gekoppeld";
 	"EVENT_DESCRIPTION_libactivator.headset.connected" = "Headset ingeplugd in apparaat";
 
 	"EVENT_TITLE_libactivator.headset.disconnected" = "Ontkoppeld";
-	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "Headset ontkoppeld van device";
+	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "Headset ontkoppeld van apparaat";
 
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Dubbeltap Klok";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Dubbeltap klok/datum ruimte";
 
-	"EVENT_TITLE_libactivator.power.connected" = "Verbonden";
+	"EVENT_TITLE_libactivator.power.connected" = "Gekoppeld";
 	"EVENT_DESCRIPTION_libactivator.power.connected" = "Begint met stroom ontvangen";
 
 	"EVENT_TITLE_libactivator.power.disconnected" = "Ontkoppeld";
@@ -409,19 +409,19 @@
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Sleep het Berichtencentrum omlaag";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Stel Tweet Op";
-	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Open modale tweet-opsteller";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Open ingebouwde tweet-opsteller";
 
 	"LISTENER_TITLE_libactivator.facebook.compose-post" = "Stel Facebook Post Op";
-	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Open modale Facebook-opsteller";
+	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Open ingebouwde Facebook-opsteller";
 
 	"LISTENER_TITLE_libactivator.mail.compose-message" = "Stel Mail Op";
-	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Open modale email-opsteller";
+	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Open ingebouwde email-opsteller";
 
 	"LISTENER_TITLE_libactivator.sms.compose-message" = "Stel Bericht Op";
-	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Open modale bericht-opsteller";
+	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Open ingebouwde bericht-opsteller";
 
 	"LISTENER_TITLE_libactivator.weibo.compose-post" = "Stel Weibo Post Op";
-	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Open modale Weibo-opsteller";
+	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Open ingebouwde Weibo-opsteller";
 
 	"LISTENER_TITLE_libactivator.audio.decrease-volume" = "Volume Omlaag";
 	"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "Verlaag audiovolume met één stap";
@@ -433,7 +433,7 @@
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Toon de volumeregelaar";
 
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod-Regelaars";
-	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Toon de geluidsregelaars popup";
+	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Toon de geluidsregelaars pop-up";
 
 	"LISTENER_TITLE_libactivator.ipod.next-track" = "Volgende Nummer";
 	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "Springt naar het volgende nummer";
