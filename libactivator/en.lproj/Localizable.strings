@@ -130,6 +130,7 @@
 	"EVENT_GROUP_TITLE_Audio" = "Audio";
 	"EVENT_GROUP_TITLE_Settings" = "Settings";
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Multi-Touch Gesture";
+	"EVENT_GROUP_TITLE_Application Launched" = "Application Launched";
 
 	/* Events */
 
@@ -394,6 +395,33 @@
 	"LISTENER_GROUP_TITLE_Sharing" = "Sharing";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 	"LISTENER_GROUP_TITLE_Contacts" = "Contacts";
+
+	/* Custom Events */
+
+	"NEW_EVENT_TITLE_libactivator.application-launch" = "Application Launch";
+	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "A specific application is launched";
+	"EVENT_TITLE_libactivator.application-launch_FORMAT" = "Launch %@";
+	"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "%@ application is launched";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.up" = "Icon Flick Up";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up" = "A specific icon is flicked up";
+	"EVENT_TITLE_libactivator.icon.flick.up_FORMAT" = "%@ Icon Flick Up";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up_FORMAT" = "Flick %@ SpringBoard icon up";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.down" = "Icon Flick Down";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down" = "A specific icon is flicked down";
+	"EVENT_TITLE_libactivator.icon.flick.down_FORMAT" = "%@ Icon Flick Down";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down_FORMAT" = "Flick %@ SpringBoard icon down";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.left" = "Icon Flick Left";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left" = "A specific icon is flicked left";
+	"EVENT_TITLE_libactivator.icon.flick.left_FORMAT" = "%@ Icon Flick Left";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left_FORMAT" = "Flick %@ SpringBoard icon left";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.right" = "Icon Flick Right";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "A specific icon is flicked right";
+	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ Icon Flick Right";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Flick %@ SpringBoard icon right";
 
 	/* Listener Names */
 
