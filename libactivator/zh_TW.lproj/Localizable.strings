@@ -51,7 +51,6 @@
 	"SAFE_MODE_CANCEL" = "取消";
 	"SAFE_MODE_RESTART" = "重新啟動";
 
-
 	"ACTIVATOR_DISABLED" = "Activator 已禁用";
 	"ACTIVATOR_DISABLED_MESSAGE" = "因 MobileSubstrate 没有正常工作，Activator 大部分功能已被禁用。如果您的裝置是處於安全模式下，您可以在螢幕頂端狀態列看到“Exit Safe Mode”（退出安全模式）的字樣，您可以點擊“Restart”（重新啟動）以回到正常模式。";
 
@@ -62,6 +61,19 @@
 
 	"BLACKLIST" = "屏蔽列表";
 	"BLACKLIST_DETAIL" = "忽略指定應用程式中的事件";
+
+	"N_ACTIONS" = "展開 %d 個項目";
+	
+	"Slide Gestures" = "滑動手勢";
+	"Sensitivity" = "靈敏度";
+	"Tight" = "極低";
+	"Very Precise" = "低";
+	"Precise" = "較低";
+	"Normal" = "正常";
+	"Lenient" = "較高";
+	"Very Lenient" = "高";
+	"Loose" = "很高";
+	"Very Loose" = "極高";
 
 	/* Bookmarks */
 
@@ -103,7 +115,7 @@
 
 	/* Event Groups */
 
-	"EVENT_GROUP_TITLE_Slide In Gesture" = "單指手勢";
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "單指滑入手勢";
 	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "雙指手勢";
 	"EVENT_GROUP_TITLE_Motion" = "動作";
 	"EVENT_GROUP_TITLE_SpringBoard" = "“主畫面”螢幕";
@@ -117,6 +129,7 @@
 	"EVENT_GROUP_TITLE_Audio" = "音訊";
 	"EVENT_GROUP_TITLE_Settings" = "設定";
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "多點觸摸手勢";
+	"EVENT_GROUP_TITLE_Slide Out Gesture" = "單指滑出手勢";
 
 	/* Events */
 
@@ -200,6 +213,18 @@
 
 	"EVENT_TITLE_libactivator.slide-in.right-bottom" = "從螢幕右下";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right-bottom" = "由螢幕右下向中心拖動";
+	
+	"EVENT_TITLE_libactivator.drag-off.bottom" = "滑出螢幕底部";
+	"EVENT_DESCRIPTION_libactivator.drag-off.bottom" = "滑出螢幕底部";
+
+	"EVENT_TITLE_libactivator.drag-off.left" = "滑出螢幕左側";
+	"EVENT_DESCRIPTION_libactivator.drag-off.left" = "滑出螢幕左側";
+
+	"EVENT_TITLE_libactivator.drag-off.right" = "滑出螢幕右側";
+	"EVENT_DESCRIPTION_libactivator.drag-off.right" = "滑出螢幕右側";
+
+	"EVENT_TITLE_libactivator.drag-off.top" = "滑出螢幕頂部";
+	"EVENT_DESCRIPTION_libactivator.drag-off.top" = "滑出螢幕頂部";
 
 	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "從螢幕底部";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "由螢幕底部向上拖動";
@@ -339,6 +364,18 @@
 	"EVENT_TITLE_libactivator.three-finger.tap" = "三指按一下";
 	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "在螢幕用三指按一下";
 
+	"EVENT_TITLE_libactivator.icon.flick.down" = "向下彈圖示";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down" = "向下彈“主畫面”圖示";
+
+	"EVENT_TITLE_libactivator.icon.flick.left" = "向左彈圖示";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left" = "向左彈“主畫面”圖示";
+
+	"EVENT_TITLE_libactivator.icon.flick.right" = "向右彈圖示";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right" = "向右彈“主畫面”圖示";
+
+	"EVENT_TITLE_libactivator.icon.flick.up" = "向上彈圖示";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上彈“主畫面”圖示";  
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系統動作";
@@ -358,6 +395,7 @@
 	"LISTENER_GROUP_TITLE_Sharing" = "分享";
 	"LISTENER_GROUP_TITLE_Device UIRotation" = "裝置方向";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+	"LISTENER_GROUP_TITLE_Contacts" = "聯絡資訊";
 
 	/* Listener Names */
 
@@ -476,6 +514,10 @@
 
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "顯示語音信箱";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "打開電話的語音信箱";
+
+	"LISTENER_DESCRIPTION_libactivator.call" = "呼叫";
+	"LISTENER_DESCRIPTION_libactivator.mail" = "發郵件給";
+	"LISTENER_DESCRIPTION_libactivator.text" = "發訊息給";
 
 	/* Third Party Listerners */
 
@@ -727,6 +769,9 @@
 
 	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "亮度與背景圖片";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "打開設定的亮度與背景圖片頁面";
+
+	"LISTENER_TITLE_libactivator.settings.cellular" = "行動網路";
+	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "打開設定的行動網路頁面";
 
 	"LISTENER_TITLE_libactivator.settings.date-time" = "日期與時間";
 	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "打開設定的日期與時間頁面";
