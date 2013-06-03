@@ -61,6 +61,19 @@
 
 	"BLACKLIST" = "屏蔽列表";
 	"BLACKLIST_DETAIL" = "忽略指定应用程序里的事件";
+	
+	"N_ACTIONS" = "展开 %d 个项目";
+	
+	"Slide Gestures" = "滑动手势";
+	"Sensitivity" = "灵敏度";
+	"Tight" = "很低";
+	"Very Precise" = "低";
+	"Precise" = "较低";
+	"Normal" = "正常";
+	"Lenient" = "较高";
+	"Very Lenient" = "高";
+	"Loose" = "很高";
+	"Very Loose" = "极高";
 
 	/* Bookmarks */
 
@@ -102,7 +115,7 @@
 
 	/* Event Groups */
 
-	"EVENT_GROUP_TITLE_Slide In Gesture" = "单指手势";
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "单指滑入手势";
 	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "双指手势";
 	"EVENT_GROUP_TITLE_Motion" = "动作";
 	"EVENT_GROUP_TITLE_SpringBoard" = "主屏幕";
@@ -116,6 +129,7 @@
 	"EVENT_GROUP_TITLE_Audio" = "音频";
 	"EVENT_GROUP_TITLE_Settings" = "设置";
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "多点触摸手势";
+	"EVENT_GROUP_TITLE_Slide Out Gesture" = "单指滑出手势";
 
 	/* Events */
 
@@ -181,6 +195,18 @@
 
 	"EVENT_TITLE_libactivator.slide-in.right-bottom" = "从屏幕右下";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right-bottom" = "由屏幕右下向中心拖动";
+
+	"EVENT_TITLE_libactivator.drag-off.bottom" = "滑出屏幕底部";
+	"EVENT_DESCRIPTION_libactivator.drag-off.bottom" = "滑出屏幕底部";
+
+	"EVENT_TITLE_libactivator.drag-off.left" = "滑出屏幕左侧";
+	"EVENT_DESCRIPTION_libactivator.drag-off.left" = "滑出屏幕左侧";
+
+	"EVENT_TITLE_libactivator.drag-off.right" = "滑出屏幕右侧";
+	"EVENT_DESCRIPTION_libactivator.drag-off.right" = "滑出屏幕右侧";
+
+	"EVENT_TITLE_libactivator.drag-off.top" = "滑出屏幕顶部";
+	"EVENT_DESCRIPTION_libactivator.drag-off.top" = "滑出屏幕顶部";
 
 	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "从屏幕底部";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "由屏幕底部向上拖动";
@@ -338,6 +364,18 @@
 	"EVENT_TITLE_libactivator.three-finger.tap" = "三指按一下";
 	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "在屏幕用三指按一下";
 
+	"EVENT_TITLE_libactivator.icon.flick.down" = "向下弹图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down" = "向下弹主屏幕图标";
+
+	"EVENT_TITLE_libactivator.icon.flick.left" = "向左弹图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left" = "向左弹主屏幕图标";
+
+	"EVENT_TITLE_libactivator.icon.flick.right" = "向右弹图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right" = "向右弹主屏幕图标";
+
+	"EVENT_TITLE_libactivator.icon.flick.up" = "向上弹图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上弹主屏幕图标";	
+	
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
@@ -357,6 +395,7 @@
 	"LISTENER_GROUP_TITLE_Sharing" = "分享";
 	"LISTENER_GROUP_TITLE_Device UIRotation" = "设备方向";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+	"LISTENER_GROUP_TITLE_Contacts" = "通讯录";
 
 	/* Listener Names */
 
@@ -475,6 +514,10 @@
 
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "显示语音留言";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "打开电话的语音留言";
+	
+	"LISTENER_DESCRIPTION_libactivator.call" = "呼叫";
+	"LISTENER_DESCRIPTION_libactivator.mail" = "发邮件给";
+	"LISTENER_DESCRIPTION_libactivator.text" = "发信息给";
 
 	/* Third Party Listerners */
 
@@ -726,6 +769,9 @@
 
 	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "亮度与墙纸";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "打开设置的亮度与墙纸页面";
+
+	"LISTENER_TITLE_libactivator.settings.cellular" = "蜂窝移动网络";
+	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "打开设置的蜂窝移动网络页面";
 
 	"LISTENER_TITLE_libactivator.settings.date-time" = "日期与时间";
 	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "打开设置的日期与时间页面";
