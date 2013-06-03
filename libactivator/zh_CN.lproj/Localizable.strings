@@ -61,12 +61,12 @@
 
 	"BLACKLIST" = "屏蔽列表";
 	"BLACKLIST_DETAIL" = "忽略指定应用程序里的事件";
-	
+
 	"N_ACTIONS" = "展开 %d 个项目";
-	
+
 	"Slide Gestures" = "滑动手势";
 	"Sensitivity" = "灵敏度";
-	"Tight" = "很低";
+	"Tight" = "极低";
 	"Very Precise" = "低";
 	"Precise" = "较低";
 	"Normal" = "正常";
@@ -189,7 +189,7 @@
 
 	"EVENT_TITLE_libactivator.slide-in.right" = "从屏幕右侧";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "由屏幕右侧向左拖动";
-	
+
 	"EVENT_TITLE_libactivator.slide-in.right-top" = "从屏幕右上";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right-top" = "由屏幕右上向中心拖动";
 
@@ -374,8 +374,8 @@
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right" = "向右弹主屏幕图标";
 
 	"EVENT_TITLE_libactivator.icon.flick.up" = "向上弹图标";
-	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上弹主屏幕图标";	
-	
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上弹主屏幕图标";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
@@ -514,7 +514,7 @@
 
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "显示语音留言";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "打开电话的语音留言";
-	
+
 	"LISTENER_DESCRIPTION_libactivator.call" = "呼叫";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "发邮件给";
 	"LISTENER_DESCRIPTION_libactivator.text" = "发信息给";
@@ -873,7 +873,7 @@
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "开始或停止语音识别";
 
 	"IN_CYDIA_WARNING" = "在 Cydia 安装软件时进行其它操作会有潜在的危险。";
-	
+
 	"ASSIGNMENTS" = "配置";
 	"ASSIGNMENTS_DETAIL" = "事件配置总览";
 
