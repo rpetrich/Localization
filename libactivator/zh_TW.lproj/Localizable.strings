@@ -655,7 +655,7 @@
 	"LISTENER_DESCRIPTION_com.phoenix.mcpro" = "任務控制";
 
 	"LISTENER_TITLE_com.phoenix.pandoracontrols" = "音樂控制";
-	"LISTENER_DESCRIPTION_com.phoenix.pandoracontrols" = "啟動拖窗控制";
+	"LISTENER_DESCRIPTION_com.phoenix.pandoracontrols" = "啟動彈窗控制";
 
 	"LISTENER_TITLE_com.phoenix.yfiselect" = "YFiSelect";
 	"LISTENER_DESCRIPTION_com.phoenix.yfiselect" = "選擇 WiFi 網路";
