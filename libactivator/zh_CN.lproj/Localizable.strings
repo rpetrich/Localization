@@ -502,7 +502,7 @@
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "显示音量滑块";
 
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
-	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "显示正在播放拖出窗口";
+	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "显示正在播放弹出窗口";
 
 	"LISTENER_TITLE_libactivator.ipod.next-track" = "下一首";
 	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "跳到下一个曲目";
@@ -655,7 +655,7 @@
 	"LISTENER_DESCRIPTION_com.phoenix.mcpro" = "任务控制";
 
 	"LISTENER_TITLE_com.phoenix.pandoracontrols" = "音乐控制";
-	"LISTENER_DESCRIPTION_com.phoenix.pandoracontrols" = "激活拖窗控制";
+	"LISTENER_DESCRIPTION_com.phoenix.pandoracontrols" = "激活弹窗控制";
 
 	"LISTENER_TITLE_com.phoenix.yfiselect" = "YFiSelect";
 	"LISTENER_DESCRIPTION_com.phoenix.yfiselect" = "选择 WiFi 网络";
