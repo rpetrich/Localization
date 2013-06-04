@@ -116,6 +116,7 @@
 	/* Event Groups */
 
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "单指滑入手势";
+	"EVENT_GROUP_TITLE_Slide Out Gesture" = "单指滑出手势";
 	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "双指手势";
 	"EVENT_GROUP_TITLE_Motion" = "动作";
 	"EVENT_GROUP_TITLE_SpringBoard" = "主屏幕";
@@ -129,7 +130,7 @@
 	"EVENT_GROUP_TITLE_Audio" = "音频";
 	"EVENT_GROUP_TITLE_Settings" = "设置";
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "多点触摸手势";
-	"EVENT_GROUP_TITLE_Slide Out Gesture" = "单指滑出手势";
+	"EVENT_GROUP_TITLE_Application Launched" = "应用程序已启动";
 
 	/* Events */
 
@@ -364,17 +365,44 @@
 	"EVENT_TITLE_libactivator.three-finger.tap" = "三指按一下";
 	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "在屏幕用三指按一下";
 
-	"EVENT_TITLE_libactivator.icon.flick.down" = "向下弹图标";
-	"EVENT_DESCRIPTION_libactivator.icon.flick.down" = "向下弹主屏幕图标";
+	"EVENT_TITLE_libactivator.icon.flick.down" = "向下拖图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down" = "向下轻拖主屏幕图标";
 
-	"EVENT_TITLE_libactivator.icon.flick.left" = "向左弹图标";
-	"EVENT_DESCRIPTION_libactivator.icon.flick.left" = "向左弹主屏幕图标";
+	"EVENT_TITLE_libactivator.icon.flick.left" = "向左拖图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left" = "向左轻拖主屏幕图标";
 
-	"EVENT_TITLE_libactivator.icon.flick.right" = "向右弹图标";
-	"EVENT_DESCRIPTION_libactivator.icon.flick.right" = "向右弹主屏幕图标";
+	"EVENT_TITLE_libactivator.icon.flick.right" = "向右拖图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right" = "向右轻拖主屏幕图标";
 
-	"EVENT_TITLE_libactivator.icon.flick.up" = "向上弹图标";
-	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上弹主屏幕图标";
+	"EVENT_TITLE_libactivator.icon.flick.up" = "向上拖图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上轻拖主屏幕图标";
+
+	/* Custom Events */
+
+	"NEW_EVENT_TITLE_libactivator.application-launch" = "应用程序启动";
+	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "某个应用程序已启动";
+	"EVENT_TITLE_libactivator.application-launch_FORMAT" = "启动 %@";
+	"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "%@ 应用程序已启动";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.up" = "向上拖图标";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up" = "某个图标被向上拖动";
+	"EVENT_TITLE_libactivator.icon.flick.up_FORMAT" = "%@ 向上拖图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up_FORMAT" = "向上轻拖 %@ 主屏幕图标";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.down" = "向下拖图标";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down" = "某个图标被向下拖动";
+	"EVENT_TITLE_libactivator.icon.flick.down_FORMAT" = "%@ 向下拖图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down_FORMAT" = "向下轻拖 %@ 主屏幕图标";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.left" = "向左拖图标";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left" = "某个图标被向左拖动";
+	"EVENT_TITLE_libactivator.icon.flick.left_FORMAT" = "%@ 向左拖图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left_FORMAT" = "向左轻拖 %@ 主屏幕图标";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.right" = "向右拖图标";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "某个图标被向右拖动";
+	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ 向右拖图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "向右轻拖 %@ 主屏幕图标";
 
 	/* Listener Groups */
 
@@ -474,7 +502,7 @@
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "显示音量滑块";
 
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
-	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "显示正在播放弹出窗口";
+	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "显示正在播放拖出窗口";
 
 	"LISTENER_TITLE_libactivator.ipod.next-track" = "下一首";
 	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "跳到下一个曲目";
@@ -627,7 +655,7 @@
 	"LISTENER_DESCRIPTION_com.phoenix.mcpro" = "任务控制";
 
 	"LISTENER_TITLE_com.phoenix.pandoracontrols" = "音乐控制";
-	"LISTENER_DESCRIPTION_com.phoenix.pandoracontrols" = "激活弹窗控制";
+	"LISTENER_DESCRIPTION_com.phoenix.pandoracontrols" = "激活拖窗控制";
 
 	"LISTENER_TITLE_com.phoenix.yfiselect" = "YFiSelect";
 	"LISTENER_DESCRIPTION_com.phoenix.yfiselect" = "选择 WiFi 网络";
