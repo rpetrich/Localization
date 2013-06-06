@@ -32,7 +32,7 @@
 	"DISABLED" = "Desactivado";
 	
 	"OUT_OF_DATE_TITLE" = "Versión del sistema obsoleta";
-	"OUT_OF_DATE_MESSAGE" = "Activator funcionará mejor en versiones modernas de iOS.\nConsidere actualizar.";
+	"OUT_OF_DATE_MESSAGE" = "Activator funcionará mejor en versiones modernas de iOS.\nConsidera actualizar.";
 	
 	"TOO_NEW_TITLE" = "Versión del sistema muy nueva";
 	"TOO_NEW_MESSAGE" = "Activator no ha sido probado en esta versión de iOS.\nAlgunas funciones podrían no funcionar correctamente.";
@@ -46,21 +46,21 @@
 	
 	"Advertisement" = "Publicidad";
 
-	"SAFE_MODE_TITLE" = "En modo seguro";
-	"SAFE_MODE_MESSAGE" = "Su dispositivo está actualmente en modo seguro. La mayoría de características de Activator están deshabilitadas mientras el dispositivo está en modo seguro. Reinicia el SpringBoard para volver al modo normal.";
+	"SAFE_MODE_TITLE" = "Modo seguro";
+	"SAFE_MODE_MESSAGE" = "Tu dispositivo está actualmente en modo seguro. La mayoría de funciones de Activator estarán deshabilitadas mientras el dispositivo esté en modo seguro. Reinicia el SpringBoard para volver al modo normal.";
         "SAFE_MODE_CANCEL" = "Cancelar";
 	"SAFE_MODE_RESTART" = "Reiniciar";
 
 	"ACTIVATOR_DISABLED" = "Activator desactivado";
-	"ACTIVATOR_DISABLED_MESSAGE" = "La mayoría de funciones de Activator están actualmente desactivadas porque Mobile Substrate no está funcionando. Si tu dispositivo está en modo seguro, verás \"Exit Safe Mode\" en la parte superior de tu pantalla, y podrás tocar \"Reiniciar\" para volver al modo normal.";
+	"ACTIVATOR_DISABLED_MESSAGE" = "La mayoría de funciones de Activator estarán deshabilitadas porque Mobile Substrate no está funcionando. Si tu dispositivo está en modo seguro, verás \"Exit Safe Mode\" en la parte superior de tu pantalla, y podrás tocar \"Reiniciar\" para volver al modo normal.";
 
 	"ACTIVATOR_CORRUPT" = "Activator corrupto";
-	"ACTIVATOR_CORRUPT_MESSAGE" = " La mayoría de funciones de Activator están actualmente desactivadas porque los archivos internos de Activator parecen ser incorrectos. Intenta ir a Cydia y reinstalar Activator.";
+	"ACTIVATOR_CORRUPT_MESSAGE" = "La mayoría de funciones de Activator estarán deshabilitadas porque los archivos internos de Activator parecen ser incorrectos. Intenta ir a Cydia y reinstalar Activator.";
 	"CORRUPT_CANCEL" = "Cancelar";
 	"CORRUPT_LAUNCH_CYDIA" = "Ejecutar Cydia";
 
 	"BLACKLIST" = "Lista negra";
-	"BLACKLIST_DETAIL" = "Ignora eventos en apps específicas";
+	"BLACKLIST_DETAIL" = "Ignora activaciones en apps específicas";
 	
 	"N_ACTIONS" = "%d acciones";
 
@@ -89,7 +89,7 @@
         /* Menus */
 	
 	"MENUS" = "Menús";
-	"MENUS_DETAIL" = "Administrar menús personalizados";
+	"MENUS_DETAIL" = "Administra los menús personalizados";
 	
 	"ADD_NEW_MENU" = "Añadir nuevo menú";
 	"NEW_MENU" = "Nuevo menú";
@@ -105,36 +105,36 @@
 	"MODE_DESCRIPTION_all" = "";
 	
 	"MODE_TITLE_springboard" = "En la pantalla de inicio";
-	"MODE_DESCRIPTION_springboard" = "Cuando vea los iconos del SpringBoard";
+	"MODE_DESCRIPTION_springboard" = "Cuando veas los iconos del SpringBoard";
 	
 	"MODE_TITLE_application" = "En una aplicación";
-	"MODE_DESCRIPTION_application" = "Cuando esté dentro de una aplicación";
+	"MODE_DESCRIPTION_application" = "Cuando estés dentro de una aplicación";
 	
 	"MODE_TITLE_lockscreen" = "En la pantalla de bloqueo";
 	"MODE_DESCRIPTION_lockscreen" = "Cuando el dispositivo esté bloqueado";
 	
 	/* Event Groups */
 	
-	"EVENT_GROUP_TITLE_Slide In Gesture" = "Deslizar hacia dentro";
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "Deslizar hacia adentro";
 	"EVENT_GROUP_TITLE_Slide Out Gesture" = "Deslizar hacia afuera";
-	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Gestos deslizar con dos dedos";
+	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Deslizar con dos dedos";
 	"EVENT_GROUP_TITLE_Motion" = "Movimiento";
 	"EVENT_GROUP_TITLE_SpringBoard" = "SpringBoard";
 	"EVENT_GROUP_TITLE_Status Bar" = "Barra de estado";
 	"EVENT_GROUP_TITLE_Home Button" = "Botón inicio";
-	"EVENT_GROUP_TITLE_Sleep Button" = "Botón reposo";
+ 	"EVENT_GROUP_TITLE_Sleep Button" = "Botón reposo";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "Botones de volumen";
 	"EVENT_GROUP_TITLE_Headset" = "Conexión de auriculares";
 	"EVENT_GROUP_TITLE_Lock Screen" = "Pantalla de bloqueo";
 	"EVENT_GROUP_TITLE_Power" = "Cargador";
 	"EVENT_GROUP_TITLE_Audio" = "Audio";
 	"EVENT_GROUP_TITLE_Settings" = "Ajustes";
-	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Gesto multitáctil";
+	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Gestos multitáctiles";
 	"EVENT_GROUP_TITLE_Application Launched" = "Aplicación ejecutada";
 
 	/* Events */
 	
-	"EVENT_TITLE_libactivator.lock.hold.short" = "Pulsación corta";
+ 	"EVENT_TITLE_libactivator.lock.hold.short" = "Pulsación corta";
 	"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "Mantén pulsado el botón reposo";
 	
 	"EVENT_TITLE_libactivator.lock.press.double" = "Pulsación doble";
@@ -144,7 +144,7 @@
 	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Mantén pulsado el botón inicio";
 
 	"EVENT_TITLE_libactivator.menu.hold.long" = "Pulsación larga";
-	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Presione durante un momento el botón inicio";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Presiona durante un momento el botón inicio";
 	
 	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "Pulsación corta en el SpringBoard";
 	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Pulsa el botón inicio en el springboard";
@@ -201,13 +201,13 @@
 	"EVENT_DESCRIPTION_libactivator.drag-off.bottom" = "Desliza la pantalla hacia abajo";
 
 	"EVENT_TITLE_libactivator.drag-off.left" = "Hacia la izquierda";
-	"EVENT_DESCRIPTION_libactivator.drag-off.left" = "Desliza la pantalla hacia la izquierda";
+ 	"EVENT_DESCRIPTION_libactivator.drag-off.left" = "Arrastra la pantalla hacia la izquierda";
 
 	"EVENT_TITLE_libactivator.drag-off.right" = "Hacia la derecha";
-	"EVENT_DESCRIPTION_libactivator.drag-off.right" = "Desliza la pantalla hacia la derecha";
+	"EVENT_DESCRIPTION_libactivator.drag-off.right" = "Arrastra la pantalla hacia la derecha";
 
 	"EVENT_TITLE_libactivator.drag-off.top" = "Hacia arriba";
-	"EVENT_DESCRIPTION_libactivator.drag-off.top" = "Desliza la pantalla hacia arriba";
+	"EVENT_DESCRIPTION_libactivator.drag-off.top" = "Arrastra la pantalla hacia arriba";
 	
 	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "Desde abajo";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "Arrasta a la pantalla desde abajo";
@@ -251,37 +251,37 @@
 	"EVENT_TITLE_libactivator.springboard.spread" = "Separar iconos";
 	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "Separa los iconos con dos dedos";
 	
-	"EVENT_TITLE_libactivator.statusbar.hold" = "Presión corta";
+	"EVENT_TITLE_libactivator.statusbar.hold" = "Tocar corto";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Mantén presionada la barra de estado";
 	
-	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Deslizar izquierda";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Deliza a la izquierda en la barra estado";
+	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Deslizar a la izquierda";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Deliza a la izquierda sobre la barra";
 	
-	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "Deslizar derecha";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Deliza a la derecha en la barra estado";
+	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "Deslizar a la derecha";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Deliza a la derecha sobre la barra";
 
-        "EVENT_TITLE_libactivator.statusbar.tap.single" = "Toque simple";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Toca 1 vez en la barra de estado";
+        "EVENT_TITLE_libactivator.statusbar.tap.single" = "Tocar";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Toca una vez la barra de estado";
 
-	"EVENT_TITLE_libactivator.statusbar.hold.left" = "Presionar izquierda";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Toca y mantén en la parte izquierda de la barra";
+	"EVENT_TITLE_libactivator.statusbar.hold.left" = "Tocar corto izquierda";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Mantén presionada la parte izquierda";
 
-	"EVENT_TITLE_libactivator.statusbar.hold.right" = "Presionar derecha";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Toca y mantén en la parte derecha de la barra";
+	"EVENT_TITLE_libactivator.statusbar.hold.right" = "Tocar corto derecha";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Mantén presionada la parte derecha";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Toque doble izquierda";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Toque doble en la parte izquierda de la barra";
+	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Doble toque izquierda";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Toca 2 veces la parte izquierda";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "Toque doble derecha";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "Toque doble en la parte derecha de la barra";
+	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "Doble toque derecha";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "Toca 2 veces la parte derecha";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "Toque izquierda";
+	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "Tocar izquierda";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "Toca la parte izquierda de la barra";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "Toque derecha";
+	"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "Tocar derecha";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "Toca la parte derecha de la barra";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.double" = "Toque doble";
+	"EVENT_TITLE_libactivator.statusbar.tap.double" = "Doble toque";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Toca 2 veces seguidas la barra estado";
 	
 	"EVENT_TITLE_libactivator.volume.display-tap" = "Tocar en la ventana";
@@ -317,26 +317,26 @@
 	"EVENT_TITLE_libactivator.volume.unmute" = "Desilenciar dispositivo";
 	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "Desactiva el silencio a través del botón timbre";
 	
-	"EVENT_TITLE_libactivator.headset-button.press.single" = "Pulsación";
+	"EVENT_TITLE_libactivator.headset-button.press.single" = "Pulsar";
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Pulsa una vez el botón de auriculares";	
 	
-	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Pulsación corta";
+	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Pulsar corto";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Mantén pulsado el botón de auriculares";
 
-	"EVENT_TITLE_libactivator.headset.connected" = "Conectado";
-	"EVENT_DESCRIPTION_libactivator.headset.connected" = "Auriculares conectados al dispositivo";	
+	"EVENT_TITLE_libactivator.headset.connected" = "Conectar";
+	"EVENT_DESCRIPTION_libactivator.headset.connected" = "Conecta los auriculares al dispositivo";	
 	
-	"EVENT_TITLE_libactivator.headset.disconnected" = "Desconectado";
-	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "Auriculares desconectados del dispositivo";
+	"EVENT_TITLE_libactivator.headset.disconnected" = "Desconectar";
+	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "Desconecta los auriculares del dispositivo";
 	
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Tocar dos veces";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Toca 2 veces en el área del reloj";
 	
-	"EVENT_TITLE_libactivator.power.connected" = "Conectado";
-	"EVENT_DESCRIPTION_libactivator.power.connected" = "Cuando se conecta el cargador";
+	"EVENT_TITLE_libactivator.power.connected" = "Conectar";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "Enchufa el cargador al dispositivo";
 
-	"EVENT_TITLE_libactivator.power.disconnected" = "Desconectado";
-	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Cuando se desconecta el cargador";
+	"EVENT_TITLE_libactivator.power.disconnected" = "Desconectar";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Desenchufa el cargador del dispositivo";
 
 	"EVENT_TITLE_libactivator.five-finger.pinch" = "Pellizcar con cinco dedos";
 	"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "Pellizca la pantalla con cinco dedos";
@@ -344,16 +344,16 @@
 	"EVENT_TITLE_libactivator.five-finger.spread" = "Separar con cinco dedos";
 	"EVENT_DESCRIPTION_libactivator.five-finger.spread" = "Separa con cinco dedos sobre la pantalla";
 
-	"EVENT_TITLE_libactivator.five-finger.tap" = "Toque con cinco dedos";
+	"EVENT_TITLE_libactivator.five-finger.tap" = "Tocar con cinco dedos";
 	"EVENT_DESCRIPTION_libactivator.five-finger.tap" = "Toca la pantalla con cinco dedos";
 
-	"EVENT_TITLE_libactivator.four-finger.pinch" = "Pellizcar con cuatro dedos";
+ 	"EVENT_TITLE_libactivator.four-finger.pinch" = "Pellizcar con cuatro dedos";
 	"EVENT_DESCRIPTION_libactivator.four-finger.pinch" = "Pellizca la pantalla con cuatro dedos";
 
 	"EVENT_TITLE_libactivator.four-finger.spread" = "Separar con cuatro dedos";
 	"EVENT_DESCRIPTION_libactivator.four-finger.spread" = "Separa con cuatro dedos sobre la pantalla";
 
-	"EVENT_TITLE_libactivator.four-finger.tap" = "Toque con cuatro dedos";
+	"EVENT_TITLE_libactivator.four-finger.tap" = "Tocar con cuatro dedos";
 	"EVENT_DESCRIPTION_libactivator.four-finger.tap" = "Toca la pantalla con cuatro dedos";
 
 	"EVENT_TITLE_libactivator.three-finger.pinch" = "Pellizcar con tres dedos";
@@ -362,7 +362,7 @@
 	"EVENT_TITLE_libactivator.three-finger.spread" = "Separar con tres dedos";
 	"EVENT_DESCRIPTION_libactivator.three-finger.spread" = "Separa con tres dedos sobre la pantalla";
 
-	"EVENT_TITLE_libactivator.three-finger.tap" = "Toque con tres dedos";
+	"EVENT_TITLE_libactivator.three-finger.tap" = "Tocar con tres dedos";
 	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "Toca la pantalla con tres dedos";
 	
 	"EVENT_TITLE_libactivator.icon.flick.down" = "Deslizar icono abajo";
@@ -392,43 +392,43 @@
 	"LISTENER_GROUP_TITLE_Audio" = "Audio";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
-	"LISTENER_GROUP_TITLE_Sharing" = "Sharing";
+	"LISTENER_GROUP_TITLE_Sharing" = "Compartir";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 	"LISTENER_GROUP_TITLE_Contacts" = "Contactos";
 
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "Iniciar aplicación";
-	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "Ha sido iniciada una aplicación específica";
+	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "Se ha iniciado una aplicación específica";
 	"EVENT_TITLE_libactivator.application-launch_FORMAT" = "Iniciar %@";
-	"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "%@ aplicación ha sido iniciada";
+	"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "La aplicación %@ se ha iniciado";
 
 	"NEW_EVENT_TITLE_libactivator.icon.flick.up" = "Deslizar icono arriba";
 	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up" = "Un icono específico se delizó arriba";
-	"EVENT_TITLE_libactivator.icon.flick.up_FORMAT" = "%@ Deslizar icono arriba";
+	"EVENT_TITLE_libactivator.icon.flick.up_FORMAT" = "Deslizar icono %@ arriba";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.up_FORMAT" = "Desliza el icono %@ arriba";
 
 	"NEW_EVENT_TITLE_libactivator.icon.flick.down" = "Deslizar icono abajo";
 	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down" = "Un icono específico se delizó abajo";
-	"EVENT_TITLE_libactivator.icon.flick.down_FORMAT" = "%@ Deslizar icono abajo";
+	"EVENT_TITLE_libactivator.icon.flick.down_FORMAT" = "Deslizar icono %@ abajo";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.down_FORMAT" = "Desliza el icono %@ abajo";
 
 	"NEW_EVENT_TITLE_libactivator.icon.flick.left" = "Deslizar icono izquierda";
-	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left" = "Un icono específico se delizó a izquierda";
-	"EVENT_TITLE_libactivator.icon.flick.left_FORMAT" = "%@ Deslizar icono izquierda";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left" = "Un icono específico se delizó a la izquierda";
+	"EVENT_TITLE_libactivator.icon.flick.left_FORMAT" = "Deslizar icono %@ izquierda";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.left_FORMAT" = "Desliza el icono %@ a la izquierda";
 
 	"NEW_EVENT_TITLE_libactivator.icon.flick.right" = "Deslizar icono derecha";
-	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "Un icono específico se delizó a derecha";
-	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ Deslizar icono derecha";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "Un icono específico se delizó a la derecha";
+	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "Deslizar icono %@ derecha";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Desliza el icono %@ a la derecha";
 	
 	/* Listener Names */
 
-        "LISTENER_DESCRIPTION_toggle" = "Activa/desactiva la función";
-	"LISTENER_DESCRIPTION_toggle_enable" = "Activar función";
-	"LISTENER_DESCRIPTION_toggle_disable" = "Desactivar función";
-	"LISTENER_DESCRIPTION_application" = "Activa la aplicación";
+        "LISTENER_DESCRIPTION_toggle" = "Activa/Desactiva la función";
+	"LISTENER_DESCRIPTION_toggle_enable" = "Activa la función";
+	"LISTENER_DESCRIPTION_toggle_disable" = "Desactiva la función";
+	"LISTENER_DESCRIPTION_application" = "Inicia la aplicación";
 	
 	"LISTENER_TITLE_libactivator.system.homebutton" = "Botón inicio";
 	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Simula una pulsación al botón inicio";
@@ -476,13 +476,13 @@
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Muestra el centro de notificaciones";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Escribir un Tweet";
-	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Lanza para escribir en Twitter";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Inicia el módulo de Twitter";
 
 	"LISTENER_TITLE_libactivator.facebook.compose-post" = "Escribir en Facebook";
-	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Lanza el módulo para escribir en Facebook";
+	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Inicia el módulo de Facebook";
 
-	"LISTENER_TITLE_libactivator.mail.compose-message" = "Escribir Mail";
-	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Lanza el módulo de escribir un email";
+	"LISTENER_TITLE_libactivator.mail.compose-message" = "Escribir email";
+	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Inicia el módulo de escribir un email";
 
 	"LISTENER_TITLE_libactivator.sms.compose-message" = "Escribir texto";
 	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Lanza el módulo de escribir mensaje";
@@ -677,13 +677,13 @@
 	"ASSIGNMENTS_DETAIL" = "Vista general de todas las asignaciones";
 
 	"BACKUP_ASSIGNMENTS" = "Guardar asignaciones";
-	"BACKUP_ASSIGNMENTS_DETAIL" = "Copia de seguridad exportando evento y asignación";
+	"BACKUP_ASSIGNMENTS_DETAIL" = "Copia de seguridad de eventos y asignaciones";
 
 	"RESTORE_ASSIGNMENTS" = "Restaurar asignaciones";
 	"RESTORE_ASSIGNMENTS_DETAIL" = "Restaurar asignaciones exportadas";
 
 	"RESTORE_ALERT_TITLE" = "Restaurar ajustes de activator";
-	"RESTORE_ALERT_MESSAGE" = "¿Está seguro de restaurar los ajustes de la copia exportada?\nTu dispositivo hará respring si continúas.";
+	"RESTORE_ALERT_MESSAGE" = "¿Estás seguro de restaurar los ajustes de la copia exportada?\nTu dispositivo hará respring si continúas.";
 
 	"RESTORE_ALERT_CANCEL" = "Cancelar";
 	"RESTORE_ALERT_CONTINUE" = "Restaurar";
