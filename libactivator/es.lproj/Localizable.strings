@@ -482,13 +482,13 @@
 	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Inicia el módulo de Facebook";
 
 	"LISTENER_TITLE_libactivator.mail.compose-message" = "Escribir email";
-	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Inicia el módulo de escribir un email";
+	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Inicia el módulo para escribir un email";
 
 	"LISTENER_TITLE_libactivator.sms.compose-message" = "Escribir texto";
-	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Lanza el módulo de escribir mensaje";
+	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Lanza el módulo para escribir un mensaje";
 
 	"LISTENER_TITLE_libactivator.weibo.compose-post" = "Escribir en Weibo";
-	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Lanza el módulo de escribir en Weibo";
+	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Lanza el módulo para escribir en Weibo";
 
 	"LISTENER_TITLE_libactivator.audio.decrease-volume" = "Bajar volumen";
 	"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "Disminuye el volumen de audio";
@@ -508,14 +508,14 @@
 	"LISTENER_TITLE_libactivator.ipod.previous-track" = "Pista anterior";
 	"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "Vuelve a la canción anterior";
 	
-	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Reproducir/Pausa";
+	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Reproducir/Pausar";
 	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Alterna el modo de reproducción";
 	
-	"LISTENER_TITLE_libactivator.ipod.pause-playback" = "Pausa";
-	"LISTENER_DESCRIPTION_libactivator.ipod.pause-playback" = "Pausa la reproducción del iPod";
+	"LISTENER_TITLE_libactivator.ipod.pause-playback" = "Pausar";
+	"LISTENER_DESCRIPTION_libactivator.ipod.pause-playback" = "Pausa la reproducción de audio";
 	
 	"LISTENER_TITLE_libactivator.ipod.resume-playback" = "Reproducir";
-	"LISTENER_DESCRIPTION_libactivator.ipod.resume-playback" = "Inicia la reproducción del iPod";
+	"LISTENER_DESCRIPTION_libactivator.ipod.resume-playback" = "Inicia la reproducción de audio";
 		
 	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Desbloquear dispositivo";
 	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Sale de la pantalla de bloqueo";
@@ -559,8 +559,8 @@
 	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Brillo y fondo de pantalla";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "Abre ajustes en Brillo y fondo";
 	
-	"LISTENER_TITLE_libactivator.settings.cellular" = "Celular";
-	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "Abre ajustes en Celular";
+	"LISTENER_TITLE_libactivator.settings.cellular" = "Datos móviles";
+	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "Abre ajustes en Datos móviles";
 	
 	"LISTENER_TITLE_libactivator.settings.date-time" = "Fecha y hora";
 	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Abre ajustes en Fecha y hora";
@@ -619,8 +619,8 @@
 	"LISTENER_TITLE_libactivator.settings.usage" = "Uso";
 	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Abre ajustes en Uso";
 	
-	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Asistente virtual";
-	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Abre ajustes en Asistente virtual";
+	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Siri";
+	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Abre ajustes en Siri";
 	
 	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
 	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Abre ajustes en VPN";
@@ -643,9 +643,9 @@
 	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "Buscar por voz";
 	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Activa la búsqueda por voz de Google";
 	
-	"LISTENER_DESCRIPTION_libactivator.call" = "Llamar";
-	"LISTENER_DESCRIPTION_libactivator.mail" = "Mail";
-	"LISTENER_DESCRIPTION_libactivator.text" = "Mensaje";
+	"LISTENER_DESCRIPTION_libactivator.call" = "Llama a";
+	"LISTENER_DESCRIPTION_libactivator.mail" = "Mail a";
+	"LISTENER_DESCRIPTION_libactivator.text" = "Mensaje a";
 	
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
@@ -669,7 +669,7 @@
 	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = " Deslizado continuo hacia abajo";
 
 	"LISTENER_TITLE_com.rpetrich.voicekeys" = "Teclas de voz";
-	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Inicia/para el reconocimiento de voz";
+	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Inicia/Detiene el reconocimiento de voz";
 
 	"IN_CYDIA_WARNING" = "Es potencialmente peligroso activar acciones mientras Cydia está instalando software.";
 
@@ -677,7 +677,7 @@
 	"ASSIGNMENTS_DETAIL" = "Vista general de todas las asignaciones";
 
 	"BACKUP_ASSIGNMENTS" = "Guardar asignaciones";
-	"BACKUP_ASSIGNMENTS_DETAIL" = "Copia de seguridad de eventos y asignaciones";
+	"BACKUP_ASSIGNMENTS_DETAIL" = "Exporta eventos y el menú asignaciones";
 
 	"RESTORE_ASSIGNMENTS" = "Restaurar asignaciones";
 	"RESTORE_ASSIGNMENTS_DETAIL" = "Restaurar asignaciones exportadas";
@@ -688,7 +688,7 @@
 	"RESTORE_ALERT_CANCEL" = "Cancelar";
 	"RESTORE_ALERT_CONTINUE" = "Restaurar";
 
-	"BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "La copia de seguridad exportada está guardada en %@ y se guardará cuando sincronices con iTunes o iCloud.";
+	"BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "La copia de seguridad exportada está guardada en %@ y se copiará cuando sincronices con iTunes o iCloud.";
 
 	"FAILED_TO_OPEN_SETTINGS_FILE" = "Fallo al abrir el archivo de ajustes para la escritura";
 	"FAILED_TO_WRITE_SETTINGS_FILE" = "Fallo al escribir el archivo de ajustes: ";
