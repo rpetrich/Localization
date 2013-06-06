@@ -61,6 +61,19 @@
 
 	"BLACKLIST" = "Lista negra";
 	"BLACKLIST_DETAIL" = "Ignora eventos en apps específicas";
+	
+	"N_ACTIONS" = "%d accioness";
+
+	"Slide Gestures" = "Gestos de deslizar";
+	"Sensitivity" = "Sensibilidad";
+	"Tight" = "Máxima";
+	"Very Precise" = "Muy precisa";
+	"Precise" = "Precisa";
+	"Normal" = "Normal";
+	"Lenient" = "Débil";
+	"Very Lenient" = "Muy débil";
+	"Loose" = "Imprecisa";
+	"Very Loose" = "Muy imprecisa";
 
 	/* Bookmarks */
 
@@ -102,7 +115,8 @@
 	
 	/* Event Groups */
 	
-	"EVENT_GROUP_TITLE_Slide In Gesture" = "Gestos de deslizar";
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "Deslizar hacia dentro";
+	"EVENT_GROUP_TITLE_Slide Out Gesture" = "Deslizar hacia afuera";
 	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Gestos deslizar con dos dedos";
 	"EVENT_GROUP_TITLE_Motion" = "Movimiento";
 	"EVENT_GROUP_TITLE_SpringBoard" = "SpringBoard";
@@ -110,12 +124,13 @@
 	"EVENT_GROUP_TITLE_Home Button" = "Botón inicio";
 	"EVENT_GROUP_TITLE_Sleep Button" = "Botón reposo";
 	"EVENT_GROUP_TITLE_Volume Buttons" = "Botones de volumen";
-	"EVENT_GROUP_TITLE_Headset Button" = "Conexión de auriculares";
+	"EVENT_GROUP_TITLE_Headset" = "Conexión de auriculares";
 	"EVENT_GROUP_TITLE_Lock Screen" = "Pantalla de bloqueo";
 	"EVENT_GROUP_TITLE_Power" = "Cargador";
 	"EVENT_GROUP_TITLE_Audio" = "Audio";
 	"EVENT_GROUP_TITLE_Settings" = "Ajustes";
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Gesto multitáctil";
+	"EVENT_GROUP_TITLE_Application Launched" = "Aplicación ejecutada";
 
 	/* Events */
 	
@@ -181,6 +196,18 @@
 	
 	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Desde abajo derecha";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Arrastra a la pantalla desde abajo-der.";
+	
+	"EVENT_TITLE_libactivator.drag-off.bottom" = "Hacia abajo";
+	"EVENT_DESCRIPTION_libactivator.drag-off.bottom" = "Desliza la pantalla hacia abajo";
+
+	"EVENT_TITLE_libactivator.drag-off.left" = "Hacia la izquierda";
+	"EVENT_DESCRIPTION_libactivator.drag-off.left" = "Desliza la pantalla hacia la izquierda";
+
+	"EVENT_TITLE_libactivator.drag-off.right" = "Hacia la derecha";
+	"EVENT_DESCRIPTION_libactivator.drag-off.right" = "Desliza la pantalla hacia la derecha";
+
+	"EVENT_TITLE_libactivator.drag-off.top" = "Hacia arriba";
+	"EVENT_DESCRIPTION_libactivator.drag-off.top" = "Desliza la pantalla hacia arriba";
 	
 	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "Desde abajo";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "Arrasta a la pantalla desde abajo";
@@ -338,6 +365,18 @@
 	"EVENT_TITLE_libactivator.three-finger.tap" = "Toque con tres dedos";
 	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "Toca la pantalla con tres dedos";
 	
+	"EVENT_TITLE_libactivator.icon.flick.down" = "Deslizar icono abajo";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down" = "Desliza sobre un icono hacia abajo";
+
+	"EVENT_TITLE_libactivator.icon.flick.left" = "Deslizar icono izquierda";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left" = "Desliza sobre un icono hacia la izquierda";
+
+	"EVENT_TITLE_libactivator.icon.flick.right" = "Deslizar icono derecha";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right" = "Desliza sobre un icono hacia la derecha";
+
+	"EVENT_TITLE_libactivator.icon.flick.up" = "Deslizar icono arriba";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "Desliza sobre un icono hacia arriba";
+	
 	/* Listener Groups */
 	
 	"LISTENER_GROUP_TITLE_System Actions" = "Acciones del sistema";
@@ -355,6 +394,8 @@
 	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
 	"LISTENER_GROUP_TITLE_Sharing" = "Sharing";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+	"LISTENER_GROUP_TITLE_Contacts" = "Contactos";
+	
 	
 	/* Listener Names */
 
