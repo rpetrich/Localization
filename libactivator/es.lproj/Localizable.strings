@@ -62,7 +62,7 @@
 	"BLACKLIST" = "Lista negra";
 	"BLACKLIST_DETAIL" = "Ignora eventos en apps específicas";
 	
-	"N_ACTIONS" = "%d accioness";
+	"N_ACTIONS" = "%d acciones";
 
 	"Slide Gestures" = "Gestos de deslizar";
 	"Sensitivity" = "Sensibilidad";
@@ -395,7 +395,33 @@
 	"LISTENER_GROUP_TITLE_Sharing" = "Sharing";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 	"LISTENER_GROUP_TITLE_Contacts" = "Contactos";
-	
+
+	/* Custom Events */
+
+	"NEW_EVENT_TITLE_libactivator.application-launch" = "Iniciar aplicación";
+	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "Ha sido iniciada una aplicación específica";
+	"EVENT_TITLE_libactivator.application-launch_FORMAT" = "Iniciar %@";
+	"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "%@ aplicación ha sido iniciada";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.up" = "Deslizar icono arriba";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up" = "Un icono específico se delizó arriba";
+	"EVENT_TITLE_libactivator.icon.flick.up_FORMAT" = "%@ Deslizar icono arriba";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up_FORMAT" = "Desliza el icono %@ arriba";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.down" = "Deslizar icono abajo";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down" = "Un icono específico se delizó abajo";
+	"EVENT_TITLE_libactivator.icon.flick.down_FORMAT" = "%@ Deslizar icono abajo";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down_FORMAT" = "Desliza el icono %@ abajo";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.left" = "Deslizar icono izquierda";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left" = "Un icono específico se delizó a izquierda";
+	"EVENT_TITLE_libactivator.icon.flick.left_FORMAT" = "%@ Deslizar icono izquierda";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left_FORMAT" = "Desliza el icono %@ a la izquierda";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.right" = "Deslizar icono derecha";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "Un icono específico se delizó a derecha";
+	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ Deslizar icono derecha";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Desliza el icono %@ a la derecha";
 	
 	/* Listener Names */
 
@@ -533,6 +559,9 @@
 	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Brillo y fondo de pantalla";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "Abre ajustes en Brillo y fondo";
 	
+	"LISTENER_TITLE_libactivator.settings.cellular" = "Celular";
+	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "Abre ajustes en Celular";
+	
 	"LISTENER_TITLE_libactivator.settings.date-time" = "Fecha y hora";
 	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Abre ajustes en Fecha y hora";
 	
@@ -613,6 +642,10 @@
 
 	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "Buscar por voz";
 	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Activa la búsqueda por voz de Google";
+	
+	"LISTENER_DESCRIPTION_libactivator.call" = "Llamar";
+	"LISTENER_DESCRIPTION_libactivator.mail" = "Mail";
+	"LISTENER_DESCRIPTION_libactivator.text" = "Mensaje";
 	
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
