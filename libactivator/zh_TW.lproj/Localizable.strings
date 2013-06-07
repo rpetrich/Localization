@@ -415,12 +415,15 @@
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "向右拖 %@ 的圖示";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "向右輕拖 %@ “主畫面”圖示";
 
-
 	"NEW_EVENT_TITLE_libactivator.mail-received" = "收到郵件";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "收到符合指定條件的郵件";
 	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "來自 %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "發件人：%@";
-
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "標題包含“%@”";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "郵件標題包含“%@”";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "來自 %@ 且標題包含“%@”";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "發件人是 %1$@ 且郵件標題包含“%2$@”";
+	
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系統動作";
