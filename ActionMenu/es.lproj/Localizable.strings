@@ -1,8 +1,8 @@
 {
-	"OK" = "OK";
+	"OK" = "Ok";
 	"Cancel" = "Cancelar";
-	"ON" = "ON";
-	"OFF" = "OFF";
+	"ON" = "Encendido";
+	"OFF" = "Apagado";
 	"all-day" = "todo el dÌa";
 	"AM" = "AM";
 	"PM" = "PM";
@@ -12,7 +12,7 @@
 	"Enabled" = "Activado";
 	"Use Icons" = "Utilizar iconos";
 	"Actions" = "Acciones";
-	"More Actions..." = "M·s Acciones...";
+	"More Actions..." = "Mas Acciones...";
 	"Donate with PayPal" = "Donar con PayPal";
 	"Copy All" = "Copiar todo";
 	"Debug" = "Debug";
@@ -20,21 +20,21 @@
 	"Favorites" = "Favoritos";
 	"History" = "Historial";
 	"Lookup" = "Buscar";
-	"Scroll" = "Scroll";
+	"Scroll" = "Desplasarze";
 	"Tweet" = "Tweet";
 	"Pasteboard Favorites" = "Favoritos del Portapapeles";
 	"Delete Favorite" = "Borrar Favorito";
-	"Add Favorite..." = "AÒadir Favorito...";
-	"Add Favorite" = "AÒadir Favorito";
+	"Add Favorite..." = "Añadir Favorito...";
+	"Add Favorite" = "Añadir Favorito";
 	"Create" = "Crear";
-	"Enter the new favorite details" = "AÒadir detalles del nuevo favorito";
+	"Enter the new favorite details" = "Añadir detalles del nuevo favorito";
 	"Open in Safari" = "Abrir en Safari";
 	"Search" = "Buscar";
 	"Wikipedia" = "Wikipedia";
 	"Dictionary" = "Diccionario";
 	"Translate" = "Traducir";
 	"Find" = "Buscar";
-	"Find In Page" = "Buscar en la p·gina";
+	"Find In Page" = "Buscar en la pagina";
 	"Find Next" = "Buscar Siguiente";
 	"Find Previous" = "Buscar Anterior";
 	"Next" = "Siguiente";
@@ -50,7 +50,7 @@
 	"New Favorite" = "Nuevo Favorito";
 	"biteSMS" = "biteSMS";
 	"Extended Support" = "Soporte Extendido";
-	"TRANSLATION_ABOUT" = "Traducido por winfis";
+	"TRANSLATION_ABOUT" = "Traducido por winfis & Jomar Designs";
 
 	"Preferred Client" = "Cliente Preferido";
 
@@ -64,18 +64,18 @@
 	"Select All" = "Seleccionar Todo";
 
 	"Locate" = "Localizar";
-	"Error retrieving location!" = "Error durante la localizaciÛn!";
-	"Estimated Accuracy:" = "PrecisiÛn estimada:";
+	"Error retrieving location!" = "Error durante la localización!";
+	"Estimated Accuracy:" = "Precisión estimada:";
 	"%ld meters" = "%ld metros";
-	"My Location on Google Maps" = "Mi posiciÛn en Google Maps";
+	"My Location on Google Maps" = "Mi posición en Google Maps";
 	"Pastie" = "Pastie";
 	"Send to Pastie" = "Envia a Pastie";
 	"Paste Complete" = "Pegado completado";
 	"The URL has been copied to your clipboard." = "La URL se ha copiado a su portapapeles.";
 	"Continue" = "Continuar";
 	"Error" = "Error";
-	"Unable to submit your pastie." = "Imposible introducir su pastie.";
-	"No Search Results" = "Ning˙n Resultado";
+	"Unable to submit your pastie." = "Imposible de introducir su pastie.";
+	"No Search Results" = "Ningun Resultado";
 
 	"Edit Favorite" = "Editar Favoritos";
 	"To Top" = "Al principio";
