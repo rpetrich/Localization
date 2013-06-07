@@ -75,6 +75,16 @@
 	"Loose" = "很高";
 	"Very Loose" = "极高";
 
+	"Custom Events" = "自定义事件";
+	"Build New Events" = "创建自定义事件";
+	"New Event" = "新事件";
+	
+	"MAIL_SENDER" = "发件人";
+	"MAIL_SENDER_UNKNOWN" = "未知发件人";
+	"MAIL_ANY_SENDER" = "指定发件人";
+	"MAIL_SUBJECT" = "邮件标题";
+	"MAIL_ANY_SUBJECT" = "指定标题";
+
 	/* Bookmarks */
 
 	BOOKMARKS = "书签";
@@ -130,7 +140,8 @@
 	"EVENT_GROUP_TITLE_Audio" = "音频";
 	"EVENT_GROUP_TITLE_Settings" = "设置";
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "多点触摸手势";
-	"EVENT_GROUP_TITLE_Application Launched" = "应用程序已启动";
+	"EVENT_GROUP_TITLE_Application Launched" = "启动应用程序";
+	"EVENT_GROUP_TITLE_Received Email" = "收到邮件";
 
 	/* Events */
 
@@ -379,31 +390,37 @@
 
 	/* Custom Events */
 
-	"NEW_EVENT_TITLE_libactivator.application-launch" = "应用程序启动";
-	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "某个应用程序已启动";
+	"NEW_EVENT_TITLE_libactivator.application-launch" = "启动应用程序";
+	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "启动某个应用程序";
 	"EVENT_TITLE_libactivator.application-launch_FORMAT" = "启动 %@";
-	"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "%@ 应用程序已启动";
+	"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "启动应用程序 %@";
 
 	"NEW_EVENT_TITLE_libactivator.icon.flick.up" = "向上拖图标";
-	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up" = "某个图标被向上拖动";
-	"EVENT_TITLE_libactivator.icon.flick.up_FORMAT" = "%@ 向上拖图标";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上轻拖某个应用程序的图标";
+	"EVENT_TITLE_libactivator.icon.flick.up_FORMAT" = "向上拖 %@ 的图标";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.up_FORMAT" = "向上轻拖 %@ 主屏幕图标";
 
 	"NEW_EVENT_TITLE_libactivator.icon.flick.down" = "向下拖图标";
-	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down" = "某个图标被向下拖动";
-	"EVENT_TITLE_libactivator.icon.flick.down_FORMAT" = "%@ 向下拖图标";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down" = "向下轻拖某个应用程序的图标";
+	"EVENT_TITLE_libactivator.icon.flick.down_FORMAT" = "向下拖 %@ 的图标";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.down_FORMAT" = "向下轻拖 %@ 主屏幕图标";
 
 	"NEW_EVENT_TITLE_libactivator.icon.flick.left" = "向左拖图标";
-	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left" = "某个图标被向左拖动";
-	"EVENT_TITLE_libactivator.icon.flick.left_FORMAT" = "%@ 向左拖图标";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left" = "向左轻拖某个应用程序的图标";
+	"EVENT_TITLE_libactivator.icon.flick.left_FORMAT" = "向左拖 %@ 的图标";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.left_FORMAT" = "向左轻拖 %@ 主屏幕图标";
 
 	"NEW_EVENT_TITLE_libactivator.icon.flick.right" = "向右拖图标";
-	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "某个图标被向右拖动";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "向右轻拖某个应用程序的图标";
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ 向右拖图标";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "向右轻拖 %@ 主屏幕图标";
 
+	"NEW_EVENT_TITLE_libactivator.mail-received" = "收到邮件";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "收到符合指定条件的邮件";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "来自 %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "发件人：%@";
+	
+	
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
