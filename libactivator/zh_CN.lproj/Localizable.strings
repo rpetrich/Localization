@@ -62,6 +62,29 @@
 	"BLACKLIST" = "屏蔽列表";
 	"BLACKLIST_DETAIL" = "忽略指定应用程序里的事件";
 
+	"N_ACTIONS" = "展开 %d 个项目";
+
+	"Slide Gestures" = "滑动手势";
+	"Sensitivity" = "灵敏度";
+	"Tight" = "极低";
+	"Very Precise" = "低";
+	"Precise" = "较低";
+	"Normal" = "正常";
+	"Lenient" = "较高";
+	"Very Lenient" = "高";
+	"Loose" = "很高";
+	"Very Loose" = "极高";
+
+	"Custom Events" = "自定义事件";
+	"Build New Events" = "创建自定义事件";
+	"New Event" = "新事件";
+	
+	"MAIL_SENDER" = "发件人";
+	"MAIL_SENDER_UNKNOWN" = "未知发件人";
+	"MAIL_ANY_SENDER" = "指定发件人";
+	"MAIL_SUBJECT" = "邮件标题";
+	"MAIL_ANY_SUBJECT" = "指定标题";
+
 	/* Bookmarks */
 
 	BOOKMARKS = "书签";
@@ -102,7 +125,8 @@
 
 	/* Event Groups */
 
-	"EVENT_GROUP_TITLE_Slide In Gesture" = "单指手势";
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "单指滑入手势";
+	"EVENT_GROUP_TITLE_Slide Out Gesture" = "单指滑出手势";
 	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "双指手势";
 	"EVENT_GROUP_TITLE_Motion" = "动作";
 	"EVENT_GROUP_TITLE_SpringBoard" = "主屏幕";
@@ -116,6 +140,8 @@
 	"EVENT_GROUP_TITLE_Audio" = "音频";
 	"EVENT_GROUP_TITLE_Settings" = "设置";
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "多点触摸手势";
+	"EVENT_GROUP_TITLE_Application Launched" = "启动应用程序";
+	"EVENT_GROUP_TITLE_Received Email" = "收到邮件";
 
 	/* Events */
 
@@ -175,12 +201,24 @@
 
 	"EVENT_TITLE_libactivator.slide-in.right" = "从屏幕右侧";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "由屏幕右侧向左拖动";
-	
+
 	"EVENT_TITLE_libactivator.slide-in.right-top" = "从屏幕右上";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right-top" = "由屏幕右上向中心拖动";
 
 	"EVENT_TITLE_libactivator.slide-in.right-bottom" = "从屏幕右下";
 	"EVENT_DESCRIPTION_libactivator.slide-in.right-bottom" = "由屏幕右下向中心拖动";
+
+	"EVENT_TITLE_libactivator.drag-off.bottom" = "滑出屏幕底部";
+	"EVENT_DESCRIPTION_libactivator.drag-off.bottom" = "滑出屏幕底部";
+
+	"EVENT_TITLE_libactivator.drag-off.left" = "滑出屏幕左侧";
+	"EVENT_DESCRIPTION_libactivator.drag-off.left" = "滑出屏幕左侧";
+
+	"EVENT_TITLE_libactivator.drag-off.right" = "滑出屏幕右侧";
+	"EVENT_DESCRIPTION_libactivator.drag-off.right" = "滑出屏幕右侧";
+
+	"EVENT_TITLE_libactivator.drag-off.top" = "滑出屏幕顶部";
+	"EVENT_DESCRIPTION_libactivator.drag-off.top" = "滑出屏幕顶部";
 
 	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "从屏幕底部";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "由屏幕底部向上拖动";
@@ -338,6 +376,54 @@
 	"EVENT_TITLE_libactivator.three-finger.tap" = "三指按一下";
 	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "在屏幕用三指按一下";
 
+	"EVENT_TITLE_libactivator.icon.flick.down" = "向下拖图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down" = "向下轻拖主屏幕图标";
+
+	"EVENT_TITLE_libactivator.icon.flick.left" = "向左拖图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left" = "向左轻拖主屏幕图标";
+
+	"EVENT_TITLE_libactivator.icon.flick.right" = "向右拖图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right" = "向右轻拖主屏幕图标";
+
+	"EVENT_TITLE_libactivator.icon.flick.up" = "向上拖图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上轻拖主屏幕图标";
+
+	/* Custom Events */
+
+	"NEW_EVENT_TITLE_libactivator.application-launch" = "启动应用程序";
+	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "启动某个应用程序";
+	"EVENT_TITLE_libactivator.application-launch_FORMAT" = "启动 %@";
+	"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "启动应用程序 %@";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.up" = "向上拖图标";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上轻拖某个应用程序的图标";
+	"EVENT_TITLE_libactivator.icon.flick.up_FORMAT" = "向上拖 %@ 的图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up_FORMAT" = "向上轻拖 %@ 主屏幕图标";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.down" = "向下拖图标";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down" = "向下轻拖某个应用程序的图标";
+	"EVENT_TITLE_libactivator.icon.flick.down_FORMAT" = "向下拖 %@ 的图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down_FORMAT" = "向下轻拖 %@ 主屏幕图标";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.left" = "向左拖图标";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left" = "向左轻拖某个应用程序的图标";
+	"EVENT_TITLE_libactivator.icon.flick.left_FORMAT" = "向左拖 %@ 的图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left_FORMAT" = "向左轻拖 %@ 主屏幕图标";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.right" = "向右拖图标";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "向右轻拖某个应用程序的图标";
+	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ 向右拖图标";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "向右轻拖 %@ 主屏幕图标";
+
+	"NEW_EVENT_TITLE_libactivator.mail-received" = "收到邮件";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "收到符合指定条件的邮件";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "来自 %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "发件人：%@";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "标题包含“%@”";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "邮件标题包含“%@”";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "来自 %@ 且标题包含“%@”";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "发件人是 %1$@ 且邮件标题包含“%2$@”";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
@@ -357,6 +443,7 @@
 	"LISTENER_GROUP_TITLE_Sharing" = "分享";
 	"LISTENER_GROUP_TITLE_Device UIRotation" = "设备方向";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+	"LISTENER_GROUP_TITLE_Contacts" = "通讯录";
 
 	/* Listener Names */
 
@@ -475,6 +562,10 @@
 
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "显示语音留言";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "打开电话的语音留言";
+
+	"LISTENER_DESCRIPTION_libactivator.call" = "呼叫";
+	"LISTENER_DESCRIPTION_libactivator.mail" = "发邮件给";
+	"LISTENER_DESCRIPTION_libactivator.text" = "发信息给";
 
 	/* Third Party Listerners */
 
@@ -727,6 +818,9 @@
 	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "亮度与墙纸";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "打开设置的亮度与墙纸页面";
 
+	"LISTENER_TITLE_libactivator.settings.cellular" = "蜂窝移动网络";
+	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "打开设置的蜂窝移动网络页面";
+
 	"LISTENER_TITLE_libactivator.settings.date-time" = "日期与时间";
 	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "打开设置的日期与时间页面";
 
@@ -827,7 +921,7 @@
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "开始或停止语音识别";
 
 	"IN_CYDIA_WARNING" = "在 Cydia 安装软件时进行其它操作会有潜在的危险。";
-	
+
 	"ASSIGNMENTS" = "配置";
 	"ASSIGNMENTS_DETAIL" = "事件配置总览";
 

@@ -62,6 +62,29 @@
 	"BLACKLIST" = "Blacklist";
 	"BLACKLIST_DETAIL" = "Ignore events in specific applications";
 
+	"N_ACTIONS" = "%d actions";
+
+	"Slide Gestures" = "Slide Gestures";
+	"Sensitivity" = "Sensitivity";
+	"Tight" = "Tight";
+	"Very Precise" = "Very Precise";
+	"Precise" = "Precise";
+	"Normal" = "Normal";
+	"Lenient" = "Lenient";
+	"Very Lenient" = "Very Lenient";
+	"Loose" = "Loose";
+	"Very Loose" = "Very Loose";
+
+	"Custom Events" = "Custom Events";
+	"Build New Events" = "Build New Events";
+	"New Event" = "New Event";
+
+	"MAIL_SENDER" = "Sender";
+	"MAIL_SENDER_UNKNOWN" = "Unknown";
+	"MAIL_ANY_SENDER" = "(any sender)";
+	"MAIL_SUBJECT" = "Subject";
+	"MAIL_ANY_SUBJECT" = "(any subject)";
+
 	/* Bookmarks */
 
 	"BOOKMARKS" = "Bookmarks";
@@ -103,6 +126,7 @@
 	/* Event Groups */
 
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "Slide In Gesture";
+	"EVENT_GROUP_TITLE_Slide Out Gesture" = "Slide Out Gesture";
 	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Two Finger Slide In Gesture";
 	"EVENT_GROUP_TITLE_Motion" = "Motion";
 	"EVENT_GROUP_TITLE_SpringBoard" = "SpringBoard";
@@ -116,6 +140,8 @@
 	"EVENT_GROUP_TITLE_Audio" = "Audio";
 	"EVENT_GROUP_TITLE_Settings" = "Settings";
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Multi-Touch Gesture";
+	"EVENT_GROUP_TITLE_Application Launched" = "Application Launched";
+	"EVENT_GROUP_TITLE_Received Email" = "Received Email";
 
 	/* Events */
 
@@ -181,6 +207,18 @@
 
 	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "From Screen Bottom-Right";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Drag onto screen from bottom-right";
+
+	"EVENT_TITLE_libactivator.drag-off.bottom" = "Off Screen Bottom";
+	"EVENT_DESCRIPTION_libactivator.drag-off.bottom" = "Drag off screen to the bottom";
+
+	"EVENT_TITLE_libactivator.drag-off.left" = "Off Screen Left";
+	"EVENT_DESCRIPTION_libactivator.drag-off.left" = "Drag off screen to the left";
+
+	"EVENT_TITLE_libactivator.drag-off.right" = "Off Screen Right";
+	"EVENT_DESCRIPTION_libactivator.drag-off.right" = "Drag off screen to the right";
+
+	"EVENT_TITLE_libactivator.drag-off.top" = "Off Screen Top";
+	"EVENT_DESCRIPTION_libactivator.drag-off.top" = "Drag off screen to the top";
 
 	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "From Screen Bottom";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "Drag onto screen from below";
@@ -338,6 +376,18 @@
 	"EVENT_TITLE_libactivator.three-finger.tap" = "Three Finger Tap";
 	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "Tap screen with three fingers";
 
+	"EVENT_TITLE_libactivator.icon.flick.down" = "Icon Flick Down";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down" = "Flick SpringBoard icon downwards";
+
+	"EVENT_TITLE_libactivator.icon.flick.left" = "Icon Flick Left";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left" = "Flick SpringBoard icon left";
+
+	"EVENT_TITLE_libactivator.icon.flick.right" = "Icon Flick Right";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right" = "Flick SpringBoard icon right";
+
+	"EVENT_TITLE_libactivator.icon.flick.up" = "Icon Flick Up";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "Flick SpringBoard icon upwards";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
@@ -355,6 +405,43 @@
 	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
 	"LISTENER_GROUP_TITLE_Sharing" = "Sharing";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+	"LISTENER_GROUP_TITLE_Contacts" = "Contacts";
+
+	/* Custom Events */
+
+	"NEW_EVENT_TITLE_libactivator.application-launch" = "Application Launch";
+	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "A specific application is launched";
+	"EVENT_TITLE_libactivator.application-launch_FORMAT" = "Launch %@";
+	"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "%@ application is launched";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.up" = "Icon Flick Up";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up" = "A specific icon is flicked up";
+	"EVENT_TITLE_libactivator.icon.flick.up_FORMAT" = "%@ Icon Flick Up";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up_FORMAT" = "Flick %@ SpringBoard icon up";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.down" = "Icon Flick Down";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down" = "A specific icon is flicked down";
+	"EVENT_TITLE_libactivator.icon.flick.down_FORMAT" = "%@ Icon Flick Down";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down_FORMAT" = "Flick %@ SpringBoard icon down";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.left" = "Icon Flick Left";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left" = "A specific icon is flicked left";
+	"EVENT_TITLE_libactivator.icon.flick.left_FORMAT" = "%@ Icon Flick Left";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left_FORMAT" = "Flick %@ SpringBoard icon left";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.right" = "Icon Flick Right";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "A specific icon is flicked right";
+	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ Icon Flick Right";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Flick %@ SpringBoard icon right";
+
+	"NEW_EVENT_TITLE_libactivator.mail-received" = "Received Email";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "Received mail with specific criteria";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "From %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "Sender is %@";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "\"%@\" in Subject";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "Subject contains \"%@\"";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "From %@, \"%@\" in Subject";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "Subject contains \"%2$@\", sender is %1$@";
 
 	/* Listener Names */
 
@@ -492,6 +579,9 @@
 	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Brightness & Wallpaper";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "Open Settings to Brightness/Wallpaper page";
 
+	"LISTENER_TITLE_libactivator.settings.cellular" = "Cellular";
+	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "Open Settings to Cellular";
+
 	"LISTENER_TITLE_libactivator.settings.date-time" = "Date & Time";
 	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Open Settings to Date & Time";
 
@@ -572,6 +662,10 @@
 
 	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "Voice Search";
 	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Activate Google's voice search";
+
+	"LISTENER_DESCRIPTION_libactivator.call" = "Call";
+	"LISTENER_DESCRIPTION_libactivator.mail" = "Mail";
+	"LISTENER_DESCRIPTION_libactivator.text" = "Message";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";

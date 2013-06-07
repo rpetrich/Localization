@@ -1,0 +1,60 @@
+{
+	SETTINGS = "Réglages";
+	OPTIONS = "Options";
+	ADVANCED_SETTINGS = "Réglages Avancés";
+
+    SWIPE_STYLE = "Style du Swipe";
+	LEFT_AND_UP_TO_OPEN = "Gauche et Haut pour ouvrir l'App";
+	JUST_LEFT_TO_OPEN = "Juste Gauche pour ouvrir l'App";
+	LEFT_AND_UP = "Gauche et Haut";
+	JUST_LEFT = "Juste Gauche";
+
+	TAPPING_GRABBER = "Toucher le Grabber";
+	BOUNCES_LOCK_SCREEN = "Rebondit l'écran de verrouillage";
+	OPENS_FIRST_APP = "Ouvre la Première App";
+	BOUNCES = "Rebondissements";
+    SHOWS_ICONS = "Affiche les Icônes";
+
+	SHOW_GRABBER = "Afficher le Grabber";
+	ALWAYS = "Toujours";
+	WHEN_NO_NOTIFICATION = "Quand Aucune Notification n'est Active";
+	STANDARD = "Standard";
+
+	SHOW_SLIDESHOW_BUTTON = "Afficher le Bouton Diaporama";
+
+	ICON_COUNT = "Nombre d'Icônes";
+	ONE = "Une";
+	TWO = "Deux";
+	THREE = "Trois";
+	FOUR = "Quatre";
+	FIVE = "Cinq";
+	SIX = "Six";
+	SEVEN = "Sept";
+	EIGHT = "Huit";
+	NINE = "Neuf";
+	TEN = "Dix";
+	ELEVEN = "Onze";
+	TWELVE = "Douze";
+
+    SCREENSHOT_PRIVACY = "Confidentialité des Screenshots";
+
+	CLICK_SOUNDS = "Sons des Clics";
+
+	REQUIRE_PASSCODE = "Nécessite Verrouillage par Code";
+
+    DRAG_STYLE = "Style du Glissement";
+	SMOOTH_DRAGGING = "Glissement Lisse";
+	SMOOTH = "Lisse";
+	LOCK_TO_ICON = "Verrouiller l'Icône";
+	LOCKED = "Verrouillé";
+
+    QUICK_LAUNCH_APPS = "Lancement Rapide d'Apps";
+    ICON = "Icône";
+    APP = "App";
+
+    QUICK_LAUNCH_ACTIONS = "Lancement Rapide d'Actions";
+    ACTION = "Action";
+    IMAGE = "Image";
+
+	PASSCODE_WARNING = "Si un code de verrouillage est configuré, les applications sécurisant l'accès de leurs données (telle que Mail) exigeront ce code pour fonctionner correctement";
+}
