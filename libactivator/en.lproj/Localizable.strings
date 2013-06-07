@@ -75,6 +75,16 @@
 	"Loose" = "Loose";
 	"Very Loose" = "Very Loose";
 
+	"Custom Events" = "Custom Events";
+	"Build New Events" = "Build New Events";
+	"New Event" = "New Event";
+
+	"MAIL_SENDER" = "Sender";
+	"MAIL_SENDER_UNKNOWN" = "Unknown";
+	"MAIL_ANY_SENDER" = "(any sender)";
+	"MAIL_SUBJECT" = "Subject";
+	"MAIL_ANY_SUBJECT" = "(any subject)";
+
 	/* Bookmarks */
 
 	"BOOKMARKS" = "Bookmarks";
@@ -131,6 +141,7 @@
 	"EVENT_GROUP_TITLE_Settings" = "Settings";
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Multi-Touch Gesture";
 	"EVENT_GROUP_TITLE_Application Launched" = "Application Launched";
+	"EVENT_GROUP_TITLE_Received Email" = "Received Email";
 
 	/* Events */
 
@@ -422,6 +433,15 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "A specific icon is flicked right";
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ Icon Flick Right";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Flick %@ SpringBoard icon right";
+
+	"NEW_EVENT_TITLE_libactivator.mail-received" = "Received Email";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "Received mail with specific criteria";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "From %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "Sender is %@";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "\"%@\" in Subject";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "Subject contains \"%@\"";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "From %@, \"%@\" in Subject";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "Subject contains \"%2$@\", sender is %1$@";
 
 	/* Listener Names */
 
