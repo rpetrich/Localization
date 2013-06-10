@@ -46,8 +46,8 @@
 
 	"Advertisement" = "Advertentie";
 
-	"SAFE_MODE_TITLE" = "In Safe Mode";
-	"SAFE_MODE_MESSAGE" = "Je apparaat draait momenteel in Safe Mode. De meeste functies van Activator zijn uitgeschakeld tijdens Safe Mode. Respring SpringBoard om terug te keren naar de normale modus.";
+	"SAFE_MODE_TITLE" = "In Veilige Modus";
+	"SAFE_MODE_MESSAGE" = "Je apparaat draait momenteel in de Veilige Modus. De meeste functies van Activator zijn uitgeschakeld tijdens Veilige Modus. Respring SpringBoard om terug te keren naar de normale modus.";
 	"SAFE_MODE_CANCEL" = "Annuleer";
 	"SAFE_MODE_RESTART" = "Herstart";
 
@@ -59,8 +59,31 @@
 	"CORRUPT_CANCEL" = "Annuleer";
 	"CORRUPT_LAUNCH_CYDIA" = "Open Cydia";
 
-	"BLACKLIST" = "Blacklist";
+	"BLACKLIST" = "Zwarte Lijst";
 	"BLACKLIST_DETAIL" = "Negeer acties in specifieke applicaties";
+
+	"N_ACTIONS" = "%d acties";
+
+	"Slide Gestures" = "Veeggebaren";
+	"Sensitivity" = "Gevoeligheid";
+	"Tight" = "Strak";
+	"Very Precise" = "Erg Precies";
+	"Precise" = "Precies";
+	"Normal" = "Normaal";
+	"Lenient" = "Mild";
+	"Very Lenient" = "Erg Mild";
+	"Loose" = "Losjes";
+	"Very Loose" = "Erg Los";
+
+	"Custom Events" = "Aangepaste Acties";
+	"Build New Events" = "Bouw Nieuwe Acties";
+	"New Event" = "Nieuwe Actie";
+
+	"MAIL_SENDER" = "Verzender";
+	"MAIL_SENDER_UNKNOWN" = "Onbekend";
+	"MAIL_ANY_SENDER" = "(elke verzender)";
+	"MAIL_SUBJECT" = "Onderwerp";
+	"MAIL_ANY_SUBJECT" = "(elk onderwerp)";
 
 	/* Bookmarks */
 
@@ -102,8 +125,9 @@
 
 	/* Event Groups */
 
-	"EVENT_GROUP_TITLE_Slide In Gesture" = "Slide In Gebaar";
-	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Twee-Vinger Slide In Gebaar";
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "Inveeg Gebaar";
+	"EVENT_GROUP_TITLE_Slide Out Gesture" = "Uitveeg Gebaar";
+	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Twee-Vinger Inveeg Gebaar";
 	"EVENT_GROUP_TITLE_Motion" = "Beweging";
 	"EVENT_GROUP_TITLE_SpringBoard" = "SpringBoard";
 	"EVENT_GROUP_TITLE_Status Bar" = "Statusbalk";
@@ -116,6 +140,8 @@
 	"EVENT_GROUP_TITLE_Audio" = "Audio";
 	"EVENT_GROUP_TITLE_Settings" = "Instellingen";
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Multi-Touch Gebaar";
+	"EVENT_GROUP_TITLE_Application Launched" = "Applicatie Opgestart";
+	"EVENT_GROUP_TITLE_Received Email" = "Email Ontvangen";
 
 	/* Events */
 
@@ -181,6 +207,18 @@
 
 	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Van Beneden-Rechts Scherm";
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Sleep naar scherm van beneden-rechts";
+
+	"EVENT_TITLE_libactivator.drag-off.bottom" = "Van Scherm Af Beneden";
+	"EVENT_DESCRIPTION_libactivator.drag-off.bottom" = "Sleep van scherm af naar beneden";
+
+	"EVENT_TITLE_libactivator.drag-off.left" = "Van Scherm Af Links";
+	"EVENT_DESCRIPTION_libactivator.drag-off.left" = "Sleep van scherm af naar links";
+
+	"EVENT_TITLE_libactivator.drag-off.right" = "Van Scherm Af Rechts";
+	"EVENT_DESCRIPTION_libactivator.drag-off.right" = "Sleep van scherm af naar rechts";
+
+	"EVENT_TITLE_libactivator.drag-off.top" = "Van Scherm Af Boven";
+	"EVENT_DESCRIPTION_libactivator.drag-off.top" = "Sleep van scherm af naar boven";
 
 	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "Van Beneden Scherm";
 	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "Sleep naar scherm van beneden";
@@ -326,8 +364,8 @@
 	"EVENT_TITLE_libactivator.four-finger.spread" = "Vier-Vinger Spreid";
 	"EVENT_DESCRIPTION_libactivator.four-finger.spread" = "Spreid scherm met vier vingers";
 
-	"EVENT_TITLE_libactivator.four-finger.tap" = "Vier-Vinger Tap";
-	"EVENT_DESCRIPTION_libactivator.four-finger.tap" = "Tap scherm met vier vingers";
+	"EVENT_TITLE_libactivator.four-finger.tap" = "Vier-Vinger Tik";
+	"EVENT_DESCRIPTION_libactivator.four-finger.tap" = "Tik scherm met vier vingers";
 
 	"EVENT_TITLE_libactivator.three-finger.pinch" = "Drie-Vinger Kneep";
 	"EVENT_DESCRIPTION_libactivator.three-finger.pinch" = "Knijp scherm met drie vingers";
@@ -335,16 +373,28 @@
 	"EVENT_TITLE_libactivator.three-finger.spread" = "Drie-Vinger Spreid";
 	"EVENT_DESCRIPTION_libactivator.three-finger.spread" = "Spreid scherm met drie vingers";
 
-	"EVENT_TITLE_libactivator.three-finger.tap" = "Drie-Vinger Tap";
-	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "Tap scherm met drie vingers";
+	"EVENT_TITLE_libactivator.three-finger.tap" = "Drie-Vinger Tik";
+	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "Tik scherm met drie vingers";
+
+	"EVENT_TITLE_libactivator.icon.flick.down" = "Icoon-Veeg Omlaag";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down" = "Veeg een app icoon naar beneden";
+
+	"EVENT_TITLE_libactivator.icon.flick.left" = "Icoon-Veeg Links";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left" = "Veeg een app icoon naar links";
+
+	"EVENT_TITLE_libactivator.icon.flick.right" = "Icoon-Veeg Rechts";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right" = "Veeg een app icoon naar rechts";
+
+	"EVENT_TITLE_libactivator.icon.flick.up" = "Icoon-Veeg Omhoog";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "Veeg een app icoon naar boven";
 
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "Systeemacties";
-	"LISTENER_GROUP_TITLE_System Applications" = "Systeemapplicaties";
-	"LISTENER_GROUP_TITLE_User Applications" = "Gebruikersapplicaties";
+	"LISTENER_GROUP_TITLE_System Applications" = "Applicaties (systeem)";
+	"LISTENER_GROUP_TITLE_User Applications" = "Applicaties (gebruiker)";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
-	"LISTENER_GROUP_TITLE_Lock Screen" = "Lockscreen";
+	"LISTENER_GROUP_TITLE_Lock Screen" = "Vergrendelscherm";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Schakelaars";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Schakelaars (Schakel In)";
 	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Schakelaars (Schakel Uit)";
@@ -355,6 +405,43 @@
 	"LISTENER_GROUP_TITLE_Web Clips" = "Webclips";
 	"LISTENER_GROUP_TITLE_Sharing" = "Delen";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+	"LISTENER_GROUP_TITLE_Contacts" = "Contacten";
+
+	/* Custom Events */
+
+	"NEW_EVENT_TITLE_libactivator.application-launch" = "Applicatie Openen";
+	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "Een bepaalde applicatie is geopend";
+	"EVENT_TITLE_libactivator.application-launch_FORMAT" = "Open %@";
+	"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "%@ applicatie is geopend";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.up" = "Icoon-Veeg Omhoog";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up" = "Een icoon is omhoog geveegd";
+	"EVENT_TITLE_libactivator.icon.flick.up_FORMAT" = "%@ Icoon-Veeg Omhoog";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up_FORMAT" = "Veeg %@ icoon omhoog";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.down" = "Icoon-Veeg Omlaag";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down" = "Een icoon is omlaag geveegd";
+	"EVENT_TITLE_libactivator.icon.flick.down_FORMAT" = "%@ Icoon-Veeg Omlaag";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down_FORMAT" = "Veeg %@ icoon omlaag";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.left" = "Icoon-Veeg Links";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left" = "Een icoon is naar links geveegd";
+	"EVENT_TITLE_libactivator.icon.flick.left_FORMAT" = "%@ Icoon-Veeg Links";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left_FORMAT" = "Veeg %@ icoon naar links";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.right" = "Icoon-Veeg Rechts";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "Een icoon is naar rechts geveegd";
+	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ Icoon-Veeg Rechts";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Veeg %@ icoon naar rechts";
+
+	"NEW_EVENT_TITLE_libactivator.mail-received" = "Email Ontvangen";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "Mail ontvangen met bepaalde criteria";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "Van %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "Verzender is %@";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "\"%@\" als Onderwerp";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "Onderwerp bevat \"%@\"";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "Van %@, \"%@\" als Onderwerp";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "Onderwerp bevat \"%2$@\", verzender is %1$@";
 
 	/* Listener Names */
 
@@ -492,6 +579,9 @@
 	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Helderheid en achtergrond";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "Open Instellingen op Helderheid/Achtergrond pagina";
 
+	"LISTENER_TITLE_libactivator.settings.cellular" = "Mobiel netwerk";
+	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "Open Instellingen op Mobiel netwerk";
+
 	"LISTENER_TITLE_libactivator.settings.date-time" = "Datum en tijd";
 	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Open Instellingen op Datum en tijd";
 
@@ -572,6 +662,10 @@
 
 	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "Spraak";
 	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Activeer Google's spraak-zoeken";
+
+	"LISTENER_DESCRIPTION_libactivator.call" = "Bel";
+	"LISTENER_DESCRIPTION_libactivator.mail" = "Mail";
+	"LISTENER_DESCRIPTION_libactivator.text" = "Bericht naar";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
