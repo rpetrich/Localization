@@ -142,6 +142,7 @@
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Multi-Touch Gesture";
 	"EVENT_GROUP_TITLE_Application Launched" = "Application Launched";
 	"EVENT_GROUP_TITLE_Received Email" = "Received Email";
+	"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
 
 	/* Events */
 
@@ -150,6 +151,9 @@
 
 	"EVENT_TITLE_libactivator.lock.press.double" = "Double Press";
 	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "Quickly press sleep button twice";
+
+	"EVENT_TITLE_libactivator.lock.press.with-menu" = "Press with Menu Button";
+	"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "Press both buttons simultaneously";
 
 	"EVENT_TITLE_libactivator.menu.hold.short" = "Short Hold";
 	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Press and hold home button";
@@ -388,6 +392,12 @@
 	"EVENT_TITLE_libactivator.icon.flick.up" = "Icon Flick Up";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "Flick SpringBoard icon upwards";
 
+	"EVENT_TITLE_libactivator.clamshell.close" = "Close Cover";
+	"EVENT_DESCRIPTION_libactivator.clamshell.close" = "Close protective screen cover";
+
+	"EVENT_TITLE_libactivator.clamshell.open" = "Open Cover";
+	"EVENT_DESCRIPTION_libactivator.clamshell.open" = "Open protective screen cover";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
@@ -406,6 +416,7 @@
 	"LISTENER_GROUP_TITLE_Sharing" = "Sharing";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 	"LISTENER_GROUP_TITLE_Contacts" = "Contacts";
+	"LISTENER_GROUP_TITLE_Camera" = "Camera";
 
 	/* Custom Events */
 
@@ -651,6 +662,9 @@
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Open Settings to Wi-Fi";
 
+	"LISTENER_TITLE_libactivator.camera.invoke-shutter" = "Invoke Shutter";
+	"LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "Trigger camera app's shutter function";
+
 	"LISTENER_TITLE_com.rpetrich.activoice.apps" = "Google Apps";
 	"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "Activate Google's apps list";
 
@@ -662,6 +676,9 @@
 
 	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "Voice Search";
 	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Activate Google's voice search";
+
+	"LISTENER_TITLE_com.rpetrich.voicememotoggle" = "Voice Memo";
+	"LISTENER_DESCRIPTION_com.rpetrich.voicememotoggle" = "Toggle recording a voice memo";
 
 	"LISTENER_DESCRIPTION_libactivator.call" = "Call";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "Mail";

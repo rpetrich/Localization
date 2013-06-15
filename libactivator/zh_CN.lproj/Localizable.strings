@@ -142,6 +142,7 @@
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "多点触摸手势";
 	"EVENT_GROUP_TITLE_Application Launched" = "启动应用程序";
 	"EVENT_GROUP_TITLE_Received Email" = "收到邮件";
+	"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
 
 	/* Events */
 
@@ -150,6 +151,9 @@
 
 	"EVENT_TITLE_libactivator.lock.press.double" = "按两下";
 	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "快速按两下电源按钮";
+
+	"EVENT_TITLE_libactivator.lock.press.with-menu" = "与主屏幕按钮一起按";
+	"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "同时按下两个按钮";
 
 	"EVENT_TITLE_libactivator.menu.hold.short" = "按住";
 	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "按住主屏幕按钮";
@@ -388,6 +392,12 @@
 	"EVENT_TITLE_libactivator.icon.flick.up" = "向上拖图标";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上轻拖主屏幕图标";
 
+	"EVENT_TITLE_libactivator.clamshell.close" = "合上保护盖";
+	"EVENT_DESCRIPTION_libactivator.clamshell.close" = "合上屏幕保护盖";
+
+	"EVENT_TITLE_libactivator.clamshell.open" = "开启保护盖";
+	"EVENT_DESCRIPTION_libactivator.clamshell.open" = "开启屏幕保护盖";
+
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "启动应用程序";
@@ -444,6 +454,7 @@
 	"LISTENER_GROUP_TITLE_Device UIRotation" = "设备方向";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 	"LISTENER_GROUP_TITLE_Contacts" = "通讯录";
+	"LISTENER_GROUP_TITLE_Camera" = "相机";
 
 	/* Listener Names */
 
@@ -562,6 +573,12 @@
 
 	"LISTENER_TITLE_libactivator.phone.voicemail" = "显示语音留言";
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "打开电话的语音留言";
+
+	"LISTENER_TITLE_libactivator.camera.invoke-shutter" = "触发快门";
+	"LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "触发相机程序的快门功能";
+
+	"LISTENER_TITLE_com.rpetrich.voicememotoggle" = "语音备忘录";
+	"LISTENER_DESCRIPTION_com.rpetrich.voicememotoggle" = "录制语音备忘录";
 
 	"LISTENER_DESCRIPTION_libactivator.call" = "呼叫";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "发邮件给";
