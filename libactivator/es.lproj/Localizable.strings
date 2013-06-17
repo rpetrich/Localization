@@ -74,6 +74,16 @@
 	"Very Lenient" = "Muy débil";
 	"Loose" = "Imprecisa";
 	"Very Loose" = "Muy imprecisa";
+	
+	"Custom Events" = "Eventos personalizados";
+	"Build New Events" = "Crear nuevos eventos";
+	"New Event" = "Nuevo evento";
+
+	"MAIL_SENDER" = "Remitente";
+	"MAIL_SENDER_UNKNOWN" = "Desconocido";
+	"MAIL_ANY_SENDER" = "(cualquier remitente)";
+	"MAIL_SUBJECT" = "Asunto";
+	"MAIL_ANY_SUBJECT" = "(cualquier asunto)";
 
 	/* Bookmarks */
 
@@ -131,6 +141,8 @@
 	"EVENT_GROUP_TITLE_Settings" = "Ajustes";
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Gestos multitáctiles";
 	"EVENT_GROUP_TITLE_Application Launched" = "Aplicación ejecutada";
+	"EVENT_GROUP_TITLE_Received Email" = "Email recibido";
+	"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
 
 	/* Events */
 	
@@ -139,6 +151,9 @@
 	
 	"EVENT_TITLE_libactivator.lock.press.double" = "Pulsación doble";
 	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "Pulsa 2 veces seguidas el botón reposo";
+	
+	"EVENT_TITLE_libactivator.lock.press.with-menu" = "Pulsación con botón inicio";
+	"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "Pulsa ambos botones simultáneamente";
 	
 	"EVENT_TITLE_libactivator.menu.hold.short" = "Pulsación corta";
 	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Mantén pulsado el botón inicio";
@@ -377,6 +392,12 @@
 	"EVENT_TITLE_libactivator.icon.flick.up" = "Deslizar icono arriba";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "Desliza sobre un icono hacia arriba";
 	
+	"EVENT_TITLE_libactivator.clamshell.close" = "Cerrar tapa";
+	"EVENT_DESCRIPTION_libactivator.clamshell.close" = "Cierra la tapa protectora";
+
+	"EVENT_TITLE_libactivator.clamshell.open" = "Abrir tapa";
+	"EVENT_DESCRIPTION_libactivator.clamshell.open" = "Abre la tapa protectora";
+	
 	/* Listener Groups */
 	
 	"LISTENER_GROUP_TITLE_System Actions" = "Acciones del sistema";
@@ -395,6 +416,7 @@
 	"LISTENER_GROUP_TITLE_Sharing" = "Compartir";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 	"LISTENER_GROUP_TITLE_Contacts" = "Contactos";
+	"LISTENER_GROUP_TITLE_Camera" = "Cámara";
 
 	/* Custom Events */
 
@@ -422,6 +444,15 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "Un icono específico se delizó a la derecha";
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "Deslizar icono %@ derecha";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Desliza el icono %@ a la derecha";
+	
+	"NEW_EVENT_TITLE_libactivator.mail-received" = "Email recibido";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "Recibir mail con criterios especif.";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "De %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "El remitente es %@";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "\"%@\" en el asunto";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "El asunto contiene \"%@\"";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "De %@, \"%@\" en el asunto";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "El asunto contiene \"%2$@\", el remitente es %1$@";
 	
 	/* Listener Names */
 
@@ -630,6 +661,9 @@
 	
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Abre ajustes en Wi-Fi";
+	
+	"LISTENER_TITLE_libactivator.camera.invoke-shutter" = "Invocar obturador";
+	"LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "Hace que la cámara haga un disparo";
 
 	"LISTENER_TITLE_com.rpetrich.activoice.apps" = "Google Apps";
 	"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "Activa la lista de apps de Google";
@@ -642,6 +676,9 @@
 
 	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "Buscar por voz";
 	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Activa la búsqueda por voz de Google";
+	
+	"LISTENER_TITLE_com.rpetrich.voicememotoggle" = "Nota de voz";
+	"LISTENER_DESCRIPTION_com.rpetrich.voicememotoggle" = "Graba una de nota de voz";
 	
 	"LISTENER_DESCRIPTION_libactivator.call" = "Llama a";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "Mail a";
