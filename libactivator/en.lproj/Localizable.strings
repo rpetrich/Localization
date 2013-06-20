@@ -347,6 +347,15 @@
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Double Tap Clock";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Double-tap clock/date area";
 
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-left" = "Swipe Clock Left";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-left" = "Swipe left on clock/date area";
+
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-right" = "Swipe Clock Right";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right" = "Swipe right on clock/date area";
+
+	"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "Tap and Hold Clock";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "Single tap & hold on clock/date area";
+
 	"EVENT_TITLE_libactivator.power.connected" = "Connected";
 	"EVENT_DESCRIPTION_libactivator.power.connected" = "Begin receiving A/C power";
 
