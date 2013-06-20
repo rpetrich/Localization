@@ -347,6 +347,15 @@
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "按兩下時鐘";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "按兩下時鐘/日期區域";
 
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-left" = "向左拖動時鐘";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-left" = "向左拖動時鐘/日期區域";
+
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-right" = "向右拖動時鐘";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right" = "向右拖動時鐘/日期區域";
+
+	"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "按住時鐘";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "按住時鐘/日期區域";
+
 	"EVENT_TITLE_libactivator.power.connected" = "連接電源";
 	"EVENT_DESCRIPTION_libactivator.power.connected" = "正使用外接供電";
 
