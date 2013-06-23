@@ -347,6 +347,15 @@
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Tocar dos veces";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Toca 2 veces en el área del reloj";
 	
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-left" = "Deslizar reloj izquierda";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-left" = "Desliza a la izquierda sobre el reloj";
+
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-right" = "Deslizar reloj derecha";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right" = "Desliza a la derecha sobre el reloj";
+
+	"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "Tocar corto el reloj";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "Mantén presionado el reloj";
+	
 	"EVENT_TITLE_libactivator.power.connected" = "Conectar";
 	"EVENT_DESCRIPTION_libactivator.power.connected" = "Enchufa el cargador al dispositivo";
 
