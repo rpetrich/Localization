@@ -85,6 +85,10 @@
 	"MAIL_SUBJECT" = "Subject";
 	"MAIL_ANY_SUBJECT" = "(any subject)";
 
+	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "Show banner when performing an action";
+	"ACTION_BANNERS" = "Action Banners";
+	"ACTIVATED" = "Activated";
+
 	/* Bookmarks */
 
 	"BOOKMARKS" = "Bookmarks";
@@ -688,6 +692,9 @@
 
 	"LISTENER_TITLE_com.rpetrich.voicememotoggle" = "Voice Memo";
 	"LISTENER_DESCRIPTION_com.rpetrich.voicememotoggle" = "Toggle recording a voice memo";
+
+	"LISTENER_TITLE_libactivator.keyboard.dictation" = "Dictation";
+	"LISTENER_DESCRIPTION_libactivator.keyboard.dictation" = "Dictate into active text field";
 
 	"LISTENER_DESCRIPTION_libactivator.call" = "Call";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "Mail";
