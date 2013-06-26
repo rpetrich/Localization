@@ -85,6 +85,13 @@
 	"MAIL_SUBJECT" = "郵件標題";
 	"MAIL_ANY_SUBJECT" = "指定標題";
 
+	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "觸發動作時顯示通知橫幅";
+	"ACTION_BANNERS" = "動作橫幅";
+	"Never" = "從不";
+	"For Toggles and Switches" = "僅限開關";
+	"Always" = "總是";
+	"ACTIVATED" = "已觸發";
+
 	/* Bookmarks */
 
 	"BOOKMARKS" = "書籤";
@@ -921,6 +928,9 @@
 
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "打開設定的 Wi-Fi 頁面";
+
+	"LISTENER_TITLE_libactivator.keyboard.dictation" = "聽寫";
+	"LISTENER_DESCRIPTION_libactivator.keyboard.dictation" = "在當前活動的文字區域聽寫輸入";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
