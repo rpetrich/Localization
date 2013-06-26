@@ -85,6 +85,13 @@
 	"MAIL_SUBJECT" = "邮件标题";
 	"MAIL_ANY_SUBJECT" = "指定标题";
 
+	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "触发动作时显示横幅提示";
+	"ACTION_BANNERS" = "动作横幅";
+	"Never" = "从不";
+	"For Toggles and Switches" = "仅限开关";
+	"Always" = "总是";
+	"ACTIVATED" = "已触发";
+
 	/* Bookmarks */
 
 	BOOKMARKS = "书签";
@@ -921,6 +928,9 @@
 
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "打开设置的 Wi-Fi 页面";
+
+	"LISTENER_TITLE_libactivator.keyboard.dictation" = "听写";
+	"LISTENER_DESCRIPTION_libactivator.keyboard.dictation" = "在当前活动的文本区域听写输入";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "蓝牙";
