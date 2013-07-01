@@ -85,6 +85,7 @@
 	"MAIL_SUBJECT" = "Subject";
 	"MAIL_ANY_SUBJECT" = "(any subject)";
 
+	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "Show banner when performing an action";
 	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "Show when performing an action";
 	"ACTION_BANNERS" = "Action Banners";
 	"ACTION_BANNERS_NEVER" = "Never";

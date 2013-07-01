@@ -85,6 +85,7 @@
 	"MAIL_SUBJECT" = "郵件標題";
 	"MAIL_ANY_SUBJECT" = "指定標題";
 
+	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "觸發動作時顯示通知橫幅";
 	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "觸發動作時顯示通知橫幅";
 	"ACTION_BANNERS" = "動作橫幅";
 	"ACTION_BANNERS_NEVER" = "從不";
