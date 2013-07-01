@@ -85,12 +85,14 @@
 	"MAIL_SUBJECT" = "郵件標題";
 	"MAIL_ANY_SUBJECT" = "指定標題";
 
-	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "觸發動作時顯示通知橫幅";
+	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "觸發動作時顯示通知橫幅";
 	"ACTION_BANNERS" = "動作橫幅";
-	"Never" = "從不";
-	"For Toggles and Switches" = "僅限開關";
-	"Always" = "總是";
+	"ACTION_BANNERS_NEVER" = "從不";
+	"ACTION_BANNERS_TOGGLES_AND_SWITCHES" = "僅限開關";
+	"ACTION_BANNERS_ALWAYS" = "總是";
 	"ACTIVATED" = "已觸發";
+	
+	"SHARE_THE_LOVE" = "我正在我的 %@ 上使用 @ActivatorApp 來添加自訂手勢及捷徑！";
 
 	/* Bookmarks */
 
@@ -150,6 +152,14 @@
 	"EVENT_GROUP_TITLE_Application Launched" = "啟動應用程式";
 	"EVENT_GROUP_TITLE_Received Email" = "收到郵件";
 	"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
+	"EVENT_GROUP_TITLE_Scheduled" = "計畫事件";
+	"EVENT_GROUP_TITLE_Device" = "裝置";
+	"EVENT_GROUP_TITLE_Slide Along Screen Bottom" = "沿螢幕底部拖動";
+	"EVENT_GROUP_TITLE_Slide Along Screen Left" = "沿螢幕左側拖動";
+	"EVENT_GROUP_TITLE_Slide Along Screen Right" = "沿螢幕右側拖動";
+	"EVENT_GROUP_TITLE_Switches" = "開關";
+	"EVENT_GROUP_TITLE_Switches (Activate)" = "開關（啟用）";
+	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "開關（禁用）";
 
 	/* Events */
 
@@ -161,6 +171,9 @@
 
 	"EVENT_TITLE_libactivator.lock.press.with-menu" = "與“主畫面”按鈕一起按";
 	"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "同時按下兩個按鈕";
+
+	"EVENT_TITLE_libactivator.lock.hold.long" = "長按";
+	"EVENT_DESCRIPTION_libactivator.lock.hold.long" = "長按電源鍵";
 
 	"EVENT_TITLE_libactivator.menu.hold.short" = "按住";
 	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "按住“主畫面”按鈕";
@@ -414,6 +427,30 @@
 	"EVENT_TITLE_libactivator.clamshell.open" = "開啟護蓋";
 	"EVENT_DESCRIPTION_libactivator.clamshell.open" = "開啟螢幕護蓋";
 
+	"EVENT_TITLE_libactivator.device.locked" = "鎖定";
+	"EVENT_DESCRIPTION_libactivator.device.locked" = "通過電源鍵鎖定或自動鎖定";
+	
+	"EVENT_TITLE_libactivator.device.unlocked" = "解除鎖定";
+	"EVENT_DESCRIPTION_libactivator.device.unlocked" = "通過“滑動來解鎖”以解除裝置鎖定";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "從左向右拖動";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "在螢幕底部邊緣從左向右拖動";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-bottom.right-to-left" = "從右向左拖動";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.right-to-left" = "在螢幕底部邊緣從右向左拖動";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-left.bottom-to-top" = "從下向上拖動";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-left.bottom-to-top" = "在螢幕左側邊緣從底部向頂部拖動";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-left.top-to-bottom" = "從上向下拖動";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-left.top-to-bottom" = "在螢幕左側邊緣從頂部向底部拖動";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-right.bottom-to-top" = "從下向上拖動";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.bottom-to-top" = "在螢幕右側邊緣從底部向頂部拖動";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-right.top-to-bottom" = "從上向下拖動";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.top-to-bottom" = "在螢幕右側邊緣從頂部向底部拖動";
+
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "啟動應用程式";
@@ -440,6 +477,13 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "向右輕拖某個應用程式的圖示";
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "向右拖 %@ 的圖示";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "向右輕拖 %@ “主畫面”圖示";
+
+	"NEW_EVENT_TITLE_libactivator.scheduled" = "計畫事件";
+	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "指定每週的那幾天及時間";
+	"EVENT_DESCRIPTION_libactivator.scheduled" = "%@的該時刻";
+	"ANY_DAY_OF_THE_WEEK_LOWERCASE" = "每天";
+	"WEEKDAYS_LOWERCASE" = "工作日";
+	"WEEKENDS_LOWERCASE" = "週末";
 
 	"NEW_EVENT_TITLE_libactivator.mail-received" = "收到郵件";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "收到符合指定條件的郵件";
@@ -471,9 +515,15 @@
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 	"LISTENER_GROUP_TITLE_Contacts" = "聯絡資訊";
 	"LISTENER_GROUP_TITLE_Camera" = "相機";
+	"LISTENER_GROUP_TITLE_Ringtones" = "鈴聲";
+	"LISTENER_GROUP_TITLE_Switches" = "開關";
+	"LISTENER_GROUP_TITLE_Switches (Activate)" = "開關（啟用）";
+	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "開關（禁用）";
 
 	/* Listener Names */
-
+	"LISTENER_DESCRIPTION_switch-flip" = "啟用/禁用該開關";
+	"LISTENER_DESCRIPTION_switch-off" = "禁用該開關";
+	"LISTENER_DESCRIPTION_switch-on" = "啟用該開關";
 	"LISTENER_DESCRIPTION_toggle" = "打開/關閉開關";
 	"LISTENER_DESCRIPTION_toggle_enable" = "打開開關";
 	"LISTENER_DESCRIPTION_toggle_disable" = "關閉開關";
@@ -600,6 +650,8 @@
 	"LISTENER_DESCRIPTION_libactivator.mail" = "發郵件給";
 	"LISTENER_DESCRIPTION_libactivator.text" = "發訊息給";
 
+	"LISTENER_DESCRIPTION_libactivator.ringtone" = "播放該鈴聲";
+	
 	/* Third Party Listerners */
 
 	"LISTENER_TITLE_ch.ringwald.mouse.middle" = "中鍵點擊";

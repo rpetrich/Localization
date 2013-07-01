@@ -85,9 +85,14 @@
 	"MAIL_SUBJECT" = "Subject";
 	"MAIL_ANY_SUBJECT" = "(any subject)";
 
-	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "Show banner when performing an action";
+	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "Show when performing an action";
 	"ACTION_BANNERS" = "Action Banners";
+	"ACTION_BANNERS_NEVER" = "Never";
+	"ACTION_BANNERS_TOGGLES_AND_SWITCHES" = "For Toggles and Switches";
+	"ACTION_BANNERS_ALWAYS" = "Always";
 	"ACTIVATED" = "Activated";
+
+	"SHARE_THE_LOVE" = "I'm using @ActivatorApp to add customizable gestures and shortcuts to my %@!";
 
 	/* Bookmarks */
 
@@ -147,6 +152,14 @@
 	"EVENT_GROUP_TITLE_Application Launched" = "Application Launched";
 	"EVENT_GROUP_TITLE_Received Email" = "Received Email";
 	"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
+	"EVENT_GROUP_TITLE_Scheduled" = "Scheduled";
+	"EVENT_GROUP_TITLE_Device" = "Device";
+	"EVENT_GROUP_TITLE_Slide Along Screen Bottom" = "Slide Along Screen Bottom";
+	"EVENT_GROUP_TITLE_Slide Along Screen Left" = "Slide Along Screen Left";
+	"EVENT_GROUP_TITLE_Slide Along Screen Right" = "Slide Along Screen Right";
+	"EVENT_GROUP_TITLE_Switches" = "Switches";
+	"EVENT_GROUP_TITLE_Switches (Activate)" = "Switches (Activate)";
+	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
 
 	/* Events */
 
@@ -158,6 +171,9 @@
 
 	"EVENT_TITLE_libactivator.lock.press.with-menu" = "Press with Menu Button";
 	"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "Press both buttons simultaneously";
+
+	"EVENT_TITLE_libactivator.lock.hold.long" = "Long Hold";
+	"EVENT_DESCRIPTION_libactivator.lock.hold.long" = "Press and long hold sleep button";
 
 	"EVENT_TITLE_libactivator.menu.hold.short" = "Short Hold";
 	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Press and hold home button";
@@ -411,6 +427,30 @@
 	"EVENT_TITLE_libactivator.clamshell.open" = "Open Cover";
 	"EVENT_DESCRIPTION_libactivator.clamshell.open" = "Open protective screen cover";
 
+	"EVENT_TITLE_libactivator.device.locked" = "Locked";
+	"EVENT_DESCRIPTION_libactivator.device.locked" = "Device locked via sleep button or timeout";
+
+	"EVENT_TITLE_libactivator.device.unlocked" = "Unlocked";
+	"EVENT_DESCRIPTION_libactivator.device.unlocked" = "Device unlocked via slide to unlock";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Drag left to right";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Drag along screen edge from left to right";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-bottom.right-to-left" = "Drag right to left";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.right-to-left" = "Drag along screen edge from right to left";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-left.bottom-to-top" = "Drag bottom to top";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-left.bottom-to-top" = "Drag along screen edge from bottom to top";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-left.top-to-bottom" = "Drag top to bottom";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-left.top-to-bottom" = "Drag along screen edge from top to bottom";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-right.bottom-to-top" = "Drag bottom to top";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.bottom-to-top" = "Drag along screen edge from bottom to top";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-right.top-to-bottom" = "Drag top to bottom";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.top-to-bottom" = "Drag along screen edge from top to bottom";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
@@ -430,6 +470,10 @@
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 	"LISTENER_GROUP_TITLE_Contacts" = "Contacts";
 	"LISTENER_GROUP_TITLE_Camera" = "Camera";
+	"LISTENER_GROUP_TITLE_Ringtones" = "Ringtones";
+	"LISTENER_GROUP_TITLE_Switches" = "Switches";
+	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Switches (Activate)";
+	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
 
 	/* Custom Events */
 
@@ -458,6 +502,13 @@
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ Icon Flick Right";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Flick %@ SpringBoard icon right";
 
+	"NEW_EVENT_TITLE_libactivator.scheduled" = "Scheduled";
+	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "Specific weekday and time passes";
+	"EVENT_DESCRIPTION_libactivator.scheduled" = "Time passes on %@";
+	"ANY_DAY_OF_THE_WEEK_LOWERCASE" = "any day of the week";
+	"WEEKDAYS_LOWERCASE" = "weekdays";
+	"WEEKENDS_LOWERCASE" = "weekends";
+
 	"NEW_EVENT_TITLE_libactivator.mail-received" = "Received Email";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "Received mail with specific criteria";
 	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "From %@";
@@ -469,6 +520,9 @@
 
 	/* Listener Names */
 
+	"LISTENER_DESCRIPTION_switch-flip" = "Activate/deactivate switch";
+	"LISTENER_DESCRIPTION_switch-off" = "Deactivate switch";
+	"LISTENER_DESCRIPTION_switch-on" = "Activate switch";
 	"LISTENER_DESCRIPTION_toggle" = "Activate/deactivate toggle";
 	"LISTENER_DESCRIPTION_toggle_enable" = "Activate toggle";
 	"LISTENER_DESCRIPTION_toggle_disable" = "Deactivate toggle";
@@ -699,6 +753,8 @@
 	"LISTENER_DESCRIPTION_libactivator.call" = "Call";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "Mail";
 	"LISTENER_DESCRIPTION_libactivator.text" = "Message";
+
+	"LISTENER_DESCRIPTION_libactivator.ringtone" = "Play Ringtone";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
