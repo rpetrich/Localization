@@ -74,11 +74,11 @@
 	"Upload completed successfully\nYouTube link is on the pasteboard" = "Caricamento completato correttamente\nIl link di YouTube è stato copiato negli appunti";
 
 	"Help" = "Aiuto";
-	"Enable" = "Abilita";
-	"Disable" = "Disabilita";
+	"Enable" = "Attiva";
+	"Disable" = "Disattiva";
 
 	"Not connected to Wi-Fi" = "Non connesso al Wi-Fi";
-	"Web server disabled" = "Server WEB disabilitato";
+	"Web server disabled" = "Server WEB disattivato";
 
 	"Saving to Camera Roll…" = "Salvataggio nel rullino fotografico in corso…";
 	"Save Failed!" = "Salvataggio fallito!";
