@@ -85,6 +85,11 @@
 	"MAIL_SUBJECT" = "Subject";
 	"MAIL_ANY_SUBJECT" = "(any subject)";
 
+	"MESSAGE_SENDER" = "Sender";
+	"MESSAGE_ANY_SENDER"= "(any sender)";
+	"MESSAGE_MESSAGE" = "Message";
+	"MESSAGE_ANY_MESSAGE" = "(any message)";
+
 	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "Show banner when performing an action";
 	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "Show when performing an action";
 	"ACTION_BANNERS" = "Action Banners";
@@ -152,6 +157,7 @@
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Multi-Touch Gesture";
 	"EVENT_GROUP_TITLE_Application Launched" = "Application Launched";
 	"EVENT_GROUP_TITLE_Received Email" = "Received Email";
+	"EVENT_GROUP_TITLE_Received Message" = "Received Message";
 	"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
 	"EVENT_GROUP_TITLE_Scheduled" = "Scheduled";
 	"EVENT_GROUP_TITLE_Device" = "Device";
@@ -160,7 +166,7 @@
 	"EVENT_GROUP_TITLE_Slide Along Screen Right" = "Slide Along Screen Right";
 	"EVENT_GROUP_TITLE_Switches" = "Switches";
 	"EVENT_GROUP_TITLE_Switches (Activate)" = "Switches (Activate)";
-	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
+	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
 
 	/* Events */
 
@@ -459,9 +465,9 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "User Applications";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "Lock Screen";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Toggles";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Toggles (Enable)";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Toggles (Disable)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings Toggles";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "SBSettings Toggles (Enable)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "SBSettings Toggles (Disable)";
 	"LISTENER_GROUP_TITLE_Phone" = "Phone";
 	"LISTENER_GROUP_TITLE_Power" = "Power";
 	"LISTENER_GROUP_TITLE_Audio" = "Audio";
@@ -518,6 +524,15 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "Subject contains \"%@\"";
 	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "From %@, \"%@\" in Subject";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "Subject contains \"%2$@\", sender is %1$@";
+
+	"NEW_EVENT_TITLE_libactivator.message-received" = "Received Message";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received" = "Received message with criteria";
+	"NEW_EVENT_TITLE_libactivator.message-received_SENDER_FORMAT" = "From %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_SENDER_FORMAT" = "Sender is %@";
+	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_FORMAT" = "\"%@\" in Message";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_FORMAT" = "Message contains \"%@\"";
+	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "From %@, \"%@\" in Message";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "Message contains \"%2$@\", sender is %1$@";
 
 	/* Listener Names */
 
