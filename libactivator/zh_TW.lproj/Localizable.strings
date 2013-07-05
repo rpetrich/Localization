@@ -1036,7 +1036,7 @@
 	"RESTORE_ASSIGNMENTS_DETAIL" = "還原已導出的配置";
 
 	"RESTORE_ALERT_TITLE" = "還原 Activator 设置";
-	"RESTORE_ALERT_MESSAGE" = "您確定要還原已導出的配置嗎？\n如繼續，您的設備將從“主畫面”註銷。";
+	"RESTORE_ALERT_MESSAGE" = "您確定要還原已導出的配置嗎？\n如繼續，您的裝置將從“主畫面”註銷。";
 
 	"RESTORE_ALERT_CANCEL" = "取消";
 	"RESTORE_ALERT_CONTINUE" = "還原";
