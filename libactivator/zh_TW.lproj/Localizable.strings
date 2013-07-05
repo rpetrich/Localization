@@ -85,6 +85,11 @@
 	"MAIL_SUBJECT" = "郵件標題";
 	"MAIL_ANY_SUBJECT" = "指定標題";
 
+	"MESSAGE_SENDER" = "發件人";
+	"MESSAGE_ANY_SENDER"= "任意發件人";
+	"MESSAGE_MESSAGE" = "訊息內容";
+	"MESSAGE_ANY_MESSAGE" = "任意內容";
+
 	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "觸發動作時顯示通知橫幅";
 	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "觸發動作時顯示通知橫幅";
 	"ACTION_BANNERS" = "動作橫幅";
@@ -92,7 +97,7 @@
 	"ACTION_BANNERS_TOGGLES_AND_SWITCHES" = "僅限開關";
 	"ACTION_BANNERS_ALWAYS" = "總是";
 	"ACTIVATED" = "已觸發";
-	
+
 	"SHARE_THE_LOVE" = "我正在我的 %@ 上使用 @ActivatorApp 來添加自訂手勢及捷徑！";
 
 	/* Bookmarks */
@@ -152,6 +157,7 @@
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "多點觸摸手勢";
 	"EVENT_GROUP_TITLE_Application Launched" = "啟動應用程式";
 	"EVENT_GROUP_TITLE_Received Email" = "收到郵件";
+	"EVENT_GROUP_TITLE_Received Message" = "收到訊息";
 	"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
 	"EVENT_GROUP_TITLE_Scheduled" = "計畫事件";
 	"EVENT_GROUP_TITLE_Device" = "裝置";
@@ -430,7 +436,7 @@
 
 	"EVENT_TITLE_libactivator.device.locked" = "鎖定";
 	"EVENT_DESCRIPTION_libactivator.device.locked" = "通過電源鍵鎖定或自動鎖定";
-	
+
 	"EVENT_TITLE_libactivator.device.unlocked" = "解除鎖定";
 	"EVENT_DESCRIPTION_libactivator.device.unlocked" = "通過“滑動來解鎖”以解除裝置鎖定";
 
@@ -489,12 +495,21 @@
 	"NEW_EVENT_TITLE_libactivator.mail-received" = "收到郵件";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "收到符合指定條件的郵件";
 	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "來自 %@";
-	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "發件人：%@";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "發件人是 %@";
 	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "標題包含“%@”";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "郵件標題包含“%@”";
 	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "來自 %@ 且標題包含“%@”";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "發件人是 %1$@ 且郵件標題包含“%2$@”";
-	
+
+	"NEW_EVENT_TITLE_libactivator.message-received" = "收到訊息";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received" = "收到符合指定條件的訊息";
+	"NEW_EVENT_TITLE_libactivator.message-received_SENDER_FORMAT" = "來自 %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_SENDER_FORMAT" = "發件人是 %@";
+	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_FORMAT" = "訊息包括“%@”";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_FORMAT" = "訊息內容包括“%@”";
+	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "來自 %@ 且訊息包括“%@”";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "發件人是 %1$@ 且訊息內容包括“%2$@”";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系統動作";
@@ -502,9 +517,9 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "使用者應用程式";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "“鎖定”螢幕";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "開關";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "開關（開啟）";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "開關（關閉）";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 開關";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "SBSettings 開關（開啟）";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "SBSettings 開關（關閉）";
 	"LISTENER_GROUP_TITLE_Phone" = "電話";
 	"LISTENER_GROUP_TITLE_Power" = "電源";
 	"LISTENER_GROUP_TITLE_Audio" = "音訊";
@@ -652,7 +667,7 @@
 	"LISTENER_DESCRIPTION_libactivator.text" = "發訊息給";
 
 	"LISTENER_DESCRIPTION_libactivator.ringtone" = "播放該鈴聲";
-	
+
 	/* Third Party Listerners */
 
 	"LISTENER_TITLE_ch.ringwald.mouse.middle" = "中鍵點擊";
