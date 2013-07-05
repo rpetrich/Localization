@@ -81,9 +81,14 @@
 
 	"MAIL_SENDER" = "发件人";
 	"MAIL_SENDER_UNKNOWN" = "未知发件人";
-	"MAIL_ANY_SENDER" = "指定发件人";
+	"MAIL_ANY_SENDER" = "任意发件人";
 	"MAIL_SUBJECT" = "邮件标题";
-	"MAIL_ANY_SUBJECT" = "指定标题";
+	"MAIL_ANY_SUBJECT" = "任意标题";
+
+	"MESSAGE_SENDER" = "发信人";
+	"MESSAGE_ANY_SENDER"= "任意发信人";
+	"MESSAGE_MESSAGE" = "信息内容";
+	"MESSAGE_ANY_MESSAGE" = "任意内容";
 
 	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "触发动作时显示横幅提示";
 	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "触发动作时显示横幅提示";
@@ -152,6 +157,7 @@
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "多点触摸手势";
 	"EVENT_GROUP_TITLE_Application Launched" = "启动应用程序";
 	"EVENT_GROUP_TITLE_Received Email" = "收到邮件";
+	"EVENT_GROUP_TITLE_Received Message" = "收到信息";
 	"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
 	"EVENT_GROUP_TITLE_Scheduled" = "计划事件";
 	"EVENT_GROUP_TITLE_Device" = "设备";
@@ -489,11 +495,20 @@
 	"NEW_EVENT_TITLE_libactivator.mail-received" = "收到邮件";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "收到符合指定条件的邮件";
 	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "来自 %@";
-	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "发件人：%@";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "发件人是 %@";
 	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "标题包含“%@”";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "邮件标题包含“%@”";
 	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "来自 %@ 且标题包含“%@”";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "发件人是 %1$@ 且邮件标题包含“%2$@”";
+
+	"NEW_EVENT_TITLE_libactivator.message-received" = "收到信息";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received" = "收到符合指定条件的信息";
+	"NEW_EVENT_TITLE_libactivator.message-received_SENDER_FORMAT" = "来自 %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_SENDER_FORMAT" = "发信人是 %@";
+	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_FORMAT" = "信息包含“%@”";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_FORMAT" = "信息内容包含“%@”";
+	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "来自 %@ 且信息包含“%@”";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "发信人是 %1$@ 且信息内容包含“%2$@”";
 
 	/* Listener Groups */
 
@@ -502,9 +517,9 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "用户应用程序";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "锁屏";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "开关";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "开关（开启）";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "开关（关闭）";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 开关";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "SBSettings 开关（开启）";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "SBSettings 开关（关闭）";
 	"LISTENER_GROUP_TITLE_Phone" = "电话";
 	"LISTENER_GROUP_TITLE_Power" = "电源";
 	"LISTENER_GROUP_TITLE_Audio" = "音频";
