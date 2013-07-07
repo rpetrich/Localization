@@ -85,9 +85,20 @@
 	"MAIL_SUBJECT" = "Asunto";
 	"MAIL_ANY_SUBJECT" = "(cualquier asunto)";
 	
+	"MESSAGE_SENDER" = "Remitente";
+	"MESSAGE_ANY_SENDER"= "(cualquier remitente)";
+	"MESSAGE_MESSAGE" = "Mensaje";
+	"MESSAGE_ANY_MESSAGE" = "(cualquier mensaje)";
+	
 	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "Mostrar banner al hacer una acción";
+	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "Mostrar cuando se ejecute una acción";
 	"ACTION_BANNERS" = "Banners de acción";
+	"ACTION_BANNERS_NEVER" = "Nunca";
+	"ACTION_BANNERS_TOGGLES_AND_SWITCHES" = "Para botones e interruptores";
+	"ACTION_BANNERS_ALWAYS" = "Siempre";
 	"ACTIVATED" = "Activado";
+	
+	"SHARE_THE_LOVE" = "Estoy usando @ActivatorApp para añadir gestos personalizables y accesos directos a mi %@!";
 
 	/* Bookmarks */
 
@@ -146,7 +157,16 @@
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Gestos multitáctiles";
 	"EVENT_GROUP_TITLE_Application Launched" = "Aplicación ejecutada";
 	"EVENT_GROUP_TITLE_Received Email" = "Email recibido";
+	"EVENT_GROUP_TITLE_Received Message" = "Mensaje recibido";
 	"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
+	"EVENT_GROUP_TITLE_Scheduled" = "Scheduled";
+	"EVENT_GROUP_TITLE_Device" = "Device";
+	"EVENT_GROUP_TITLE_Slide Along Screen Bottom" = "Slide Along Screen Bottom";
+	"EVENT_GROUP_TITLE_Slide Along Screen Left" = "Slide Along Screen Left";
+	"EVENT_GROUP_TITLE_Slide Along Screen Right" = "Slide Along Screen Right";
+	"EVENT_GROUP_TITLE_Switches" = "Interruptores";
+	"EVENT_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activate)";
+	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Deactivate)";
 
 	/* Events */
 	
@@ -158,6 +178,9 @@
 	
 	"EVENT_TITLE_libactivator.lock.press.with-menu" = "Pulsación con botón inicio";
 	"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "Pulsa ambos botones simultáneamente";
+	
+	"EVENT_TITLE_libactivator.lock.hold.long" = "Pulsación larga";
+	"EVENT_DESCRIPTION_libactivator.lock.hold.long" = "Presiona durante un momento el botón reposo";
 	
 	"EVENT_TITLE_libactivator.menu.hold.short" = "Pulsación corta";
 	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Mantén pulsado el botón inicio";
@@ -411,6 +434,30 @@
 	"EVENT_TITLE_libactivator.clamshell.open" = "Abrir tapa";
 	"EVENT_DESCRIPTION_libactivator.clamshell.open" = "Abre la tapa protectora";
 	
+	"EVENT_TITLE_libactivator.device.locked" = "Bloqueado";
+	"EVENT_DESCRIPTION_libactivator.device.locked" = "Dispositivo bloquedo por el botón reposo o por tiempo";
+
+	"EVENT_TITLE_libactivator.device.unlocked" = "Desbloqueado";
+	"EVENT_DESCRIPTION_libactivator.device.unlocked" = "Dispositivo desbloqueado por la barra deslizadora";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Arrastrar de izquierda a derecha";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Arrastra a lo largo de la pantalla de izq. a der.";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-bottom.right-to-left" = "Arrastrar de derecha a izquierda";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.right-to-left" = "Arrastra a lo largo de la pantalla de der. a izq.";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-left.bottom-to-top" = "Arrastrar de abajo a arriba (izquierda)";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-left.bottom-to-top" = "Arrastra a lo largo de la pantalla de abajo hacia arriba";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-left.top-to-bottom" = "Arrastrar de arriba a abajo (izquierda)";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-left.top-to-bottom" = "Arrastra a lo largo de la pantalla de arriba hacia abajo";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-right.bottom-to-top" = "Arrastrar de abajo a arriba (derecha)";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.bottom-to-top" = "Arrastra a lo largo de la pantalla de abajo hacia arriba";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-right.top-to-bottom" = "Arrastrar de arriba a abajo (derecha)";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.top-to-bottom" = "Arrastra a lo largo de la pantalla de arriba hacia abajo";
+
 	/* Listener Groups */
 	
 	"LISTENER_GROUP_TITLE_System Actions" = "Acciones del sistema";
@@ -430,6 +477,10 @@
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 	"LISTENER_GROUP_TITLE_Contacts" = "Contactos";
 	"LISTENER_GROUP_TITLE_Camera" = "Cámara";
+	"LISTENER_GROUP_TITLE_Ringtones" = "Tonos";
+	"LISTENER_GROUP_TITLE_Switches" = "Interruptores";
+	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activar)";
+	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Desactivar)";
 
 	/* Custom Events */
 
@@ -458,17 +509,36 @@
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "Deslizar icono %@ derecha";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Desliza el icono %@ a la derecha";
 	
+	"NEW_EVENT_TITLE_libactivator.scheduled" = "Programado";
+	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "Día específico y pasa el tiempo";
+	"EVENT_DESCRIPTION_libactivator.scheduled" = "El tiempo pasa en %@";
+	"ANY_DAY_OF_THE_WEEK_LOWERCASE" = "cualquier día de la semana";
+	"WEEKDAYS_LOWERCASE" = "entre semana";
+	"WEEKENDS_LOWERCASE" = "fines de semana";
+	
 	"NEW_EVENT_TITLE_libactivator.mail-received" = "Email recibido";
-	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "Recibir mail con criterios especif.";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "Mail recibido con criterio";
 	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "De %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "El remitente es %@";
 	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "\"%@\" en el asunto";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "El asunto contiene \"%@\"";
 	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "De %@, \"%@\" en el asunto";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "El asunto contiene \"%2$@\", el remitente es %1$@";
-	
+
+	"NEW_EVENT_TITLE_libactivator.message-received" = "Mensaje recibido";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received" = "Mensaje recibido con algún criterio";
+	"NEW_EVENT_TITLE_libactivator.message-received_SENDER_FORMAT" = "De %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_SENDER_FORMAT" = "El remitente es %@";
+	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_FORMAT" = "\"%@\" en el mensaje";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_FORMAT" = "El mensaje contiene \"%@\"";
+	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "De %@, \"%@\" en el mensaje";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "El mensaje contiene \"%2$@\", el remitente es %1$@";
+
 	/* Listener Names */
 
+	"LISTENER_DESCRIPTION_switch-flip" = "Activa/Desactiva el interruptor";
+	"LISTENER_DESCRIPTION_switch-off" = "Desactiva el interruptor";
+	"LISTENER_DESCRIPTION_switch-on" = "Activa el interruptor";
         "LISTENER_DESCRIPTION_toggle" = "Activa/Desactiva la función";
 	"LISTENER_DESCRIPTION_toggle_enable" = "Activa la función";
 	"LISTENER_DESCRIPTION_toggle_disable" = "Desactiva la función";
@@ -699,6 +769,8 @@
 	"LISTENER_DESCRIPTION_libactivator.call" = "Llama a";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "Mail a";
 	"LISTENER_DESCRIPTION_libactivator.text" = "Mensaje a";
+	
+	"LISTENER_DESCRIPTION_libactivator.ringtone" = "Reproducir tono";
 	
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
