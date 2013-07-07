@@ -85,6 +85,11 @@
 	"MAIL_SUBJECT" = "Oggetto";
 	"MAIL_ANY_SUBJECT" = "(qualsiasi oggetto)";
 
+	"MESSAGE_SENDER" = "Mittente";
+	"MESSAGE_ANY_SENDER"= "(qualsiasi mittente)";
+	"MESSAGE_MESSAGE" = "Messaggio";
+	"MESSAGE_ANY_MESSAGE" = "(qualsiasi messaggio)";
+
 	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "Mostra avvisi all'esecuzione di un'azione";
 	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "Esecuzione di un'azione";
 	"ACTION_BANNERS" = "Avvisi azione";
@@ -152,6 +157,7 @@
 	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Gesti multi-touch (più dita)";
 	"EVENT_GROUP_TITLE_Application Launched" = "Applicazione avviata";
 	"EVENT_GROUP_TITLE_Received Email" = "Mail ricevuta";
+	"EVENT_GROUP_TITLE_Received Message" = "Messaggio ricevuto";
 	"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
 	"EVENT_GROUP_TITLE_Scheduled" = "Programmazione";
 	"EVENT_GROUP_TITLE_Device" = "Dispositivo";
@@ -510,14 +516,23 @@
 	"WEEKDAYS_LOWERCASE" = "durante la settimana";
 	"WEEKENDS_LOWERCASE" = "il fine settimana";
 
-	"NEW_EVENT_TITLE_libactivator.mail-received" = "Mail ricevute";
-	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "Mail ricevute con criteri specifici";
+	"NEW_EVENT_TITLE_libactivator.mail-received" = "Mail ricevuta";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "Mail ricevuta con criteri specifici";
 	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "Da %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "Il mittente è %@";
-	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "\"%@\" nell'oggetto";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "\"%@\" è nell'oggetto";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "L'oggetto contiene \"%@\"";
-	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "Da %@, \"%@\" nell'oggetto";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "Da %@, \"%@\" è nell'oggetto";
 	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "L'oggetto contiene \"%2$@\", Il mittente è %1$@";
+
+	"NEW_EVENT_TITLE_libactivator.message-received" = "Messaggio ricevuto";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received" = "Messaggio ricevuto con criteri specifici";
+	"NEW_EVENT_TITLE_libactivator.message-received_SENDER_FORMAT" = "Da %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_SENDER_FORMAT" = "Il mittente è %@";
+	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_FORMAT" = "\"%@\" è nel messaggio";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_FORMAT" = "Il messaggio contiene \"%@\"";
+	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "Da %@, \"%@\" è nel messaggio";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "Il messaggio contiene \"%2$@\", Il mittente è %1$@";
 
 	/* Listener Names */
 
