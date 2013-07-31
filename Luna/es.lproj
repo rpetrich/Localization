@@ -1,0 +1,48 @@
+{
+OK = "Ok";
+
+PULL_ENABLE_PREFIX = "Jale para Activar";
+PULL_DISABLE_PREFIX = "Jale para Desactivar";
+RELEASE_ENABLE_PREFIX = "Soltar para Activar";
+RELEASE_DISABLE_PREFIX = "Soltar para Desactivar";
+PULLDOWN_TEXT = " No molestar";
+
+/* Settings Main Pane */
+
+AUTHORS = "por Sentry y Ryan Petrich.";
+AUTHORS_PURCHASED = "por Sentry y Ryan Petrich.\nGracias por su compra.";
+
+LOVE_GAMES = "I'm loving #Luna from @A3tweaks!";
+CANNOT_SEND_TWEET = "No se pudo enviar el tweet";
+CANNOT_SEND_TWEET_DETAILS = "Como usted no tiene ninguna cuenta de Twitterr configurada, usted no puede enviar el tweet de amor";
+
+IN_NOTIFICATION_CENTER = "En Centro de Notificaciones";
+ON_LOCK_SCREEN = "En Pantalla de Bloqueo";
+ACTIVATION_INSTRUCTIONS = "Habilitar No molestar mediante Luna tirando hacia abajo desde la parte superior de la pantalla en el centro de notificaciones o de la pantalla de bloqueo.";
+
+NOCTURNAL_BANNERS = "Banners Nocturnos";
+NOCTURNAL_BANNER_ALERT_TONES = "Tonos de Alerta";
+NOCTURNAL_BANNER_INSTRUCTIONS = "Con No molestar activado, las notificaciones que lleguen mientras este desbloqueado apareceran como Banners Nocturnos en la barra de estado.";
+
+THE_CREATORS = "Los Creadores";
+
+SUPPORT_EMAIL_LINK = "Soporte de A³tweaks";
+LUNA_SUPPORT = "Soporte de Luna";
+CANNOT_SEND_MAIL = "No se pudo enviar el email";
+CANNOT_SEND_MAIL_DETAILS = "Como usted no tiene ninguna cuenta de correo electronico configurada, usted no puede enviar un correo a para soporte";
+
+LOCALIZATION_ABOUT = "Traducido por Jomar Designs";
+
+/* Settings Creators Pane */
+
+CREATORS = "Creadores";
+
+SENTRY = "Sentry";
+SENTRY_HANDLE = "(@Sentry_NC)";
+SENTRY_INFO = "Diseñador de interfaz de usuario \nDiseñador de Luna & Auxo \ Fundador de A Cube";
+RYAN_PETRICH = "Ryan Petrich";
+RYAN_PETRICH_HANDLE = "(@rpetrich)";
+RYAN_PETRICH_INFO = "Ingeniero de software móvil \nDesarrollador de Luna \ Entusiasta del Té";
+FOLLOW_A3TWEAKS = "Sigue a A³tweaks";
+
+}
