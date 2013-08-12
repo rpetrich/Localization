@@ -10,7 +10,7 @@ PULLDOWN_TEXT = " No molestar";
 /* Settings Main Pane */
 
 AUTHORS = "por Sentry y Ryan Petrich.";
-AUTHORS_PURCHASED = "por Sentry y Ryan Petrich.\nGracias por su compra.";
+AUTHORS_PURCHASED = "por Sentry y Ryan Petrich. \nGracias por su compra.";
 
 LOVE_GAMES = "I'm loving #Luna from @A3tweaks!";
 CANNOT_SEND_TWEET = "No se pudo enviar el tweet";
@@ -31,7 +31,7 @@ LUNA_SUPPORT = "Soporte de Luna";
 CANNOT_SEND_MAIL = "No se pudo enviar el email";
 CANNOT_SEND_MAIL_DETAILS = "Como usted no tiene ninguna cuenta de correo electronico configurada, usted no puede enviar un correo a para soporte";
 
-LOCALIZATION_ABOUT = "Traducido por Jomar Designs";
+LOCALIZATION_ABOUT = "Traducido por Jomar Designs \n@JDesigns_PR";
 
 /* Settings Creators Pane */
 
@@ -39,10 +39,10 @@ CREATORS = "Creadores";
 
 SENTRY = "Sentry";
 SENTRY_HANDLE = "(@Sentry_NC)";
-SENTRY_INFO = "Diseñador de interfaz de usuario \nDiseñador de Luna & Auxo \ Fundador de A Cube";
+SENTRY_INFO = "Diseñador interfaz de usuario \nDiseñador de Luna & Auxo \nFundador de A Cube";
 RYAN_PETRICH = "Ryan Petrich";
 RYAN_PETRICH_HANDLE = "(@rpetrich)";
-RYAN_PETRICH_INFO = "Ingeniero de software móvil \nDesarrollador de Luna \ Entusiasta del Té";
+RYAN_PETRICH_INFO = "Ingeniero de software móvil \nDesarrollador de Luna \nEntusiasta del Té";
 FOLLOW_A3TWEAKS = "Sigue a A³tweaks";
 
 }
