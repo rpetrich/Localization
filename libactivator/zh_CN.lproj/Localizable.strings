@@ -102,14 +102,14 @@
 
 	/* Bookmarks */
 
-	BOOKMARKS = "书签";
-	BOOKMARKS_DETAIL = "管理自定义书签动作";
+	"BOOKMARKS" = "书签";
+	"BOOKMARKS_DETAIL" = "管理自定义书签动作";
 
-	ADD_NEW_BOOKMARK = "添加新书签";
-	NEW_BOOKMARK = "新书签";
-	BOOKMARK_TITLE = "书签标题";
-	BOOKMARK_URL = "书签地址";
-	BOOKMARK_DESCRIPTION_FORMAT = "访问 %@";
+	"ADD_NEW_BOOKMARK" = "添加新书签";
+	"NEW_BOOKMARK" = "新书签";
+	"BOOKMARK_TITLE" = "书签标题";
+	"BOOKMARK_URL" = "书签地址";
+	"BOOKMARK_DESCRIPTION_FORMAT" = "访问 %@";
 
 	/* Menus */
 
@@ -167,6 +167,7 @@
 	"EVENT_GROUP_TITLE_Switches" = "开关";
 	"EVENT_GROUP_TITLE_Switches (Activate)" = "开关（启用）";
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "开关（禁用）";
+	"EVENT_GROUP_TITLE_Network Status" = "网络状态";
 
 	/* Events */
 
@@ -509,6 +510,16 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_FORMAT" = "信息内容包含“%@”";
 	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "来自 %@ 且信息包含“%@”";
 	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "发信人是 %1$@ 且信息内容包含“%2$@”";
+
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "加入 Wi-Fi 网络";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "连接到某个 Wi-Fi 网络";
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "加入 %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "加入指定 Wi-Fi 网络";
+	"NETWORK_NAME" = "网络名称";
+	"EVENT_TITLE_libactivator.network.joined-wifi" = "加入 Wi-Fi 网络";
+	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "加入任意 Wi-Fi 网络";
+	"EVENT_TITLE_libactivator.network.left-wifi" = "断开 Wi-Fi 连接";
+	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "断开当前 Wi-Fi 网络连接";
 
 	/* Listener Groups */
 

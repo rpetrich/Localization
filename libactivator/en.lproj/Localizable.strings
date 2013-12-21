@@ -167,6 +167,7 @@
 	"EVENT_GROUP_TITLE_Switches" = "Switches";
 	"EVENT_GROUP_TITLE_Switches (Activate)" = "Switches (Activate)";
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
+	"EVENT_GROUP_TITLE_Network Status" = "Network Status";
 
 	/* Events */
 
@@ -534,6 +535,16 @@
 	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "From %@, \"%@\" in Message";
 	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "Message contains \"%2$@\", sender is %1$@";
 
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "Joined Wi-Fi Network";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Connected to a Wi-Fi network";
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "Joined %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "Connected to specific Wi-Fi network";
+	"NETWORK_NAME" = "Network Name";
+	"EVENT_TITLE_libactivator.network.joined-wifi" = "Joined Wi-Fi";
+	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Connected to any Wi-Fi network";
+	"EVENT_TITLE_libactivator.network.left-wifi" = "Left Wi-Fi";
+	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Disconnected from Wi-Fi network";
+	
 	/* Listener Names */
 
 	"LISTENER_DESCRIPTION_switch-flip" = "Activate/deactivate switch";

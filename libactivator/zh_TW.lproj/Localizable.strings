@@ -167,6 +167,7 @@
 	"EVENT_GROUP_TITLE_Switches" = "開關";
 	"EVENT_GROUP_TITLE_Switches (Activate)" = "開關（啟用）";
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "開關（禁用）";
+	"EVENT_GROUP_TITLE_Network Status" = "網路狀態";
 
 	/* Events */
 
@@ -510,6 +511,16 @@
 	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "來自 %@ 且訊息包括“%@”";
 	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "發件人是 %1$@ 且訊息內容包括“%2$@”";
 
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "加入 Wi-Fi 網路";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "連接到某個 Wi-Fi 網路";
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "加入 %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "加入指定 Wi-Fi 網路";
+	"NETWORK_NAME" = "網路名";
+	"EVENT_TITLE_libactivator.network.joined-wifi" = "加入 Wi-Fi 網路";
+	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "加入任意 Wi-Fi 網路";
+	"EVENT_TITLE_libactivator.network.left-wifi" = "斷開 Wi-Fi 連接";
+	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "斷開當前 Wi-Fi 網路連接";
+	
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系統動作";
