@@ -101,6 +101,8 @@
 "EVENT_DESCRIPTION_libactivator.menu.press.single" = "לחיצה בודדת על כפתור הבית";
 "EVENT_DESCRIPTION_libactivator.menu.press.triple" = "לחיצה על כפתור הבית שלוש פעמים";
 "EVENT_DESCRIPTION_libactivator.motion.shake" = "שקשוק המכשיר חזק!";
+"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "התחברות לרשת אלחוטית כל שהיא";
+"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "התנתקות מהרשת האלחוטית";
 "EVENT_DESCRIPTION_libactivator.power.connected" = "כאשר המכשיר נטען";
 "EVENT_DESCRIPTION_libactivator.power.disconnected" = "כאשר טעינת המכשיר נפסקת";
 "EVENT_DESCRIPTION_libactivator.scheduled" = "בזמן הזה ב%@";
@@ -132,6 +134,7 @@
 "EVENT_DESCRIPTION_libactivator.three- finger.tap" = "הקשה על המסך עם 3 אצבעות";
 "EVENT_DESCRIPTION_libactivator.three-finger.pinch" = "צביטת המסך עם 3 אצבעות";
 "EVENT_DESCRIPTION_libactivator.three-finger.spread" = "פריסה על מסך עם 3 אצבעות";
+"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "הקשה על המסך עם 3 אצבעות";
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "החלקה מתחתית המסך כלפי מעלה";
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "החלקה  מהפינה השמאלית-תחתונה כלפי פנים";
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "החלקה מהפינה הימנית-תחתונה כלפי פנים ";
@@ -155,6 +158,11 @@
 "EVENT_DESCRIPTION_libactivator.volume.up-down" = "לחיצה על הכפתור העליון של הווליום, ואז על הכפתור התחתון";
 "EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "לחיצה והחזקה של הכפתור העליון";
 "EVENT_DESCRIPTION_libactivator.volume.up.press" = "לחיצה על הכפתור העליון של הווליום";
+"EVENT_DESCRIPTION_org.rdharris.appactivate.app1" = "הקשה כפולה על היישום הראשון שנבחר";
+"EVENT_DESCRIPTION_org.rdharris.appactivate.app2" = "הקשה כפולה על היישום השני שנבחר";
+"EVENT_DESCRIPTION_org.rdharris.appactivate.app3" = "הקשה כפולה על היישום השלישי שנבחר";
+"EVENT_DESCRIPTION_org.rdharris.appactivate.app4" = "הקשה כפולה על היישום הרביעי שנבחר";
+"EVENT_DESCRIPTION_org.rdharris.appactivate.app5" = "הקשה כפולה על היישום החמישי שנבחר";
 "EVENT_GROUP_TITLE_Application Launched" = "פתיחת יישומים";
 "EVENT_GROUP_TITLE_Audio" = "נגן";
 "EVENT_GROUP_TITLE_Device" = "מכשיר";
@@ -164,6 +172,7 @@
 "EVENT_GROUP_TITLE_Lock Screen" = "מסך הנעילה";
 "EVENT_GROUP_TITLE_Motion" = "תנועה";
 "EVENT_GROUP_TITLE_Multi-Touch Gesture" = "מחוות מולטי-טאץ'";
+"EVENT_GROUP_TITLE_Network Status" = "מצב רשת";
 "EVENT_GROUP_TITLE_Power" = "חשמל";
 "EVENT_GROUP_TITLE_Received Email" = "מיילים נכנסים";
 "EVENT_GROUP_TITLE_Received Message" = "הודעות נכנסות";
@@ -231,6 +240,8 @@
 "EVENT_TITLE_libactivator.menu.press.single" = "לחיצה אחת";
 "EVENT_TITLE_libactivator.menu.press.triple" = "לחיצה משולשת";
 "EVENT_TITLE_libactivator.motion.shake" = "ניעור המכשיר";
+"EVENT_TITLE_libactivator.network.joined-wifi" = "הצטרפות לרשת אלחוטית";
+"EVENT_TITLE_libactivator.network.left-wifi" = "עזיבת רשת אלחוטית";
 "EVENT_TITLE_libactivator.power.connected" = "מחובר";
 "EVENT_TITLE_libactivator.power.disconnected" = "מנותק";
 "EVENT_TITLE_libactivator.slide- in.bottom" = "מתחתית המסך";
@@ -520,6 +531,7 @@
 "MULTIPLE_ASSIGNMENTS" = "(ערכים מרובים)";
 "N_ACTIONS" = "%d פעולות";
 "N_ADDITIONAL_EVENTS" = "%i פעולות נוספות";
+"NETWORK_NAME" = "שם הרשת";
 "New Event" = "מחווה חדשה";
 "NEW_BOOKMARK" = "סימניה חדשה";
 "NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "אפליקציה ספציפית מופעלת";
@@ -535,6 +547,8 @@
 "NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "כל הודעה מ%1$@ המכילה את המילה \"%2$@\"";
 "NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_FORMAT" = "כל הודעה נכנסת המכילה את המילה \"%@\"";
 "NEW_EVENT_DESCRIPTION_libactivator.message-received_SENDER_FORMAT" = "כל הודעה מאת %@";
+"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "כאשר המכשיר מתחבר לרשת אלחוטית (Wi-Fi)";
+"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "מחובר לרשת אלחוטית ספציפית";
 "NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "שעה ויום מסויים בשבוע עוברים";
 "NEW_EVENT_TITLE_libactivator.application-launch" = "פתיחת אפליקציה";
 "NEW_EVENT_TITLE_libactivator.icon.flick.down" = "החלקת אייקון מטה";
@@ -549,6 +563,8 @@
 "NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "מאת %@, \"%@\" בהודעה";
 "NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_FORMAT" = "\"%@\" בהודעה";
 "NEW_EVENT_TITLE_libactivator.message-received_SENDER_FORMAT" = "מאת %@";
+"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "הצטרפות לרשת אלחוטית";
+"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "מחובר ל-%@";
 "NEW_EVENT_TITLE_libactivator.scheduled" = "תזמון";
 "NEW_MENU" = "תפריט חדש";
 "Normal" = "נורמלי";
@@ -557,7 +573,7 @@
 "Precise" = "מדויק";
 "RESET_ALERT_CANCEL" = "ביטול";
 "RESET_ALERT_CONTINUE" = "איפוס";
-"RESET_ALERT_MESSAGE" = "האם את/ה בטוח/ה שברצונך להמשיך בפעולת האיפוס? פעולה זו, תאפס את כל ההגדרות של Activator למצבן המקורי. בסוף הפעולה, המכשיר יבצע ריספרינג, (הפעלת הספרינגבורד מחדש) בכדי להשלים את פעולת האיפוס, ולרענן את המערכת.";
+"RESET_ALERT_MESSAGE" = "האם את/ה בטוח/ה שברצונך להמשיך בפעולת האיפוס? פעולה זו, תאפס את כל ההגדרות של Activator למצבן המקורי. בסוף הפעולה, המכשיר יבצע ריספרינג, (רענון למערכת ההפעלה) בכדי להשלים את האיפוס";
 "RESET_ALERT_TITLE" = "איפוס הגדרות Activator";
 "RESET_SETTINGS" = "איפוס הגדרות";
 "RESET_SETTINGS_DETAIL" = "איפוס הגדרות Activator למצבן המקורי";
@@ -589,8 +605,3 @@
 "Very Precise" = "מאוד מדויק";
 "WEEKDAYS_LOWERCASE" = "ימי חול";
 "WEEKENDS_LOWERCASE" = "סופי שבוע";
-"EVENT_DESCRIPTION_org.rdharris.appactivate.app1" = "הקשה כפולה על היישום הראשון שנבחר";
-"EVENT_DESCRIPTION_org.rdharris.appactivate.app2" = "הקשה כפולה על היישום השני שנבחר";
-"EVENT_DESCRIPTION_org.rdharris.appactivate.app3" = "הקשה כפולה על היישום השלישי שנבחר";
-"EVENT_DESCRIPTION_org.rdharris.appactivate.app4" = "הקשה כפולה על היישום הרביעי שנבחר";
-"EVENT_DESCRIPTION_org.rdharris.appactivate.app5" = "הקשה כפולה על היישום החמישי שנבחר";
