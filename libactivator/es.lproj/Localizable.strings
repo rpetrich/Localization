@@ -167,6 +167,7 @@
 	"EVENT_GROUP_TITLE_Switches" = "Interruptores";
 	"EVENT_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activate)";
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Deactivate)";
+	"EVENT_GROUP_TITLE_Network Status" = "Estado de la red";
 
 	/* Events */
 	
@@ -533,6 +534,16 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_FORMAT" = "El mensaje contiene \"%@\"";
 	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "De %@, \"%@\" en el mensaje";
 	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "El mensaje contiene \"%2$@\", el remitente es %1$@";
+
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "Unido a red Wi-Fi";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Conectado a una red Wi-Fi";
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "Unido a %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "Conectado a una red Wi-Fi específica";
+	"NETWORK_NAME" = "Nombre de la red";
+	"EVENT_TITLE_libactivator.network.joined-wifi" = "Unido a Wi-Fi";
+	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Conectado a cualquier red Wi-Fi";
+	"EVENT_TITLE_libactivator.network.left-wifi" = "Abandonar Wi-Fi";
+	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Desconectado de una red Wi-Fi";
 
 	/* Listener Names */
 
