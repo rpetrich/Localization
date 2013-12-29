@@ -597,3 +597,13 @@
 "MAIL_SENDER_UNKNOWN" = "Неизвестен";
 "MAIL_ANY_SENDER" = "(отправитель)";
 "MAIL_ANY_SENDER" = "(отправитель)";
+"EVENT_GROUP_TITLE_Network Status" = "Wi-Fi";
+"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "Подключено к сети Wi-Fi";
+"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Устр-во подключено к любой сети Wi-Fi";
+"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "Подкл. к %@";
+"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "Устр-во подключено к указанной сети Wi-Fi";
+"NETWORK_NAME" = "Имя сети Wi-Fi";
+"EVENT_TITLE_libactivator.network.joined-wifi" = "Подключено к сети Wi-Fi";
+"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Устр-во подключено к любой сети Wi-Fi";
+"EVENT_TITLE_libactivator.network.left-wifi" = "Отключено от сети Wi-Fi";
+"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Устр-во отключено от сети Wi-Fi";
