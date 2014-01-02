@@ -584,6 +584,9 @@
 	"LISTENER_TITLE_libactivator.system.voice-control" = "语音控制";
 	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "激活语音控制";
 
+	"LISTENER_TITLE_libactivator.system.activate-control-center" = "激活控制中心";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "激活系统控制中心";
+
 	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "虚拟助手（Siri）";
 	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "激活虚拟助手（Siri）";
 
