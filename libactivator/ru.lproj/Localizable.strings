@@ -607,3 +607,5 @@
 "EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Устр-во подключено к любой сети Wi-Fi";
 "EVENT_TITLE_libactivator.network.left-wifi" = "Отключено от сети Wi-Fi";
 "EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Устр-во отключено от сети Wi-Fi";
+"LISTENER_TITLE_libactivator.system.activate-control-center" = "Показать пункт управления";
+"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Вывести на экран пункт управления";
