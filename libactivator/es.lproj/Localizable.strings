@@ -159,11 +159,11 @@
 	"EVENT_GROUP_TITLE_Received Email" = "Email recibido";
 	"EVENT_GROUP_TITLE_Received Message" = "Mensaje recibido";
 	"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
-	"EVENT_GROUP_TITLE_Scheduled" = "Scheduled";
-	"EVENT_GROUP_TITLE_Device" = "Device";
-	"EVENT_GROUP_TITLE_Slide Along Screen Bottom" = "Slide Along Screen Bottom";
-	"EVENT_GROUP_TITLE_Slide Along Screen Left" = "Slide Along Screen Left";
-	"EVENT_GROUP_TITLE_Slide Along Screen Right" = "Slide Along Screen Right";
+	"EVENT_GROUP_TITLE_Scheduled" = "Programado";
+	"EVENT_GROUP_TITLE_Device" = "Dispositivo";
+	"EVENT_GROUP_TITLE_Slide Along Screen Bottom" = "Deslizar largo pantalla abajo";
+	"EVENT_GROUP_TITLE_Slide Along Screen Left" = "Deslizar largo pantalla izquierda";
+	"EVENT_GROUP_TITLE_Slide Along Screen Right" = "Deslizar largo pantalla derecha";
 	"EVENT_GROUP_TITLE_Switches" = "Interruptores";
 	"EVENT_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activate)";
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Deactivate)";
@@ -584,6 +584,9 @@
 
 	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "Asistente virtual";
 	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Activa el asistente virtual";
+	
+	"LISTENER_TITLE_libactivator.system.activate-control-center" = "Activa el Control Center";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Muestra ajustes del control center";
 
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Multitarea";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Muestra la barra de multitarea";
@@ -744,8 +747,8 @@
 	"LISTENER_TITLE_libactivator.settings.usage" = "Uso";
 	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Abre ajustes en Uso";
 	
-	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Siri";
-	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Abre ajustes en Siri";
+	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Asistente virtual";
+	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Abre ajustes en Asistente virtual";
 	
 	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
 	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Abre ajustes en VPN";
