@@ -168,6 +168,7 @@
 	"EVENT_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activate)";
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Deactivate)";
 	"EVENT_GROUP_TITLE_Network Status" = "Estado de la red";
+	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Lector de huella";
 
 	/* Events */
 	
@@ -440,6 +441,9 @@
 
 	"EVENT_TITLE_libactivator.device.unlocked" = "Desbloqueado";
 	"EVENT_DESCRIPTION_libactivator.device.unlocked" = "Dispositivo desbloqueado por la barra deslizadora";
+	
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single" = "Toque";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single" = "Toca el sensor de huella una vez";
 
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Arrastrar de izquierda a derecha";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Arrastra a lo largo de la pantalla de izq. a der.";
