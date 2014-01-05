@@ -1,1063 +1,1067 @@
 {
-	"LOCALIZATION_ABOUT" = "中文：Merlin (autopear)";
-
-	/* Settings Controller */
-
-	"CANT_DEACTIVATE_REMAINING" = "不能停用保留激活动作";
-	"AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "至少一个激活动作必须分配给\n%@";
-	"ALERT_OK" = "确定";
-	"ALERT_IGNORE" = "忽略";
-	"ALERT_VALUE_AND" = " 和 ";
-	"ALREADY_ASSIGNED_TO" = "已分配给\n%@";
-	"ALERT_CANCEL" = "取消";
-	"ALERT_REASSIGN" = "重新分配";
-	"ACTIVATOR" = "Activator 设置";
-	"CURRENTLY_ASSIGNED_TO" = "当前分配给:";
-	"UNASSIGNED" = "【未分配】";
-	"MORE_ACTIONS" = "更多动作";
-	"MORE_ACTIONS_DETAIL" = "从 Cydia 中获取更多动作";
-	"DONATE" = "捐助";
-	"DONATE_DETAIL" = "通过 PayPal 捐助";
-	"N_ADDITIONAL_EVENTS" = "%i 个额外触发";
-	"RESET_SETTINGS" = "重置";
-	"RESET_SETTINGS_DETAIL" = "重设所有配置为默认";
-	"RESET_ALERT_TITLE" = "重设 Activator 设置";
-	"RESET_ALERT_MESSAGE" = "您确定要将 Activator 的设置还原为默认吗？\n\n如果选择继续，您的设备将会从主屏幕注销。";
-	"RESET_ALERT_CANCEL" = "取消";
-	"RESET_ALERT_CONTINUE" = "重置";
-	"MULTIPLE_ASSIGNMENTS" = "【多个】";
-	"UNKNOWN_ASSIGNMENT" = "【未知】";
-
-	"ENABLED" = "启用";
-	"DISABLED" = "禁用";
-
-	"OUT_OF_DATE_TITLE" = "系统版本过于陈旧";
-	"OUT_OF_DATE_MESSAGE" = "Activator 在新 iOS 系统上工作更好。\n请考虑更新系统。";
-
-	"TOO_NEW_TITLE" = "系统版本太新";
-	"TOO_NEW_MESSAGE" = "Activator 未在该版本的 iOS 上测试过。\n某些功能可能无法正常使用。";
-
-	"VERSION_PROMPT_MORE_INFO" = "更多信息";
-	"VERSION_PROMPT_IGNORE" = "忽略";
-	"VERSION_PROMPT_CONTINUE" = "继续";
-
-	"SHOW_ICON" = "显示图标";
-	"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "在主屏幕显示 Activator 图标";
-
-	"Advertisement" = "广告";
-
-	"SAFE_MODE_TITLE" = "在安全模式下";
-	"SAFE_MODE_MESSAGE" = "您的设备当前运行在安全模式下。Activator 的大部分功能在安全模式下已被禁用。重新载入 SpringBoard 以回到正常模式。";
-	"SAFE_MODE_CANCEL" = "取消";
-	"SAFE_MODE_RESTART" = "重新启动";
-
-	"ACTIVATOR_DISABLED" = "Activator 已禁用";
-	"ACTIVATOR_DISABLED_MESSAGE" = "因 MobileSubstrate 没有正常工作，Activator 大部分功能已被禁用。如果您的设备是处于安全模式下，您可以在屏幕顶端状态栏看到“Exit Safe Mode”（退出安全模式）的字样，您可以点击“Restart”（重新启动）以回到正常模式。";
-
-	"ACTIVATOR_CORRUPT" = "Activator 已损坏";
-	"ACTIVATOR_CORRUPT_MESSAGE" = "可能因为 Activator 程序以及资源文件损坏，Activator 大部分功能已被禁用。请尝试使用 Cydia 重新安装 Activator 以修复损坏文件。";
-	"CORRUPT_CANCEL" = "取消";
-	"CORRUPT_LAUNCH_CYDIA" = "启动 Cydia";
-
-	"BLACKLIST" = "屏蔽列表";
-	"BLACKLIST_DETAIL" = "忽略指定应用程序里的事件";
-
-	"N_ACTIONS" = "展开 %d 个项目";
-
-	"Slide Gestures" = "滑动手势";
-	"Sensitivity" = "灵敏度";
-	"Tight" = "极低";
-	"Very Precise" = "低";
-	"Precise" = "较低";
-	"Normal" = "正常";
-	"Lenient" = "较高";
-	"Very Lenient" = "高";
-	"Loose" = "很高";
-	"Very Loose" = "极高";
-
-	"Custom Events" = "自定义事件";
-	"Build New Events" = "创建自定义事件";
-	"New Event" = "新事件";
-
-	"MAIL_SENDER" = "发件人";
-	"MAIL_SENDER_UNKNOWN" = "未知发件人";
-	"MAIL_ANY_SENDER" = "任意发件人";
-	"MAIL_SUBJECT" = "邮件标题";
-	"MAIL_ANY_SUBJECT" = "任意标题";
-
-	"MESSAGE_SENDER" = "发信人";
-	"MESSAGE_ANY_SENDER"= "任意发信人";
-	"MESSAGE_MESSAGE" = "信息内容";
-	"MESSAGE_ANY_MESSAGE" = "任意内容";
-
-	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "触发动作时显示横幅提示";
-	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "触发动作时显示横幅提示";
-	"ACTION_BANNERS" = "动作横幅";
-	"ACTION_BANNERS_NEVER" = "从不";
-	"ACTION_BANNERS_TOGGLES_AND_SWITCHES" = "仅限开关";
-	"ACTION_BANNERS_ALWAYS" = "总是";
-	"ACTIVATED" = "已触发";
-
-	"SHARE_THE_LOVE" = "我正在我的 %@ 上使用 @ActivatorApp 来添加自定义手势和快捷方式！";
-
-	/* Bookmarks */
-
-	"BOOKMARKS" = "书签";
-	"BOOKMARKS_DETAIL" = "管理自定义书签动作";
-
-	"ADD_NEW_BOOKMARK" = "添加新书签";
-	"NEW_BOOKMARK" = "新书签";
-	"BOOKMARK_TITLE" = "书签标题";
-	"BOOKMARK_URL" = "书签地址";
-	"BOOKMARK_DESCRIPTION_FORMAT" = "访问 %@";
+		"LOCALIZATION_ABOUT" = "中文：Merlin (autopear)";
+
+		/* Settings Controller */
+
+		"CANT_DEACTIVATE_REMAINING" = "不能停用保留激活动作";
+		"AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "至少一个激活动作必须分配给\n%@";
+		"ALERT_OK" = "确定";
+		"ALERT_IGNORE" = "忽略";
+		"ALERT_VALUE_AND" = " 和 ";
+		"ALREADY_ASSIGNED_TO" = "已分配给\n%@";
+		"ALERT_CANCEL" = "取消";
+		"ALERT_REASSIGN" = "重新分配";
+		"ACTIVATOR" = "Activator 设置";
+		"CURRENTLY_ASSIGNED_TO" = "当前分配给:";
+		"UNASSIGNED" = "【未分配】";
+		"MORE_ACTIONS" = "更多动作";
+		"MORE_ACTIONS_DETAIL" = "从 Cydia 中获取更多动作";
+		"DONATE" = "捐助";
+		"DONATE_DETAIL" = "通过 PayPal 捐助";
+		"N_ADDITIONAL_EVENTS" = "%i 个额外触发";
+		"RESET_SETTINGS" = "重置";
+		"RESET_SETTINGS_DETAIL" = "重设所有配置为默认";
+		"RESET_ALERT_TITLE" = "重设 Activator 设置";
+		"RESET_ALERT_MESSAGE" = "您确定要将 Activator 的设置还原为默认吗？\n\n如果选择继续，您的设备将会从主屏幕注销。";
+		"RESET_ALERT_CANCEL" = "取消";
+		"RESET_ALERT_CONTINUE" = "重置";
+		"MULTIPLE_ASSIGNMENTS" = "【多个】";
+		"UNKNOWN_ASSIGNMENT" = "【未知】";
+
+		"ENABLED" = "启用";
+		"DISABLED" = "禁用";
+
+		"OUT_OF_DATE_TITLE" = "系统版本过于陈旧";
+		"OUT_OF_DATE_MESSAGE" = "Activator 在新 iOS 系统上工作更好。\n请考虑更新系统。";
+
+		"TOO_NEW_TITLE" = "系统版本太新";
+		"TOO_NEW_MESSAGE" = "Activator 未在该版本的 iOS 上测试过。\n某些功能可能无法正常使用。";
+
+		"VERSION_PROMPT_MORE_INFO" = "更多信息";
+		"VERSION_PROMPT_IGNORE" = "忽略";
+		"VERSION_PROMPT_CONTINUE" = "继续";
+
+		"SHOW_ICON" = "显示图标";
+		"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "在主屏幕显示 Activator 图标";
+
+		"Advertisement" = "广告";
+
+		"SAFE_MODE_TITLE" = "在安全模式下";
+		"SAFE_MODE_MESSAGE" = "您的设备当前运行在安全模式下。Activator 的大部分功能在安全模式下已被禁用。重新载入 SpringBoard 以回到正常模式。";
+		"SAFE_MODE_CANCEL" = "取消";
+		"SAFE_MODE_RESTART" = "重新启动";
+
+		"ACTIVATOR_DISABLED" = "Activator 已禁用";
+		"ACTIVATOR_DISABLED_MESSAGE" = "因 MobileSubstrate 没有正常工作，Activator 大部分功能已被禁用。如果您的设备是处于安全模式下，您可以在屏幕顶端状态栏看到“Exit Safe Mode”（退出安全模式）的字样，您可以点击“Restart”（重新启动）以回到正常模式。";
+
+		"ACTIVATOR_CORRUPT" = "Activator 已损坏";
+		"ACTIVATOR_CORRUPT_MESSAGE" = "可能因为 Activator 程序以及资源文件损坏，Activator 大部分功能已被禁用。请尝试使用 Cydia 重新安装 Activator 以修复损坏文件。";
+		"CORRUPT_CANCEL" = "取消";
+		"CORRUPT_LAUNCH_CYDIA" = "启动 Cydia";
+
+		"BLACKLIST" = "屏蔽列表";
+		"BLACKLIST_DETAIL" = "忽略指定应用程序里的事件";
+
+		"N_ACTIONS" = "展开 %d 个项目";
+
+		"Slide Gestures" = "滑动手势";
+		"Sensitivity" = "灵敏度";
+		"Tight" = "极低";
+		"Very Precise" = "低";
+		"Precise" = "较低";
+		"Normal" = "正常";
+		"Lenient" = "较高";
+		"Very Lenient" = "高";
+		"Loose" = "很高";
+		"Very Loose" = "极高";
+
+		"Custom Events" = "自定义事件";
+		"Build New Events" = "创建自定义事件";
+		"New Event" = "新事件";
+
+		"MAIL_SENDER" = "发件人";
+		"MAIL_SENDER_UNKNOWN" = "未知发件人";
+		"MAIL_ANY_SENDER" = "任意发件人";
+		"MAIL_SUBJECT" = "邮件标题";
+		"MAIL_ANY_SUBJECT" = "任意标题";
+
+		"MESSAGE_SENDER" = "发信人";
+		"MESSAGE_ANY_SENDER"= "任意发信人";
+		"MESSAGE_MESSAGE" = "信息内容";
+		"MESSAGE_ANY_MESSAGE" = "任意内容";
+
+		"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "触发动作时显示横幅提示";
+		"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "触发动作时显示横幅提示";
+		"ACTION_BANNERS" = "动作横幅";
+		"ACTION_BANNERS_NEVER" = "从不";
+		"ACTION_BANNERS_TOGGLES_AND_SWITCHES" = "仅限开关";
+		"ACTION_BANNERS_ALWAYS" = "总是";
+		"ACTIVATED" = "已触发";
+
+		"SHARE_THE_LOVE" = "我正在我的 %@ 上使用 @ActivatorApp 来添加自定义手势和快捷方式！";
+
+		/* Bookmarks */
+
+		"BOOKMARKS" = "书签";
+		"BOOKMARKS_DETAIL" = "管理自定义书签动作";
+
+		"ADD_NEW_BOOKMARK" = "添加新书签";
+		"NEW_BOOKMARK" = "新书签";
+		"BOOKMARK_TITLE" = "书签标题";
+		"BOOKMARK_URL" = "书签地址";
+		"BOOKMARK_DESCRIPTION_FORMAT" = "访问 %@";
+
+		/* Menus */
+
+		"MENUS" = "菜单";
+		"MENUS_DETAIL" = "管理 Activator 自定义菜单";
 
-	/* Menus */
-
-	"MENUS" = "菜单";
-	"MENUS_DETAIL" = "管理 Activator 自定义菜单";
+		"ADD_NEW_MENU" = "添加菜单";
+		"NEW_MENU" = "新菜单";
+		"MENU_TITLE" = "菜单标题";
+		"ADD" = "添加";
+		"CANCEL" = "取消";
+		"ADD_ACTION" = "添加动作";
+		"ACTION" = "动作";
 
-	"ADD_NEW_MENU" = "添加菜单";
-	"NEW_MENU" = "新菜单";
-	"MENU_TITLE" = "菜单标题";
-	"ADD" = "添加";
-	"CANCEL" = "取消";
-	"ADD_ACTION" = "添加动作";
-	"ACTION" = "动作";
+		/* Modes */
 
-	/* Modes */
+		"MODE_TITLE_all" = "任意位置";
+		"MODE_DESCRIPTION_all" = "所有位置都适用";
 
-	"MODE_TITLE_all" = "任意位置";
-	"MODE_DESCRIPTION_all" = "所有位置都适用";
+		"MODE_TITLE_springboard" = "在主屏幕";
+		"MODE_DESCRIPTION_springboard" = "可以看到主屏幕应用程序图标时";
 
-	"MODE_TITLE_springboard" = "在主屏幕";
-	"MODE_DESCRIPTION_springboard" = "可以看到主屏幕应用程序图标时";
+		"MODE_TITLE_application" = "在程序中";
+		"MODE_DESCRIPTION_application" = "在一个运行中的应用程序里";
 
-	"MODE_TITLE_application" = "在程序中";
-	"MODE_DESCRIPTION_application" = "在一个运行中的应用程序里";
+		"MODE_TITLE_lockscreen" = "在锁屏界面";
+		"MODE_DESCRIPTION_lockscreen" = "处于锁屏界面时";
 
-	"MODE_TITLE_lockscreen" = "在锁屏界面";
-	"MODE_DESCRIPTION_lockscreen" = "处于锁屏界面时";
+		/* Event Groups */
 
-	/* Event Groups */
+		"EVENT_GROUP_TITLE_Slide In Gesture" = "单指滑入手势";
+		"EVENT_GROUP_TITLE_Slide Out Gesture" = "单指滑出手势";
+		"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "双指手势";
+		"EVENT_GROUP_TITLE_Motion" = "动作";
+		"EVENT_GROUP_TITLE_SpringBoard" = "主屏幕";
+		"EVENT_GROUP_TITLE_Status Bar" = "顶部状态栏";
+		"EVENT_GROUP_TITLE_Home Button" = "主屏幕按钮";
+		"EVENT_GROUP_TITLE_Sleep Button" = "电源按钮";
+		"EVENT_GROUP_TITLE_Volume Buttons" = "音量按钮";
+		"EVENT_GROUP_TITLE_Headset" = "有线耳机";
+		"EVENT_GROUP_TITLE_Lock Screen" = "锁定屏幕";
+		"EVENT_GROUP_TITLE_Power" = "电源";
+		"EVENT_GROUP_TITLE_Audio" = "音频";
+		"EVENT_GROUP_TITLE_Settings" = "设置";
+		"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "多点触摸手势";
+		"EVENT_GROUP_TITLE_Application Launched" = "启动应用程序";
+		"EVENT_GROUP_TITLE_Received Email" = "收到邮件";
+		"EVENT_GROUP_TITLE_Received Message" = "收到信息";
+		"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
+		"EVENT_GROUP_TITLE_Scheduled" = "计划事件";
+		"EVENT_GROUP_TITLE_Device" = "设备";
+		"EVENT_GROUP_TITLE_Slide Along Screen Bottom" = "沿屏幕底部拖动";
+		"EVENT_GROUP_TITLE_Slide Along Screen Left" = "沿屏幕左侧拖动";
+		"EVENT_GROUP_TITLE_Slide Along Screen Right" = "沿屏幕右侧拖动";
+		"EVENT_GROUP_TITLE_Switches" = "开关";
+		"EVENT_GROUP_TITLE_Switches (Activate)" = "开关（启用）";
+		"EVENT_GROUP_TITLE_Switches (Deactivate)" = "开关（禁用）";
+		"EVENT_GROUP_TITLE_Network Status" = "网络状态";
+		"EVENT_GROUP_TITLE_Fingerprint Sensor" = "指纹识别传感器";
 
-	"EVENT_GROUP_TITLE_Slide In Gesture" = "单指滑入手势";
-	"EVENT_GROUP_TITLE_Slide Out Gesture" = "单指滑出手势";
-	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "双指手势";
-	"EVENT_GROUP_TITLE_Motion" = "动作";
-	"EVENT_GROUP_TITLE_SpringBoard" = "主屏幕";
-	"EVENT_GROUP_TITLE_Status Bar" = "顶部状态栏";
-	"EVENT_GROUP_TITLE_Home Button" = "主屏幕按钮";
-	"EVENT_GROUP_TITLE_Sleep Button" = "电源按钮";
-	"EVENT_GROUP_TITLE_Volume Buttons" = "音量按钮";
-	"EVENT_GROUP_TITLE_Headset" = "有线耳机";
-	"EVENT_GROUP_TITLE_Lock Screen" = "锁定屏幕";
-	"EVENT_GROUP_TITLE_Power" = "电源";
-	"EVENT_GROUP_TITLE_Audio" = "音频";
-	"EVENT_GROUP_TITLE_Settings" = "设置";
-	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "多点触摸手势";
-	"EVENT_GROUP_TITLE_Application Launched" = "启动应用程序";
-	"EVENT_GROUP_TITLE_Received Email" = "收到邮件";
-	"EVENT_GROUP_TITLE_Received Message" = "收到信息";
-	"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
-	"EVENT_GROUP_TITLE_Scheduled" = "计划事件";
-	"EVENT_GROUP_TITLE_Device" = "设备";
-	"EVENT_GROUP_TITLE_Slide Along Screen Bottom" = "沿屏幕底部拖动";
-	"EVENT_GROUP_TITLE_Slide Along Screen Left" = "沿屏幕左侧拖动";
-	"EVENT_GROUP_TITLE_Slide Along Screen Right" = "沿屏幕右侧拖动";
-	"EVENT_GROUP_TITLE_Switches" = "开关";
-	"EVENT_GROUP_TITLE_Switches (Activate)" = "开关（启用）";
-	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "开关（禁用）";
-	"EVENT_GROUP_TITLE_Network Status" = "网络状态";
+		/* Events */
 
-	/* Events */
+		"EVENT_TITLE_libactivator.lock.hold.short" = "按住";
+		"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "按住电源按钮";
 
-	"EVENT_TITLE_libactivator.lock.hold.short" = "按住";
-	"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "按住电源按钮";
+		"EVENT_TITLE_libactivator.lock.press.double" = "按两下";
+		"EVENT_DESCRIPTION_libactivator.lock.press.double" = "快速按两下电源按钮";
 
-	"EVENT_TITLE_libactivator.lock.press.double" = "按两下";
-	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "快速按两下电源按钮";
+		"EVENT_TITLE_libactivator.lock.press.with-menu" = "与主屏幕按钮一起按";
+		"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "同时按下两个按钮";
 
-	"EVENT_TITLE_libactivator.lock.press.with-menu" = "与主屏幕按钮一起按";
-	"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "同时按下两个按钮";
+		"EVENT_TITLE_libactivator.lock.hold.long" = "长按";
+		"EVENT_DESCRIPTION_libactivator.lock.hold.long" = "长按电源按钮";
 
-	"EVENT_TITLE_libactivator.lock.hold.long" = "长按";
-	"EVENT_DESCRIPTION_libactivator.lock.hold.long" = "长按电源按钮";
+		"EVENT_TITLE_libactivator.menu.hold.short" = "按住";
+		"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "按住主屏幕按钮";
 
-	"EVENT_TITLE_libactivator.menu.hold.short" = "按住";
-	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "按住主屏幕按钮";
+		"EVENT_TITLE_libactivator.menu.hold.long" = "长按";
+		"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "长按主屏幕按钮";
 
-	"EVENT_TITLE_libactivator.menu.hold.long" = "长按";
-	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "长按主屏幕按钮";
+		"EVENT_TITLE_libactivator.menu.press.at-springboard" = "在主屏幕按一下";
+		"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "在主屏幕时按一下主屏幕按钮";
 
-	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "在主屏幕按一下";
-	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "在主屏幕时按一下主屏幕按钮";
+		"EVENT_TITLE_libactivator.menu.press.double" = "按两下";
+		"EVENT_DESCRIPTION_libactivator.menu.press.double" = "快速按两下主屏幕按钮";
 
-	"EVENT_TITLE_libactivator.menu.press.double" = "按两下";
-	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "快速按两下主屏幕按钮";
+		"EVENT_TITLE_libactivator.menu.press.single" = "按一下";
+		"EVENT_DESCRIPTION_libactivator.menu.press.single" = "快速按一下主屏幕按钮";
 
-	"EVENT_TITLE_libactivator.menu.press.single" = "按一下";
-	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "快速按一下主屏幕按钮";
+		"EVENT_TITLE_libactivator.menu.press.triple" = "按三下";
+		"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "快速按三下主屏幕按钮";
 
-	"EVENT_TITLE_libactivator.menu.press.triple" = "按三下";
-	"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "快速按三下主屏幕按钮";
+		"EVENT_TITLE_libactivator.motion.shake" = "晃动设备";
+		"EVENT_DESCRIPTION_libactivator.motion.shake" = "晃一晃，摇一摇！";
 
-	"EVENT_TITLE_libactivator.motion.shake" = "晃动设备";
-	"EVENT_DESCRIPTION_libactivator.motion.shake" = "晃一晃，摇一摇！";
+		"EVENT_TITLE_libactivator.slide-in.bottom" = "从屏幕底部";
+		"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "由屏幕底部向上拖动";
 
-	"EVENT_TITLE_libactivator.slide-in.bottom" = "从屏幕底部";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "由屏幕底部向上拖动";
+		"EVENT_TITLE_libactivator.slide-in.bottom-left" = "从屏幕下左";
+		"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "由屏幕下左向中心拖动";
 
-	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "从屏幕下左";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "由屏幕下左向中心拖动";
+		"EVENT_TITLE_libactivator.slide-in.bottom-right" = "从屏幕下右";
+		"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "由屏幕下右向中心拖动";
 
-	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "从屏幕下右";
-	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "由屏幕下右向中心拖动";
+		"EVENT_TITLE_libactivator.statusbar.swipe.down" = "从屏幕顶部";
+		"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "由屏幕顶部状态栏向下拖动";
 
-	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "从屏幕顶部";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "由屏幕顶部状态栏向下拖动";
+		"EVENT_TITLE_libactivator.slide-in.top-left" = "从屏幕上左";
+		"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "由屏幕上左向中心拖动";
 
-	"EVENT_TITLE_libactivator.slide-in.top-left" = "从屏幕上左";
-	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "由屏幕上左向中心拖动";
+		"EVENT_TITLE_libactivator.slide-in.top-right" = "从屏幕上右";
+		"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "由屏幕上右向中心拖动";
 
-	"EVENT_TITLE_libactivator.slide-in.top-right" = "从屏幕上右";
-	"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "由屏幕上右向中心拖动";
+		"EVENT_TITLE_libactivator.slide-in.left" = "从屏幕左侧";
+		"EVENT_DESCRIPTION_libactivator.slide-in.left" = "由屏幕左侧向右拖动";
 
-	"EVENT_TITLE_libactivator.slide-in.left" = "从屏幕左侧";
-	"EVENT_DESCRIPTION_libactivator.slide-in.left" = "由屏幕左侧向右拖动";
+		"EVENT_TITLE_libactivator.slide-in.left-top" = "从屏幕左上";
+		"EVENT_DESCRIPTION_libactivator.slide-in.left-top" = "由屏幕左上向中心拖动";
 
-	"EVENT_TITLE_libactivator.slide-in.left-top" = "从屏幕左上";
-	"EVENT_DESCRIPTION_libactivator.slide-in.left-top" = "由屏幕左上向中心拖动";
+		"EVENT_TITLE_libactivator.slide-in.left-bottom" = "从屏幕左下";
+		"EVENT_DESCRIPTION_libactivator.slide-in.left-bottom" = "由屏幕左下向中心拖动";
 
-	"EVENT_TITLE_libactivator.slide-in.left-bottom" = "从屏幕左下";
-	"EVENT_DESCRIPTION_libactivator.slide-in.left-bottom" = "由屏幕左下向中心拖动";
+		"EVENT_TITLE_libactivator.slide-in.right" = "从屏幕右侧";
+		"EVENT_DESCRIPTION_libactivator.slide-in.right" = "由屏幕右侧向左拖动";
 
-	"EVENT_TITLE_libactivator.slide-in.right" = "从屏幕右侧";
-	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "由屏幕右侧向左拖动";
+		"EVENT_TITLE_libactivator.slide-in.right-top" = "从屏幕右上";
+		"EVENT_DESCRIPTION_libactivator.slide-in.right-top" = "由屏幕右上向中心拖动";
 
-	"EVENT_TITLE_libactivator.slide-in.right-top" = "从屏幕右上";
-	"EVENT_DESCRIPTION_libactivator.slide-in.right-top" = "由屏幕右上向中心拖动";
+		"EVENT_TITLE_libactivator.slide-in.right-bottom" = "从屏幕右下";
+		"EVENT_DESCRIPTION_libactivator.slide-in.right-bottom" = "由屏幕右下向中心拖动";
 
-	"EVENT_TITLE_libactivator.slide-in.right-bottom" = "从屏幕右下";
-	"EVENT_DESCRIPTION_libactivator.slide-in.right-bottom" = "由屏幕右下向中心拖动";
+		"EVENT_TITLE_libactivator.drag-off.bottom" = "滑出屏幕底部";
+		"EVENT_DESCRIPTION_libactivator.drag-off.bottom" = "滑出屏幕底部";
 
-	"EVENT_TITLE_libactivator.drag-off.bottom" = "滑出屏幕底部";
-	"EVENT_DESCRIPTION_libactivator.drag-off.bottom" = "滑出屏幕底部";
+		"EVENT_TITLE_libactivator.drag-off.left" = "滑出屏幕左侧";
+		"EVENT_DESCRIPTION_libactivator.drag-off.left" = "滑出屏幕左侧";
 
-	"EVENT_TITLE_libactivator.drag-off.left" = "滑出屏幕左侧";
-	"EVENT_DESCRIPTION_libactivator.drag-off.left" = "滑出屏幕左侧";
+		"EVENT_TITLE_libactivator.drag-off.right" = "滑出屏幕右侧";
+		"EVENT_DESCRIPTION_libactivator.drag-off.right" = "滑出屏幕右侧";
 
-	"EVENT_TITLE_libactivator.drag-off.right" = "滑出屏幕右侧";
-	"EVENT_DESCRIPTION_libactivator.drag-off.right" = "滑出屏幕右侧";
+		"EVENT_TITLE_libactivator.drag-off.top" = "滑出屏幕顶部";
+		"EVENT_DESCRIPTION_libactivator.drag-off.top" = "滑出屏幕顶部";
 
-	"EVENT_TITLE_libactivator.drag-off.top" = "滑出屏幕顶部";
-	"EVENT_DESCRIPTION_libactivator.drag-off.top" = "滑出屏幕顶部";
+		"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "从屏幕底部";
+		"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "由屏幕底部向上拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "从屏幕底部";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "由屏幕底部向上拖动";
+		"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "从屏幕下左";
+		"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "由屏幕下左向中心拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "从屏幕下左";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "由屏幕下左向中心拖动";
+		"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "从屏幕下右";
+		"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "由屏幕下右向中心拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "从屏幕下右";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "由屏幕下右向中心拖动";
+		"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "从屏幕顶部";
+		"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "由屏幕顶部状态栏向下拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "从屏幕顶部";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "由屏幕顶部状态栏向下拖动";
+		"EVENT_TITLE_libactivator.two-finger-slide-in.top-left" = "从屏幕上左";
+		"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "由屏幕上左向中心拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.top-left" = "从屏幕上左";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "由屏幕上左向中心拖动";
+		"EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "从屏幕上右";
+		"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "由屏幕上右向中心拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "从屏幕上右";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "由屏幕上右向中心拖动";
+		"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "从屏幕左侧";
+		"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "由屏幕左侧向右拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "从屏幕左侧";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "由屏幕左侧向右拖动";
+		"EVENT_TITLE_libactivator.two-finger-slide-in.left-top" = "从屏幕左上";
+		"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-top" = "由屏幕左上向中心拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.left-top" = "从屏幕左上";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-top" = "由屏幕左上向中心拖动";
+		"EVENT_TITLE_libactivator.two-finger-slide-in.left-bottom" = "从屏幕左下";
+		"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-bottom" = "由屏幕左下向中心拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.left-bottom" = "从屏幕左下";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-bottom" = "由屏幕左下向中心拖动";
+		"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "从屏幕右侧";
+		"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "由屏幕右侧向左拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "从屏幕右侧";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "由屏幕右侧向左拖动";
+		"EVENT_TITLE_libactivator.two-finger-slide-in.right-top" = "从屏幕右上";
+		"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-top" = "由屏幕右上向中心拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.right-top" = "从屏幕右上";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-top" = "由屏幕右上向中心拖动";
+		"EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom" = "从屏幕右下";
+		"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "由屏幕右下向中心拖动";
 
-	"EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom" = "从屏幕右下";
-	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "由屏幕右下向中心拖动";
+		"EVENT_TITLE_libactivator.springboard.pinch" = "合拢双指";
+		"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "在主屏幕合拢两只手指";
 
-	"EVENT_TITLE_libactivator.springboard.pinch" = "合拢双指";
-	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "在主屏幕合拢两只手指";
+		"EVENT_TITLE_libactivator.springboard.spread" = "张开双指";
+		"EVENT_DESCRIPTION_libactivator.springboard.spread" = "在主屏幕张开两只手指";
 
-	"EVENT_TITLE_libactivator.springboard.spread" = "张开双指";
-	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "在主屏幕张开两只手指";
+		"EVENT_TITLE_libactivator.statusbar.hold" = "按住";
+		"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "按住顶部状态栏";
 
-	"EVENT_TITLE_libactivator.statusbar.hold" = "按住";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "按住顶部状态栏";
+		"EVENT_TITLE_libactivator.statusbar.swipe.left" = "向左拖动";
+		"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "在顶部状态栏向左拖动";
 
-	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "向左拖动";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "在顶部状态栏向左拖动";
+		"EVENT_TITLE_libactivator.statusbar.swipe.right" = "向右拖动";
+		"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "在顶部状态栏向右拖动";
 
-	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "向右拖动";
-	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "在顶部状态栏向右拖动";
+		"EVENT_TITLE_libactivator.statusbar.tap.double" = "按两下";
+		"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "按两下顶部状态栏";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.double" = "按两下";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "按两下顶部状态栏";
+		"EVENT_TITLE_libactivator.statusbar.tap.single" = "按一下";
+		"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "按一下顶部状态栏";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.single" = "按一下";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "按一下顶部状态栏";
+		"EVENT_TITLE_libactivator.statusbar.hold.left" = "按住左侧";
+		"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "按住状态栏左侧区域";
 
-	"EVENT_TITLE_libactivator.statusbar.hold.left" = "按住左侧";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "按住状态栏左侧区域";
+		"EVENT_TITLE_libactivator.statusbar.hold.right" = "按住右侧";
+		"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "按住状态栏右侧区域";
 
-	"EVENT_TITLE_libactivator.statusbar.hold.right" = "按住右侧";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "按住状态栏右侧区域";
+		"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "按两下左侧";
+		"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "按两下状态栏左侧区域";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "按两下左侧";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "按两下状态栏左侧区域";
+		"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "按两下右侧";
+		"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "按两下状态栏右侧区域";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "按两下右侧";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "按两下状态栏右侧区域";
+		"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "按一下左侧";
+		"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "按一下状态栏左侧区域";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "按一下左侧";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "按一下状态栏左侧区域";
+		"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "按一下右侧";
+		"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "按一下状态栏右侧区域";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "按一下右侧";
-	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "按一下状态栏右侧区域";
+		"EVENT_TITLE_libactivator.volume.display-tap" = "触摸音量显示窗口";
+		"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "按一下音量按钮后触摸屏幕中音量提示框";
 
-	"EVENT_TITLE_libactivator.volume.display-tap" = "触摸音量显示窗口";
-	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "按一下音量按钮后触摸屏幕中音量提示框";
+		"EVENT_TITLE_libactivator.volume.down-up" = "下键＞上键";
+		"EVENT_DESCRIPTION_libactivator.volume.down-up" = "先按下音量按钮，再按上音量按钮";
 
-	"EVENT_TITLE_libactivator.volume.down-up" = "下键＞上键";
-	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "先按下音量按钮，再按上音量按钮";
+		"EVENT_TITLE_libactivator.volume.up-down" = "上键＞下键";
+		"EVENT_DESCRIPTION_libactivator.volume.up-down" = "先按上音量按钮，再按下音量按钮";
 
-	"EVENT_TITLE_libactivator.volume.up-down" = "上键＞下键";
-	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "先按上音量按钮，再按下音量按钮";
+		"EVENT_TITLE_libactivator.volume.down.press" = "按下下键";
+		"EVENT_DESCRIPTION_libactivator.volume.down.press" = "按一下下音量按钮";
 
-	"EVENT_TITLE_libactivator.volume.down.press" = "按下下键";
-	"EVENT_DESCRIPTION_libactivator.volume.down.press" = "按一下下音量按钮";
+		"EVENT_TITLE_libactivator.volume.up.press" = "按下上键";
+		"EVENT_DESCRIPTION_libactivator.volume.up.press" = "按一下上音量按钮";
 
-	"EVENT_TITLE_libactivator.volume.up.press" = "按下上键";
-	"EVENT_DESCRIPTION_libactivator.volume.up.press" = "按一下上音量按钮";
+		"EVENT_TITLE_libactivator.volume.both.press" = "同时按";
+		"EVENT_DESCRIPTION_libactivator.volume.both.press" = "同时按下两个音量按钮";
 
-	"EVENT_TITLE_libactivator.volume.both.press" = "同时按";
-	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "同时按下两个音量按钮";
+		"EVENT_TITLE_libactivator.volume.down.hold.short" = "按住下键";
+		"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "按住下音量按钮";
 
-	"EVENT_TITLE_libactivator.volume.down.hold.short" = "按住下键";
-	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "按住下音量按钮";
+		"EVENT_TITLE_libactivator.volume.up.hold.short" = "按住上键";
+		"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "按住上音量按钮";
 
-	"EVENT_TITLE_libactivator.volume.up.hold.short" = "按住上键";
-	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "按住上音量按钮";
+		"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "拨动两下响铃/静音开关";
+		"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "拨动一下响铃/静音开关然后还原";
 
-	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "拨动两下响铃/静音开关";
-	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "拨动一下响铃/静音开关然后还原"; 
+		"EVENT_TITLE_libactivator.volume.mute" = "设备静音";
+		"EVENT_DESCRIPTION_libactivator.volume.mute" = "通过响铃/静音开关开启静音";
 
-	"EVENT_TITLE_libactivator.volume.mute" = "设备静音";
-	"EVENT_DESCRIPTION_libactivator.volume.mute" = "通过响铃/静音开关开启静音";
+		"EVENT_TITLE_libactivator.volume.unmute" = "设备取消静音";
+		"EVENT_DESCRIPTION_libactivator.volume.unmute" = "通过响铃/静音开关取消静音";
 
-	"EVENT_TITLE_libactivator.volume.unmute" = "设备取消静音";
-	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "通过响铃/静音开关取消静音";
+		"EVENT_TITLE_libactivator.headset-button.press.single" = "按一下按钮";
+		"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "按一下耳机中央按钮";
 
-	"EVENT_TITLE_libactivator.headset-button.press.single" = "按一下按钮";
-	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "按一下耳机中央按钮";    
+		"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住按钮";
+		"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按住耳机中央按钮";
 
-	"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住按钮";
-	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按住耳机中央按钮";      
+		"EVENT_TITLE_libactivator.headset.connected" = "连接耳机";
+		"EVENT_DESCRIPTION_libactivator.headset.connected" = "设备插上耳机";
 
-	"EVENT_TITLE_libactivator.headset.connected" = "连接耳机";
-	"EVENT_DESCRIPTION_libactivator.headset.connected" = "设备插上耳机";
+		"EVENT_TITLE_libactivator.headset.disconnected" = "断开耳机连接";
+		"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "设备拔下耳机";
 
-	"EVENT_TITLE_libactivator.headset.disconnected" = "断开耳机连接";
-	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "设备拔下耳机";
+		"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "按两下时钟";
+		"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "按两下时钟/日期区域";
 
-	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "按两下时钟";
-	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "按两下时钟/日期区域";
+		"EVENT_TITLE_libactivator.lockscreen.clock.swipe-left" = "向左拖动时钟";
+		"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-left" = "向左拖动时钟/日期区域";
 
-	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-left" = "向左拖动时钟";
-	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-left" = "向左拖动时钟/日期区域";
+		"EVENT_TITLE_libactivator.lockscreen.clock.swipe-right" = "向右拖动时钟";
+		"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right" = "向右拖动时钟/日期区域";
 
-	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-right" = "向右拖动时钟";
-	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right" = "向右拖动时钟/日期区域";
+		"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "按住时钟";
+		"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "按住时钟/日期区域";
 
-	"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "按住时钟";
-	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "按住时钟/日期区域";
+		"EVENT_TITLE_libactivator.power.connected" = "连接电源";
+		"EVENT_DESCRIPTION_libactivator.power.connected" = "正使用外接供电";
 
-	"EVENT_TITLE_libactivator.power.connected" = "连接电源";
-	"EVENT_DESCRIPTION_libactivator.power.connected" = "正使用外接供电";
+		"EVENT_TITLE_libactivator.power.disconnected" = "断开电源";
+		"EVENT_DESCRIPTION_libactivator.power.disconnected" = "已停止外接供电";
 
-	"EVENT_TITLE_libactivator.power.disconnected" = "断开电源";
-	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "已停止外接供电";
+		"EVENT_TITLE_libactivator.five-finger.pinch" = "合拢五指";
+		"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "在屏幕合拢五只手指";
 
-	"EVENT_TITLE_libactivator.five-finger.pinch" = "合拢五指";
-	"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "在屏幕合拢五只手指";
+		"EVENT_TITLE_libactivator.five-finger.spread" = "张开五指";
+		"EVENT_DESCRIPTION_libactivator.five-finger.spread" = "在屏幕张开五只手指";
 
-	"EVENT_TITLE_libactivator.five-finger.spread" = "张开五指";
-	"EVENT_DESCRIPTION_libactivator.five-finger.spread" = "在屏幕张开五只手指";
+		"EVENT_TITLE_libactivator.five-finger.tap" = "五指按一下";
+		"EVENT_DESCRIPTION_libactivator.five-finger.tap" = "在屏幕用五指按一下";
 
-	"EVENT_TITLE_libactivator.five-finger.tap" = "五指按一下";
-	"EVENT_DESCRIPTION_libactivator.five-finger.tap" = "在屏幕用五指按一下";
+		"EVENT_TITLE_libactivator.four-finger.pinch" = "合拢四指";
+		"EVENT_DESCRIPTION_libactivator.four-finger.pinch" = "在屏幕合拢四只手指";
 
-	"EVENT_TITLE_libactivator.four-finger.pinch" = "合拢四指";
-	"EVENT_DESCRIPTION_libactivator.four-finger.pinch" = "在屏幕合拢四只手指";
+		"EVENT_TITLE_libactivator.four-finger.spread" = "张开四指";
+		"EVENT_DESCRIPTION_libactivator.four-finger.spread" = "在屏幕张开四只手指";
 
-	"EVENT_TITLE_libactivator.four-finger.spread" = "张开四指";
-	"EVENT_DESCRIPTION_libactivator.four-finger.spread" = "在屏幕张开四只手指";
+		"EVENT_TITLE_libactivator.four-finger.tap" = "四指按一下";
+		"EVENT_DESCRIPTION_libactivator.four-finger.tap" = "在屏幕用四指按一下";
 
-	"EVENT_TITLE_libactivator.four-finger.tap" = "四指按一下";
-	"EVENT_DESCRIPTION_libactivator.four-finger.tap" = "在屏幕用四指按一下";
+		"EVENT_TITLE_libactivator.three-finger.pinch" = "合拢三指";
+		"EVENT_DESCRIPTION_libactivator.three-finger.pinch" = "在屏幕合拢三只手指";
 
-	"EVENT_TITLE_libactivator.three-finger.pinch" = "合拢三指";
-	"EVENT_DESCRIPTION_libactivator.three-finger.pinch" = "在屏幕合拢三只手指";
+		"EVENT_TITLE_libactivator.three-finger.spread" = "张开三指";
+		"EVENT_DESCRIPTION_libactivator.three-finger.spread" = "在屏幕用三指按一下";
 
-	"EVENT_TITLE_libactivator.three-finger.spread" = "张开三指";
-	"EVENT_DESCRIPTION_libactivator.three-finger.spread" = "在屏幕用三指按一下";
+		"EVENT_TITLE_libactivator.three-finger.tap" = "三指按一下";
+		"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "在屏幕用三指按一下";
 
-	"EVENT_TITLE_libactivator.three-finger.tap" = "三指按一下";
-	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "在屏幕用三指按一下";
+		"EVENT_TITLE_libactivator.icon.flick.down" = "向下拖图标";
+		"EVENT_DESCRIPTION_libactivator.icon.flick.down" = "向下轻拖主屏幕图标";
 
-	"EVENT_TITLE_libactivator.icon.flick.down" = "向下拖图标";
-	"EVENT_DESCRIPTION_libactivator.icon.flick.down" = "向下轻拖主屏幕图标";
+		"EVENT_TITLE_libactivator.icon.flick.left" = "向左拖图标";
+		"EVENT_DESCRIPTION_libactivator.icon.flick.left" = "向左轻拖主屏幕图标";
 
-	"EVENT_TITLE_libactivator.icon.flick.left" = "向左拖图标";
-	"EVENT_DESCRIPTION_libactivator.icon.flick.left" = "向左轻拖主屏幕图标";
+		"EVENT_TITLE_libactivator.icon.flick.right" = "向右拖图标";
+		"EVENT_DESCRIPTION_libactivator.icon.flick.right" = "向右轻拖主屏幕图标";
 
-	"EVENT_TITLE_libactivator.icon.flick.right" = "向右拖图标";
-	"EVENT_DESCRIPTION_libactivator.icon.flick.right" = "向右轻拖主屏幕图标";
+		"EVENT_TITLE_libactivator.icon.flick.up" = "向上拖图标";
+		"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上轻拖主屏幕图标";
 
-	"EVENT_TITLE_libactivator.icon.flick.up" = "向上拖图标";
-	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上轻拖主屏幕图标";
+		"EVENT_TITLE_libactivator.clamshell.close" = "合上保护盖";
+		"EVENT_DESCRIPTION_libactivator.clamshell.close" = "合上屏幕保护盖";
 
-	"EVENT_TITLE_libactivator.clamshell.close" = "合上保护盖";
-	"EVENT_DESCRIPTION_libactivator.clamshell.close" = "合上屏幕保护盖";
+		"EVENT_TITLE_libactivator.clamshell.open" = "开启保护盖";
+		"EVENT_DESCRIPTION_libactivator.clamshell.open" = "开启屏幕保护盖";
 
-	"EVENT_TITLE_libactivator.clamshell.open" = "开启保护盖";
-	"EVENT_DESCRIPTION_libactivator.clamshell.open" = "开启屏幕保护盖";
+		"EVENT_TITLE_libactivator.device.locked" = "锁定";
+		"EVENT_DESCRIPTION_libactivator.device.locked" = "通过电源按钮锁定或自动锁定";
 
-	"EVENT_TITLE_libactivator.device.locked" = "锁定";
-	"EVENT_DESCRIPTION_libactivator.device.locked" = "通过电源按钮锁定或自动锁定";
+		"EVENT_TITLE_libactivator.device.unlocked" = "解除锁定";
+		"EVENT_DESCRIPTION_libactivator.device.unlocked" = "通过“滑动来解锁”以解除设备锁定";
 
-	"EVENT_TITLE_libactivator.device.unlocked" = "解除锁定";
-	"EVENT_DESCRIPTION_libactivator.device.unlocked" = "通过“滑动来解锁”以解除设备锁定";
+		"EVENT_TITLE_libactivator.fingerprint-sensor.press.single" = "按一下";
+		"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single" = "按一下指纹识别传感器";
 
-	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "从左向右拖动";
-	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "在屏幕底部边缘从左向右拖动";
+		"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "从左向右拖动";
+		"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "在屏幕底部边缘从左向右拖动";
 
-	"EVENT_TITLE_libactivator.drag-along.screen-bottom.right-to-left" = "从右向左拖动";
-	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.right-to-left" = "在屏幕底部边缘从右向左拖动";
+		"EVENT_TITLE_libactivator.drag-along.screen-bottom.right-to-left" = "从右向左拖动";
+		"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.right-to-left" = "在屏幕底部边缘从右向左拖动";
 
-	"EVENT_TITLE_libactivator.drag-along.screen-left.bottom-to-top" = "从下向上拖动";
-	"EVENT_DESCRIPTION_libactivator.drag-along.screen-left.bottom-to-top" = "在屏幕左侧边缘从底部向顶部拖动";
+		"EVENT_TITLE_libactivator.drag-along.screen-left.bottom-to-top" = "从下向上拖动";
+		"EVENT_DESCRIPTION_libactivator.drag-along.screen-left.bottom-to-top" = "在屏幕左侧边缘从底部向顶部拖动";
 
-	"EVENT_TITLE_libactivator.drag-along.screen-left.top-to-bottom" = "从上向下拖动";
-	"EVENT_DESCRIPTION_libactivator.drag-along.screen-left.top-to-bottom" = "在屏幕左侧边缘从顶部向底部拖动";
+		"EVENT_TITLE_libactivator.drag-along.screen-left.top-to-bottom" = "从上向下拖动";
+		"EVENT_DESCRIPTION_libactivator.drag-along.screen-left.top-to-bottom" = "在屏幕左侧边缘从顶部向底部拖动";
 
-	"EVENT_TITLE_libactivator.drag-along.screen-right.bottom-to-top" = "从下向上拖动";
-	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.bottom-to-top" = "在屏幕右侧边缘从底部向顶部拖动";
+		"EVENT_TITLE_libactivator.drag-along.screen-right.bottom-to-top" = "从下向上拖动";
+		"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.bottom-to-top" = "在屏幕右侧边缘从底部向顶部拖动";
 
-	"EVENT_TITLE_libactivator.drag-along.screen-right.top-to-bottom" = "从上向下拖动";
-	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.top-to-bottom" = "在屏幕右侧边缘从顶部向底部拖动";
+		"EVENT_TITLE_libactivator.drag-along.screen-right.top-to-bottom" = "从上向下拖动";
+		"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.top-to-bottom" = "在屏幕右侧边缘从顶部向底部拖动";
 
-	/* Custom Events */
+		/* Custom Events */
 
-	"NEW_EVENT_TITLE_libactivator.application-launch" = "启动应用程序";
-	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "启动某个应用程序";
-	"EVENT_TITLE_libactivator.application-launch_FORMAT" = "启动 %@";
-	"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "启动应用程序 %@";
+		"NEW_EVENT_TITLE_libactivator.application-launch" = "启动应用程序";
+		"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "启动某个应用程序";
+		"EVENT_TITLE_libactivator.application-launch_FORMAT" = "启动 %@";
+		"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "启动应用程序 %@";
 
-	"NEW_EVENT_TITLE_libactivator.icon.flick.up" = "向上拖图标";
-	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上轻拖某个应用程序的图标";
-	"EVENT_TITLE_libactivator.icon.flick.up_FORMAT" = "向上拖 %@ 的图标";
-	"EVENT_DESCRIPTION_libactivator.icon.flick.up_FORMAT" = "向上轻拖 %@ 主屏幕图标";
+		"NEW_EVENT_TITLE_libactivator.icon.flick.up" = "向上拖图标";
+		"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up" = "向上轻拖某个应用程序的图标";
+		"EVENT_TITLE_libactivator.icon.flick.up_FORMAT" = "向上拖 %@ 的图标";
+		"EVENT_DESCRIPTION_libactivator.icon.flick.up_FORMAT" = "向上轻拖 %@ 主屏幕图标";
 
-	"NEW_EVENT_TITLE_libactivator.icon.flick.down" = "向下拖图标";
-	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down" = "向下轻拖某个应用程序的图标";
-	"EVENT_TITLE_libactivator.icon.flick.down_FORMAT" = "向下拖 %@ 的图标";
-	"EVENT_DESCRIPTION_libactivator.icon.flick.down_FORMAT" = "向下轻拖 %@ 主屏幕图标";
+		"NEW_EVENT_TITLE_libactivator.icon.flick.down" = "向下拖图标";
+		"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down" = "向下轻拖某个应用程序的图标";
+		"EVENT_TITLE_libactivator.icon.flick.down_FORMAT" = "向下拖 %@ 的图标";
+		"EVENT_DESCRIPTION_libactivator.icon.flick.down_FORMAT" = "向下轻拖 %@ 主屏幕图标";
 
-	"NEW_EVENT_TITLE_libactivator.icon.flick.left" = "向左拖图标";
-	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left" = "向左轻拖某个应用程序的图标";
-	"EVENT_TITLE_libactivator.icon.flick.left_FORMAT" = "向左拖 %@ 的图标";
-	"EVENT_DESCRIPTION_libactivator.icon.flick.left_FORMAT" = "向左轻拖 %@ 主屏幕图标";
+		"NEW_EVENT_TITLE_libactivator.icon.flick.left" = "向左拖图标";
+		"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left" = "向左轻拖某个应用程序的图标";
+		"EVENT_TITLE_libactivator.icon.flick.left_FORMAT" = "向左拖 %@ 的图标";
+		"EVENT_DESCRIPTION_libactivator.icon.flick.left_FORMAT" = "向左轻拖 %@ 主屏幕图标";
 
-	"NEW_EVENT_TITLE_libactivator.icon.flick.right" = "向右拖图标";
-	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "向右轻拖某个应用程序的图标";
-	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ 向右拖图标";
-	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "向右轻拖 %@ 主屏幕图标";
+		"NEW_EVENT_TITLE_libactivator.icon.flick.right" = "向右拖图标";
+		"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "向右轻拖某个应用程序的图标";
+		"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ 向右拖图标";
+		"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "向右轻拖 %@ 主屏幕图标";
 
-	"NEW_EVENT_TITLE_libactivator.scheduled" = "计划事件";
-	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "指定每周的哪几天和时间";
-	"EVENT_DESCRIPTION_libactivator.scheduled" = "%@的该时刻";
-	"ANY_DAY_OF_THE_WEEK_LOWERCASE" = "每天";
-	"WEEKDAYS_LOWERCASE" = "工作日";
-	"WEEKENDS_LOWERCASE" = "周末";
+		"NEW_EVENT_TITLE_libactivator.scheduled" = "计划事件";
+		"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "指定每周的哪几天和时间";
+		"EVENT_DESCRIPTION_libactivator.scheduled" = "%@的该时刻";
+		"ANY_DAY_OF_THE_WEEK_LOWERCASE" = "每天";
+		"WEEKDAYS_LOWERCASE" = "工作日";
+		"WEEKENDS_LOWERCASE" = "周末";
 
-	"NEW_EVENT_TITLE_libactivator.mail-received" = "收到邮件";
-	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "收到符合指定条件的邮件";
-	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "来自 %@";
-	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "发件人是 %@";
-	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "标题包含“%@”";
-	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "邮件标题包含“%@”";
-	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "来自 %@ 且标题包含“%@”";
-	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "发件人是 %1$@ 且邮件标题包含“%2$@”";
+		"NEW_EVENT_TITLE_libactivator.mail-received" = "收到邮件";
+		"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "收到符合指定条件的邮件";
+		"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "来自 %@";
+		"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "发件人是 %@";
+		"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "标题包含“%@”";
+		"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "邮件标题包含“%@”";
+		"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "来自 %@ 且标题包含“%@”";
+		"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "发件人是 %1$@ 且邮件标题包含“%2$@”";
 
-	"NEW_EVENT_TITLE_libactivator.message-received" = "收到信息";
-	"NEW_EVENT_DESCRIPTION_libactivator.message-received" = "收到符合指定条件的信息";
-	"NEW_EVENT_TITLE_libactivator.message-received_SENDER_FORMAT" = "来自 %@";
-	"NEW_EVENT_DESCRIPTION_libactivator.message-received_SENDER_FORMAT" = "发信人是 %@";
-	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_FORMAT" = "信息包含“%@”";
-	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_FORMAT" = "信息内容包含“%@”";
-	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "来自 %@ 且信息包含“%@”";
-	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "发信人是 %1$@ 且信息内容包含“%2$@”";
+		"NEW_EVENT_TITLE_libactivator.message-received" = "收到信息";
+		"NEW_EVENT_DESCRIPTION_libactivator.message-received" = "收到符合指定条件的信息";
+		"NEW_EVENT_TITLE_libactivator.message-received_SENDER_FORMAT" = "来自 %@";
+		"NEW_EVENT_DESCRIPTION_libactivator.message-received_SENDER_FORMAT" = "发信人是 %@";
+		"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_FORMAT" = "信息包含“%@”";
+		"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_FORMAT" = "信息内容包含“%@”";
+		"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "来自 %@ 且信息包含“%@”";
+		"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "发信人是 %1$@ 且信息内容包含“%2$@”";
 
-	"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "加入 Wi-Fi 网络";
-	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "连接到某个 Wi-Fi 网络";
-	"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "加入 %@";
-	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "加入指定 Wi-Fi 网络";
-	"NETWORK_NAME" = "网络名称";
-	"EVENT_TITLE_libactivator.network.joined-wifi" = "加入 Wi-Fi 网络";
-	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "加入任意 Wi-Fi 网络";
-	"EVENT_TITLE_libactivator.network.left-wifi" = "断开 Wi-Fi 连接";
-	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "断开当前 Wi-Fi 网络连接";
+		"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "加入 Wi-Fi 网络";
+		"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "连接到某个 Wi-Fi 网络";
+		"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "加入 %@";
+		"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "加入指定 Wi-Fi 网络";
+		"NETWORK_NAME" = "网络名称";
+		"EVENT_TITLE_libactivator.network.joined-wifi" = "加入 Wi-Fi 网络";
+		"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "加入任意 Wi-Fi 网络";
+		"EVENT_TITLE_libactivator.network.left-wifi" = "断开 Wi-Fi 连接";
+		"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "断开当前 Wi-Fi 网络连接";
 
-	/* Listener Groups */
+		/* Listener Groups */
 
-	"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
-	"LISTENER_GROUP_TITLE_System Applications" = "系统应用程序";
-	"LISTENER_GROUP_TITLE_User Applications" = "用户应用程序";
-	"LISTENER_GROUP_TITLE_iPod" = "iPod";
-	"LISTENER_GROUP_TITLE_Lock Screen" = "锁屏";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 开关";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "SBSettings 开关（开启）";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "SBSettings 开关（关闭）";
-	"LISTENER_GROUP_TITLE_Phone" = "电话";
-	"LISTENER_GROUP_TITLE_Power" = "电源";
-	"LISTENER_GROUP_TITLE_Audio" = "音频";
-	"LISTENER_GROUP_TITLE_Settings" = "设置";
-	"LISTENER_GROUP_TITLE_SuperScroller" = "增强滚屏";
-	"LISTENER_GROUP_TITLE_Web Clips" = "网页剪辑";
-	"LISTENER_GROUP_TITLE_Sharing" = "分享";
-	"LISTENER_GROUP_TITLE_Device UIRotation" = "设备方向";
-	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
-	"LISTENER_GROUP_TITLE_Contacts" = "通讯录";
-	"LISTENER_GROUP_TITLE_Camera" = "相机";
-	"LISTENER_GROUP_TITLE_Ringtones" = "铃声";
-	"LISTENER_GROUP_TITLE_Switches" = "开关";
-	"LISTENER_GROUP_TITLE_Switches (Activate)" = "开关（启用）";
-	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "开关（禁用）";
+		"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
+		"LISTENER_GROUP_TITLE_System Applications" = "系统应用程序";
+		"LISTENER_GROUP_TITLE_User Applications" = "用户应用程序";
+		"LISTENER_GROUP_TITLE_iPod" = "iPod";
+		"LISTENER_GROUP_TITLE_Lock Screen" = "锁定屏幕";
+		"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 开关";
+		"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "SBSettings 开关（开启）";
+		"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "SBSettings 开关（关闭）";
+		"LISTENER_GROUP_TITLE_Phone" = "电话";
+		"LISTENER_GROUP_TITLE_Power" = "电源";
+		"LISTENER_GROUP_TITLE_Audio" = "音频";
+		"LISTENER_GROUP_TITLE_Settings" = "设置";
+		"LISTENER_GROUP_TITLE_SuperScroller" = "增强滚屏";
+		"LISTENER_GROUP_TITLE_Web Clips" = "网页剪辑";
+		"LISTENER_GROUP_TITLE_Sharing" = "分享";
+		"LISTENER_GROUP_TITLE_Device UIRotation" = "设备方向";
+		"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+		"LISTENER_GROUP_TITLE_Contacts" = "通讯录";
+		"LISTENER_GROUP_TITLE_Camera" = "相机";
+		"LISTENER_GROUP_TITLE_Ringtones" = "铃声";
+		"LISTENER_GROUP_TITLE_Switches" = "开关";
+		"LISTENER_GROUP_TITLE_Switches (Activate)" = "开关（启用）";
+		"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "开关（禁用）";
 
-	/* Listener Names */
+		/* Listener Names */
 
-	"LISTENER_DESCRIPTION_switch-flip" = "启用/禁用该开关";
-	"LISTENER_DESCRIPTION_switch-off" = "禁用该开关";
-	"LISTENER_DESCRIPTION_switch-on" = "启用该开关";
-	"LISTENER_DESCRIPTION_toggle" = "打开/关闭该开关";
-	"LISTENER_DESCRIPTION_toggle_enable" = "打开该开关";
-	"LISTENER_DESCRIPTION_toggle_disable" = "关闭该开关";
-	"LISTENER_DESCRIPTION_application" = "启动该应用程序";
+		"LISTENER_DESCRIPTION_switch-flip" = "启用/禁用该开关";
+		"LISTENER_DESCRIPTION_switch-off" = "禁用该开关";
+		"LISTENER_DESCRIPTION_switch-on" = "启用该开关";
+		"LISTENER_DESCRIPTION_toggle" = "打开/关闭该开关";
+		"LISTENER_DESCRIPTION_toggle_enable" = "打开该开关";
+		"LISTENER_DESCRIPTION_toggle_disable" = "关闭该开关";
+		"LISTENER_DESCRIPTION_application" = "启动该应用程序";
 
-	"LISTENER_TITLE_libactivator.system.homebutton" = "主屏幕按钮";
-	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "模拟按一下主屏幕按钮";
+		"LISTENER_TITLE_libactivator.system.homebutton" = "主屏幕按钮";
+		"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "模拟按一下主屏幕按钮";
 
-	"LISTENER_TITLE_libactivator.system.powerdown" = "关机";
-	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "关闭设备电源";
+		"LISTENER_TITLE_libactivator.system.powerdown" = "关机";
+		"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "关闭设备电源";
 
-	"LISTENER_TITLE_libactivator.system.reboot" = "重新启动";
-	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "重新启动设备";
+		"LISTENER_TITLE_libactivator.system.reboot" = "重新启动";
+		"LISTENER_DESCRIPTION_libactivator.system.reboot" = "重新启动设备";
 
-	"LISTENER_TITLE_libactivator.system.respring" = "注销主屏幕";
-	"LISTENER_DESCRIPTION_libactivator.system.respring" = "重新加载主屏幕";
+		"LISTENER_TITLE_libactivator.system.respring" = "注销主屏幕";
+		"LISTENER_DESCRIPTION_libactivator.system.respring" = "重新加载主屏幕";
 
-	"LISTENER_TITLE_libactivator.system.safemode" = "安全模式";
-	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "重新加载主屏幕到安全模式";
+		"LISTENER_TITLE_libactivator.system.safemode" = "安全模式";
+		"LISTENER_DESCRIPTION_libactivator.system.safemode" = "重新加载主屏幕到安全模式";
 
-	"LISTENER_TITLE_libactivator.system.sleepbutton" = "电源按钮";
-	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "模拟按一下电源按钮";
+		"LISTENER_TITLE_libactivator.system.sleepbutton" = "电源按钮";
+		"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "模拟按一下电源按钮";
 
-	"LISTENER_TITLE_libactivator.system.spotlight" = "Spotlight 搜索";
-	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "激活 Spotlight 搜索页面";
+		"LISTENER_TITLE_libactivator.system.spotlight" = "Spotlight 搜索";
+		"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "激活 Spotlight 搜索页面";
 
-	"LISTENER_TITLE_libactivator.system.take-screenshot" = "拍摄屏幕快照";
-	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "保存当前屏幕内容到相机胶卷";
+		"LISTENER_TITLE_libactivator.system.take-screenshot" = "拍摄屏幕快照";
+		"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "保存当前屏幕内容到相机胶卷";
 
-	"LISTENER_TITLE_libactivator.system.voice-control" = "语音控制";
-	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "激活语音控制";
+		"LISTENER_TITLE_libactivator.system.voice-control" = "语音控制";
+		"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "激活语音控制";
 
-	"LISTENER_TITLE_libactivator.system.activate-control-center" = "激活控制中心";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "激活系统控制中心";
+		"LISTENER_TITLE_libactivator.system.activate-control-center" = "激活控制中心";
+		"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "激活系统控制中心";
 
-	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "虚拟助手（Siri）";
-	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "激活虚拟助手（Siri）";
+		"LISTENER_TITLE_libactivator.system.virtual-assistant" = "虚拟助手（Siri）";
+		"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "激活虚拟助手（Siri）";
 
-	"LISTENER_TITLE_libactivator.system.activate-switcher" = "激活多任务栏";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "显示多任务栏（应用程序切换器）";
+		"LISTENER_TITLE_libactivator.system.activate-switcher" = "激活多任务栏";
+		"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "显示多任务栏（应用程序切换器）";
 
-	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "显示正在播放栏";
-	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "显示标准音频/视频控制";
+		"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "显示正在播放栏";
+		"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "显示标准音频/视频控制";
 
-	"LISTENER_TITLE_libactivator.system.nothing" = "无事件";
-	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "停用原始动作";
+		"LISTENER_TITLE_libactivator.system.nothing" = "无事件";
+		"LISTENER_DESCRIPTION_libactivator.system.nothing" = "停用原始动作";
 
-	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "SpringBoard 第一页";
-	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "跳转到第一个图标页面";
+		"LISTENER_TITLE_libactivator.system.first-springboard-page" = "SpringBoard 第一页";
+		"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "跳转到第一个图标页面";
 
-	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "激活通知中心";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "下拉式通知中心";
+		"LISTENER_TITLE_libactivator.system.activate-notification-center" = "激活通知中心";
+		"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "下拉式通知中心";
 
-	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "编写推文";
-	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "启动推文编辑器";
+		"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "编写推文";
+		"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "启动推文编辑器";
 
-	"LISTENER_TITLE_libactivator.facebook.compose-post" = "编写 Facebook 文章";
-	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "启动 Facebook 文章编辑器";
+		"LISTENER_TITLE_libactivator.facebook.compose-post" = "编写 Facebook 文章";
+		"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "启动 Facebook 文章编辑器";
 
-	"LISTENER_TITLE_libactivator.mail.compose-message" = "编写邮件";
-	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "启动邮件编辑器";
+		"LISTENER_TITLE_libactivator.mail.compose-message" = "编写邮件";
+		"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "启动邮件编辑器";
 
-	"LISTENER_TITLE_libactivator.sms.compose-message" = "编写短信";
-	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "启动短信编辑器";
+		"LISTENER_TITLE_libactivator.sms.compose-message" = "编写短信";
+		"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "启动短信编辑器";
 
-	"LISTENER_TITLE_libactivator.weibo.compose-post" = "编写微博";
-	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "启动微博编辑器";
+		"LISTENER_TITLE_libactivator.weibo.compose-post" = "编写微博";
+		"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "启动微博编辑器";
 
-	"LISTENER_TITLE_libactivator.audio.decrease-volume" = "调低音量";
-	"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "调低一格音量";
+		"LISTENER_TITLE_libactivator.audio.decrease-volume" = "调低音量";
+		"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "调低一格音量";
 
-	"LISTENER_TITLE_libactivator.audio.increase-volume" = "调高音量";
-	"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "调高一格音量";
+		"LISTENER_TITLE_libactivator.audio.increase-volume" = "调高音量";
+		"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "调高一格音量";
 
-	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "显示音量栏";
-	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "显示音量滑块";
+		"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "显示音量栏";
+		"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "显示音量滑块";
 
-	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
-	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "显示正在播放弹出窗口";
+		"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
+		"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "显示正在播放弹出窗口";
 
-	"LISTENER_TITLE_libactivator.ipod.next-track" = "下一首";
-	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "跳到下一个曲目";
+		"LISTENER_TITLE_libactivator.ipod.next-track" = "下一首";
+		"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "跳到下一个曲目";
 
-	"LISTENER_TITLE_libactivator.ipod.previous-track" = "上一首";
-	"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "回到上一个曲目";
+		"LISTENER_TITLE_libactivator.ipod.previous-track" = "上一首";
+		"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "回到上一个曲目";
 
-	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "播放/暂停";
-	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "播放或暂停 iPod";
+		"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "播放/暂停";
+		"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "播放或暂停 iPod";
 
-	"LISTENER_TITLE_libactivator.ipod.pause-playback" = "暂停";
-	"LISTENER_DESCRIPTION_libactivator.ipod.pause-playback" = "暂停 iPod 播放";
+		"LISTENER_TITLE_libactivator.ipod.pause-playback" = "暂停";
+		"LISTENER_DESCRIPTION_libactivator.ipod.pause-playback" = "暂停 iPod 播放";
 
-	"LISTENER_TITLE_libactivator.ipod.resume-playback" = "播放";
-	"LISTENER_DESCRIPTION_libactivator.ipod.resume-playback" = "继续 iPod 播放";
+		"LISTENER_TITLE_libactivator.ipod.resume-playback" = "播放";
+		"LISTENER_DESCRIPTION_libactivator.ipod.resume-playback" = "继续 iPod 播放";
 
-	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "解锁屏幕";
-	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "解除屏幕锁定";
+		"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "解锁屏幕";
+		"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "解除屏幕锁定";
 
-	"LISTENER_TITLE_libactivator.lockscreen.show" = "锁定屏幕";
-	"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "显示锁屏界面";
+		"LISTENER_TITLE_libactivator.lockscreen.show" = "锁定屏幕";
+		"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "显示锁屏界面";
 
-	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "锁屏/解锁";
-	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "切换锁定屏幕和主屏幕";
+		"LISTENER_TITLE_libactivator.lockscreen.toggle" = "锁屏/解锁";
+		"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "切换锁定屏幕和主屏幕";
 
-	"LISTENER_TITLE_libactivator.phone.contacts" = "显示通讯录";
-	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "打开电话的通讯录";
+		"LISTENER_TITLE_libactivator.phone.contacts" = "显示通讯录";
+		"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "打开电话的通讯录";
 
-	"LISTENER_TITLE_libactivator.phone.favorites" = "显示个人收藏";
-	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "打开电话的个人搜藏";
+		"LISTENER_TITLE_libactivator.phone.favorites" = "显示个人收藏";
+		"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "打开电话的个人搜藏";
 
-	"LISTENER_TITLE_libactivator.phone.keypad" = "显示拨号键盘";
-	"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "打开电话的拨号键盘";
+		"LISTENER_TITLE_libactivator.phone.keypad" = "显示拨号键盘";
+		"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "打开电话的拨号键盘";
 
-	"LISTENER_TITLE_libactivator.phone.recents" = "显示最近通话";
-	"LISTENER_DESCRIPTION_libactivator.phone.recents" = "打开电话的最近通话";
+		"LISTENER_TITLE_libactivator.phone.recents" = "显示最近通话";
+		"LISTENER_DESCRIPTION_libactivator.phone.recents" = "打开电话的最近通话";
 
-	"LISTENER_TITLE_libactivator.phone.voicemail" = "显示语音留言";
-	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "打开电话的语音留言";
+		"LISTENER_TITLE_libactivator.phone.voicemail" = "显示语音留言";
+		"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "打开电话的语音留言";
 
-	"LISTENER_TITLE_libactivator.camera.invoke-shutter" = "触发快门";
-	"LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "触发相机程序的快门功能";
+		"LISTENER_TITLE_libactivator.camera.invoke-shutter" = "触发快门";
+		"LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "触发相机程序的快门功能";
 
-	"LISTENER_TITLE_com.rpetrich.voicememotoggle" = "语音备忘录";
-	"LISTENER_DESCRIPTION_com.rpetrich.voicememotoggle" = "录制语音备忘录";
+		"LISTENER_TITLE_com.rpetrich.voicememotoggle" = "语音备忘录";
+		"LISTENER_DESCRIPTION_com.rpetrich.voicememotoggle" = "录制语音备忘录";
 
-	"LISTENER_DESCRIPTION_libactivator.call" = "呼叫";
-	"LISTENER_DESCRIPTION_libactivator.mail" = "发邮件给";
-	"LISTENER_DESCRIPTION_libactivator.text" = "发信息给";
+		"LISTENER_DESCRIPTION_libactivator.call" = "呼叫";
+		"LISTENER_DESCRIPTION_libactivator.mail" = "发邮件给";
+		"LISTENER_DESCRIPTION_libactivator.text" = "发信息给";
 
-	"LISTENER_DESCRIPTION_libactivator.ringtone" = "播放该铃声";
+		"LISTENER_DESCRIPTION_libactivator.ringtone" = "播放该铃声";
 
-	/* Third Party Listerners */
+		/* Third Party Listerners */
 
-	"LISTENER_TITLE_ch.ringwald.mouse.middle" = "中键点击";
-	"LISTENER_DESCRIPTION_ch.ringwald.mouse.middle" = "蓝牙鼠标点击中键";
+		"LISTENER_TITLE_ch.ringwald.mouse.middle" = "中键点击";
+		"LISTENER_DESCRIPTION_ch.ringwald.mouse.middle" = "蓝牙鼠标点击中键";
 
-	"LISTENER_TITLE_ch.ringwald.mouse.right" = "右键点击";
-	"LISTENER_DESCRIPTION_ch.ringwald.mouse.right" = "蓝牙鼠标点击右键";
+		"LISTENER_TITLE_ch.ringwald.mouse.right" = "右键点击";
+		"LISTENER_DESCRIPTION_ch.ringwald.mouse.right" = "蓝牙鼠标点击右键";
 
-	"LISTENER_TITLE_ch.ringwald.synergymouse.middle" = "中键点击";
-	"LISTENER_DESCRIPTION_ch.ringwald.synergymouse.middle" = "远端鼠标点击中键";
+		"LISTENER_TITLE_ch.ringwald.synergymouse.middle" = "中键点击";
+		"LISTENER_DESCRIPTION_ch.ringwald.synergymouse.middle" = "远端鼠标点击中键";
 
-	"LISTENER_TITLE_ch.ringwald.synergymouse.right" = "右键点击";
-	"LISTENER_DESCRIPTION_ch.ringwald.synergymouse.right" = "远端鼠标点击右键";
+		"LISTENER_TITLE_ch.ringwald.synergymouse.right" = "右键点击";
+		"LISTENER_DESCRIPTION_ch.ringwald.synergymouse.right" = "远端鼠标点击右键";
 
-	"LISTENER_TITLE_co.cocoanuts.celeste" = "Celeste";
-	"LISTENER_DESCRIPTION_co.cocoanuts.celeste" = "iOS 蓝牙文件传输";
+		"LISTENER_TITLE_co.cocoanuts.celeste" = "Celeste";
+		"LISTENER_DESCRIPTION_co.cocoanuts.celeste" = "iOS 蓝牙文件传输";
 
-	"LISTENER_TITLE_com.aaronash.Multifl0w" = "Multifl0w";
-	"LISTENER_DESCRIPTION_com.aaronash.Multifl0w" = "打开 Multifl0w 多任务管理界面";
+		"LISTENER_TITLE_com.aaronash.Multifl0w" = "Multifl0w";
+		"LISTENER_DESCRIPTION_com.aaronash.Multifl0w" = "打开 Multifl0w 多任务管理界面";
 
-	"LISTENER_TITLE_com.ashman.lockinfo.hide" = "LockInfo - 锁定屏幕";
-	"LISTENER_DESCRIPTION_com.ashman.lockinfo.hide" = "在锁定屏幕显示或隐藏";
+		"LISTENER_TITLE_com.ashman.lockinfo.hide" = "LockInfo - 锁定屏幕";
+		"LISTENER_DESCRIPTION_com.ashman.lockinfo.hide" = "在锁定屏幕显示或隐藏";
 
-	"LISTENER_TITLE_com.ashman.lockinfo.infoshade" = "LockInfo - 信息遮罩";
-	"LISTENER_DESCRIPTION_com.ashman.lockinfo.infoshade" = "显示或隐藏信息遮罩";
+		"LISTENER_TITLE_com.ashman.lockinfo.infoshade" = "LockInfo - 信息遮罩";
+		"LISTENER_DESCRIPTION_com.ashman.lockinfo.infoshade" = "显示或隐藏信息遮罩";
 
-	"LISTENER_TITLE_com.ashman.lockinfo.unlock" = "LockInfo - 解除锁定";
-	"LISTENER_DESCRIPTION_com.ashman.lockinfo.unlock" = "解除锁定设备";
+		"LISTENER_TITLE_com.ashman.lockinfo.unlock" = "LockInfo - 解除锁定";
+		"LISTENER_DESCRIPTION_com.ashman.lockinfo.unlock" = "解除锁定设备";
 
-	"LISTENER_TITLE_com.ashman.memtap" = "内存点击";
-	"LISTENER_DESCRIPTION_com.ashman.memtap" = "点击以释放内存";
+		"LISTENER_TITLE_com.ashman.memtap" = "内存点击";
+		"LISTENER_DESCRIPTION_com.ashman.memtap" = "点击以释放内存";
 
-	"LISTENER_TITLE_com.bigboss.sbsettings" = "SBSettings";
-	"LISTENER_DESCRIPTION_com.bigboss.sbsettings" = "激活 SBSettings 窗口";
+		"LISTENER_TITLE_com.bigboss.sbsettings" = "SBSettings";
+		"LISTENER_DESCRIPTION_com.bigboss.sbsettings" = "激活 SBSettings 窗口";
 
-	"LISTENER_TITLE_com.bigboss.springflash" = "SpringFlash";
-	"LISTENER_DESCRIPTION_com.bigboss.springflash" = "开关 LED 闪光灯";
+		"LISTENER_TITLE_com.bigboss.springflash" = "SpringFlash";
+		"LISTENER_DESCRIPTION_com.bigboss.springflash" = "开关 LED 闪光灯";
 
-	"LISTENER_TITLE_com.booleanmagic.overboard" = "OverBoard";
-	"LISTENER_DESCRIPTION_com.booleanmagic.overboard" = "显示 SpringBoard 概览";
+		"LISTENER_TITLE_com.booleanmagic.overboard" = "OverBoard";
+		"LISTENER_DESCRIPTION_com.booleanmagic.overboard" = "显示 SpringBoard 概览";
 
-	"LISTENER_TITLE_com.collab.proswitcher" = "ProSwitcher";
-	"LISTENER_DESCRIPTION_com.collab.proswitcher" = "支持应用程序预览的任务管理器";
+		"LISTENER_TITLE_com.collab.proswitcher" = "ProSwitcher";
+		"LISTENER_DESCRIPTION_com.collab.proswitcher" = "支持应用程序预览的任务管理器";
 
-	"LISTENER_TITLE_com.dapetcu21.MultiCleaner" = "MultiCleaner 退出";
-	"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner" = "退出前台应用程序";
+		"LISTENER_TITLE_com.dapetcu21.MultiCleaner" = "MultiCleaner 退出";
+		"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner" = "退出前台应用程序";
 
-	"LISTENER_TITLE_com.dapetcu21.MultiCleaner_justMin" = "MultiCleaner 最小化";
-	"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner_justMin" = "最小化当前应用程序";
+		"LISTENER_TITLE_com.dapetcu21.MultiCleaner_justMin" = "MultiCleaner 最小化";
+		"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner_justMin" = "最小化当前应用程序";
 
-	"LISTENER_TITLE_com.dapetcu21.MultiCleaner_lastClosed" = "MultiCleaner 启动最后";
-	"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner_lastClosed" = "启动最后一个应用程序";
+		"LISTENER_TITLE_com.dapetcu21.MultiCleaner_lastClosed" = "MultiCleaner 启动最后";
+		"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner_lastClosed" = "启动最后一个应用程序";
 
-	"LISTENER_TITLE_com.dapetcu21.MultiCleaner_openBar" = "MultiCleaner Toggle Bar";
-	"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner_openBar" = "Toggle the bar";
+		"LISTENER_TITLE_com.dapetcu21.MultiCleaner_openBar" = "MultiCleaner Toggle Bar";
+		"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner_openBar" = "Toggle the bar";
 
-	"LISTENER_TITLE_com.dapetcu21.MultiCleaner_quitAllApps" = "MultiCleaner 全部退出";
-	"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner_quitAllApps" = "退出全部应用程序";
+		"LISTENER_TITLE_com.dapetcu21.MultiCleaner_quitAllApps" = "MultiCleaner 全部退出";
+		"LISTENER_DESCRIPTION_com.dapetcu21.MultiCleaner_quitAllApps" = "退出全部应用程序";
 
-	"LISTENER_TITLE_com.filippobiga.myvolume" = "我的音量";
-	"LISTENER_DESCRIPTION_com.filippobiga.myvolume" = "设定一个自定义音量大小";
+		"LISTENER_TITLE_com.filippobiga.myvolume" = "我的音量";
+		"LISTENER_DESCRIPTION_com.filippobiga.myvolume" = "设定一个自定义音量大小";
 
-	"LISTENER_TITLE_com.filippobiga.screendim" = "ScreenDim";
-	"LISTENER_DESCRIPTION_com.filippobiga.screendim" = "使屏幕变暗";
+		"LISTENER_TITLE_com.filippobiga.screendim" = "ScreenDim";
+		"LISTENER_DESCRIPTION_com.filippobiga.screendim" = "使屏幕变暗";
 
-	"LISTENER_TITLE_com.gojohnnyboi.gpower_pro" = "GPower";
-	"LISTENER_DESCRIPTION_com.gojohnnyboi.gpower_pro" = "激活电量显示";
+		"LISTENER_TITLE_com.gojohnnyboi.gpower_pro" = "GPower";
+		"LISTENER_DESCRIPTION_com.gojohnnyboi.gpower_pro" = "激活电量显示";
 
-	"LISTENER_TITLE_com.infectionfx.hideemall" = "全部隐藏";
-	"LISTENER_DESCRIPTION_com.infectionfx.hideemall" = "全部隐藏！";
+		"LISTENER_TITLE_com.infectionfx.hideemall" = "全部隐藏";
+		"LISTENER_DESCRIPTION_com.infectionfx.hideemall" = "全部隐藏！";
 
-	"LISTENER_TITLE_com.intelliborn.tlert" = "Tlert";
-	"LISTENER_DESCRIPTION_com.intelliborn.tlert" = "Tlert 写新信息";
+		"LISTENER_TITLE_com.intelliborn.tlert" = "Tlert";
+		"LISTENER_DESCRIPTION_com.intelliborn.tlert" = "Tlert 写新信息";
 
-	"LISTENER_TITLE_com.ipa.iWhiteBoard" = "iWhiteBoard";
-	"LISTENER_DESCRIPTION_com.ipa.iWhiteBoard" = "激活 iWhiteBoard 绘画模式";
+		"LISTENER_TITLE_com.ipa.iWhiteBoard" = "iWhiteBoard";
+		"LISTENER_DESCRIPTION_com.ipa.iWhiteBoard" = "激活 iWhiteBoard 绘画模式";
 
-	"LISTENER_TITLE_com.jmeosbn.appquit-current" = "退出当前程序";
-	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-current" = "退出当前运行中的程序";
+		"LISTENER_TITLE_com.jmeosbn.appquit-current" = "退出当前程序";
+		"LISTENER_DESCRIPTION_com.jmeosbn.appquit-current" = "退出当前运行中的程序";
 
-	"LISTENER_TITLE_com.kb1ooo.snappy-camera" = "Snappy（默认为相机）";
-	"LISTENER_DESCRIPTION_com.kb1ooo.snappy-camera" = "在任意应用程序内打开相机拍照";
+		"LISTENER_TITLE_com.kb1ooo.snappy-camera" = "Snappy（默认为相机）";
+		"LISTENER_DESCRIPTION_com.kb1ooo.snappy-camera" = "在任意应用程序内打开相机拍照";
 
-	"LISTENER_TITLE_com.kb1ooo.snappy-video" = "Snappy（默认为视频）";
-	"LISTENER_DESCRIPTION_com.kb1ooo.snappy-video" = "在任意应用程序内打开相机录影";
+		"LISTENER_TITLE_com.kb1ooo.snappy-video" = "Snappy（默认为视频）";
+		"LISTENER_DESCRIPTION_com.kb1ooo.snappy-video" = "在任意应用程序内打开相机录影";
 
-	"LISTENER_TITLE_com.jmeosbn.appquit-all" = "退出全部程序";
-	"LISTENER_DESCRIPTION_com.jmeosbn.appquit-all" = "退出全部运行中的程序";
+		"LISTENER_TITLE_com.jmeosbn.appquit-all" = "退出全部程序";
+		"LISTENER_DESCRIPTION_com.jmeosbn.appquit-all" = "退出全部运行中的程序";
 
-	"LISTENER_TITLE_com.nakedproductions.applocket.activator" = "软件盒子";
-	"LISTENER_DESCRIPTION_com.nakedproductions.applocket.activator" = "开关锁定的应用程序";
+		"LISTENER_TITLE_com.nakedproductions.applocket.activator" = "软件盒子";
+		"LISTENER_DESCRIPTION_com.nakedproductions.applocket.activator" = "开关锁定的应用程序";
 
-	"LISTENER_TITLE_com.openhebrew.sbschedule" = "SBSchedule";
-	"LISTENER_DESCRIPTION_com.openhebrew.sbschedule" = "SBSettings 档案";
+		"LISTENER_TITLE_com.openhebrew.sbschedule" = "SBSchedule";
+		"LISTENER_DESCRIPTION_com.openhebrew.sbschedule" = "SBSettings 档案";
 
-	"LISTENER_TITLE_com.openhebrew.sbschedulelastschedule" = "SBSchedule 最后设置";
-	"LISTENER_DESCRIPTION_com.openhebrew.sbschedulelastschedule" = "显示最后一次设置";
+		"LISTENER_TITLE_com.openhebrew.sbschedulelastschedule" = "SBSchedule 最后设置";
+		"LISTENER_DESCRIPTION_com.openhebrew.sbschedulelastschedule" = "显示最后一次设置";
 
-	"LISTENER_TITLE_com.openhebrew.timekeeper" = "TimeKeeper";
-	"LISTENER_DESCRIPTION_com.openhebrew.timekeeper" = "监控应用程序使用时间";
+		"LISTENER_TITLE_com.openhebrew.timekeeper" = "TimeKeeper";
+		"LISTENER_DESCRIPTION_com.openhebrew.timekeeper" = "监控应用程序使用时间";
 
-	"LISTENER_TITLE_com.phoenix.bluselect" = "BluSelect";
-	"LISTENER_DESCRIPTION_com.phoenix.bluselect" = "选择蓝牙网络";
+		"LISTENER_TITLE_com.phoenix.bluselect" = "BluSelect";
+		"LISTENER_DESCRIPTION_com.phoenix.bluselect" = "选择蓝牙网络";
 
-	"LISTENER_TITLE_com.phoenix.mcpro" = "音乐控制 Pro";
-	"LISTENER_DESCRIPTION_com.phoenix.mcpro" = "任务控制";
+		"LISTENER_TITLE_com.phoenix.mcpro" = "音乐控制 Pro";
+		"LISTENER_DESCRIPTION_com.phoenix.mcpro" = "任务控制";
 
-	"LISTENER_TITLE_com.phoenix.pandoracontrols" = "音乐控制";
-	"LISTENER_DESCRIPTION_com.phoenix.pandoracontrols" = "激活弹窗控制";
+		"LISTENER_TITLE_com.phoenix.pandoracontrols" = "音乐控制";
+		"LISTENER_DESCRIPTION_com.phoenix.pandoracontrols" = "激活弹窗控制";
 
-	"LISTENER_TITLE_com.phoenix.yfiselect" = "YFiSelect";
-	"LISTENER_DESCRIPTION_com.phoenix.yfiselect" = "选择 WiFi 网络";
+		"LISTENER_TITLE_com.phoenix.yfiselect" = "YFiSelect";
+		"LISTENER_DESCRIPTION_com.phoenix.yfiselect" = "选择 WiFi 网络";
 
-	"LISTENER_TITLE_com.stm.mailenhancer" = "邮件增强静音";
-	"LISTENER_DESCRIPTION_com.stm.mailenhancer" = "立即停止声音和语音提示";
+		"LISTENER_TITLE_com.stm.mailenhancer" = "邮件增强静音";
+		"LISTENER_DESCRIPTION_com.stm.mailenhancer" = "立即停止声音和语音提示";
 
-	"LISTENER_TITLE_com.whomer.brightnesslistener.down" = "亮度降低";
-	"LISTENER_DESCRIPTION_com.whomer.brightnesslistener.down" = "屏幕亮度降低 10%";
+		"LISTENER_TITLE_com.whomer.brightnesslistener.down" = "亮度降低";
+		"LISTENER_DESCRIPTION_com.whomer.brightnesslistener.down" = "屏幕亮度降低 10%";
 
-	"LISTENER_TITLE_com.whomer.brightnesslistener.up" = "亮度升高";
-	"LISTENER_DESCRIPTION_com.whomer.brightnesslistener.up" = "屏幕亮度升高 10%";
+		"LISTENER_TITLE_com.whomer.brightnesslistener.up" = "亮度升高";
+		"LISTENER_DESCRIPTION_com.whomer.brightnesslistener.up" = "屏幕亮度升高 10%";
 
-	"LISTENER_TITLE_com.wrightscs.mobilekiosk" = "Mobile Kiosk";
-	"LISTENER_DESCRIPTION_com.wrightscs.mobilekiosk" = "快捷显示系统信息";
+		"LISTENER_TITLE_com.wrightscs.mobilekiosk" = "Mobile Kiosk";
+		"LISTENER_DESCRIPTION_com.wrightscs.mobilekiosk" = "快捷显示系统信息";
 
-	"LISTENER_TITLE_com.wrightscs.mobileprofileswitcher" = "移动档案切换器";
-	"LISTENER_DESCRIPTION_com.wrightscs.mobileprofileswitcher" = "移动档案的档案切换器";
+		"LISTENER_TITLE_com.wrightscs.mobileprofileswitcher" = "移动档案切换器";
+		"LISTENER_DESCRIPTION_com.wrightscs.mobileprofileswitcher" = "移动档案的档案切换器";
 
-	"LISTENER_TITLE_jp.ashikase.backgrounder" = "Backgrounder";
-	"LISTENER_DESCRIPTION_jp.ashikase.backgrounder" = "在后台运行应用程序";
+		"LISTENER_TITLE_jp.ashikase.backgrounder" = "Backgrounder";
+		"LISTENER_DESCRIPTION_jp.ashikase.backgrounder" = "在后台运行应用程序";
 
-	"LISTENER_TITLE_jp.tom-go.iShakeLock" = "iShakeLock";
-	"LISTENER_DESCRIPTION_jp.tom-go.iShakeLock" = "锁定/解锁设备的新方式";
+		"LISTENER_TITLE_jp.tom-go.iShakeLock" = "iShakeLock";
+		"LISTENER_DESCRIPTION_jp.tom-go.iShakeLock" = "锁定/解锁设备的新方式";
 
-	"LISTENER_TITLE_jp.ashikase.lastapp" = "LastApp";
-	"LISTENER_DESCRIPTION_jp.ashikase.lastapp" = "切换到前一个活动的应用程序";
+		"LISTENER_TITLE_jp.ashikase.lastapp" = "LastApp";
+		"LISTENER_DESCRIPTION_jp.ashikase.lastapp" = "切换到前一个活动的应用程序";
 
-	"LISTENER_TITLE_jp.ashikase.kirikae" = "Kirikae";
-	"LISTENER_DESCRIPTION_jp.ashikase.kirikae" = "任务切换及启动工具";
+		"LISTENER_TITLE_jp.ashikase.kirikae" = "Kirikae";
+		"LISTENER_DESCRIPTION_jp.ashikase.kirikae" = "任务切换及启动工具";
 
-	"LISTENER_TITLE_net.epelaez.Notified" = "通知";
-	"LISTENER_DESCRIPTION_net.epelaez.Notified" = "您的通知，任何位置";
+		"LISTENER_TITLE_net.epelaez.Notified" = "通知";
+		"LISTENER_DESCRIPTION_net.epelaez.Notified" = "您的通知，任何位置";
 
-	"LISTENER_TITLE_us.hannahpappah.incarcerapp" = "IncarcerApp";
-	"LISTENER_DESCRIPTION_us.hannahpappah.incarcerapp" = "禁用主屏幕按钮（基于 Backgrounder）";
+		"LISTENER_TITLE_us.hannahpappah.incarcerapp" = "IncarcerApp";
+		"LISTENER_DESCRIPTION_us.hannahpappah.incarcerapp" = "禁用主屏幕按钮（基于 Backgrounder）";
 
-	"LISTENER_TITLE_com.chpwn.appslide" = "AppSlide";
-	"LISTENER_DESCRIPTION_com.chpwn.appslide" = "类似返回按钮，但更好";
+		"LISTENER_TITLE_com.chpwn.appslide" = "AppSlide";
+		"LISTENER_DESCRIPTION_com.chpwn.appslide" = "类似返回按钮，但更好";
 
-	"LISTENER_TITLE_jp.r-plus.autoscroller.autodown" = "自动下滑";
-	"LISTENER_DESCRIPTION_jp.r-plus.autoscroller.autodown" = "自动向下滚动";
+		"LISTENER_TITLE_jp.r-plus.autoscroller.autodown" = "自动下滑";
+		"LISTENER_DESCRIPTION_jp.r-plus.autoscroller.autodown" = "自动向下滚动";
 
-	"LISTENER_TITLE_jp.r-plus.autoscroller.autoup" = "自动上滑";
-	"LISTENER_DESCRIPTION_jp.r-plus.autoscroller.autoup" = "自动向上滚动";
+		"LISTENER_TITLE_jp.r-plus.autoscroller.autoup" = "自动上滑";
+		"LISTENER_DESCRIPTION_jp.r-plus.autoscroller.autoup" = "自动向上滚动";
 
-	"LISTENER_TITLE_com.zimm.circuitous.activator" = "Circuitous";
-	"LISTENER_DESCRIPTION_com.zimm.circuitous.activator" = "显示 Dock";
+		"LISTENER_TITLE_com.zimm.circuitous.activator" = "Circuitous";
+		"LISTENER_DESCRIPTION_com.zimm.circuitous.activator" = "显示 Dock";
 
-	"LISTENER_TITLE_com.zimm.circuitous.cycler.activator" = "Circuitous";
-	"LISTENER_DESCRIPTION_com.zimm.circuitous.cycler.activator" = "应用程序运行顺序";
+		"LISTENER_TITLE_com.zimm.circuitous.cycler.activator" = "Circuitous";
+		"LISTENER_DESCRIPTION_com.zimm.circuitous.cycler.activator" = "应用程序运行顺序";
 
-	"LISTENER_TITLE_com.zimm.circuitous.random.activator" = "Circuitous";
-	"LISTENER_DESCRIPTION_com.zimm.circuitous.random.activator" = "应用程序随机运行顺序";
+		"LISTENER_TITLE_com.zimm.circuitous.random.activator" = "Circuitous";
+		"LISTENER_DESCRIPTION_com.zimm.circuitous.random.activator" = "应用程序随机运行顺序";
 
-	"LISTENER_TITLE_com.zimm.circuitous.reverse.activator" = "Circuitous";
-	"LISTENER_DESCRIPTION_com.zimm.circuitous.reverse.activator" = "应用程序逆向运行顺序";
+		"LISTENER_TITLE_com.zimm.circuitous.reverse.activator" = "Circuitous";
+		"LISTENER_DESCRIPTION_com.zimm.circuitous.reverse.activator" = "应用程序逆向运行顺序";
 
-	"LISTENER_TITLE_irealsms3.Menu" = "iRealSMS 3.0 菜单";
-	"LISTENER_DESCRIPTION_irealsms3.Menu" = "主屏幕按钮菜单";
+		"LISTENER_TITLE_irealsms3.Menu" = "iRealSMS 3.0 菜单";
+		"LISTENER_DESCRIPTION_irealsms3.Menu" = "主屏幕按钮菜单";
 
-	"LISTENER_TITLE_irealsms3.QuickQueue" = "收到短信的快速队列";
-	"LISTENER_DESCRIPTION_irealsms3.QuickQueue" = "iRealSMS 3.0 快速队列";
+		"LISTENER_TITLE_irealsms3.QuickQueue" = "收到短信的快速队列";
+		"LISTENER_DESCRIPTION_irealsms3.QuickQueue" = "iRealSMS 3.0 快速队列";
 
-	"LISTENER_TITLE_irealsms3.QuickSend" = "编写短信的快速发送";
-	"LISTENER_DESCRIPTION_irealsms3.QuickSend" = "iRealSMS 3.0 快速发送";
+		"LISTENER_TITLE_irealsms3.QuickSend" = "编写短信的快速发送";
+		"LISTENER_DESCRIPTION_irealsms3.QuickSend" = "iRealSMS 3.0 快速发送";
 
-	"LISTENER_TITLE_irealsms3.unhidealerts" = "显示/隐藏快速回复";
-	"LISTENER_DESCRIPTION_irealsms3.unhidealerts" = "iRealSMS 3.0 显示/隐藏";
+		"LISTENER_TITLE_irealsms3.unhidealerts" = "显示/隐藏快速回复";
+		"LISTENER_DESCRIPTION_irealsms3.unhidealerts" = "iRealSMS 3.0 显示/隐藏";
 
-	"LISTENER_TITLE_com.pedrofranceschi.physcroll" = "激活物理滚屏";
-	"LISTENER_DESCRIPTION_com.pedrofranceschi.physcroll" = "激活物理滚屏以使用加速计和/或音量按钮来滚动屏幕";
+		"LISTENER_TITLE_com.pedrofranceschi.physcroll" = "激活物理滚屏";
+		"LISTENER_DESCRIPTION_com.pedrofranceschi.physcroll" = "激活物理滚屏以使用加速计和/或音量按钮来滚动屏幕";
 
-	"LISTENER_TITLE_com.mathieubolard.killbackground" = "KillBackground";
-	"LISTENER_DESCRIPTION_com.mathieubolard.killbackground" = "退出全部后台运行的应用程序";
+		"LISTENER_TITLE_com.mathieubolard.killbackground" = "KillBackground";
+		"LISTENER_DESCRIPTION_com.mathieubolard.killbackground" = "退出全部后台运行的应用程序";
 
-	"LISTENER_TITLE_com.intelliborn.messagesplus" = "Messages+";
-	"LISTENER_DESCRIPTION_com.intelliborn.messagesplus" = "Messages+ 编写新信息";
+		"LISTENER_TITLE_com.intelliborn.messagesplus" = "Messages+";
+		"LISTENER_DESCRIPTION_com.intelliborn.messagesplus" = "Messages+ 编写新信息";
 
-	"LISTENER_TITLE_com.kb1ooo.snappy5-camera" = "Snappy 相机";
-	"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-camera" = "任意程序中均可使用相机拍照";
+		"LISTENER_TITLE_com.kb1ooo.snappy5-camera" = "Snappy 相机";
+		"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-camera" = "任意程序中均可使用相机拍照";
 
-	"LISTENER_TITLE_com.kb1ooo.snappy5-recordOnLaunch" = "Snappy 启动时录制视频";
-	"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-recordOnLaunch" = "启动摄像并立即开始录制";
+		"LISTENER_TITLE_com.kb1ooo.snappy5-recordOnLaunch" = "Snappy 启动时录制视频";
+		"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-recordOnLaunch" = "启动摄像并立即开始录制";
 
-	"LISTENER_TITLE_com.kb1ooo.snappy5-snapOnLaunch" = "Snappy 启动时拍照";
-	"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-snapOnLaunch" = "启动相机并立即拍照";
+		"LISTENER_TITLE_com.kb1ooo.snappy5-snapOnLaunch" = "Snappy 启动时拍照";
+		"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-snapOnLaunch" = "启动相机并立即拍照";
 
-	"LISTENER_TITLE_com.kb1ooo.snappy5-video" = "Snappy 摄像";
-	"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-video" = "任意程序中均可使用相机摄像";
+		"LISTENER_TITLE_com.kb1ooo.snappy5-video" = "Snappy 摄像";
+		"LISTENER_DESCRIPTION_com.kb1ooo.snappy5-video" = "任意程序中均可使用相机摄像";
 
-	"LISTENER_TITLE_com.app1enerd.secustomtext" = "滑块增强";
-	"LISTENER_DESCRIPTION_com.app1enerd.secustomtext" = "设置自定义滑块文字";
+		"LISTENER_TITLE_com.app1enerd.secustomtext" = "滑块增强";
+		"LISTENER_DESCRIPTION_com.app1enerd.secustomtext" = "设置自定义滑块文字";
 
-	"LISTENER_TITLE_com.ichitaso.uirotation.down" = "倒转";
-	"LISTENER_DESCRIPTION_com.ichitaso.uirotation.down" = "上下颠倒";
+		"LISTENER_TITLE_com.ichitaso.uirotation.down" = "倒转";
+		"LISTENER_DESCRIPTION_com.ichitaso.uirotation.down" = "上下颠倒";
 
-	"LISTENER_TITLE_com.ichitaso.uirotation.left" = "横屏向左";
-	"LISTENER_DESCRIPTION_com.ichitaso.uirotation.left" = "向左旋转";
+		"LISTENER_TITLE_com.ichitaso.uirotation.left" = "横屏向左";
+		"LISTENER_DESCRIPTION_com.ichitaso.uirotation.left" = "向左旋转";
 
-	"LISTENER_TITLE_com.ichitaso.uirotation.right" = "横屏向右";
-	"LISTENER_DESCRIPTION_com.ichitaso.uirotation.right" = "向右旋转";
+		"LISTENER_TITLE_com.ichitaso.uirotation.right" = "横屏向右";
+		"LISTENER_DESCRIPTION_com.ichitaso.uirotation.right" = "向右旋转";
 
-	"LISTENER_TITLE_com.ichitaso.uirotation.up" = "正常";
-	"LISTENER_DESCRIPTION_com.ichitaso.uirotation.up" = "竖直方向";
+		"LISTENER_TITLE_com.ichitaso.uirotation.up" = "正常";
+		"LISTENER_DESCRIPTION_com.ichitaso.uirotation.up" = "竖直方向";
 
-	"LISTENER_TITLE_a3tweaks.auxo.showmedia" = "显示多媒体控制";
-	"LISTENER_DESCRIPTION_a3tweaks.auxo.showmedia" = "显示 Auxo 的多媒体控制";
+		"LISTENER_TITLE_a3tweaks.auxo.showmedia" = "显示多媒体控制";
+		"LISTENER_DESCRIPTION_a3tweaks.auxo.showmedia" = "显示 Auxo 的多媒体控制";
 
-	"LISTENER_TITLE_a3tweaks.auxo.showtoggles" = "显示开关";
-	"LISTENER_DESCRIPTION_a3tweaks.auxo.showtoggles" = "显示 Auxo 的开关";
+		"LISTENER_TITLE_a3tweaks.auxo.showtoggles" = "显示开关";
+		"LISTENER_DESCRIPTION_a3tweaks.auxo.showtoggles" = "显示 Auxo 的开关";
 
-	"LISTENER_TITLE_com.rpetrich.activoice.apps" = "谷歌应用";
-	"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "访问谷歌应用程序列表";
+		"LISTENER_TITLE_com.rpetrich.activoice.apps" = "谷歌应用";
+		"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "访问谷歌应用程序列表";
 
-	"LISTENER_TITLE_com.rpetrich.activoice.goggles" = "Goggles";
-	"LISTENER_DESCRIPTION_com.rpetrich.activoice.goggles" = "访问谷歌 Goggles 功能";
+		"LISTENER_TITLE_com.rpetrich.activoice.goggles" = "Goggles";
+		"LISTENER_DESCRIPTION_com.rpetrich.activoice.goggles" = "访问谷歌 Goggles 功能";
 
-	"LISTENER_TITLE_com.rpetrich.activoice.search" = "文字搜索";
-	"LISTENER_DESCRIPTION_com.rpetrich.activoice.search" = "访问谷歌文字搜索";
+		"LISTENER_TITLE_com.rpetrich.activoice.search" = "文字搜索";
+		"LISTENER_DESCRIPTION_com.rpetrich.activoice.search" = "访问谷歌文字搜索";
 
-	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "语音搜索";
-	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "访问谷歌语音搜索";
+		"LISTENER_TITLE_com.rpetrich.activoice.voice" = "语音搜索";
+		"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "访问谷歌语音搜索";
 
-	"LISTENER_TITLE_libactivator.settings.about" = "关于本机";
-	"LISTENER_DESCRIPTION_libactivator.settings.about" = "打开设置的关于本机页面";
+		"LISTENER_TITLE_libactivator.settings.about" = "关于本机";
+		"LISTENER_DESCRIPTION_libactivator.settings.about" = "打开设置的关于本机页面";
 
-	"LISTENER_TITLE_libactivator.settings.accessibility" = "辅助功能";
-	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "打开设置的辅助功能页面";
+		"LISTENER_TITLE_libactivator.settings.accessibility" = "辅助功能";
+		"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "打开设置的辅助功能页面";
 
-	"LISTENER_TITLE_libactivator.settings.auto-lock" = "自动锁定";
-	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "打开设置的自动锁定页面";
+		"LISTENER_TITLE_libactivator.settings.auto-lock" = "自动锁定";
+		"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "打开设置的自动锁定页面";
 
-	"LISTENER_TITLE_libactivator.settings.bluetooth" = "蓝牙";
-	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "打开设置的蓝牙页面";
+		"LISTENER_TITLE_libactivator.settings.bluetooth" = "蓝牙";
+		"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "打开设置的蓝牙页面";
 
-	"LISTENER_TITLE_libactivator.settings.brightness" = "亮度";
-	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "打开设置的亮度页面";
+		"LISTENER_TITLE_libactivator.settings.brightness" = "亮度";
+		"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "打开设置的亮度页面";
 
-	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "亮度与墙纸";
-	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "打开设置的亮度与墙纸页面";
+		"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "亮度与墙纸";
+		"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "打开设置的亮度与墙纸页面";
 
-	"LISTENER_TITLE_libactivator.settings.cellular" = "蜂窝移动网络";
-	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "打开设置的蜂窝移动网络页面";
+		"LISTENER_TITLE_libactivator.settings.cellular" = "蜂窝移动网络";
+		"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "打开设置的蜂窝移动网络页面";
 
-	"LISTENER_TITLE_libactivator.settings.date-time" = "日期与时间";
-	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "打开设置的日期与时间页面";
+		"LISTENER_TITLE_libactivator.settings.date-time" = "日期与时间";
+		"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "打开设置的日期与时间页面";
 
-	"LISTENER_TITLE_libactivator.settings.equalizer" = "均衡器";
-	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "打开设置的均衡器页面";
+		"LISTENER_TITLE_libactivator.settings.equalizer" = "均衡器";
+		"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "打开设置的均衡器页面";
 
-	"LISTENER_TITLE_libactivator.settings.facetime" = "FaceTime";
-	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "打开设置的 FaceTime 页面";
+		"LISTENER_TITLE_libactivator.settings.facetime" = "FaceTime";
+		"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "打开设置的 FaceTime 页面";
 
-	"LISTENER_TITLE_libactivator.settings.general" = "通用";
-	"LISTENER_DESCRIPTION_libactivator.settings.general" = "打开设置的通用页面";
+		"LISTENER_TITLE_libactivator.settings.general" = "通用";
+		"LISTENER_DESCRIPTION_libactivator.settings.general" = "打开设置的通用页面";
 
-	"LISTENER_TITLE_libactivator.settings.icloud" = "iCloud";
-	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "打开设置的 iCloud 页面";
+		"LISTENER_TITLE_libactivator.settings.icloud" = "iCloud";
+		"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "打开设置的 iCloud 页面";
 
-	"LISTENER_TITLE_libactivator.settings.international" = "多语言环境";
-	"LISTENER_DESCRIPTION_libactivator.settings.international" = "打开设置的多语言环境页面";
+		"LISTENER_TITLE_libactivator.settings.international" = "多语言环境";
+		"LISTENER_DESCRIPTION_libactivator.settings.international" = "打开设置的多语言环境页面";
 
-	"LISTENER_TITLE_libactivator.settings.keyboard" = "键盘";
-	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "打开设置的键盘页面";
+		"LISTENER_TITLE_libactivator.settings.keyboard" = "键盘";
+		"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "打开设置的键盘页面";
 
-	"LISTENER_TITLE_libactivator.settings.location-services" = "定位服务";
-	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "打开设置的定位服务页面";
+		"LISTENER_TITLE_libactivator.settings.location-services" = "定位服务";
+		"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "打开设置的定位服务页面";
 
-	"LISTENER_TITLE_libactivator.settings.music" = "音乐";
-	"LISTENER_DESCRIPTION_libactivator.settings.music" = "打开设置的音乐页面";
+		"LISTENER_TITLE_libactivator.settings.music" = "音乐";
+		"LISTENER_DESCRIPTION_libactivator.settings.music" = "打开设置的音乐页面";
 
-	"LISTENER_TITLE_libactivator.settings.network" = "网络";
-	"LISTENER_DESCRIPTION_libactivator.settings.network" = "打开设置的网络页面";
+		"LISTENER_TITLE_libactivator.settings.network" = "网络";
+		"LISTENER_DESCRIPTION_libactivator.settings.network" = "打开设置的网络页面";
 
-	"LISTENER_TITLE_libactivator.settings.notes" = "备忘录";
-	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "打开设置的备忘录页面";
+		"LISTENER_TITLE_libactivator.settings.notes" = "备忘录";
+		"LISTENER_DESCRIPTION_libactivator.settings.notes" = "打开设置的备忘录页面";
 
-	"LISTENER_TITLE_libactivator.settings.notifications" = "通知";
-	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "打开设置的通知页面";
+		"LISTENER_TITLE_libactivator.settings.notifications" = "通知";
+		"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "打开设置的通知页面";
 
-	"LISTENER_TITLE_libactivator.settings.phone" = "电话";
-	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "打开设置的电话页面";
+		"LISTENER_TITLE_libactivator.settings.phone" = "电话";
+		"LISTENER_DESCRIPTION_libactivator.settings.phone" = "打开设置的电话页面";
 
-	"LISTENER_TITLE_libactivator.settings.photos" = "照片";
-	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "打开设置的照片页面";
+		"LISTENER_TITLE_libactivator.settings.photos" = "照片";
+		"LISTENER_DESCRIPTION_libactivator.settings.photos" = "打开设置的照片页面";
 
-	"LISTENER_TITLE_libactivator.settings.safari" = "Safari";
-	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "打开设置的 Safari 页面";
+		"LISTENER_TITLE_libactivator.settings.safari" = "Safari";
+		"LISTENER_DESCRIPTION_libactivator.settings.safari" = "打开设置的 Safari 页面";
 
-	"LISTENER_TITLE_libactivator.settings.sounds" = "声音";
-	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "打开设置的声音页面";
+		"LISTENER_TITLE_libactivator.settings.sounds" = "声音";
+		"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "打开设置的声音页面";
 
-	"LISTENER_TITLE_libactivator.settings.store" = "iTunes Store 和 App Store";
-	"LISTENER_DESCRIPTION_libactivator.settings.store" = "打开设置的 iTunes Store 和 App Store 页面";
+		"LISTENER_TITLE_libactivator.settings.store" = "iTunes Store 和 App Store";
+		"LISTENER_DESCRIPTION_libactivator.settings.store" = "打开设置的 iTunes Store 和 App Store 页面";
 
-	"LISTENER_TITLE_libactivator.settings.twitter" = "Twitter";
-	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "打开设置的 Twitter 页面";
+		"LISTENER_TITLE_libactivator.settings.twitter" = "Twitter";
+		"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "打开设置的 Twitter 页面";
 
-	"LISTENER_TITLE_libactivator.settings.facebook" = "Facebook";
-	"LISTENER_DESCRIPTION_libactivator.settings.facebook" = "打开设置的 Facebook 页面";
+		"LISTENER_TITLE_libactivator.settings.facebook" = "Facebook";
+		"LISTENER_DESCRIPTION_libactivator.settings.facebook" = "打开设置的 Facebook 页面";
 
-	"LISTENER_TITLE_libactivator.settings.weibo" = "新浪微博";
-	"LISTENER_DESCRIPTION_libactivator.settings.weibo" = "打开设置的新浪微博页面";
+		"LISTENER_TITLE_libactivator.settings.weibo" = "新浪微博";
+		"LISTENER_DESCRIPTION_libactivator.settings.weibo" = "打开设置的新浪微博页面";
 
-	"LISTENER_TITLE_libactivator.settings.usage" = "用量";
-	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "打开设置的用量页面";
+		"LISTENER_TITLE_libactivator.settings.usage" = "用量";
+		"LISTENER_DESCRIPTION_libactivator.settings.usage" = "打开设置的用量页面";
 
-	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "虚拟助手（Siri）";
-	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "打开设置的虚拟助手（Siri）页面";
+		"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "虚拟助手（Siri）";
+		"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "打开设置的虚拟助手（Siri）页面";
 
-	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
-	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "打开设置的 VPN 页面";
+		"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
+		"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "打开设置的 VPN 页面";
 
-	"LISTENER_TITLE_libactivator.settings.wallpaper" = "墙纸";
-	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "打开设置的墙纸页面";
+		"LISTENER_TITLE_libactivator.settings.wallpaper" = "墙纸";
+		"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "打开设置的墙纸页面";
 
-	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
-	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "打开设置的 Wi-Fi 页面";
+		"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
+		"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "打开设置的 Wi-Fi 页面";
 
-	"LISTENER_TITLE_libactivator.keyboard.dictation" = "听写";
-	"LISTENER_DESCRIPTION_libactivator.keyboard.dictation" = "在当前活动的文本区域听写输入";
+		"LISTENER_TITLE_libactivator.keyboard.dictation" = "听写";
+		"LISTENER_DESCRIPTION_libactivator.keyboard.dictation" = "在当前活动的文本区域听写输入";
 
-	"LISTENER_TITLE_toggle_3G" = "3G";
-	"LISTENER_TITLE_toggle_Bluetooth" = "蓝牙";
-	"LISTENER_TITLE_toggle_Data" = "蜂窝数据";
-	"LISTENER_TITLE_toggle_Location" = "定位服务";
-	"LISTENER_TITLE_toggle_Phone" = "电话";
-	"LISTENER_TITLE_toggle_SSH" = "SSH";
-	"LISTENER_TITLE_toggle_Syslog" = "系统记录";
-	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
+		"LISTENER_TITLE_toggle_3G" = "3G";
+		"LISTENER_TITLE_toggle_Bluetooth" = "蓝牙";
+		"LISTENER_TITLE_toggle_Data" = "蜂窝数据";
+		"LISTENER_TITLE_toggle_Location" = "定位服务";
+		"LISTENER_TITLE_toggle_Phone" = "电话";
+		"LISTENER_TITLE_toggle_SSH" = "SSH";
+		"LISTENER_TITLE_toggle_Syslog" = "系统记录";
+		"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
 
-	"LISTENER_TITLE_com.rpetrich.superscroller.up" = "向上";
-	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.up" = "屏幕向上滚动一页";
+		"LISTENER_TITLE_com.rpetrich.superscroller.up" = "向上";
+		"LISTENER_DESCRIPTION_com.rpetrich.superscroller.up" = "屏幕向上滚动一页";
 
-	"LISTENER_TITLE_com.rpetrich.superscroller.down" = "向下";
-	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.down" = "屏幕向下滚动一页";
+		"LISTENER_TITLE_com.rpetrich.superscroller.down" = "向下";
+		"LISTENER_DESCRIPTION_com.rpetrich.superscroller.down" = "屏幕向下滚动一页";
 
-	"LISTENER_TITLE_com.rpetrich.superscroller.autoup" = "自动向上滚动";
-	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autoup" = "屏幕持续向上滚动";
+		"LISTENER_TITLE_com.rpetrich.superscroller.autoup" = "自动向上滚动";
+		"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autoup" = "屏幕持续向上滚动";
 
-	"LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "自动向下滚动";
-	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "屏幕持续向下滚动";
+		"LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "自动向下滚动";
+		"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "屏幕持续向下滚动";
 
-	"LISTENER_TITLE_com.rpetrich.voicekeys" = "语音按键";
-	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "开始或停止语音识别";
+		"LISTENER_TITLE_com.rpetrich.voicekeys" = "语音按键";
+		"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "开始或停止语音识别";
 
-	"IN_CYDIA_WARNING" = "在 Cydia 安装软件时进行其它操作会有潜在的危险。";
+		"IN_CYDIA_WARNING" = "在 Cydia 安装软件时进行其它操作会有潜在的危险。";
 
-	"ASSIGNMENTS" = "配置";
-	"ASSIGNMENTS_DETAIL" = "事件配置总览";
+		"ASSIGNMENTS" = "配置";
+		"ASSIGNMENTS_DETAIL" = "事件配置总览";
 
-	"BACKUP_ASSIGNMENTS" = "备份配置";
-	"BACKUP_ASSIGNMENTS_DETAIL" = "导出事件及菜单配置";
+		"BACKUP_ASSIGNMENTS" = "备份配置";
+		"BACKUP_ASSIGNMENTS_DETAIL" = "导出事件及菜单配置";
 
-	"RESTORE_ASSIGNMENTS" = "还原配置";
-	"RESTORE_ASSIGNMENTS_DETAIL" = "还原已导出的配置";
+		"RESTORE_ASSIGNMENTS" = "还原配置";
+		"RESTORE_ASSIGNMENTS_DETAIL" = "还原已导出的配置";
 
-	"RESTORE_ALERT_TITLE" = "还原 Activator 设置";
-	"RESTORE_ALERT_MESSAGE" = "您确定要还原已导出的配置吗？\n如继续，您的设备将从主屏幕注销。";
+		"RESTORE_ALERT_TITLE" = "还原 Activator 设置";
+		"RESTORE_ALERT_MESSAGE" = "您确定要还原已导出的配置吗？\n如继续，您的设备将从主屏幕注销。";
 
-	"RESTORE_ALERT_CANCEL" = "取消";
-	"RESTORE_ALERT_CONTINUE" = "还原";
+		"RESTORE_ALERT_CANCEL" = "取消";
+		"RESTORE_ALERT_CONTINUE" = "还原";
 
-	"BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "导出的配置备份储存于 %@。该备份文件在与 iTunes 或 iCloud 同步时会被备份。";
+		"BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "导出的配置备份储存于 %@。该备份文件在与 iTunes 或 iCloud 同步时会被备份。";
 
-	"FAILED_TO_OPEN_SETTINGS_FILE" = "无法打开设置文件以写入";
-	"FAILED_TO_WRITE_SETTINGS_FILE" = "无法写入设置文件：";
+		"FAILED_TO_OPEN_SETTINGS_FILE" = "无法打开设置文件以写入";
+		"FAILED_TO_WRITE_SETTINGS_FILE" = "无法写入设置文件：";
 }
