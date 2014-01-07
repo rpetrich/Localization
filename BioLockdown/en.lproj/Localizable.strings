@@ -1,0 +1,51 @@
+{
+	APPLICATION_ACTION_TEXT_FORMAT = "%@ %@";
+	SWITCH_ACTION_TEXT_FORMAT = "%@ %@";
+	SETTINGS_PANE_ACTION_TEXT_FORMAT = "%@ %@";
+	FINGERPRINT_REQUIRED_TO_PREFIX = "Fingerprint required to ";
+	CANCEL_BUTTON_TEXT = "Cancel";
+	OPEN_ACTION_TEXT = "open";
+	REOPEN_ACTION_TEXT = "reopen";
+	LAUNCH_ACTION_TEXT = "launch";
+	SWITCH_TO_ACTION_TEXT = "switch to";
+	ENABLE_ACTION_TEXT = "enable";
+	DISABLE_ACTION_TEXT = "disable";
+	ADJUST_ACTION_TEXT = "adjust";
+	TOGGLE_ACTION_TEXT = "toggle";
+	HOLD_ACTION_TEXT = "hold";
+	MESSAGE_ACTION_TEXT = "message";
+	SHUT_DOWN_DEVICE_ACTION_TEXT = "shut down device";
+
+	RESTRICTION_TYPE_APPLICATION = "Application";
+	RESTRICTION_TYPE_APPLICATION_PLURAL = "Apps";
+	RESTRICTION_TYPE_SETTINGS_PANE = "Settings Pane";
+	RESTRICTION_TYPE_SETTINGS_PANE_PLURAL = "Settings Panes";
+	RESTRICTION_TYPE_SWITCH = "Switch";
+	RESTRICTION_TYPE_SWITCH_PLURAL = "Switches";
+	RESTRICTION_TYPE_UNKNOWN = "Unknown";
+
+	RESTRICTIONS_HEADER = "Restrictions";
+	NO_FINGERPRINTS_WARNING = "No fingerprints on file. You must add fingerprints via Settings ↝ General ↝ Touch ID & Passcode ↝ Touch ID before using BioLockdown.";
+	SELF_RESTRICTIONS_WARNING = "For best results, be sure to lock access to either the Settings app or the BioLockdown settings pane";
+
+	GLOBAL_ENABLED_SETTING = "Enabled";
+	GRACE_PERIOD_SETTING = "Grace Period";
+	GRACE_PERIOD_EXPLANATION = "Shorter times are more secure";
+
+	GRACE_PERIOD_EXPIRES_TITLE = "Grace Period Expires";
+	GRACE_PERIOD_VALUE_0 = "Immediately";
+	GRACE_PERIOD_VALUE_60 = "After 1 minute";
+	GRACE_PERIOD_VALUE_120 = "After 2 minutes";
+	GRACE_PERIOD_VALUE_300 = "After 5 minutes";
+	GRACE_PERIOD_VALUE_600 = "After 10 minutes";
+	GRACE_PERIOD_VALUE_900 = "After 15 minutes";
+	GRACE_PERIOD_VALUE_1800 = "After 30 minutes";
+	GRACE_PERIOD_VALUE_3600 = "After 1 hour";
+
+	NEW_RESTRICTION_BUTTON = "New Restriction";
+	NEW_RESTRICTION_EXPLANATION = "Restrict apps, settings panes or switches";
+
+	NEW_RESTRICTION_TITLE = "New Restriction";
+
+	SHARE_THE_LOVE = "I'm using BioLockdown to protect access to my iPhone's apps, settings and switches!";
+}
