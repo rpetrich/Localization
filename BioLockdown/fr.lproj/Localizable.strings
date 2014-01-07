@@ -1,0 +1,52 @@
+{
+	APPLICATION_ACTION_TEXT_FORMAT = "%@ %@";
+	SWITCH_ACTION_TEXT_FORMAT = "%@ %@";
+	SETTINGS_PANE_ACTION_TEXT_FORMAT = "%@ %@";
+	FINGERPRINT_REQUIRED_TO_PREFIX = "Empreinte requise pour ";
+	CANCEL_BUTTON_TEXT = "Annuler";
+	OPEN_ACTION_TEXT = "ouvrir";
+	REOPEN_ACTION_TEXT = "réouvrir";
+	LAUNCH_ACTION_TEXT = "lancer";
+	SWITCH_TO_ACTION_TEXT = "basculer vers";
+	ENABLE_ACTION_TEXT = "activer";
+	DISABLE_ACTION_TEXT = "désactiver";
+	ADJUST_ACTION_TEXT = "ajuster";
+	TOGGLE_ACTION_TEXT = "toggle";
+	HOLD_ACTION_TEXT = "maintenir";
+	DELETE_ACTION_TEXT = "supprimer";
+	MESSAGE_ACTION_TEXT = "message";
+	SHUT_DOWN_DEVICE_ACTION_TEXT = "éteindre l'appareil";
+
+	RESTRICTION_TYPE_APPLICATION = "Application";
+	RESTRICTION_TYPE_APPLICATION_PLURAL = "Apps";
+	RESTRICTION_TYPE_SETTINGS_PANE = "Panneau de Réglages";
+	RESTRICTION_TYPE_SETTINGS_PANE_PLURAL = "Panneaux de Réglages";
+	RESTRICTION_TYPE_SWITCH = "Interrupteur";
+	RESTRICTION_TYPE_SWITCH_PLURAL = "Interrupteurs";
+	RESTRICTION_TYPE_UNKNOWN = "Inconnu";
+
+	RESTRICTIONS_HEADER = "Restrictions";
+	NO_FINGERPRINTS_WARNING = "Aucune empreinte détectée. Vous devez ajouter vos empreintes via Réglages ↝ Général ↝ Code et empreinte avant d'utiliser BioLockdown.";
+	SELF_RESTRICTIONS_WARNING = "Pour une sécurité accrue, verrouillez l'accès à l'application Réglages ou au panneau de réglages de BioLockdown";
+
+	GLOBAL_ENABLED_SETTING = "Activé";
+	GRACE_PERIOD_SETTING = "Période de Grâce";
+	GRACE_PERIOD_EXPLANATION = "Les durées plus courtes sont plus sécurisées";
+
+	GRACE_PERIOD_EXPIRES_TITLE = "La période de grâce expire";
+	GRACE_PERIOD_VALUE_0 = "Immédiatement";
+	GRACE_PERIOD_VALUE_60 = "Après 1 minute";
+	GRACE_PERIOD_VALUE_120 = "Après 2 minutes";
+	GRACE_PERIOD_VALUE_300 = "Après 5 minutes";
+	GRACE_PERIOD_VALUE_600 = "Après 10 minutes";
+	GRACE_PERIOD_VALUE_900 = "Après 15 minutes";
+	GRACE_PERIOD_VALUE_1800 = "Après 30 minutes";
+	GRACE_PERIOD_VALUE_3600 = "Après 1 heure";
+
+	NEW_RESTRICTION_BUTTON = "Nouvelle Restriction";
+	NEW_RESTRICTION_EXPLANATION = "Restreindre les apps, panneaux de réglages ou interrupteurs";
+
+	NEW_RESTRICTION_TITLE = "Nouvelle Restriction";
+
+	SHARE_THE_LOVE = "J'utilise BioLockdown pour protéger l'accès aux apps, réglages et interrupteurs de mon iPhone !";
+}
