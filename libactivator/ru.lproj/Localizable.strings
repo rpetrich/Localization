@@ -609,3 +609,6 @@
 "EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Устр-во отключено от сети Wi-Fi";
 "LISTENER_TITLE_libactivator.system.activate-control-center" = "Показать пункт управления";
 "LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Вывести на экран пункт управления";
+"EVENT_TITLE_libactivator.fingerprint-sensor.press.single" = "Одиночное касание";
+"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single" = "Коснуться сканера один раз";
+"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Сканер TouchID";
