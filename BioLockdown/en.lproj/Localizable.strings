@@ -13,6 +13,7 @@
 	ADJUST_ACTION_TEXT = "adjust";
 	TOGGLE_ACTION_TEXT = "toggle";
 	HOLD_ACTION_TEXT = "hold";
+	DELETE_ACTION_TEXT = "delete";
 	MESSAGE_ACTION_TEXT = "message";
 	SHUT_DOWN_DEVICE_ACTION_TEXT = "shut down device";
 
