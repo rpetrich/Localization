@@ -1,0 +1,52 @@
+{
+	APPLICATION_ACTION_TEXT_FORMAT = "%@ %@";
+	SWITCH_ACTION_TEXT_FORMAT = "%@ %@";
+	SETTINGS_PANE_ACTION_TEXT_FORMAT = "%@ %@";
+	FINGERPRINT_REQUIRED_TO_PREFIX = "Impronta digitale richiesta per ";
+	CANCEL_BUTTON_TEXT = "Annulla";
+	OPEN_ACTION_TEXT = "aprire";
+	REOPEN_ACTION_TEXT = "riaprire";
+	LAUNCH_ACTION_TEXT = "avviare";
+	SWITCH_TO_ACTION_TEXT = "passare a";
+	ENABLE_ACTION_TEXT = "abilitare";
+	DISABLE_ACTION_TEXT = "disabilitare";
+	ADJUST_ACTION_TEXT = "regolare";
+	TOGGLE_ACTION_TEXT = "alternare";
+	HOLD_ACTION_TEXT = "tenere";
+	DELETE_ACTION_TEXT = "eliminare";
+	MESSAGE_ACTION_TEXT = "messaggiare";
+	SHUT_DOWN_DEVICE_ACTION_TEXT = "spegnere il dispositivo";
+
+	RESTRICTION_TYPE_APPLICATION = "Applicazione";
+	RESTRICTION_TYPE_APPLICATION_PLURAL = "Applicazioni";
+	RESTRICTION_TYPE_SETTINGS_PANE = "Impostazione";
+	RESTRICTION_TYPE_SETTINGS_PANE_PLURAL = "Impostazioni";
+	RESTRICTION_TYPE_SWITCH = "Interruttore";
+	RESTRICTION_TYPE_SWITCH_PLURAL = "Interruttori";
+	RESTRICTION_TYPE_UNKNOWN = "Sconosciuto";
+
+	RESTRICTIONS_HEADER = "Restrizioni";
+	NO_FINGERPRINTS_WARNING = "Nessuna impronta digitale impostata. Impostare le impronte digitali in Impostazioni ↝ Generali ↝ Touch ID e codice ↝ Touch ID prima di utilizzare BioLockdown.";
+	SELF_RESTRICTIONS_WARNING = "Per un risultato migliore, assicurarsi di bloccare o l'accesso all'applicazione impostazioni o alle sole impostazioni di BioLockdown";
+
+	GLOBAL_ENABLED_SETTING = "Attivo";
+	GRACE_PERIOD_SETTING = "Richiedi codice";
+	GRACE_PERIOD_EXPLANATION = "Un periodo breve è più sicuro";
+
+	GRACE_PERIOD_EXPIRES_TITLE = "Richiedi codice";
+	GRACE_PERIOD_VALUE_0 = "Subito";
+	GRACE_PERIOD_VALUE_60 = "Dopo 1 minuto";
+	GRACE_PERIOD_VALUE_120 = "Dopo 2 minuti";
+	GRACE_PERIOD_VALUE_300 = "Dopo 5 minuti";
+	GRACE_PERIOD_VALUE_600 = "Dopo 10 minuti";
+	GRACE_PERIOD_VALUE_900 = "Dopo 15 minuti";
+	GRACE_PERIOD_VALUE_1800 = "Dopo 30 minuti";
+	GRACE_PERIOD_VALUE_3600 = "Dopo 1 ora";
+
+	NEW_RESTRICTION_BUTTON = "Nuova restrizione";
+	NEW_RESTRICTION_EXPLANATION = "Blocca app, impostazioni o interruttori";
+
+	NEW_RESTRICTION_TITLE = "Nuova restrizione";
+
+	SHARE_THE_LOVE = "Sto utilizzando BioLockdown per proteggere l'accesso alle mie applicazioni, impostazioni ed interruttori sul mio iPhone!";
+}
