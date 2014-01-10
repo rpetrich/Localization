@@ -21,7 +21,7 @@
 	STANDARD = "Normale";
 
 	SHOW_SLIDESHOW_BUTTON = "Pulsante diapositive";
-
+	
 	ICON_COUNT = "Numero icone";
 	ONE = "Una";
 	TWO = "Due";

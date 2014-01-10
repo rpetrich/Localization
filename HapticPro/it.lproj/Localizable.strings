@@ -19,21 +19,21 @@
 	"Are you sure you wish to reset HapticPro to the default settings?" = "Sei sicuro di voler ripristinare le impostazioni predefinite di HapticPro?";
 	"Cancel" = "Annulla";
 	"Reset" = "Reimposta";
-
+	
 	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "A causa delle limitazioni dell'iPhone OS 3.0, HapticPro verrà disabilitato durante la riproduzione audio.";
-
-
+	
+	
 	"Intensity" = "Intensità";
 	"Adjust the strength of the vibration." = "Regola l'intensità della vibrazione.";
 	"Has no effect on the iPhone 3G" = "Non ha effetto su iPhone 3G";
-
+	
 	"Only Special Keys" = "Solo tasti speciali";
 	"Activates HapticPro only from the keyboard's modifier keys." = "Attiva HapticPro solo per i tasti di modifica della tastiera.";
 
 	"Buttons" = "Bottoni";
 	"Add Click Sounds" = "Aggiungi suono click";
 	"Enable keyboard click sounds on regular buttons." = "Attiva il suono click della tastiera sui pulsanti normali.";
-
+	
 	"Ringer Switch" = "Interruttore suoneria";
 	"Trigger In Ring" = "In suoneria";
 	"Trigger In Silent" = "In silenzioso";
