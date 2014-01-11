@@ -26,7 +26,7 @@
 	RESTRICTION_TYPE_UNKNOWN = "未知";
 
 	RESTRICTIONS_HEADER = "访问限制";
-	NO_FINGERPRINTS_WARNING = "找不到已保存的指纹识别信息。您必须通过设置 > 通用 > Touch ID 和密码 > Touch ID 中添加指纹识别信息才能使用 BioLockdown。";
+	NO_FINGERPRINTS_WARNING = "找不到已保存的指纹识别信息。您必须通过 Touch ID 设置添加指纹识别信息才能使用 BioLockdown。";
 	SELF_RESTRICTIONS_WARNING = "为确保安全，请务必锁定设置程序或 BioLockdown 的设置页面。";
 
 	GLOBAL_ENABLED_SETTING = "启用";
@@ -42,6 +42,9 @@
 	GRACE_PERIOD_VALUE_900 = "15 分钟";
 	GRACE_PERIOD_VALUE_1800 = "30 分钟";
 	GRACE_PERIOD_VALUE_3600 = "1  小时";
+
+	TOUCH_ID_SETTING = "Touch ID";
+	TOUCH_ID_EXPLANATION = "管理指纹识别信息";
 
 	NEW_RESTRICTION_BUTTON = "新访问限制";
 	NEW_RESTRICTION_EXPLANATION = "限制访问应用程序，设置页面或功能开关。";
