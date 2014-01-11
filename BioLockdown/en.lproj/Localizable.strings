@@ -26,7 +26,7 @@
 	RESTRICTION_TYPE_UNKNOWN = "Unknown";
 
 	RESTRICTIONS_HEADER = "Restrictions";
-	NO_FINGERPRINTS_WARNING = "No fingerprints on file. You must add fingerprints via Settings ↝ General ↝ Touch ID & Passcode ↝ Touch ID before using BioLockdown.";
+	NO_FINGERPRINTS_WARNING = "No fingerprints on file. You must add fingerprints via Touch ID before using BioLockdown.";
 	SELF_RESTRICTIONS_WARNING = "For best results, be sure to lock access to either the Settings app or the BioLockdown settings pane";
 
 	GLOBAL_ENABLED_SETTING = "Enabled";
@@ -42,6 +42,9 @@
 	GRACE_PERIOD_VALUE_900 = "After 15 minutes";
 	GRACE_PERIOD_VALUE_1800 = "After 30 minutes";
 	GRACE_PERIOD_VALUE_3600 = "After 1 hour";
+
+	TOUCH_ID_SETTING = "Touch ID";
+	TOUCH_ID_EXPLANATION = "Add or remove fingerprints";
 
 	NEW_RESTRICTION_BUTTON = "New Restriction";
 	NEW_RESTRICTION_EXPLANATION = "Restrict apps, settings panes or switches";
