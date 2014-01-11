@@ -42,6 +42,9 @@
 	GRACE_PERIOD_VALUE_900 = "Après 15 minutes";
 	GRACE_PERIOD_VALUE_1800 = "Après 30 minutes";
 	GRACE_PERIOD_VALUE_3600 = "Après 1 heure";
+	
+	TOUCH_ID_SETTING = "Touch ID";
+	TOUCH_ID_EXPLANATION = "Ajouter ou supprimer vos empreintes";
 
 	NEW_RESTRICTION_BUTTON = "Nouvelle Restriction";
 	NEW_RESTRICTION_EXPLANATION = "Restreindre les apps, panneaux de réglages ou interrupteurs";
