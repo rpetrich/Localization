@@ -2,8 +2,8 @@
 "ACTION_BANNERS" = "פעולת באנרים";
 "ACTION_BANNERS_ALWAYS" = "תמיד";
 "ACTION_BANNERS_NEVER" = "אף פעם";
-"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "הצגה בעת ביצוע פעולה";
-"ACTION_BANNERS_TOGGLES_AND_SWITCHES" = "למתגים וכפתורים";
+"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "בחר מתי יוצגו באנרים";
+"ACTION_BANNERS_TOGGLES_AND_SWITCHES" = "רק למתגים וכפתורים";
 "ACTIVATED" = "פעיל";
 "ACTIVATOR" = "Activator";
 "ACTIVATOR_CORRUPT" = "Activator פגום";
@@ -44,7 +44,7 @@
 "Custom Events" = "מחוות מותאמות אישית";
 "DISABLED" = "כבוי";
 "DONATE" = "תרומה";
-"DONATE_DETAIL" = "תרום באמצעות PayPal";
+"DONATE_DETAIL" = "תרומה דרך PayPal";
 "ENABLED" = "פעיל";
 "EVENT_DESCRIPTION_com.bigboss.springflash" = "מפעיל את נורית הפלאש בגב המכשיר";
 "EVENT_DESCRIPTION_com.mathieubolard.killbackground" = "הורג את כל היישומים שרצים ברקע";
@@ -75,7 +75,7 @@
 "EVENT_DESCRIPTION_libactivator.four-finger.spread" = "פריסה על המסך עם 4 אצבעות";
 "EVENT_DESCRIPTION_libactivator.four-finger.tap" = "הקשה על המסך עם 4 אצבעות";
 "EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "לחיצה והחזקה של כפתור האוזניה";
-"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "הקשה יחדה על כפתור האוזניה";
+"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "הקשה אחת על כפתור האוזניה";
 "EVENT_DESCRIPTION_libactivator.headset.connected" = "כאשר אוזניות חוברו אל המכשיר";
 "EVENT_DESCRIPTION_libactivator.headset.disconnected" = "כאשר אוזניות נותקו מהמכשיר";
 "EVENT_DESCRIPTION_libactivator.icon.flick.down" = "החלקת אייקון בספרינגבורד כלפי מטה";
@@ -89,7 +89,7 @@
 "EVENT_DESCRIPTION_libactivator.lock.hold.long" = "לחיצה ארוכה על כפתור הנעילה";
 "EVENT_DESCRIPTION_libactivator.lock.hold.short" = "לחיצה והחזקה של כפתור הנעילה";
 "EVENT_DESCRIPTION_libactivator.lock.press.double" = "הקשה מהירה פעמיים על כפתור הנעילה";
-"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "לחיצה על שתי הלחצנים בו זמנית לשנייה אחת";
+"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "לחיצה על כפתור הנעילה ועל כפתור הבית בו זמנית לשנייה אחת";
 "EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "הקשה כפולה באיזור השעון/התאריך";
 "EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-left" = "החלקה שמאלה באיזור השעון/התאריך";
 "EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right" = "החלקה ימינה באיזור השעון/התאריך";
@@ -99,10 +99,10 @@
 "EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "הקשה על כפתור הבית במסך הבית";
 "EVENT_DESCRIPTION_libactivator.menu.press.double" = "הקשה כפולה ומהירה על כפתור הבית";
 "EVENT_DESCRIPTION_libactivator.menu.press.single" = "הקשה יחידה על כפתור הבית";
-"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "הקשה על כפתור הבית שלוש פעמים";
+"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "הקשה מהירה על כפתור הבית שלוש פעמים";
 "EVENT_DESCRIPTION_libactivator.motion.shake" = "שקשוק המכשיר חזק!";
 "EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "התחברות לרשת אלחוטית כל שהיא";
-"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "התנתקות מהרשת האלחוטית";
+"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "התנתקות מכל רשת אלחוטית";
 "EVENT_DESCRIPTION_libactivator.power.connected" = "כאשר המכשיר נטען";
 "EVENT_DESCRIPTION_libactivator.power.disconnected" = "כאשר טעינת המכשיר נפסקת";
 "EVENT_DESCRIPTION_libactivator.scheduled" = "בזמן הזה ב%@";
@@ -122,12 +122,12 @@
 "EVENT_DESCRIPTION_libactivator.statusbar.hold" = "לחיצה והחזקה במרכז הסטטוס-בר";
 "EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "לחיצה והחזקה משמאל לסטטוס-בר";
 "EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "לחיצה והחזקה מימין לסטטוס-בר";
-"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "לחיצה וגרירה מהסטטוס-בר כלפי מטה";
-"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "לחיצה וגרירה שמאלה בסטטוס-בר";
-"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "לחיצה וגרירה ימינה בסטטוס-בר";
+"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "גרירת הסטטוס-בר כלפי מטה";
+"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "החלקה לצד השמאלי בסטטוס-בר";
+"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "החלקה לצד הימני בסטטוס-בר";
 "EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "הקשה כפולה על הסטטוס-בר";
-"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "הקשה כפולה על הצד השמאלי";
-"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "הקשה כפולה על הצד הימני";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "הקשה כפולה על הצד השמאלי בסטטוס-בר";
+"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "הקשה כפולה על הצד הימני בסטטוס-בר";
 "EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "הקשה במרכז הסטטוס-בר פעם אחת";
 "EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "הקשה על הצד השמאלי בסטטוס-בר פעם אחת";
 "EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "הקשה על הצד הימני בסטטוס-בר פעם אחת";
@@ -148,7 +148,7 @@
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "החלקה על המסך מהפינה השמאלית למעלה";
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "החלקה על המסך מהפינה הימנית למעלה";
 "EVENT_DESCRIPTION_libactivator.volume.both.press" = "הקשה על שתי כפתורי הוולים בו זמנית";
-"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "הקשה על אחד מכפתורי הווליום להצגת מד עוצמת השמע";
+"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "הקשה על אחד מכפתורי הווליום להצגת מד ה";
 "EVENT_DESCRIPTION_libactivator.volume.down-up" = "הקשה על הכפתור התחתון של הווליום, ואז על העליון";
 "EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "לחיצה והחזקה של הכפתור התחתון";
 "EVENT_DESCRIPTION_libactivator.volume.down.press" = "הקשה על הכפתור התחתון של הוולים";
@@ -189,7 +189,7 @@
 "EVENT_GROUP_TITLE_Status Bar" = "סטטוס-בר";
 "EVENT_GROUP_TITLE_Switches" = "מתגים";
 "EVENT_GROUP_TITLE_Switches (Activate)" = "הפעלת מתגים";
-"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "החלקה במחוות בשתי אצבעות";
+"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "החלקה במחוות עם שתי אצבעות";
 "EVENT_GROUP_TITLE_Volume Buttons" = "כפתורי הווליום";
 "EVENT_TITLE_libactivator.application-launch_FORMAT" = "פתיחת %@";
 "EVENT_TITLE_libactivator.clamshell.close" = "סגירת כיסוי";
@@ -371,7 +371,7 @@
 "LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "כתיבת הודעה חדשה במהירות";
 "LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "משיכת מרכז הבקרה מתחתית המסך";
 "LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "משיכת מרכז העדכונים מראש המסך";
-"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "חשיפת הכרטיסיות של ריבוי המשימות";
+"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "חשיפת בר ריבוי המשימות של המכשיר";
 "LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "דילוג לדף הראשי בספרינבורד";
 "LISTENER_DESCRIPTION_libactivator.system.homebutton" = "הדמיית הקשה על כפתור הבית";
 "LISTENER_DESCRIPTION_libactivator.system.nothing" = "עצירת הפעולה המקורית";
@@ -386,7 +386,7 @@
 "LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "הפעלת Siri";
 "LISTENER_DESCRIPTION_libactivator.system.voice-control" = "הפעלת שליטה קולית במכשיר";
 "LISTENER_DESCRIPTION_libactivator.text" = "הודעה";
-"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "כתיבת ציוץ מהיר בטוויטר";
+"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "כתיבה מהירה של ציוץ בטוויטר";
 "LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "פרסום מהיר ב-Weibo";
 "LISTENER_DESCRIPTION_Place New Call" = "שיחה חדשה";
 "LISTENER_DESCRIPTION_switch-flip" = "הפעלה/כיבוי מתג";
@@ -398,7 +398,7 @@
 "LISTENER_GROUP_TITLE_Audio" = "נגן";
 "LISTENER_GROUP_TITLE_Camera" = "מצלמה";
 "LISTENER_GROUP_TITLE_Contacts" = "אנשי קשר";
-"LISTENER_GROUP_TITLE_iPod" = "אייפוד";
+"LISTENER_GROUP_TITLE_iPod" = "iPod";
 "LISTENER_GROUP_TITLE_Lock Screen" = "מסך נעילה";
 "LISTENER_GROUP_TITLE_Phone" = "טלפון";
 "LISTENER_GROUP_TITLE_Power" = "חשמל";
@@ -415,7 +415,7 @@
 "LISTENER_GROUP_TITLE_System Applications" = "אפליקציות מערכתיות";
 "LISTENER_GROUP_TITLE_User Applications" = "אפליקציות המשתמש";
 "LISTENER_TITLE_com.bigboss.springflash" = "פנס";
-"LISTENER_TITLE_com.bitesms.quick-compose" = "כתיבה מהירה בbiteSMS";
+"LISTENER_TITLE_com.bitesms.quick-compose" = "כתיבה מהירה ב-biteSMS";
 "LISTENER_TITLE_com.rickye.activatororientation" = "נעילת תצוגה";
 "LISTENER_TITLE_com.rpetrich.curiosa.refresh" = "רענון חבילות";
 "LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "גלילה אוטומטית מטה";
@@ -505,8 +505,8 @@
 "LISTENER_TITLE_toggle_Phone" = "טלפון";
 "LISTENER_TITLE_toggle_SSH" = "SSH";
 "LISTENER_TITLE_toggle_Syslog" = "Syslog";
-"LISTENER_TITLE_toggle_Wi-Fi" = "רשת-אלחוטית";
-"LOCALIZATION_ABOUT" = "תורגם על-ידי טמיר דוד.\n\nלהצעות, תלונות, בקשות, והערות *בקשר לתרגום* פנו אלי למייל: tamirmp4@gmail.com או דרך הודעת iMessage";
+"LISTENER_TITLE_toggle_Wi-Fi" = "רשת אלחוטית";
+"LOCALIZATION_ABOUT" = "תורגם על-ידי טמיר דוד.\n\nלפניות בקשר לתרגום:\nניתן לפנות אלי דרך אימייל: tamirmp4@gmail.com או דרך הודעת iMessage.";
 "Loose" = "רופף";
 "MAIL_ANY_SENDER" = "(כל שולח)";
 "MAIL_ANY_SUBJECT" = "(כל נושא)";
@@ -591,7 +591,7 @@
 "SAFE_MODE_TITLE" = "במצב בטוח";
 "Sensitivity" = "רגישות";
 "SHARE_THE_LOVE" = "אני משתמש ב-@ActivatorApp כדי להוסיף קיצורים, מחוות, ולהתאמה אישית ב-%@ שלי!";
-"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "הצג את האייקון של Activator במסך הבית";
+"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "הצגת האייקון של Activator במסך הבית";
 "SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "הצגת באנר בעת ביצוע פעולה";
 "SHOW_ICON" = "הצגת אייקון";
 "Slide Gestures" = "מחוות החלקה";
