@@ -60,7 +60,7 @@
 	DEVICE_PASSCODE_SETTING = "Mot de passe de l'appareil";
 	CUSTOM_PASSCODE_SETTING_PREFIX = "Personnalisé: ";
 	
-	ALL_PRINTS_DESCRIPTION = "Toutes les impressions";
+	ALL_PRINTS_DESCRIPTION = "Toutes les empreintes";
 	DEVICE_PASSCODE_DESCRIPTION = "Mot de passe de l'appareil";
 	CUSTOM_PASSCODE_DESCRIPTION = "Mot de passe personnalisé";
 	ACCESS_TYPE_DESCRIPTION_SEPARATOR = ", ";
