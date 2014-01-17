@@ -3,7 +3,10 @@
 	SWITCH_ACTION_TEXT_FORMAT = "%@ %@";
 	SETTINGS_PANE_ACTION_TEXT_FORMAT = "%@ %@";
 	FINGERPRINT_REQUIRED_TO_PREFIX = "Fingerprint required to ";
+	PASSCODE_REQUIRED_TO_PREFIX = "Passcode required to ";
 	CANCEL_BUTTON_TEXT = "Cancel";
+	USE_PASSCODE_BUTTON_TEXT = "Use Passcode";
+	AUTHENTICATE_BUTTON_TEXT = "Authenticate";
 	OPEN_ACTION_TEXT = "open";
 	REOPEN_ACTION_TEXT = "reopen";
 	LAUNCH_ACTION_TEXT = "launch";
@@ -50,6 +53,25 @@
 	NEW_RESTRICTION_EXPLANATION = "Restrict apps, settings panes or switches";
 
 	NEW_RESTRICTION_TITLE = "New Restriction";
+
+	ACCESS_TYPES_SETTING = "Access Types";
+	FINGERPRINTS_SETTING_HEADER = "Fingerprints";
+	PASSCODES_SETTING_HEADER = "Passcodes";
+	DEVICE_PASSCODE_SETTING = "Device Passcode";
+	CUSTOM_PASSCODE_SETTING_PREFIX = "Custom: ";
+
+	ALL_PRINTS_DESCRIPTION = "All prints";
+	DEVICE_PASSCODE_DESCRIPTION = "Device passcode";
+	CUSTOM_PASSCODE_DESCRIPTION = "Custom passcode";
+	ACCESS_TYPE_DESCRIPTION_SEPARATOR = ", ";
+
+	APP_SWITCHER_PRIVACY_SETTING = "App Switcher Privacy";
+	APP_SWITCHER_PRIVACY_EXPLANATION = "Adjust styling of locked apps in switcher";
+
+	APP_SWITCHER_PRIVACY_TITLE = "App Switcher Privacy";
+	APP_SWITCHER_PRIVACY_VALUE_0 = "Visible";
+	APP_SWITCHER_PRIVACY_VALUE_1 = "Blurred";
+	APP_SWITCHER_PRIVACY_VALUE_2 = "Black";
 
 	SHARE_THE_LOVE = "I'm using BioLockdown to protect access to my iPhone's apps, settings and switches!";
 }
