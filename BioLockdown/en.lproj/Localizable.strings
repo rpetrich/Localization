@@ -18,6 +18,7 @@
 	HOLD_ACTION_TEXT = "hold";
 	DELETE_ACTION_TEXT = "delete";
 	MESSAGE_ACTION_TEXT = "message";
+	REARRANGE_ICONS_ACTION_TEXT = "rearrange icons";
 	SHUT_DOWN_DEVICE_ACTION_TEXT = "shut down device";
 
 	RESTRICTION_TYPE_APPLICATION = "Application";
