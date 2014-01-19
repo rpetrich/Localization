@@ -1,0 +1,77 @@
+{
+	APPLICATION_ACTION_TEXT_FORMAT = "%@ %@";
+	SWITCH_ACTION_TEXT_FORMAT = "%@ %@";
+	SETTINGS_PANE_ACTION_TEXT_FORMAT = "%@ %@";
+	FINGERPRINT_REQUIRED_TO_PREFIX = "Empremta necessària per ";
+	PASSCODE_REQUIRED_TO_PREFIX = "Codi d'accés necessari per ";
+    CANCEL_BUTTON_TEXT = "Cancel·lar";
+    USE_PASSCODE_BUTTON_TEXT = "Utilitzar codi";
+	AUTHENTICATE_BUTTON_TEXT = "Autenticar";
+	OPEN_ACTION_TEXT = "obrir";
+	REOPEN_ACTION_TEXT = "reobrir";
+	LAUNCH_ACTION_TEXT = "obrir";
+	SWITCH_TO_ACTION_TEXT = "canviar a";
+	ENABLE_ACTION_TEXT = "activar";
+	DISABLE_ACTION_TEXT = "desactivar";
+	ADJUST_ACTION_TEXT = "ajustar";
+	TOGGLE_ACTION_TEXT = "commutar";
+	HOLD_ACTION_TEXT = "mantenir";
+	DELETE_ACTION_TEXT = "esborrar";
+	MESSAGE_ACTION_TEXT = "missatge";
+	SHUT_DOWN_DEVICE_ACTION_TEXT = "apagar el dispositiu";
+
+	RESTRICTION_TYPE_APPLICATION = "Aplicació";
+	RESTRICTION_TYPE_APPLICATION_PLURAL = "Aplicacions";
+	RESTRICTION_TYPE_SETTINGS_PANE = "Preferència";
+	RESTRICTION_TYPE_SETTINGS_PANE_PLURAL = "Preferències";
+	RESTRICTION_TYPE_SWITCH = "Interruptor";
+	RESTRICTION_TYPE_SWITCH_PLURAL = "Interruptors";
+	RESTRICTION_TYPE_UNKNOWN = "Desconegut";
+
+	RESTRICTIONS_HEADER = "Restriccions";
+	NO_FINGERPRINTS_WARNING = "No hi ha empremtes dactilars desades. Pots afegir empremtes a través de Configuració ↝ General ↝ Touch ID i codi";
+	SELF_RESTRICTIONS_WARNING = "Per obtenir millors resultats, assegura't de bloquejar l'accés a la Configuració o al panell de BioLockdown.";
+
+	GLOBAL_ENABLED_SETTING = "Activat";
+	GRACE_PERIOD_SETTING = "Bloquejar després de...";
+	GRACE_PERIOD_EXPLANATION = "Un menor temps és més segur";
+
+	GRACE_PERIOD_EXPIRES_TITLE = "Bloquejar després de:";
+	GRACE_PERIOD_VALUE_0 = "Inmediatament";
+	GRACE_PERIOD_VALUE_60 = "Després d'un minut";
+	GRACE_PERIOD_VALUE_120 = "Després de 2 minuts";
+	GRACE_PERIOD_VALUE_300 = "Després de 5 minuts";
+	GRACE_PERIOD_VALUE_600 = "Després de 10 minuts";
+	GRACE_PERIOD_VALUE_900 = "Després de 15 minuts";
+	GRACE_PERIOD_VALUE_1800 = "Després de 30 minuts";
+	GRACE_PERIOD_VALUE_3600 = "Després d'una hora";
+
+    TOUCH_ID_SETTING = "Touch ID";
+    TOUCH_ID_EXPLANATION = "Gestionar les empremtes dactilars";
+    
+    NEW_RESTRICTION_BUTTON = "Afegir restricció";
+	NEW_RESTRICTION_EXPLANATION = "Aplicacions, preferències o funcions";
+
+	NEW_RESTRICTION_TITLE = "Nova restricció";
+    
+    ACCESS_TYPES_SETTING = "Tipus d'Accés";
+	FINGERPRINTS_SETTING_HEADER = "Empremtes dactilars";
+	PASSCODES_SETTING_HEADER = "Codis d'Accés";
+	DEVICE_PASSCODE_SETTING = "Utilitzar el codi del dispositiu";
+	CUSTOM_PASSCODE_SETTING_PREFIX = "Personalitzat: ";
+    
+	ALL_PRINTS_DESCRIPTION = "Totes les empremtes";
+	DEVICE_PASSCODE_DESCRIPTION = "Codi del dispositiu";
+	CUSTOM_PASSCODE_DESCRIPTION = "Codi personalitzat";
+	ACCESS_TYPE_DESCRIPTION_SEPARATOR = ", ";
+    
+	APP_SWITCHER_PRIVACY_SETTING = "Privadesa de l'App Switcher";
+	APP_SWITCHER_PRIVACY_EXPLANATION = "Estil d'ofuscació de l'App Switcher";
+    
+	APP_SWITCHER_PRIVACY_TITLE = "Privadesa de l'App Switcher";
+	APP_SWITCHER_PRIVACY_VALUE_0 = "Visible";
+	APP_SWITCHER_PRIVACY_VALUE_1 = "Borrós";
+	APP_SWITCHER_PRIVACY_VALUE_2 = "Negre";
+
+	SHARE_THE_LOVE = "Estic utilitzant BioLockdown per protegir les aplicacions, ajustos i funcions de l'iPhone!";
+}

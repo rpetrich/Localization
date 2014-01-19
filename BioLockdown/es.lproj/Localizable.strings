@@ -1,0 +1,78 @@
+{
+	APPLICATION_ACTION_TEXT_FORMAT = "%@ %@";
+	SWITCH_ACTION_TEXT_FORMAT = "%@ %@";
+	SETTINGS_PANE_ACTION_TEXT_FORMAT = "%@ %@";
+	FINGERPRINT_REQUIRED_TO_PREFIX = "Huella necesaria para ";
+    PASSCODE_REQUIRED_TO_PREFIX = "Código de acceso necesario para ";
+	CANCEL_BUTTON_TEXT = "Cancelar";
+    USE_PASSCODE_BUTTON_TEXT = "Usar código";
+	AUTHENTICATE_BUTTON_TEXT = "Autentificar";
+	OPEN_ACTION_TEXT = "abrir";
+	REOPEN_ACTION_TEXT = "reabrir";
+	LAUNCH_ACTION_TEXT = "abrir";
+	SWITCH_TO_ACTION_TEXT = "cambiar a";
+	ENABLE_ACTION_TEXT = "activar";
+	DISABLE_ACTION_TEXT = "desactivar";
+	ADJUST_ACTION_TEXT = "ajustar";
+	TOGGLE_ACTION_TEXT = "conmutar";
+	HOLD_ACTION_TEXT = "mantener";
+	DELETE_ACTION_TEXT = "eliminar";
+	MESSAGE_ACTION_TEXT = "mensaje";
+	SHUT_DOWN_DEVICE_ACTION_TEXT = "apagar el dispositivo";
+
+	RESTRICTION_TYPE_APPLICATION = "Aplicación";
+	RESTRICTION_TYPE_APPLICATION_PLURAL = "Aplicaciones";
+	RESTRICTION_TYPE_SETTINGS_PANE = "Preferencia";
+	RESTRICTION_TYPE_SETTINGS_PANE_PLURAL = "Preferencias";
+	RESTRICTION_TYPE_SWITCH = "Interruptor";
+	RESTRICTION_TYPE_SWITCH_PLURAL = "Interruptores";
+	RESTRICTION_TYPE_UNKNOWN = "Desconocido";
+
+	RESTRICTIONS_HEADER = "Restricciones";
+	NO_FINGERPRINTS_WARNING = "No hay huellas dactilares archivadas. Puedes añadir huellas a través de Ajustes ↝ General ↝ Touch ID y código";
+	SELF_RESTRICTIONS_WARNING = "Para obtener mejores resultados, asegúrate de bloquear el acceso a los Ajustes o al panel de BioLockdown.";
+
+	GLOBAL_ENABLED_SETTING = "Activado";
+	GRACE_PERIOD_SETTING = "Bloquear después de...";
+	GRACE_PERIOD_EXPLANATION = "Un menor tiempo es más seguro";
+
+	GRACE_PERIOD_EXPIRES_TITLE = "Bloquear después de:";
+	GRACE_PERIOD_VALUE_0 = "Inmediatamente";
+	GRACE_PERIOD_VALUE_60 = "Después de un minuto";
+	GRACE_PERIOD_VALUE_120 = "Después de 2 minutos";
+	GRACE_PERIOD_VALUE_300 = "Después de 5 minutos";
+	GRACE_PERIOD_VALUE_600 = "Después de 10 minutos";
+	GRACE_PERIOD_VALUE_900 = "Después de 15 minutos";
+	GRACE_PERIOD_VALUE_1800 = "Después de 30 minutos";
+	GRACE_PERIOD_VALUE_3600 = "Después de una hora";
+    
+    TOUCH_ID_SETTING = "Touch ID";
+    TOUCH_ID_EXPLANATION = "Gestionar las huellas dactilares";
+
+	NEW_RESTRICTION_BUTTON = "Añadir restricción";
+	NEW_RESTRICTION_EXPLANATION = "Aplicaciones, ajustes o funciones";
+
+	NEW_RESTRICTION_TITLE = "Nueva restricción";
+    
+    ACCESS_TYPES_SETTING = "Tipos de Acceso";
+	FINGERPRINTS_SETTING_HEADER = "Huellas dactilares";
+	PASSCODES_SETTING_HEADER = "Códigos de Acceso";
+	DEVICE_PASSCODE_SETTING = "Usar el código del dispositivo";
+	CUSTOM_PASSCODE_SETTING_PREFIX = "Personalizado: ";
+    
+	ALL_PRINTS_DESCRIPTION = "Todas las huellas";
+	DEVICE_PASSCODE_DESCRIPTION = "Código del dispositivo";
+	CUSTOM_PASSCODE_DESCRIPTION = "Código personalizado";
+	ACCESS_TYPE_DESCRIPTION_SEPARATOR = ", ";
+    
+	APP_SWITCHER_PRIVACY_SETTING = "Privacidad del App Switcher";
+	APP_SWITCHER_PRIVACY_EXPLANATION = "Estilo de ofuscación del App Switcher";
+    
+	APP_SWITCHER_PRIVACY_TITLE = "Privacidad del App Switcher";
+	APP_SWITCHER_PRIVACY_VALUE_0 = "Visible";
+	APP_SWITCHER_PRIVACY_VALUE_1 = "Borroso";
+	APP_SWITCHER_PRIVACY_VALUE_2 = "Negro";
+
+
+	SHARE_THE_LOVE = "¡Estoy usando BioLockdown para proteger las aplicaciones, ajustes y funciones del iPhone!";
+}
