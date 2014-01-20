@@ -18,6 +18,7 @@
 	HOLD_ACTION_TEXT = "maintenir";
 	DELETE_ACTION_TEXT = "supprimer";
 	MESSAGE_ACTION_TEXT = "message";
+	REARRANGE_ICONS_ACTION_TEXT = "réarranger les icônes";
 	SHUT_DOWN_DEVICE_ACTION_TEXT = "éteindre l'appareil";
 
 	RESTRICTION_TYPE_APPLICATION = "Application";
@@ -57,6 +58,9 @@
 	ACCESS_TYPES_SETTING = "Types d'Accès";
 	FINGERPRINTS_SETTING_HEADER = "Empreintes";
 	PASSCODES_SETTING_HEADER = "Mots de passe";
+	WIFI_NETWORKS_SETTING_HEADER = "Réseaux Wi-Fi";
+	WIFI_NETWORK_NAME_SETTING_PREFIX = "Nom du Réseau: ";
+    
 	DEVICE_PASSCODE_SETTING = "Mot de passe de l'appareil";
 	CUSTOM_PASSCODE_SETTING_PREFIX = "Personnalisé: ";
 	
