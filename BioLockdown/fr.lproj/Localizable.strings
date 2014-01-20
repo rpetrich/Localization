@@ -20,6 +20,8 @@
 	MESSAGE_ACTION_TEXT = "message";
 	REARRANGE_ICONS_ACTION_TEXT = "réarranger les icônes";
 	SHUT_DOWN_DEVICE_ACTION_TEXT = "éteindre l'appareil";
+	ACTIVATE_SIRI_ACTION_TEXT = "activer Siri";
+	ACTIVATE_SPOTLIGHT = "activer Spotlight";
 
 	RESTRICTION_TYPE_APPLICATION = "Application";
 	RESTRICTION_TYPE_APPLICATION_PLURAL = "Apps";
@@ -27,6 +29,8 @@
 	RESTRICTION_TYPE_SETTINGS_PANE_PLURAL = "Panneaux de Réglages";
 	RESTRICTION_TYPE_SWITCH = "Interrupteur";
 	RESTRICTION_TYPE_SWITCH_PLURAL = "Interrupteurs";
+	RESTRICTION_TYPE_FEATURE = "Fonction";
+	RESTRICTION_TYPE_FEATURE_PLURAL = "Fonctions";
 	RESTRICTION_TYPE_UNKNOWN = "Inconnu";
 
 	RESTRICTIONS_HEADER = "Restrictions";
@@ -59,6 +63,7 @@
 	FINGERPRINTS_SETTING_HEADER = "Empreintes";
 	PASSCODES_SETTING_HEADER = "Mots de passe";
 	WIFI_NETWORKS_SETTING_HEADER = "Réseaux Wi-Fi";
+
 	WIFI_NETWORK_NAME_SETTING_PREFIX = "Nom du Réseau: ";
     
 	DEVICE_PASSCODE_SETTING = "Mot de passe de l'appareil";
@@ -78,4 +83,9 @@
 	APP_SWITCHER_PRIVACY_VALUE_2 = "Noir";
 
 	SHARE_THE_LOVE = "J'utilise BioLockdown pour protéger l'accès aux apps, réglages et interrupteurs de mon iPhone !";
+	
+	"feature:device-power-off" = "Éteindre l'appareil";
+	"feature:rearrange-icons" = "Réarranger les icônes";
+	"feature:assistant" = "Siri";
+	"feature:spotlight" = "Spotlight";
 }
