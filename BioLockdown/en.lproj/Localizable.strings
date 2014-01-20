@@ -20,6 +20,8 @@
 	MESSAGE_ACTION_TEXT = "message";
 	REARRANGE_ICONS_ACTION_TEXT = "rearrange icons";
 	SHUT_DOWN_DEVICE_ACTION_TEXT = "shut down device";
+	ACTIVATE_SIRI_ACTION_TEXT = "activate Siri";
+	ACTIVATE_SPOTLIGHT = "activate Spotlight";
 
 	RESTRICTION_TYPE_APPLICATION = "Application";
 	RESTRICTION_TYPE_APPLICATION_PLURAL = "Apps";
@@ -27,6 +29,8 @@
 	RESTRICTION_TYPE_SETTINGS_PANE_PLURAL = "Settings Panes";
 	RESTRICTION_TYPE_SWITCH = "Switch";
 	RESTRICTION_TYPE_SWITCH_PLURAL = "Switches";
+	RESTRICTION_TYPE_FEATURE = "Feature";
+	RESTRICTION_TYPE_FEATURE_PLURAL = "Features";
 	RESTRICTION_TYPE_UNKNOWN = "Unknown";
 
 	RESTRICTIONS_HEADER = "Restrictions";
@@ -79,4 +83,9 @@
 	APP_SWITCHER_PRIVACY_VALUE_2 = "Black";
 
 	SHARE_THE_LOVE = "I'm using BioLockdown to protect access to my iPhone's apps, settings and switches!";
+
+	"feature:device-power-off" = "Power Off Device";
+	"feature:rearrange-icons" = "Rearrange Icons";
+	"feature:assistant" = "Siri";
+	"feature:spotlight" = "Spotlight";
 }
