@@ -5,6 +5,8 @@
 	FINGERPRINT_REQUIRED_TO_PREFIX = "需要指纹验证以";
 	PASSCODE_REQUIRED_TO_PREFIX = "需要密码以";
 	CANCEL_BUTTON_TEXT = "取消";
+	USE_PASSCODE_BUTTON_TEXT = "使用密码";
+	AUTHENTICATE_BUTTON_TEXT = "验证";
 	OPEN_ACTION_TEXT = "打开";
 	REOPEN_ACTION_TEXT = "重新打开";
 	LAUNCH_ACTION_TEXT = "启动";
@@ -16,15 +18,19 @@
 	HOLD_ACTION_TEXT = "保持";
 	DELETE_ACTION_TEXT = "删除";
 	MESSAGE_ACTION_TEXT = "信息";
-	REARRANGE_ICONS_ACTION_TEXT = "重新布置图标";
+	REARRANGE_ICONS_ACTION_TEXT = "重排图标";
 	SHUT_DOWN_DEVICE_ACTION_TEXT = "关机";
+	ACTIVATE_SIRI_ACTION_TEXT = "激活 Siri";
+	ACTIVATE_SPOTLIGHT = "激活 Spotlight";
 
 	RESTRICTION_TYPE_APPLICATION = "应用程序";
 	RESTRICTION_TYPE_APPLICATION_PLURAL = "应用程序";
 	RESTRICTION_TYPE_SETTINGS_PANE = "设置页面";
 	RESTRICTION_TYPE_SETTINGS_PANE_PLURAL = "设置页面";
-	RESTRICTION_TYPE_SWITCH = "功能开关";
-	RESTRICTION_TYPE_SWITCH_PLURAL = "功能开关";
+	RESTRICTION_TYPE_SWITCH = "开关";
+	RESTRICTION_TYPE_SWITCH_PLURAL = "开关";
+	RESTRICTION_TYPE_FEATURE = "功能";
+	RESTRICTION_TYPE_FEATURE_PLURAL = "功能";
 	RESTRICTION_TYPE_UNKNOWN = "未知";
 
 	RESTRICTIONS_HEADER = "访问限制";
@@ -75,4 +81,9 @@
 	APP_SWITCHER_PRIVACY_VALUE_2 = "黑色";
 
 	SHARE_THE_LOVE = "我正在使用 BioLockdown 来保护我 iPhone 上的应用程序，设置和功能开关！";
+
+	"feature:device-power-off" = "关闭电源";
+	"feature:rearrange-icons" = "重排图标";
+	"feature:assistant" = "Siri";
+	"feature:spotlight" = "Spotlight";
 }
