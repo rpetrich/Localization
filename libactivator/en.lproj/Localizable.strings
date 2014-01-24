@@ -486,6 +486,7 @@
 	"LISTENER_GROUP_TITLE_Switches" = "Switches";
 	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Switches (Activate)";
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
+	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Fingerprint Sensor";
 
 	/* Custom Events */
 
@@ -548,7 +549,9 @@
 	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Connected to any Wi-Fi network";
 	"EVENT_TITLE_libactivator.network.left-wifi" = "Left Wi-Fi";
 	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Disconnected from Wi-Fi network";
-	
+
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Recieve \"%@\" fingerprint match";
+
 	/* Listener Names */
 
 	"LISTENER_DESCRIPTION_switch-flip" = "Activate/deactivate switch";
@@ -591,7 +594,7 @@
 
 	"LISTENER_TITLE_libactivator.system.activate-control-center" = "Activate Control Center";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Show settings control center";
-	
+
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Activate Switcher";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Show application switcher";
 
