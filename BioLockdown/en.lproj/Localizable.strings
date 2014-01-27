@@ -74,6 +74,15 @@
 	CUSTOM_PASSCODE_DESCRIPTION = "Custom passcode";
 	ACCESS_TYPE_DESCRIPTION_SEPARATOR = ", ";
 
+	VIBRATION_SETTING = "Vibration";
+	VIBRATION_EXPLANATION = "Vibrate upon receiving a passcode/fingerprint";
+
+	VIBRATION_TITLE = "Vibration";
+	VIBRATION_VALUE_0 = "No Vibration";
+	VIBRATION_VALUE_1 = "Only Upon Failure";
+	VIBRATION_VALUE_2 = "Only Upon Success";
+	VIBRATION_VALUE_3 = "Upon Either Success or Failure";
+
 	APP_SWITCHER_PRIVACY_SETTING = "App Switcher Privacy";
 	APP_SWITCHER_PRIVACY_EXPLANATION = "Adjust styling of locked apps in switcher";
 
