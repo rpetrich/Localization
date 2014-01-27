@@ -168,7 +168,7 @@
 	"EVENT_GROUP_TITLE_Switches (Activate)" = "Interruttori (Attiva)";
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Interruttori (Disattiva)";
 	"EVENT_GROUP_TITLE_Network Status" = "Stato rete";
-	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Sensore impronte digitali";
+	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Impronte digitali";
 
 	/* Events */
 
@@ -477,7 +477,7 @@
 	"LISTENER_GROUP_TITLE_Power" = "Alimentazione";
 	"LISTENER_GROUP_TITLE_Audio" = "Audio";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
-	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
+	"LISTENER_GROUP_TITLE_Web Clips" = "Clip WEB";
 	"LISTENER_GROUP_TITLE_Sharing" = "Condivisione";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 	"LISTENER_GROUP_TITLE_Contacts" = "Contatti";
@@ -486,6 +486,7 @@
 	"LISTENER_GROUP_TITLE_Switches" = "Interruttori";
 	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruttori (Attiva)";
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruttori (Disattiva)";
+	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Impronte digitali";
 
 	/* Custom Events */
 
@@ -549,6 +550,8 @@
 	"EVENT_TITLE_libactivator.network.left-wifi" = "Disconnessione rete Wi-Fi";
 	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Disconnessione da una rete Wi-Fi";
 
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Riconoscimento impronta \"%@\" valida";
+
 	/* Listener Names */
 
 	"LISTENER_DESCRIPTION_switch-flip" = "Alterna attiva/disattiva l'interruttore";
@@ -578,7 +581,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Simula il pulsante power";
 
 	"LISTENER_TITLE_libactivator.system.spotlight" = "Spotlight";
-	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Mostra il cerca";
+	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Mostra la ricerca";
 
 	"LISTENER_TITLE_libactivator.system.take-screenshot" = "Cattura schermo";
 	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Cattura il contenuto dello schermo";
@@ -591,7 +594,7 @@
 
 	"LISTENER_TITLE_libactivator.system.activate-control-center" = "Centro di controllo";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Mostra il centro di controllo";
-	
+
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Selettore applicazioni";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Mostra il selettore applicazioni";
 
@@ -604,7 +607,7 @@
 	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "Prima pagina";
 	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Salta alla prima pagina di icone";
 
-	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Attiva centro notifiche";
+	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Centro notifiche";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Mostra il centro notifiche";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Componi tweet";
