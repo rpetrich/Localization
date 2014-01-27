@@ -2,8 +2,11 @@
 	APPLICATION_ACTION_TEXT_FORMAT = "%@ %@";
 	SWITCH_ACTION_TEXT_FORMAT = "%@ %@";
 	SETTINGS_PANE_ACTION_TEXT_FORMAT = "%@ %@";
-	FINGERPRINT_REQUIRED_TO_PREFIX = "Impronta digitale richiesta per ";
+	FINGERPRINT_REQUIRED_TO_PREFIX = "Impronta richiesta per ";
+	PASSCODE_REQUIRED_TO_PREFIX = "Codice richiesto per ";
 	CANCEL_BUTTON_TEXT = "Annulla";
+	USE_PASSCODE_BUTTON_TEXT = "Utilizza codice";
+	AUTHENTICATE_BUTTON_TEXT = "Autentica";
 	OPEN_ACTION_TEXT = "aprire";
 	REOPEN_ACTION_TEXT = "riaprire";
 	LAUNCH_ACTION_TEXT = "avviare";
@@ -15,7 +18,10 @@
 	HOLD_ACTION_TEXT = "tenere";
 	DELETE_ACTION_TEXT = "eliminare";
 	MESSAGE_ACTION_TEXT = "messaggiare";
+	REARRANGE_ICONS_ACTION_TEXT = "riordinare le icone";
 	SHUT_DOWN_DEVICE_ACTION_TEXT = "spegnere il dispositivo";
+	ACTIVATE_SIRI_ACTION_TEXT = "attivare Siri";
+	ACTIVATE_SPOTLIGHT = "attivare Spotlight";
 
 	RESTRICTION_TYPE_APPLICATION = "Applicazione";
 	RESTRICTION_TYPE_APPLICATION_PLURAL = "Applicazioni";
@@ -23,6 +29,8 @@
 	RESTRICTION_TYPE_SETTINGS_PANE_PLURAL = "Impostazioni";
 	RESTRICTION_TYPE_SWITCH = "Interruttore";
 	RESTRICTION_TYPE_SWITCH_PLURAL = "Interruttori";
+	RESTRICTION_TYPE_FEATURE = "Funzione";
+	RESTRICTION_TYPE_FEATURE_PLURAL = "Funzioni";
 	RESTRICTION_TYPE_UNKNOWN = "Sconosciuto";
 
 	RESTRICTIONS_HEADER = "Restrizioni";
@@ -43,10 +51,52 @@
 	GRACE_PERIOD_VALUE_1800 = "Dopo 30 minuti";
 	GRACE_PERIOD_VALUE_3600 = "Dopo 1 ora";
 
+	GRACE_PERIOD_VALUE_UPON_DEVICE_LOCK = "Fino al blocco shcermo";
+
+	TOUCH_ID_SETTING = "Touch ID";
+	TOUCH_ID_EXPLANATION = "Aggiungi o rimuovi impronte";
+
 	NEW_RESTRICTION_BUTTON = "Nuova restrizione";
 	NEW_RESTRICTION_EXPLANATION = "Blocca app, impostazioni o interruttori";
 
 	NEW_RESTRICTION_TITLE = "Nuova restrizione";
 
+	ACCESS_TYPES_SETTING = "Metodi di accesso";
+	FINGERPRINTS_SETTING_HEADER = "Impronte digitali";
+	PASSCODES_SETTING_HEADER = "Codice";
+	WIFI_NETWORKS_SETTING_HEADER = "Reti Wi-Fi";
+
+	WIFI_NETWORK_NAME_SETTING_PREFIX = "Nome rete: ";
+
+	DEVICE_PASSCODE_SETTING = "Codice dispositivo";
+	CUSTOM_PASSCODE_SETTING_PREFIX = "Personalizzato: ";
+
+	ALL_PRINTS_DESCRIPTION = "Tutte le impronte";
+	DEVICE_PASSCODE_DESCRIPTION = "Codice dispositivo";
+	CUSTOM_PASSCODE_DESCRIPTION = "Codice personalizzato";
+	ACCESS_TYPE_DESCRIPTION_SEPARATOR = ", ";
+
+	VIBRATION_SETTING = "Vibrazione";
+	VIBRATION_EXPLANATION = "Vibra al riconoscimento del codice/imporonta";
+
+	VIBRATION_TITLE = "Vibrazione";
+	VIBRATION_VALUE_0 = "Nessuna vibrazione";
+	VIBRATION_VALUE_1 = "In caso di errore";
+	VIBRATION_VALUE_2 = "Riconoscimento valido";
+	VIBRATION_VALUE_3 = "Entrambi";
+
+	APP_SWITCHER_PRIVACY_SETTING = "Privacy selettore app.;
+	APP_SWITCHER_PRIVACY_EXPLANATION = "Regola stile delle applicazioni bloccate nel selettore";
+
+	APP_SWITCHER_PRIVACY_TITLE = "Privacy selettore app.";
+	APP_SWITCHER_PRIVACY_VALUE_0 = "Visibile";
+	APP_SWITCHER_PRIVACY_VALUE_1 = "Sfocato";
+	APP_SWITCHER_PRIVACY_VALUE_2 = "Nero";
+
 	SHARE_THE_LOVE = "Sto utilizzando BioLockdown per proteggere l'accesso alle mie applicazioni, impostazioni ed interruttori sul mio iPhone!";
+
+	"feature:device-power-off" = "Spegnimento dispositivo";
+	"feature:rearrange-icons" = "Riordinamento icone";
+	"feature:assistant" = "Siri";
+	"feature:spotlight" = "Spotlight";
 }
