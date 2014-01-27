@@ -51,6 +51,8 @@
 	GRACE_PERIOD_VALUE_1800 = "After 30 minutes";
 	GRACE_PERIOD_VALUE_3600 = "After 1 hour";
 
+	GRACE_PERIOD_VALUE_UPON_DEVICE_LOCK = "Upon Device Lock";
+
 	TOUCH_ID_SETTING = "Touch ID";
 	TOUCH_ID_EXPLANATION = "Add or remove fingerprints";
 
