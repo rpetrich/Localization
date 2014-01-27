@@ -50,6 +50,8 @@
 	GRACE_PERIOD_VALUE_900 = "Après 15 minutes";
 	GRACE_PERIOD_VALUE_1800 = "Après 30 minutes";
 	GRACE_PERIOD_VALUE_3600 = "Après 1 heure";
+    
+    GRACE_PERIOD_VALUE_UPON_DEVICE_LOCK = "Dés Verrouillage de l'Appareil";
 	
 	TOUCH_ID_SETTING = "Touch ID";
 	TOUCH_ID_EXPLANATION = "Ajouter ou supprimer vos empreintes";
@@ -73,6 +75,15 @@
 	DEVICE_PASSCODE_DESCRIPTION = "Mot de passe de l'appareil";
 	CUSTOM_PASSCODE_DESCRIPTION = "Mot de passe personnalisé";
 	ACCESS_TYPE_DESCRIPTION_SEPARATOR = ", ";
+    
+    VIBRATION_SETTING = "Vibration";
+    VIBRATION_EXPLANATION = "Vibrer à la réception d'un(e) code/empreinte";
+    
+    VIBRATION_TITLE = "Vibration";
+    VIBRATION_VALUE_0 = "Aucune Vibration";
+    VIBRATION_VALUE_1 = "Seulement après échec";
+    VIBRATION_VALUE_2 = "Seulement après succès";
+    VIBRATION_VALUE_3 = "Après Succès ou Échec";
 	
 	APP_SWITCHER_PRIVACY_SETTING = "Confidentialité du App Switcher";
 	APP_SWITCHER_PRIVACY_EXPLANATION = "Ajuster le style des applications protégées dans le switcher";
