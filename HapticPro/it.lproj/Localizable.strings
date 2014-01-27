@@ -15,12 +15,12 @@
 	"Test Keyboard" = "Prova tastiera";
 
 	"HapticPro-Advanced" = "Impostazioni avanzate";
-	"Reset to Defaults" = "Reimposta impostazioni";
+	"Reset to Defaults" = "Reimposta predefinite";
 	"Are you sure you wish to reset HapticPro to the default settings?" = "Sei sicuro di voler ripristinare le impostazioni predefinite di HapticPro?";
 	"Cancel" = "Annulla";
 	"Reset" = "Reimposta";
 	
-	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "A causa delle limitazioni dell'iPhone OS 3.0, HapticPro verrà disabilitato durante la riproduzione audio.";
+	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "A causa delle limitazioni di iPhone OS 3.0, HapticPro verrà disabilitato durante la riproduzione audio.";
 	
 	
 	"Intensity" = "Intensità";
