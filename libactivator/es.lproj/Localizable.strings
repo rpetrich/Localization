@@ -486,6 +486,7 @@
 	"LISTENER_GROUP_TITLE_Switches" = "Interruptores";
 	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activar)";
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Desactivar)";
+	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Sensor de huellas";
 
 	/* Custom Events */
 
@@ -548,6 +549,8 @@
 	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Conectado a cualquier red Wi-Fi";
 	"EVENT_TITLE_libactivator.network.left-wifi" = "Abandonar Wi-Fi";
 	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Desconectado de una red Wi-Fi";
+	
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Recibir \"%@\" huella coincide";
 
 	/* Listener Names */
 
