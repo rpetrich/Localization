@@ -33,12 +33,19 @@
 	"iPhone Mode" = "iPhone Mode";
 	"Enhanced Resolution" = "Enhanced Resolution";
 	"Tall Mode" = "Tall Mode";
+	"Tall Mode (Cropped)" = "Tall Mode (Cropped)";
 	"Large Canvas" = "Large Canvas";
+	"Large Canvas (with Status Bar)" = "Large Canvas (with Status Bar)";
 	"Larger Canvas" = "Larger Canvas";
+	"Larger Canvas (no Status Bar)" = "Larger Canvas (no Status Bar)";
 	"Overflow Canvas" = "Overflow Canvas";
+	"Overflow Canvas Mode (Cropped)" = "Overflow Canvas Mode (Cropped)";
+	"Sedan Mode" = "Sedan Mode";
 	"iPad Mode" = "iPad Mode";
 	
 	"iPhone Applications" = "iPhone Applications";
 	"iPad Applications" = "iPad Applications";
 	"Force Allow Landscape" = "Force Allow Landscape";
+	
+	"Applications that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Applications that are currently running must be closed via the multitasking switcher bar for changes to take effect.";
 }
