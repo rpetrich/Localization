@@ -29,4 +29,16 @@
 	"Nothing" = "无";
 	"Machine Name" = "设备名称";	
 	"Machine and Hardware Name" = "设备和硬件名称";
+
+	"iPhone Mode" = "iPhone 模式";
+	"Enhanced Resolution" = "增强分辨率";
+	"Tall Mode" = "拉长模式";
+	"Large Canvas" = "较大显示区域";
+	"Larger Canvas" = "更大显示区域";
+	"Overflow Canvas" = "溢出显示区域";
+	"iPad Mode" = "iPad 模式";
+	
+	"iPhone Applications" = "iPhone 应用程序";
+	"iPad Applications" = "iPad 应用程序";
+	"Force Allow Landscape" = "强制允许横屏显示";
 }

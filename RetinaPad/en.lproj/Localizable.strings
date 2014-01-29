@@ -29,4 +29,16 @@
 	Nothing = Nothing;
 	"Machine Name" = "Machine Name";
 	"Machine and Hardware Name" = "Machine and Hardware Name";
+
+	"iPhone Mode" = "iPhone Mode";
+	"Enhanced Resolution" = "Enhanced Resolution";
+	"Tall Mode" = "Tall Mode";
+	"Large Canvas" = "Large Canvas";
+	"Larger Canvas" = "Larger Canvas";
+	"Overflow Canvas" = "Overflow Canvas";
+	"iPad Mode" = "iPad Mode";
+	
+	"iPhone Applications" = "iPhone Applications";
+	"iPad Applications" = "iPad Applications";
+	"Force Allow Landscape" = "Force Allow Landscape";
 }
