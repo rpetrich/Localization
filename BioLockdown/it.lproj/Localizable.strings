@@ -11,10 +11,10 @@
 	REOPEN_ACTION_TEXT = "riaprire";
 	LAUNCH_ACTION_TEXT = "avviare";
 	SWITCH_TO_ACTION_TEXT = "passare a";
-	ENABLE_ACTION_TEXT = "abilitare";
-	DISABLE_ACTION_TEXT = "disabilitare";
+	ENABLE_ACTION_TEXT = "attivare";
+	DISABLE_ACTION_TEXT = "disattivare";
 	ADJUST_ACTION_TEXT = "regolare";
-	TOGGLE_ACTION_TEXT = "alternare";
+	TOGGLE_ACTION_TEXT = "alternare lo stato di";
 	HOLD_ACTION_TEXT = "tenere";
 	DELETE_ACTION_TEXT = "eliminare";
 	MESSAGE_ACTION_TEXT = "messaggiare";
@@ -63,7 +63,7 @@
 
 	ACCESS_TYPES_SETTING = "Metodi di accesso";
 	FINGERPRINTS_SETTING_HEADER = "Impronte digitali";
-	PASSCODES_SETTING_HEADER = "Codice";
+	PASSCODES_SETTING_HEADER = "Codici";
 	WIFI_NETWORKS_SETTING_HEADER = "Reti Wi-Fi";
 
 	WIFI_NETWORK_NAME_SETTING_PREFIX = "Nome rete: ";
@@ -77,7 +77,7 @@
 	ACCESS_TYPE_DESCRIPTION_SEPARATOR = ", ";
 
 	VIBRATION_SETTING = "Vibrazione";
-	VIBRATION_EXPLANATION = "Vibra al riconoscimento del codice/impronta";
+	VIBRATION_EXPLANATION = "Vibra alla ricezione del codice/impronta";
 
 	VIBRATION_TITLE = "Vibrazione";
 	VIBRATION_VALUE_0 = "Nessuna vibrazione";
@@ -85,15 +85,15 @@
 	VIBRATION_VALUE_2 = "Riconoscimento valido";
 	VIBRATION_VALUE_3 = "Entrambi";
 
-	APP_SWITCHER_PRIVACY_SETTING = "Privacy selettore app.";
-	APP_SWITCHER_PRIVACY_EXPLANATION = "Regola stile delle applicazioni bloccate nel selettore";
+	APP_SWITCHER_PRIVACY_SETTING = "Selettore applicazioni";
+	APP_SWITCHER_PRIVACY_EXPLANATION = "Stile delle applicazioni bloccate nel selettore";
 
-	APP_SWITCHER_PRIVACY_TITLE = "Privacy selettore app.";
+	APP_SWITCHER_PRIVACY_TITLE = "Selettore applicazioni";
 	APP_SWITCHER_PRIVACY_VALUE_0 = "Visibile";
 	APP_SWITCHER_PRIVACY_VALUE_1 = "Sfocato";
 	APP_SWITCHER_PRIVACY_VALUE_2 = "Nero";
 
-	SHARE_THE_LOVE = "Sto utilizzando BioLockdown per proteggere l'accesso alle mie applicazioni, impostazioni ed interruttori sul mio iPhone!";
+	SHARE_THE_LOVE = "Sto utilizzando BioLockdown per proteggere l'accesso alle applicazioni, impostazioni ed interruttori del mio iPhone!";
 
 	"feature:device-power-off" = "Spegnimento dispositivo";
 	"feature:rearrange-icons" = "Riordinamento icone";
