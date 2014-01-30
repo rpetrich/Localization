@@ -85,7 +85,7 @@
 	VIBRATION_VALUE_2 = "Riconoscimento valido";
 	VIBRATION_VALUE_3 = "Entrambi";
 
-	APP_SWITCHER_PRIVACY_SETTING = "Privacy selettore app.;
+	APP_SWITCHER_PRIVACY_SETTING = "Privacy selettore app.";
 	APP_SWITCHER_PRIVACY_EXPLANATION = "Regola stile delle applicazioni bloccate nel selettore";
 
 	APP_SWITCHER_PRIVACY_TITLE = "Privacy selettore app.";
