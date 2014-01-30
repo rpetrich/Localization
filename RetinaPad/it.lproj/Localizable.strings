@@ -29,4 +29,23 @@
 	Nothing = Nessuno;
 	"Machine Name" = "Nome macchina";
 	"Machine and Hardware Name" = "Nome macchina ed hardware";
+
+	"iPhone Mode" = "Modalità iPhone";
+	"Enhanced Resolution" = "Enhanced Resolution";
+	"Tall Mode" = "Tall Mode";
+	"Tall Mode (Cropped)" = "Tall Mode (Cropped)";
+	"Large Canvas" = "Large Canvas";
+	"Large Canvas (with Status Bar)" = "Large Canvas (with Status Bar)";
+	"Larger Canvas" = "Larger Canvas";
+	"Larger Canvas (no Status Bar)" = "Larger Canvas (no Status Bar)";
+	"Overflow Canvas" = "Overflow Canvas";
+	"Overflow Canvas Mode (Cropped)" = "Overflow Canvas Mode (Cropped)";
+	"Sedan Mode" = "Sedan Mode";
+	"iPad Mode" = "Modalità iPad";
+	
+	"iPhone Applications" = "Applicazioni iPhone";
+	"iPad Applications" = "Applicazioni iPad";
+	"Force Allow Landscape" = "Forza orizzontale";
+	
+	"Applications that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Le applicazioni attualmente in esecuzione devono essere chiuse tramite il selettore applicazioni purché le modifiche abbiano effetto.";
 }
