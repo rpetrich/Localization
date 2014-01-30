@@ -51,7 +51,7 @@
 	GRACE_PERIOD_VALUE_1800 = "Dopo 30 minuti";
 	GRACE_PERIOD_VALUE_3600 = "Dopo 1 ora";
 
-	GRACE_PERIOD_VALUE_UPON_DEVICE_LOCK = "Fino al blocco shcermo";
+	GRACE_PERIOD_VALUE_UPON_DEVICE_LOCK = "Fino al blocco schermo";
 
 	TOUCH_ID_SETTING = "Touch ID";
 	TOUCH_ID_EXPLANATION = "Aggiungi o rimuovi impronte";
@@ -77,7 +77,7 @@
 	ACCESS_TYPE_DESCRIPTION_SEPARATOR = ", ";
 
 	VIBRATION_SETTING = "Vibrazione";
-	VIBRATION_EXPLANATION = "Vibra al riconoscimento del codice/imporonta";
+	VIBRATION_EXPLANATION = "Vibra al riconoscimento del codice/impronta";
 
 	VIBRATION_TITLE = "Vibrazione";
 	VIBRATION_VALUE_0 = "Nessuna vibrazione";
