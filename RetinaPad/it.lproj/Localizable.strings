@@ -47,5 +47,5 @@
 	"iPad Applications" = "Applicazioni iPad";
 	"Force Allow Landscape" = "Forza orizzontale";
 	
-	"Applications that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Le applicazioni attualmente in esecuzione devono essere chiuse tramite il selettore applicazioni purché le modifiche abbiano effetto.";
+	"Applications that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Le applicazioni attualmente in esecuzione devono essere chiuse tramite il selettore applicazioni affinché le modifiche abbiano effetto.";
 }
