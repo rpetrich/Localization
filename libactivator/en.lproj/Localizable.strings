@@ -520,6 +520,11 @@
 	"EVENT_TITLE_libactivator.icon.hold_FORMAT" = "%@ Icon Hold";
 	"EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT" = "Tap & Hold %@ SpringBoard icon";
 
+	"NEW_EVENT_TITLE_libactivator.icon.tap.double" = "Icon Double Tap";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.tap.double" = "A specific icon is double tapped";
+	"EVENT_TITLE_libactivator.icon.tap.double_FORMAT" = "%@ Icon Double Tap";
+	"EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT" = "Double tap %@ SpringBoard icon";
+
 	"NEW_EVENT_TITLE_libactivator.scheduled" = "Scheduled";
 	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "Specific weekday and time passes";
 	"EVENT_DESCRIPTION_libactivator.scheduled" = "Time passes on %@";
