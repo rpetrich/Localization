@@ -515,6 +515,11 @@
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ Icon Flick Right";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Flick %@ SpringBoard icon right";
 
+	"NEW_EVENT_TITLE_libactivator.icon.hold" = "Icon Hold";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.hold" = "A specific icon is touched and held";
+	"EVENT_TITLE_libactivator.icon.hold_FORMAT" = "%@ Icon Hold";
+	"EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT" = "Tap & Hold %@ SpringBoard icon";
+
 	"NEW_EVENT_TITLE_libactivator.scheduled" = "Scheduled";
 	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "Specific weekday and time passes";
 	"EVENT_DESCRIPTION_libactivator.scheduled" = "Time passes on %@";
