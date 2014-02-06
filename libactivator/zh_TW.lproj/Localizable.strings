@@ -490,6 +490,16 @@
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "向右拖 %@ 的圖示";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "向右輕拖 %@ 『主畫面』圖示";
 
+	"NEW_EVENT_TITLE_libactivator.icon.hold" = "按住圖示";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.hold" = "按住某個應用程式的圖示";
+	"EVENT_TITLE_libactivator.icon.hold_FORMAT" = "按住 %@ 圖示";
+	"EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT" = "按住 %@ 『主畫面』圖示";
+
+	"NEW_EVENT_TITLE_libactivator.icon.tap.double" = "按兩下圖示";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.tap.double" = "按兩下某個應用程式的圖示";
+	"EVENT_TITLE_libactivator.icon.tap.double_FORMAT" = "按兩下 %@ 圖示";
+	"EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT" = "按兩下 %@ 『主畫面』圖示";
+
 	"NEW_EVENT_TITLE_libactivator.scheduled" = "計畫事件";
 	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "指定每週的那幾天及時間";
 	"EVENT_DESCRIPTION_libactivator.scheduled" = "%@的該時刻";
@@ -543,7 +553,7 @@
 	"LISTENER_GROUP_TITLE_Settings" = "設定";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "增強滾屏";
 	"LISTENER_GROUP_TITLE_Web Clips" = "網頁剪輯";
-	"LISTENER_GROUP_TITLE_Sharing" = "分享";
+	"LISTENER_GROUP_TITLE_Sharing" = "共享";
 	"LISTENER_GROUP_TITLE_Device UIRotation" = "裝置方向";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 	"LISTENER_GROUP_TITLE_Contacts" = "聯絡資訊";
