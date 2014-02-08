@@ -1,60 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>Allow Upside Down</key>
-	<string>Переворот</string>
-	<key>Always Zoom</key>
-	<string>Всегда увеличивать</string>
-	<key>Apply</key>
-	<string>Применить</string>
-	<key>Cancel</key>
-	<string>Отмена</string>
-	<key>Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect.</key>
-	<string>Запущенные приложения должны быть закрыты через панель многозадачности для принятия изменений.</string>
-	<key>Customize which applications Retina mode is applied to.</key>
-	<string>Выбрать приложения для запуска в режиме режиме Retina.</string>
-	<key>Enabled Applications</key>
-	<string>Активно для приложений</string>
-	<key>Fake</key>
-	<string>Подменять идентификатор</string>
-	<key>Machine Name</key>
-	<string>Устройства</string>
-	<key>Machine and Hardware Name</key>
-	<string>Устройства и железа</string>
-	<key>Nothing</key>
-	<string>Нет</string>
-	<key>OK</key>
-	<string>OK</string>
-	<key>Portrait in Landscape</key>
-	<string>Портретная ориент. в альбомной</string>
-	<key>RetinaPad</key>
-	<string>RetinaPad</string>
-	<key>Show Simulated Chrome</key>
-	<string>Показывать рамку</string>
-	<key>System Applications</key>
-	<string>Системные приложения</string>
-	<key>System Information</key>
-	<string>Системная информация</string>
-	<key>This feature is in beta and is unsupported, for now.</key>
-	<string>Эта функция находится в разработке и пока не поддерживается.</string>
-	<key>This is the first time this classic application has been launched with RetinaPad installed.
+{
+	RetinaPad = RetinaPad;
 
-Do you wish to apply retina mode?
+	"Enabled Applications" = "Активно для приложений";
+	"System Applications" = "Системные приложения";
+	"User Applications" = "Установленные приложения";
+	"Customize which applications Retina mode is applied to." = "Customize which applications Retina mode is applied to.";
 
-More settings may be found in RetinaPad's Settings pane.</key>
-	<string>Данное приложение не было выбрано для работы в режиме Retina.
+	"Always Zoom" = "Увеличить";
+	"Allow Upside Down" = "Переворот";
+	"Show Simulated Chrome" = "Показывать рамку";
+	"Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Запущенные приложения должны быть закрыты через панель многозадачности для применения изменений.";
 
-Активировать режим Retina?
+	"Portrait in Landscape" = "Вертикальная ориентация в горизонтальной";
+	"This feature is in beta and is unsupported, for now." = "Эта функция находится в разработке и пока не поддерживается.";
 
-Больше настроек находится в Настройках в разделе RetinaPad.</string>
-	<key>To enter retina mode kill %@ via the multitasking switcher bar.</key>
-	<string>Для активации режима Retina закройте %@ через панель многозадачности.</string>
-	<key>To exit retina mode kill %@ via the multitasking switcher bar.</key>
-	<string>Для деактивации режима Retina %@ через панель многозадачности.</string>
-	<key>User Applications</key>
-	<string>Установленные приложения</string>
-	<key>this application</key>
-	<string>это приложение</string>
-</dict>
-</plist>
+	OK = OK;
+	Cancel = Отмена;
+	Apply = Применить;
+
+	"To enter retina mode kill %@ via the multitasking switcher bar." = "Для активации режима Retina закройте %@ через панель многозадачности.";
+	"To exit retina mode kill %@ via the multitasking switcher bar." = "Для деактивации режима Retina %@ через панель многозадачности.";
+	"this application" = "данное приложение";
+
+	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "Данное приложение не было выбрано для работы в режиме Retina.\n\nАктивировать режим Retina?\n\nБольше настроек находится в Настройках в разделе RetinaPad.";
+
+	"System Information" = "Системная информация";
+	Fake = Подменять идентификатор;
+	Nothing = Ничего;
+	"Machine Name" = "Устройства";
+	"Machine and Hardware Name" = "Устройства и железа";
+
+	"iPhone Mode" = "Режим iPhone";
+	"Enhanced Resolution" = "Улучшенное разрешение";
+	"Tall Mode" = "Растянуть по вертикали";
+	"Tall Mode (Cropped)" = "Растянуть по вертикали (обрезать)";
+	"Large Canvas" = "Заполнение";
+	"Large Canvas (with Status Bar)" = "Заполнение (с статус баром)";
+	"Larger Canvas" = "Заполнение+";
+	"Larger Canvas (no Status Bar)" = "Заполнение+ (без статус бара)";
+	"Overflow Canvas" = "Перезаполнение";
+	"Overflow Canvas Mode (Cropped)" = "Перезаполнение (обрезать)";
+	"Sedan Mode" = "Sedan Mode";
+	"iPad Mode" = "Режим iPad (рекомендовано)";
+
+	"iPhone Applications" = "Приложения для iPhone";
+	"iPad Applications" = "Приложения для iPad";
+	"Force Allow Landscape" = "Разрешить горизонтальную ориентацию";
+
+	"Applications that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "Запущенные приложения должны быть закрыты через панель многозадачности для применения изменений.";
+}
