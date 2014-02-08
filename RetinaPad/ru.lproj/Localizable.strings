@@ -6,18 +6,32 @@
 	<string>Переворот</string>
 	<key>Always Zoom</key>
 	<string>Всегда увеличивать</string>
+	<key>Applications that are currently running must be closed via the multitasking switcher bar for changes to take effect.</key>
+	<string>Запущенные приложения должны быть закрыты через панель многозадачности для применения изменений.</string>
 	<key>Apply</key>
 	<string>Применить</string>
 	<key>Cancel</key>
 	<string>Отмена</string>
 	<key>Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect.</key>
-	<string>Запущенные приложения должны быть закрыты через панель многозадачности для принятия изменений.</string>
+	<string>Запущенные приложения должны быть закрыты через панель многозадачности для применения изменений.</string>
 	<key>Customize which applications Retina mode is applied to.</key>
 	<string>Выбрать приложения для запуска в режиме режиме Retina.</string>
 	<key>Enabled Applications</key>
 	<string>Активно для приложений</string>
+	<key>Enhanced Resolution</key>
+	<string>Улучшенное разрешение</string>
 	<key>Fake</key>
 	<string>Подменять идентификатор</string>
+	<key>Force Allow Landscape</key>
+	<string>Разрешить горизонтальную ориентацию</string>
+	<key>Large Canvas</key>
+	<string>Заполнение</string>
+	<key>Large Canvas (with Status Bar)</key>
+	<string>Заполнение (со статус баром)</string>
+	<key>Larger Canvas</key>
+	<string>Заполнение+</string>
+	<key>Larger Canvas (no Status Bar)</key>
+	<string>Заполнение+ (без статус бара)</string>
 	<key>Machine Name</key>
 	<string>Устройства</string>
 	<key>Machine and Hardware Name</key>
@@ -26,16 +40,26 @@
 	<string>Нет</string>
 	<key>OK</key>
 	<string>OK</string>
+	<key>Overflow Canvas</key>
+	<string>Перезаполнение</string>
+	<key>Overflow Canvas Mode (Cropped)</key>
+	<string>Перезаполнение (обрезать)</string>
 	<key>Portrait in Landscape</key>
-	<string>Портретная ориент. в альбомной</string>
+	<string>Вертикальная ориентация в горизонтальной</string>
 	<key>RetinaPad</key>
 	<string>RetinaPad</string>
+	<key>Sedan Mode</key>
+	<string>Уместить</string>
 	<key>Show Simulated Chrome</key>
 	<string>Показывать рамку</string>
 	<key>System Applications</key>
 	<string>Системные приложения</string>
 	<key>System Information</key>
 	<string>Системная информация</string>
+	<key>Tall Mode</key>
+	<string>Растянуть по вертикали</string>
+	<key>Tall Mode (Cropped)</key>
+	<string>Растянуть по вертикали (обрезать)</string>
 	<key>This feature is in beta and is unsupported, for now.</key>
 	<string>Эта функция находится в разработке и пока не поддерживается.</string>
 	<key>This is the first time this classic application has been launched with RetinaPad installed.
@@ -54,6 +78,14 @@ More settings may be found in RetinaPad's Settings pane.</key>
 	<string>Для деактивации режима Retina %@ через панель многозадачности.</string>
 	<key>User Applications</key>
 	<string>Установленные приложения</string>
+	<key>iPad Applications</key>
+	<string>Приложения для iPad</string>
+	<key>iPad Mode</key>
+	<string>Режим iPad (рекомендовано)</string>
+	<key>iPhone Applications</key>
+	<string>Приложения для iPhone</string>
+	<key>iPhone Mode</key>
+	<string>Режим iPhone</string>
 	<key>this application</key>
 	<string>это приложение</string>
 </dict>

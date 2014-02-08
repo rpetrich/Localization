@@ -173,7 +173,7 @@
 	/* Events */
 
 	"EVENT_TITLE_libactivator.lock.hold.short" = "Pressione breve";
-	"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "Mantenere premuto il pulsante power";
+	"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "Tenere premuto il pulsante power";
 
 	"EVENT_TITLE_libactivator.lock.press.double" = "Doppia pressione";
 	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "Premere due volte il pulsante power";
@@ -182,13 +182,13 @@
 	"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "Premere power ed home insieme";
 
 	"EVENT_TITLE_libactivator.lock.hold.long" = "Pressione lunga";
-	"EVENT_DESCRIPTION_libactivator.lock.hold.long" = "Mantenere premuto a lungo il pulsante power";
+	"EVENT_DESCRIPTION_libactivator.lock.hold.long" = "Tenere premuto a lungo il pulsante power";
 
 	"EVENT_TITLE_libactivator.menu.hold.short" = "Pressione breve";
-	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Mantenere premuto il pulsante home brevemente";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Tenere premuto il pulsante home brevemente";
 
 	"EVENT_TITLE_libactivator.menu.hold.long" = "Pressione lunga";
-	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Mantenere premuto a lungo il pulsante home";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Tenere premuto a lungo il pulsante home";
 
 	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "Pressione singola";
 	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Premere il pulsante home (SpringBoard)";
@@ -296,7 +296,7 @@
 	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "Allargare le icone con 2 dita";
 
 	"EVENT_TITLE_libactivator.statusbar.hold" = "Pressione";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Mantenere premuto sulla barra di stato";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Tenere premuto sulla barra di stato";
 
 	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Scorrimento (sinistra)";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Scorrere verso sinistra sulla barra di stato";
@@ -308,10 +308,10 @@
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Premere una volta sulla barra di stato";
 
 	"EVENT_TITLE_libactivator.statusbar.hold.left" = "Pressione (sinistra)";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Mantenere premuto sulla parte sinistra della barra di stato";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Tenere premuto sulla parte sinistra della barra di stato";
 
 	"EVENT_TITLE_libactivator.statusbar.hold.right" = "Pressione (destra)";
-	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Mantenere premuto sulla parte destra della barra di stato";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Tenere premuto sulla parte destra della barra di stato";
 
 	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Doppia pressione (sinistra)";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Premere due volte sulla parte sinistra della barra di stato";
@@ -347,10 +347,10 @@
 	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Premere entrambi i pulsanti volume";
 
 	"EVENT_TITLE_libactivator.volume.down.hold.short" = "Pressione breve (giù)";
-	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "Mantenere premuto volume giù";
+	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "Tenere premuto volume giù";
 
 	"EVENT_TITLE_libactivator.volume.up.hold.short" = "Pressione breve (sù)";
-	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Mantenere premuto volume sù";
+	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Tenere premuto volume sù";
 
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Alterna muto";
 	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Alternare l'interruttore muto 2 volte";
@@ -365,7 +365,7 @@
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Premere il pulsante auricolare";
 
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Pressione breve";
-	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Mantenere premuto il pulsante auricolare";
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Tenere premuto il pulsante auricolare";
 
 	"EVENT_TITLE_libactivator.headset.connected" = "Connesso";
 	"EVENT_DESCRIPTION_libactivator.headset.connected" = "Auricolare collegato al dispositivo";
@@ -383,7 +383,7 @@
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right" = "Scorrere verso destra sulla zona ora/data";
 
 	"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "Pressione breve";
-	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "Mantenere premuto sulla zona ora/data";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "Tenere premuto sulla zona ora/data";
 
 	"EVENT_TITLE_libactivator.power.connected" = "Connesso";
 	"EVENT_DESCRIPTION_libactivator.power.connected" = "All'inizio della ricezione di alimentazione";
@@ -514,6 +514,16 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "Scorrere verso destra un'icona specifica";
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ scorrimento (destra)";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Scorrere icona %@ verso destra";
+
+	"NEW_EVENT_TITLE_libactivator.icon.hold" = "Pressione icona";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.hold" = "Tenere premuta un'icona specifica";
+	"EVENT_TITLE_libactivator.icon.hold_FORMAT" = "Pressione icona %@";
+	"EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT" = "Tenere premuta l'icona %@";
+
+	"NEW_EVENT_TITLE_libactivator.icon.tap.double" = "Pressione doppia icona";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.tap.double" = "Premere due volte un'icona specifica";
+	"EVENT_TITLE_libactivator.icon.tap.double_FORMAT" = "Pressione doppia icona %@";
+	"EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT" = "Premere due volte l'icona %@";
 
 	"NEW_EVENT_TITLE_libactivator.scheduled" = "Programmazione";
 	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "Specificazione di giorno ed ora";

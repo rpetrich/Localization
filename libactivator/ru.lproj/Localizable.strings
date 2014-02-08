@@ -55,9 +55,9 @@
 "EVENT_DESCRIPTION_libactivator.lock.hold.short" = "Нажать и держать";
 "EVENT_DESCRIPTION_libactivator.lock.press.double" = "Быстро нажать дважды";
 "EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Дважды коснуться часов";
-"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Нажать и держать клавишу \"Домой\"";
+"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Нажать и держать кнопку \"Домой\"";
 "EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Нажать и держать";
-"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Нажать на экране \"Домой\"";
+"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Нажать на домашнем экране";
 "EVENT_DESCRIPTION_libactivator.menu.press.double" = "Быстро нажать дважды";
 "EVENT_DESCRIPTION_libactivator.menu.press.single" = "Нажать один раз";
 "EVENT_DESCRIPTION_libactivator.menu.press.triple" = "Быстро нажать трижды";
@@ -104,7 +104,7 @@
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "2П:Потянуть статус бар вниз";
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "2П:Провести от левой верхней части экрана к центру";
 "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "2П:Провести от правой верхней части экрана к центру";
-"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Нажать обе клавиши вместе";
+"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Нажать обе кнопки вместе";
 "EVENT_DESCRIPTION_libactivator.volume.display-tap" = "Коснуться окошка громкости";
 "EVENT_DESCRIPTION_libactivator.volume.down-up" = "Нажать нижнюю, потом верхнюю";
 "EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "Нажать и держать нижнюю";
@@ -126,7 +126,7 @@
 "EVENT_GROUP_TITLE_Settings" = "Настройки";
 "EVENT_GROUP_TITLE_Sleep Button" = "Верхняя кнопка";
 "EVENT_GROUP_TITLE_Slide In Gesture" = "Свайпы в центр экрана";
-"EVENT_GROUP_TITLE_SpringBoard" = "Экран \"Домой\"";
+"EVENT_GROUP_TITLE_SpringBoard" = "Домашний экран";
 "EVENT_GROUP_TITLE_Status Bar" = "Статус бар";
 "EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Свайпы Двумя Пальцами";
 "EVENT_GROUP_TITLE_Volume Buttons" = "Кнопки громкости";
@@ -145,7 +145,7 @@
 "EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Двойное касание часов";
 "EVENT_TITLE_libactivator.menu.hold.long" = "Длинное нажатие";
 "EVENT_TITLE_libactivator.menu.hold.short" = "Короткое удержание";
-"EVENT_TITLE_libactivator.menu.press.at-springboard" = "Нажатие на экране \"Домой\"";
+"EVENT_TITLE_libactivator.menu.press.at-springboard" = "Нажатие на домашнем экране";
 "EVENT_TITLE_libactivator.menu.press.double" = "Двойное нажатие";
 "EVENT_TITLE_libactivator.menu.press.single" = "Одиночное нажатие";
 "EVENT_TITLE_libactivator.menu.press.triple" = "Тройное нажатие";
@@ -270,7 +270,7 @@
 "LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Запустить редактор сообщения";
 "LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Запустить Центр Уведомлений";
 "LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Показать панель запущенных прил.";
-"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Перейти к первой странице \"Домой\"";
+"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Перейти к первой странице дом. экрана";
 "LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Имитация нажатия кнопки \"Домой\"";
 "LISTENER_DESCRIPTION_libactivator.system.nothing" = "Пресечь действие по умолчанию";
 "LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Немедленное выключение";
@@ -367,7 +367,7 @@
 "LISTENER_TITLE_libactivator.sms.compose-message" = "Создать сообщение";
 "LISTENER_TITLE_libactivator.system.activate-notification-center" = "Активировать Центр Уведомлений";
 "LISTENER_TITLE_libactivator.system.activate-switcher" = "Показать панель запущенных";
-"LISTENER_TITLE_libactivator.system.first-springboard-page" = "Первая страница \"Домой\"";
+"LISTENER_TITLE_libactivator.system.first-springboard-page" = "Первая страница дом. экрана";
 "LISTENER_TITLE_libactivator.system.homebutton" = "Кнопка \"Домой\"";
 "LISTENER_TITLE_libactivator.system.nothing" = "Ничего не делать";
 "LISTENER_TITLE_libactivator.system.powerdown" = "Выключить";
@@ -401,7 +401,7 @@
 "MODE_TITLE_all" = "Везде";
 "MODE_TITLE_application" = "В приложениях";
 "MODE_TITLE_lockscreen" = "На экране блокировки";
-"MODE_TITLE_springboard" = "На экране \"Домой\"";
+"MODE_TITLE_springboard" = "На домашнем экране";
 "MORE_ACTIONS" = "Больше действий";
 "MORE_ACTIONS_DETAIL" = "Скачать больше действий из Cydia";
 "MULTIPLE_ASSIGNMENTS" = "(несколько)";
@@ -426,7 +426,7 @@
 "SAFE_MODE_MESSAGE" = "Устройство находится в безопасном режиме. Большинство функций Activator отключены. Перезапустие Springboard (Респринг) для перехода в нормальный режим.";
 "SAFE_MODE_RESTART" = "Респринг";
 "SAFE_MODE_TITLE" = "В безопасном режиме";
-"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "Показывать Activator на экране \"Домой\"";
+"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "Показывать Activator на домашнем экране";
 "SHOW_ICON" = "Показывать иконку";
 "TOO_NEW_MESSAGE" = "Activator не тестировался на совместимость с данной версией. Возможно не все функции будут работать как задумано.";
 "TOO_NEW_TITLE" = "Слишком новое ПО";
@@ -517,7 +517,7 @@
 "Very Lenient" = "-2";
 "Loose" = "-3";
 "Very Loose" = "-4";
-"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "Показывать баннеры при выполнении действий";
+"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "Показ баннеров при выполнении действий";
 "LISTENER_TITLE_libactivator.settings.cellular" = "Сотовые данные";
 "LISTENER_DESCRIPTION_libactivator.settings.cellular" = "Открыть Настройки->Сотовые данные";
 "EVENT_GROUP_TITLE_Application Launched" = "Запущено приложение";
@@ -612,3 +612,11 @@
 "EVENT_TITLE_libactivator.fingerprint-sensor.press.single" = "Одиночное касание";
 "EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single" = "Коснуться сканера один раз";
 "EVENT_GROUP_TITLE_Fingerprint Sensor" = "Сканер TouchID";
+"NEW_EVENT_TITLE_libactivator.icon.hold" = "Удержание иконки";
+"NEW_EVENT_DESCRIPTION_libactivator.icon.hold" = "Касание и удержание указанной иконки";
+"EVENT_TITLE_libactivator.icon.hold_FORMAT" = "Удержание иконки %@";
+"EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT" = "Касание и удержание иконки %@";
+"NEW_EVENT_TITLE_libactivator.icon.tap.double" = "Двойное касание иконки";
+"NEW_EVENT_DESCRIPTION_libactivator.icon.tap.double" = "Двойное касание указанной иконки";
+"EVENT_TITLE_libactivator.icon.tap.double_FORMAT" = "Двойное касание %@";
+"EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT" = "Двойное касание иконки %@";

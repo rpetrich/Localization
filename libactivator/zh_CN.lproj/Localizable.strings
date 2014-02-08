@@ -491,6 +491,16 @@
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "%@ 向右拖图标";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "向右轻拖 %@ 主屏幕图标";
 
+	"NEW_EVENT_TITLE_libactivator.icon.hold" = "按住图标";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.hold" = "按住某个应用程序的图标";
+	"EVENT_TITLE_libactivator.icon.hold_FORMAT" = "按住 %@ 图标";
+	"EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT" = "按住 %@ 主屏幕图标";
+
+	"NEW_EVENT_TITLE_libactivator.icon.tap.double" = "按两下图标";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.tap.double" = "按两下某个应用程序的图标";
+	"EVENT_TITLE_libactivator.icon.tap.double_FORMAT" = "按两下 %@ 图标";
+	"EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT" = "按两下 %@ 主屏幕图标";
+
 	"NEW_EVENT_TITLE_libactivator.scheduled" = "计划事件";
 	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "指定每周的哪几天和时间";
 	"EVENT_DESCRIPTION_libactivator.scheduled" = "%@的该时刻";
@@ -544,7 +554,7 @@
 	"LISTENER_GROUP_TITLE_Settings" = "设置";
 	"LISTENER_GROUP_TITLE_SuperScroller" = "增强滚屏";
 	"LISTENER_GROUP_TITLE_Web Clips" = "网页剪辑";
-	"LISTENER_GROUP_TITLE_Sharing" = "分享";
+	"LISTENER_GROUP_TITLE_Sharing" = "共享";
 	"LISTENER_GROUP_TITLE_Device UIRotation" = "设备方向";
 	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
 	"LISTENER_GROUP_TITLE_Contacts" = "通讯录";
