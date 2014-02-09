@@ -98,7 +98,7 @@
 	"ACTION_BANNERS_ALWAYS" = "Sempre";
 	"ACTIVATED" = "Attivato";
 
-	"SHARE_THE_LOVE" = "Sto utilizzando @ActivatorApp per aggiungere gesti personalizzabili e scorciatioie al mio %@!";
+	"SHARE_THE_LOVE" = "Sto utilizzando @ActivatorApp per aggiungere gesti personalizzabili e scorciatoie al mio %@!";
 
 	/* Bookmarks */
 
@@ -129,7 +129,7 @@
 	"MODE_TITLE_all" = "Ovunque";
 	"MODE_DESCRIPTION_all" = "";
 
-	"MODE_TITLE_springboard" = "Nella schemata home";
+	"MODE_TITLE_springboard" = "Nella schermata home";
 	"MODE_DESCRIPTION_springboard" = "Icone della SpringBoard visibili";
 
 	"MODE_TITLE_application" = "Nelle applicazioni";
