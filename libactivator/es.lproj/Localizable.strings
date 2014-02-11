@@ -168,7 +168,7 @@
 	"EVENT_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activate)";
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Deactivate)";
 	"EVENT_GROUP_TITLE_Network Status" = "Estado de la red";
-	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Lector de huella";
+	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Sensor de huellas";
 
 	/* Events */
 	
@@ -486,7 +486,7 @@
 	"LISTENER_GROUP_TITLE_Switches" = "Interruptores";
 	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activar)";
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Desactivar)";
-	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Sensor de huellas";
+	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Lector de huellas";
 
 	/* Custom Events */
 
@@ -515,6 +515,16 @@
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "Deslizar icono %@ derecha";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Desliza el icono %@ a la derecha";
 	
+	"NEW_EVENT_TITLE_libactivator.icon.hold" = "Mentener pulsado icono";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.hold" = "Mantén pulsado un icono específico";
+	"EVENT_TITLE_libactivator.icon.hold_FORMAT" = "Icono %@ pulsado";
+	"EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT" = "Toca y mantén el icono %@ en springboard";
+
+	"NEW_EVENT_TITLE_libactivator.icon.tap.double" = "Doble toque en icono";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.tap.double" = "Toca dos veces sobre un icono específico";
+	"EVENT_TITLE_libactivator.icon.tap.double_FORMAT" = "Doble toque en el icono %@ ";
+	"EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT" = "Doble toque en el icono %@ en springboard";
+	
 	"NEW_EVENT_TITLE_libactivator.scheduled" = "Programado";
 	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "Día específico y pasa el tiempo";
 	"EVENT_DESCRIPTION_libactivator.scheduled" = "El tiempo pasa en %@";
@@ -540,17 +550,17 @@
 	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "De %@, \"%@\" en el mensaje";
 	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "El mensaje contiene \"%2$@\", el remitente es %1$@";
 
-	"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "Unido a red Wi-Fi";
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "Conectar a red Wi-Fi";
 	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Conectado a una red Wi-Fi";
-	"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "Unido a %@";
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "Conectado a %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "Conectado a una red Wi-Fi específica";
 	"NETWORK_NAME" = "Nombre de la red";
-	"EVENT_TITLE_libactivator.network.joined-wifi" = "Unido a Wi-Fi";
+	"EVENT_TITLE_libactivator.network.joined-wifi" = "Conectar a Wi-Fi";
 	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Conectado a cualquier red Wi-Fi";
 	"EVENT_TITLE_libactivator.network.left-wifi" = "Abandonar Wi-Fi";
 	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Desconectado de una red Wi-Fi";
 	
-	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Recibir \"%@\" huella coincide";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Huella \"%@\" coincide";
 
 	/* Listener Names */
 
