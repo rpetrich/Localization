@@ -169,7 +169,7 @@
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "开关（禁用）";
 	"EVENT_GROUP_TITLE_Network Status" = "网络状态";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "指纹识别传感器";
-
+	"EVENT_GROUP_TITLE_VideoPane" = "视频面板";
 
 	/* Events */
 
@@ -464,6 +464,9 @@
 	"EVENT_TITLE_libactivator.drag-along.screen-right.top-to-bottom" = "从上向下拖动";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.top-to-bottom" = "在屏幕右侧边缘从顶部向底部拖动";
 
+	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "按两下面板";
+	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "按两下活动的视频面板";
+
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "启动应用程序";
@@ -564,6 +567,7 @@
 	"LISTENER_GROUP_TITLE_Switches (Activate)" = "开关（启用）";
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "开关（禁用）";
 	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "指纹识别传感器";
+	"LISTENER_GROUP_TITLE_VideoPane" = "视频面板";
 
 	/* Listener Names */
 
@@ -1056,6 +1060,30 @@
 
 	"LISTENER_TITLE_com.rpetrich.voicekeys" = "语音按键";
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "开始或停止语音识别";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.destroy-pane" = "停止视频";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.destroy-pane" = "关闭当前视频面板";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.detach-pane" = "加入面板";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.detach-pane" = "移动当前视频到面板中";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.pause-playback" = "暂停";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.pause-playback" = "暂停视频播放";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.ressurect-pane" = "激活视频";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.ressurect-pane" = "激活最近使用的视频面板";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.resume-playback" = "播放";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.resume-playback" = "继续视频播放";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-fullscreen" = "切换全屏";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-fullscreen" = "切换视频面板全屏幕显示";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-playback" = "播放/暂停";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-playback" = "播放或暂停视频面板";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-transparency" = "调整透明度";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-transparency" = "调整活动的视频面板的透明度";
 
 	"IN_CYDIA_WARNING" = "在 Cydia 安装软件时进行其它操作会有潜在的危险。";
 

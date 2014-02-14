@@ -169,6 +169,7 @@
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
 	"EVENT_GROUP_TITLE_Network Status" = "Network Status";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Fingerprint Sensor";
+	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
 
 	/* Events */
 
@@ -463,6 +464,9 @@
 	"EVENT_TITLE_libactivator.drag-along.screen-right.top-to-bottom" = "Drag top to bottom";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.top-to-bottom" = "Drag along screen edge from top to bottom";
 
+	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "Double Tap Pane";
+	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "Double-tap on active VideoPane";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
@@ -487,6 +491,7 @@
 	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Switches (Activate)";
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
 	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Fingerprint Sensor";
+	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
 
 	/* Custom Events */
 
@@ -826,6 +831,30 @@
 
 	"LISTENER_TITLE_com.rpetrich.voicekeys" = "VoiceKeys";
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Start/stop voice recognition";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.destroy-pane" = "Destroy Video";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.destroy-pane" = "Destroys current VideoPane";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.detach-pane" = "Detach VideoPane";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.detach-pane" = "Detaches current video into a pane";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.pause-playback" = "Pause";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.pause-playback" = "Suspends VideoPane playback";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.ressurect-pane" = "Resurrect Video";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.ressurect-pane" = "Resurrects most recent VideoPane";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.resume-playback" = "Play";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.resume-playback" = "Resumes VideoPane playback";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-fullscreen" = "Toggle Fullscreen";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-fullscreen" = "Toggles VideoPane fullscreen";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-playback" = "Play/Pause";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-playback" = "Toggles VideoPane playback";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-transparency" = "Toggle Transparency";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-transparency" = "Toggle active VideoPane transparency";
 
 	"IN_CYDIA_WARNING" = "It is potentially dangerous to perform actions while Cydia is installing software.";
 

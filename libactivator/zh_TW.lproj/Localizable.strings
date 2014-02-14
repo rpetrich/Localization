@@ -169,6 +169,7 @@
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "開關（禁用）";
 	"EVENT_GROUP_TITLE_Network Status" = "網路狀態";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "指紋身分識別感應器";
+	"EVENT_GROUP_TITLE_VideoPane" = "視訊面板";
 
 	/* Events */
 
@@ -463,6 +464,9 @@
 	"EVENT_TITLE_libactivator.drag-along.screen-right.top-to-bottom" = "從上向下拖動";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.top-to-bottom" = "在螢幕右側邊緣從頂部向底部拖動";
 
+	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "按兩下面板";
+	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "按兩下活動的視訊面板";
+
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "啟動應用程式";
@@ -563,6 +567,7 @@
 	"LISTENER_GROUP_TITLE_Switches (Activate)" = "開關（啟用）";
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "開關（禁用）";
 	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "指紋身分識別感應器";
+	"LISTENER_GROUP_TITLE_VideoPane" = "視訊面板";
 
 	/* Listener Names */
 	"LISTENER_DESCRIPTION_switch-flip" = "啟用/禁用該開關";
@@ -1054,6 +1059,30 @@
 
 	"LISTENER_TITLE_com.rpetrich.voicekeys" = "語音按鍵";
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "開始或停止語音識别";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.destroy-pane" = "停止視訊";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.destroy-pane" = "關閉當前視訊面板";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.detach-pane" = "加入面板";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.detach-pane" = "移動當前視訊到面板中";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.pause-playback" = "暫停";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.pause-playback" = "暫停視訊播放";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.ressurect-pane" = "激活視訊";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.ressurect-pane" = "激活最近使用的視訊面板";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.resume-playback" = "播放";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.resume-playback" = "繼續視訊播放";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-fullscreen" = "切換全螢幕";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-fullscreen" = "切換視訊面板全螢幕顯示";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-playback" = "播放/暫停";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-playback" = "播放或暫停視訊面板";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-transparency" = "調整透明度";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-transparency" = "調整活動的視訊面板的透明度";
 
 	"IN_CYDIA_WARNING" = "在 Cydia 安裝軟體時進行其他操作會有潛在的危險。";
 
