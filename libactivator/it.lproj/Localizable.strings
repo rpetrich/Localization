@@ -169,6 +169,7 @@
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Interruttori (Disattiva)";
 	"EVENT_GROUP_TITLE_Network Status" = "Stato rete";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Impronte digitali";
+	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
 
 	/* Events */
 
@@ -463,6 +464,9 @@
 	"EVENT_TITLE_libactivator.drag-along.screen-right.top-to-bottom" = "Dall'alto verso il basso";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.top-to-bottom" = "Scorrere i bordi dall'alto verso il basso";
 
+	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "Doppia pressione";
+	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "Premere due volte sul VideoPane attivo";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "Azioni sistema";
@@ -487,6 +491,7 @@
 	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruttori (Attiva)";
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruttori (Disattiva)";
 	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Impronte digitali";
+	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
 
 	/* Custom Events */
 
@@ -826,6 +831,30 @@
 
 	"LISTENER_TITLE_com.rpetrich.voicekeys" = "VoiceKeys";
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Avvia/Ferma il riconoscimento vocale";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.destroy-pane" = "Distruzione video";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.destroy-pane" = "Distrugge il VideoPane attivo";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.detach-pane" = "Stacca video";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.detach-pane" = "Stacca il video attivo in un VideoPane";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.pause-playback" = "Pausa";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.pause-playback" = "Sospende la riproduzione";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.ressurect-pane" = "Resuscita video";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.ressurect-pane" = "Resuscita il VideoPane più recente";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.resume-playback" = "Riproduci";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.resume-playback" = "Riprende la riproduzione";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-fullscreen" = "Alterna a tutto schermo";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-fullscreen" = "Alterna la modalità a tutto schermo";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-playback" = "Riproduci/Pausa";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-playback" = "Alterna lo stato di riproduzione";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-transparency" = "Alterna trasparenza";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-transparency" = "Alterna lo stato della trasparenza";
 
 	"IN_CYDIA_WARNING" = "È potenzialmente pericoloso eseguire delle azioni mentre è in corso un'installazione di un software da Cydia.";
 
