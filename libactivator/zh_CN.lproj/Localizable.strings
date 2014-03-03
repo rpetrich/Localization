@@ -27,6 +27,7 @@
 	"RESET_ALERT_CONTINUE" = "重置";
 	"MULTIPLE_ASSIGNMENTS" = "【多个】";
 	"UNKNOWN_ASSIGNMENT" = "【未知】";
+	"SEARCH" = "搜索";
 
 	"ENABLED" = "启用";
 	"DISABLED" = "禁用";
@@ -170,6 +171,7 @@
 	"EVENT_GROUP_TITLE_Network Status" = "网络状态";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "指纹识别传感器";
 	"EVENT_GROUP_TITLE_VideoPane" = "视频面板";
+	"EVENT_GROUP_TITLE_Bluetooth Devices" = "蓝牙设备";
 
 	/* Events */
 
@@ -538,6 +540,11 @@
 	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "加入任意 Wi-Fi 网络";
 	"EVENT_TITLE_libactivator.network.left-wifi" = "断开 Wi-Fi 连接";
 	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "断开当前 Wi-Fi 网络连接";
+
+	"NEW_EVENT_TITLE_libactivator.network.bluetooth-connect_FORMAT" = "连接到 %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-connect_FORMAT" = "连接到指定蓝牙设备";
+	"NEW_EVENT_TITLE_libactivator.network.bluetooth-disconnect_FORMAT" = "断开与 %@ 的连接";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "断开与指定设备的连接";
 
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "检测到匹配的指纹“%@”";
 
@@ -1084,6 +1091,9 @@
 
 	"LISTENER_TITLE_com.rpetrich.videopane.toggle-transparency" = "调整透明度";
 	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-transparency" = "调整活动的视频面板的透明度";
+
+	"LISTENER_TITLE_com.rpetrich.smartclose" = "智能关闭";
+	"LISTENER_DESCRIPTION_com.rpetrich.smartclose" = "智能关闭后台运行的应用程序";
 
 	"IN_CYDIA_WARNING" = "在 Cydia 安装软件时进行其它操作会有潜在的危险。";
 

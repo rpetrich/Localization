@@ -27,6 +27,7 @@
 	"RESET_ALERT_CONTINUE" = "重置";
 	"MULTIPLE_ASSIGNMENTS" = "【多個】";
 	"UNKNOWN_ASSIGNMENT" = "【未知】";
+	"SEARCH" = "搜尋";
 
 	"ENABLED" = "啟用";
 	"DISABLED" = "禁用";
@@ -170,6 +171,7 @@
 	"EVENT_GROUP_TITLE_Network Status" = "網路狀態";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "指紋身分識別感應器";
 	"EVENT_GROUP_TITLE_VideoPane" = "視訊面板";
+	"EVENT_GROUP_TITLE_Bluetooth Devices" = "藍牙装置";
 
 	/* Events */
 
@@ -538,6 +540,11 @@
 	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "加入任意 Wi-Fi 網路";
 	"EVENT_TITLE_libactivator.network.left-wifi" = "斷開 Wi-Fi 連接";
 	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "斷開當前 Wi-Fi 網路連接";
+
+	"NEW_EVENT_TITLE_libactivator.network.bluetooth-connect_FORMAT" = "連接到 %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-connect_FORMAT" = "連接到指定藍牙裝置";
+	"NEW_EVENT_TITLE_libactivator.network.bluetooth-disconnect_FORMAT" = "斷開與 %@ 的連接";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "斷開與指定裝置的連接";
 
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "檢測到匹配的指紋『%@』";
 
@@ -946,8 +953,8 @@
 	"LISTENER_TITLE_libactivator.settings.auto-lock" = "自動鎖定";
 	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "打開設定的自動鎖定頁面";
 
-	"LISTENER_TITLE_libactivator.settings.bluetooth" = "Bluetooth";
-	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "打開設定的 Bluetooth 頁面";
+	"LISTENER_TITLE_libactivator.settings.bluetooth" = "藍牙";
+	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "打開設定的藍牙頁面";
 
 	"LISTENER_TITLE_libactivator.settings.brightness" = "亮度";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "打開設定的亮度頁面";
@@ -1037,7 +1044,7 @@
 	"LISTENER_DESCRIPTION_libactivator.keyboard.dictation" = "在當前活動的文字區域聽寫輸入";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
-	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
+	"LISTENER_TITLE_toggle_Bluetooth" = "藍牙";
 	"LISTENER_TITLE_toggle_Data" = "行動資料";
 	"LISTENER_TITLE_toggle_Location" = "定位服務";
 	"LISTENER_TITLE_toggle_Phone" = "電話";
@@ -1083,6 +1090,9 @@
 
 	"LISTENER_TITLE_com.rpetrich.videopane.toggle-transparency" = "調整透明度";
 	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-transparency" = "調整活動的視訊面板的透明度";
+
+	"LISTENER_TITLE_com.rpetrich.smartclose" = "智能關閉";
+	"LISTENER_DESCRIPTION_com.rpetrich.smartclose" = "智能關閉背景執行的應用程式";
 
 	"IN_CYDIA_WARNING" = "在 Cydia 安裝軟體時進行其他操作會有潛在的危險。";
 
