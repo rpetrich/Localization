@@ -27,6 +27,7 @@
 	"RESET_ALERT_CONTINUE" = "Resetear";
 	"MULTIPLE_ASSIGNMENTS" = "(múltiples)";
 	"UNKNOWN_ASSIGNMENT" = "(desconocido)";
+	"SEARCH" = "Buscar";
 	
 	"ENABLED" = "Activado";
 	"DISABLED" = "Desactivado";
@@ -169,6 +170,8 @@
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Deactivate)";
 	"EVENT_GROUP_TITLE_Network Status" = "Estado de la red";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Sensor de huellas";
+	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
+	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Dispositivos bluetooth";
 
 	/* Events */
 	
@@ -463,6 +466,9 @@
 	"EVENT_TITLE_libactivator.drag-along.screen-right.top-to-bottom" = "Arrastrar de arriba a abajo (derecha)";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.top-to-bottom" = "Arrastra a lo largo de la pantalla de arriba hacia abajo";
 
+	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "Doble toque Pane";
+	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "Toca dos veces para activar VideoPane";
+	
 	/* Listener Groups */
 	
 	"LISTENER_GROUP_TITLE_System Actions" = "Acciones del sistema";
@@ -487,6 +493,7 @@
 	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activar)";
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Desactivar)";
 	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Lector de huellas";
+	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
 
 	/* Custom Events */
 
@@ -550,15 +557,20 @@
 	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "De %@, \"%@\" en el mensaje";
 	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "El mensaje contiene \"%2$@\", el remitente es %1$@";
 
-	"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "Conectar a red Wi-Fi";
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "Conectado a red Wi-Fi";
 	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Conectado a una red Wi-Fi";
 	"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "Conectado a %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "Conectado a una red Wi-Fi específica";
 	"NETWORK_NAME" = "Nombre de la red";
-	"EVENT_TITLE_libactivator.network.joined-wifi" = "Conectar a Wi-Fi";
+	"EVENT_TITLE_libactivator.network.joined-wifi" = "Conectado a Wi-Fi";
 	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Conectado a cualquier red Wi-Fi";
 	"EVENT_TITLE_libactivator.network.left-wifi" = "Abandonar Wi-Fi";
 	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Desconectado de una red Wi-Fi";
+	
+	"NEW_EVENT_TITLE_libactivator.network.bluetooth-connect_FORMAT" = "Conectado con %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-connect_FORMAT" = "Conectado con un dispositivo específico";
+	"NEW_EVENT_TITLE_libactivator.network.bluetooth-disconnect_FORMAT" = "Desconectado de %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "Desconectado con un dispositivo específico";
 	
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Huella \"%@\" coincide";
 
@@ -826,6 +838,33 @@
 
 	"LISTENER_TITLE_com.rpetrich.voicekeys" = "Teclas de voz";
 	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Inicia/Detiene el reconocimiento de voz";
+	
+	"LISTENER_TITLE_com.rpetrich.videopane.destroy-pane" = "Destruir video";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.destroy-pane" = "Destruye el VideoPane actual";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.detach-pane" = "Separar VideoPane";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.detach-pane" = "Separa el vídeo actual en un pane";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.pause-playback" = "Pausar";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.pause-playback" = "Suspende la reproducción del VideoPane";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.ressurect-pane" = "Resucitar vídeo";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.ressurect-pane" = "Resucita el VideoPane más reciente";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.resume-playback" = "Reproducir";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.resume-playback" = "Reanuda la reproducción del VideoPane";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-fullscreen" = "Alternar pantalla completa";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-fullscreen" = "Alterna la pantalla completa del VideoPane";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-playback" = "Reproducir/Pausar";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-playback" = "Alterna la reproducción del VideoPane";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-transparency" = "Alternar transparencia";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-transparency" = "Alterna la transparencia activa del VideoPane";
+
+	"LISTENER_TITLE_com.rpetrich.smartclose" = "Cerrar rápido";
+	"LISTENER_DESCRIPTION_com.rpetrich.smartclose" = "Cierra fácilmente las apps e 2º plano";
 
 	"IN_CYDIA_WARNING" = "Es potencialmente peligroso activar acciones mientras Cydia está instalando software.";
 
