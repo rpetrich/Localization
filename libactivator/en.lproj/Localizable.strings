@@ -80,6 +80,10 @@
 	"Build New Events" = "Build New Events";
 	"New Event" = "New Event";
 
+	"Custom Actions" = "Custom Actions";
+	"Build New Actions" = "Build New Actions";
+	"New Action" = "New Action";
+
 	"MAIL_SENDER" = "Sender";
 	"MAIL_SENDER_UNKNOWN" = "Unknown";
 	"MAIL_ANY_SENDER" = "(any sender)";
@@ -814,6 +818,12 @@
 	"LISTENER_DESCRIPTION_libactivator.text" = "Message";
 
 	"LISTENER_DESCRIPTION_libactivator.ringtone" = "Play Ringtone";
+
+	"SET_VOLUME_TO_FORMAT" = "Set volume to %@%%";
+	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% Volume";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Set volume to %@%% of maximum";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "Set Volume";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Apply specific system audio volume";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";

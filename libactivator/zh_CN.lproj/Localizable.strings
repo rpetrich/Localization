@@ -80,6 +80,10 @@
 	"Build New Events" = "创建自定义事件";
 	"New Event" = "新事件";
 
+	"Custom Actions" = "自定义动作";
+	"Build New Actions" = "创建自定义动作";
+	"New Action" = "新动作";
+
 	"MAIL_SENDER" = "发件人";
 	"MAIL_SENDER_UNKNOWN" = "未知发件人";
 	"MAIL_ANY_SENDER" = "任意发件人";
@@ -711,6 +715,12 @@
 	"LISTENER_DESCRIPTION_libactivator.text" = "发信息给";
 
 	"LISTENER_DESCRIPTION_libactivator.ringtone" = "播放该铃声";
+
+	"SET_VOLUME_TO_FORMAT" = "设置音量到 %@%%";
+	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% 音量";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "设置音量到最大值的 %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "设置音量";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "应用指定的系统音量";
 
 	/* Third Party Listerners */
 
