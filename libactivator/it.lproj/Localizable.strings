@@ -27,6 +27,7 @@
 	"RESET_ALERT_CONTINUE" = "Reimposta";
 	"MULTIPLE_ASSIGNMENTS" = "(multipli)";
 	"UNKNOWN_ASSIGNMENT" = "(sconosciuto)";
+	"SEARCH" = "Cerca";
 
 	"ENABLED" = "Attivato";
 	"DISABLED" = "Disattivato";
@@ -78,6 +79,10 @@
 	"Custom Events" = "Eventi personalizzati";
 	"Build New Events" = "Crea un nuovo evento";
 	"New Event" = "Nuovo evento";
+
+	"Custom Actions" = "Azioni personalizzate";
+	"Build New Actions" = "Crea una nuova azione";
+	"New Action" = "Nuova azione";
 
 	"MAIL_SENDER" = "Mittente";
 	"MAIL_SENDER_UNKNOWN" = "Sconosciuto";
@@ -170,6 +175,7 @@
 	"EVENT_GROUP_TITLE_Network Status" = "Stato rete";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Impronte digitali";
 	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
+	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Dispositivi Bluetooth";
 
 	/* Events */
 
@@ -556,14 +562,19 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "Il messaggio contiene \"%2$@\", Il mittente è %1$@";
 
 	"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "Connessione rete Wi-Fi";
-	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Connessione ad una rete Wi-Fi";
-	"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "Connesso a %@";
-	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "Connessione ad una rete Wi-Fi specifica";
-	"NETWORK_NAME" = "Network Name";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Connessione ad una rete Wi-Fi specifica";
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "Connessione a %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "Connessione alla rete Wi-Fi specificata";
+	"NETWORK_NAME" = "Nome rete";
 	"EVENT_TITLE_libactivator.network.joined-wifi" = "Connessione rete Wi-Fi";
 	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Connessione ad una rete Wi-Fi";
 	"EVENT_TITLE_libactivator.network.left-wifi" = "Disconnessione rete Wi-Fi";
 	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Disconnessione da una rete Wi-Fi";
+
+	"NEW_EVENT_TITLE_libactivator.network.bluetooth-connect_FORMAT" = "Connessione a %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-connect_FORMAT" = "Connessione ad un dispositivo Bluetooth specifico";
+	"NEW_EVENT_TITLE_libactivator.network.bluetooth-disconnect_FORMAT" = "Disconnessione da %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "Disconnessione da un dispositivo Bluetooth specifico";
 
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Riconoscimento impronta \"%@\" valida";
 
@@ -701,7 +712,7 @@
 	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Apre le impostazioni in blocco automatico";
 
 	"LISTENER_TITLE_libactivator.settings.bluetooth" = "Bluetooth";
-	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "Apre le impostazioni in bluetooth";
+	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "Apre le impostazioni in Bluetooth";
 
 	"LISTENER_TITLE_libactivator.settings.brightness" = "Luminosità";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "Apre le impostazioni in luminosità";
@@ -808,6 +819,12 @@
 
 	"LISTENER_DESCRIPTION_libactivator.ringtone" = "Riproduci suoneria";
 
+	"SET_VOLUME_TO_FORMAT" = "Imposta il volume al %@%%";
+	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "Volume al %@%%";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Imposta il volume al %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "Imposta volume";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Imposta il volume ad un valore specifico";
+
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
 	"LISTENER_TITLE_toggle_Data" = "Data";
@@ -855,6 +872,9 @@
 
 	"LISTENER_TITLE_com.rpetrich.videopane.toggle-transparency" = "Alterna trasparenza";
 	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-transparency" = "Alterna lo stato della trasparenza";
+
+	"LISTENER_TITLE_com.rpetrich.smartclose" = "SmartClose";
+	"LISTENER_DESCRIPTION_com.rpetrich.smartclose" = "Termina le applicazioni intelligentemente";
 
 	"IN_CYDIA_WARNING" = "È potenzialmente pericoloso eseguire delle azioni mentre è in corso un'installazione di un software da Cydia.";
 
