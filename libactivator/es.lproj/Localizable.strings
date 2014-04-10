@@ -79,6 +79,10 @@
 	"Custom Events" = "Eventos personalizados";
 	"Build New Events" = "Crear nuevos eventos";
 	"New Event" = "Nuevo evento";
+	
+	"Custom Actions" = "Acciones personalizadas";
+	"Build New Actions" = "Hacer nuevas acciones";
+	"New Action" = "Nueva acción";
 
 	"MAIL_SENDER" = "Remitente";
 	"MAIL_SENDER_UNKNOWN" = "Desconocido";
@@ -814,6 +818,12 @@
 	"LISTENER_DESCRIPTION_libactivator.text" = "Mensaje a";
 	
 	"LISTENER_DESCRIPTION_libactivator.ringtone" = "Reproducir tono";
+	
+	"SET_VOLUME_TO_FORMAT" = "Establecer volumen en %@%%";
+	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% volumen";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Establecer volumer al %@%% del máximo";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "Establecer volumen";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Aplicar volumen a un sistema de audio específico";
 	
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
