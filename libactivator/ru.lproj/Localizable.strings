@@ -626,3 +626,8 @@
 "NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-connect_FORMAT" = "Подключено к указанному Bluetooth-устройству";
 "NEW_EVENT_TITLE_libactivator.network.bluetooth-disconnect_FORMAT" = "Отключено от %@";
 "NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "Отключено от указанного Bluetooth-устройства";
+"SET_VOLUME_TO_FORMAT" = "Уровень громкости %@%%";
+"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% громкости";
+"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Установить громкость в %@%%";
+"NEW_LISTENER_TITLE_libactivator.audio.volume" = "Уровень громкости";
+"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Установить указанный уровень громкости";
