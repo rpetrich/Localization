@@ -631,3 +631,14 @@
 "LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Установить громкость в %@%%";
 "NEW_LISTENER_TITLE_libactivator.audio.volume" = "Уровень громкости";
 "NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Установить указанный уровень громкости";
+"NEW_EVENT_TITLE_libactivator.power.drain-past" = "Аккум. разряжается";
+"NEW_EVENT_TITLE_libactivator.power.drain-past_FORMAT" = "Уровень заряда ниже %@%%";
+"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past" = "Уровень заряда падает ниже указанного";
+"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past_FORMAT" = "Уровень заряда ниже %@%%";
+"BATTERY_LEVEL_DRAINS_PAST" = "Уровень заряда ниже %@%%";
+"NEW_EVENT_TITLE_libactivator.power.charge-past" = "Аккум. заряжается";
+"NEW_EVENT_TITLE_libactivator.power.charge-past_FORMAT" = "Уровень заряда выше %@%%";
+"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past" = "Уровень заряда поднимается выше указанного";
+"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "Уровень заряда выше %@%%";
+"BATTERY_LEVEL_CHARGES_PAST" = "Уровень заряда выше %@%%";
+"EVENT_GROUP_TITLE_Battery Level" = "Заряд аккумулятора";
