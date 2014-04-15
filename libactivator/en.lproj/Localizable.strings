@@ -176,6 +176,7 @@
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Fingerprint Sensor";
 	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Bluetooth Devices";
+	"EVENT_GROUP_TITLE_Battery Level" = "Battery Level";
 
 	/* Events */
 
@@ -577,6 +578,18 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "Disconnected from specific Bluetooth device";
 
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Recieve \"%@\" fingerprint match";
+
+	"NEW_EVENT_TITLE_libactivator.power.drain-past" = "Battery Drains";
+	"NEW_EVENT_TITLE_libactivator.power.drain-past_FORMAT" = "Battery Drains Past %@%%";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past" = "Power level drains below specific level";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past_FORMAT" = "Power level drains below %@%%";
+	"BATTERY_LEVEL_DRAINS_PAST" = "Power level drains below %@%%";
+
+	"NEW_EVENT_TITLE_libactivator.power.charge-past" = "Battery Charges";
+	"NEW_EVENT_TITLE_libactivator.power.charge-past_FORMAT" = "Battery Charges Past %@%%";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past" = "Power level charges above specific level";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "Power level charges above %@%%";
+	"BATTERY_LEVEL_CHARGES_PAST" = "Power level charges above %@%%";
 
 	/* Listener Names */
 

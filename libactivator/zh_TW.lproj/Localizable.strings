@@ -176,6 +176,7 @@
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "指紋身分識別感應器";
 	"EVENT_GROUP_TITLE_VideoPane" = "視訊面板";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "藍牙装置";
+	"EVENT_GROUP_TITLE_Battery Level" = "電池電量";
 
 	/* Events */
 
@@ -551,6 +552,18 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "斷開與指定裝置的連接";
 
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "檢測到匹配的指紋『%@』";
+
+	"NEW_EVENT_TITLE_libactivator.power.drain-past" = "電量消耗";
+	"NEW_EVENT_TITLE_libactivator.power.drain-past_FORMAT" = "電池電量低於 %@%%";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past" = "使用時電池電量低於一定程度";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past_FORMAT" = "電池電量消耗到低於 %@%%";
+	"BATTERY_LEVEL_DRAINS_PAST" = "電池電量消耗到低於 %@%%";
+
+	"NEW_EVENT_TITLE_libactivator.power.charge-past" = "電池充電";
+	"NEW_EVENT_TITLE_libactivator.power.charge-past_FORMAT" = "電池電量高於 %@%%";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past" = "充電時電池電量高於一定程度";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "電池充電到電量高於 %@%%";
+	"BATTERY_LEVEL_CHARGES_PAST" = "電池充電到電量高於 %@%%";
 
 	/* Listener Groups */
 
