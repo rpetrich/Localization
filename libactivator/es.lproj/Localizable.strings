@@ -176,6 +176,7 @@
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Sensor de huellas";
 	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Dispositivos bluetooth";
+	"EVENT_GROUP_TITLE_Battery Level" = "Nivel de batería";
 
 	/* Events */
 	
@@ -577,6 +578,18 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "Desconectado con un dispositivo específico";
 	
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Huella \"%@\" coincide";
+	
+	"NEW_EVENT_TITLE_libactivator.power.drain-past" = "Gastando batería";
+	"NEW_EVENT_TITLE_libactivator.power.drain-past_FORMAT" = "El gasto de batería pasa %@%%";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past" = "El nivel está por debajo de un nivel específico";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past_FORMAT" = "El nivel está por debajo de %@%%";
+	"BATTERY_LEVEL_DRAINS_PAST" = "El nivel está por debajo de %@%%";
+
+	"NEW_EVENT_TITLE_libactivator.power.charge-past" = "Cargando batería";
+	"NEW_EVENT_TITLE_libactivator.power.charge-past_FORMAT" = "La carga de batería pasa %@%%";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past" = "El nivel de carga está por encima de un nivel específico";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "El nivel está por encima de %@%%";
+	"BATTERY_LEVEL_CHARGES_PAST" = "El nivel está por encima de %@%%";
 
 	/* Listener Names */
 
