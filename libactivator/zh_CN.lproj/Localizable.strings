@@ -16,7 +16,7 @@
 	"UNASSIGNED" = "【未分配】";
 	"MORE_ACTIONS" = "更多动作";
 	"MORE_ACTIONS_DETAIL" = "从 Cydia 中获取更多动作";
-	"DONATE" = "捐助";
+	"DONATE" = "捐赠";
 	"DONATE_DETAIL" = "通过 PayPal 捐助";
 	"N_ADDITIONAL_EVENTS" = "%i 个额外触发";
 	"RESET_SETTINGS" = "重置";
@@ -592,6 +592,7 @@
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "开关（禁用）";
 	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "指纹识别传感器";
 	"LISTENER_GROUP_TITLE_VideoPane" = "视频面板";
+	"LISTENER_GROUP_TITLE_Profiles" = "檔案";
 
 	/* Listener Names */
 
@@ -602,6 +603,7 @@
 	"LISTENER_DESCRIPTION_toggle_enable" = "打开该开关";
 	"LISTENER_DESCRIPTION_toggle_disable" = "关闭该开关";
 	"LISTENER_DESCRIPTION_application" = "启动该应用程序";
+	"LISTENER_DESCRIPTION_profile" = "激活档案";
 
 	"LISTENER_TITLE_libactivator.system.homebutton" = "主屏幕按钮";
 	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "模拟按一下主屏幕按钮";
@@ -1139,4 +1141,10 @@
 
 	"FAILED_TO_OPEN_SETTINGS_FILE" = "无法打开设置文件以写入";
 	"FAILED_TO_WRITE_SETTINGS_FILE" = "无法写入设置文件：";
+
+	"PROFILES" = "档案";
+	"PROFILES_DETAIL" = "设置自定义分配档案";
+	"ADD_NEW_PROFILE" = "添加档案";
+	"NEW_PROFILE" = "新档案";
+	"PROFILE_NAME" = "档案名称";
 }

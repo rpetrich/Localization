@@ -499,6 +499,7 @@
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
 	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Fingerprint Sensor";
 	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
+	"LISTENER_GROUP_TITLE_Profiles" = "Profiles"
 
 	/* Custom Events */
 
@@ -600,6 +601,7 @@
 	"LISTENER_DESCRIPTION_toggle_enable" = "Activate toggle";
 	"LISTENER_DESCRIPTION_toggle_disable" = "Deactivate toggle";
 	"LISTENER_DESCRIPTION_application" = "Activate application";
+	"LISTENER_DESCRIPTION_profile" = "Activate profile";
 
 	"LISTENER_TITLE_libactivator.system.homebutton" = "Home Button";
 	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Simulate a press of the home button";
@@ -910,4 +912,10 @@
 
 	"FAILED_TO_OPEN_SETTINGS_FILE" = "Failed to open settings file for writing";
 	"FAILED_TO_WRITE_SETTINGS_FILE" = "Failed to write to settings file: ";
+	
+	"PROFILES" = "Profiles";
+	"PROFILES_DETAIL" = "Setup custom assignment profiles";
+	"ADD_NEW_PROFILE" = "Add New Profile ";
+	"NEW_PROFILE" = "New Profile";
+	"PROFILE_NAME" = "Profile Name";
 }
