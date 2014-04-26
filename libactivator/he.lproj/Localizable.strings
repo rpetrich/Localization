@@ -28,7 +28,7 @@
 "BACKUP_ASSIGNMENTS" = "גיבוי שיוכים";
 "BACKUP_ASSIGNMENTS_DETAIL" = "ייצוא הגדרות תפריט ואירועים";
 "BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "קובץ הגיבוי מאוחסן בתיקייה \"Preferences\" תחת נתיב: \n%@\n ויגובה באמצעות גיבוי iTunes או דרך גיבוי iCloud.";
-"BATTERY_LEVEL_CHARGES_PAST" = "טעינה של הסוללה לכ-%%@%";
+"BATTERY_LEVEL_CHARGES_PAST" = "טעינה של הסוללה לכ-%@%%";
 "BATTERY_LEVEL_DRAINS_PAST" = "התרוקנות של הסוללה ל-%@%%";
 "BLACKLIST" = "רשימה שחורה";
 "BLACKLIST_DETAIL" = "התעלמות מפעולות ביישומים ספציפיים";
@@ -542,7 +542,7 @@
 "LISTENER_TITLE_toggle_SSH" = "SSH";
 "LISTENER_TITLE_toggle_Syslog" = "Syslog";
 "LISTENER_TITLE_toggle_Wi-Fi" = "רשת אלחוטית";
-"LOCALIZATION_ABOUT" = "תורגם על-ידי טמיר דוד.\n(tamirmp4@gmail.com)\n\nלפניות (בקשר לתרגום) הצעות, בקשות, פידבקים, תלונות והערות, ניתן ליצור איתי קשר באמצעות אימייל, או דרך הודעת iMessage.\n\n גרסת התרגום: 1.0.8\n\n(תורגם ב-19/04/14, 00:40)";
+"LOCALIZATION_ABOUT" = "תורגם על-ידי טמיר דוד.\n(tamirmp4@gmail.com)\n\nלפניות (בקשר לתרגום) הצעות, בקשות, פידבקים, תלונות והערות, ניתן ליצור איתי קשר באמצעות אימייל, או דרך הודעת iMessage.\n\n גרסת התרגום: 1.0.8.1\n\n(תורגם ב-26/04/14, 13:40)";
 "Loose" = "רופף";
 "MAIL_ANY_SENDER" = "(כל שולח)";
 "MAIL_ANY_SUBJECT" = "(כל נושא)";
@@ -664,3 +664,10 @@
 "Very Precise" = "מאוד מדויק";
 "WEEKDAYS_LOWERCASE" = "ימי חול";
 "WEEKENDS_LOWERCASE" = "סופי שבוע";
+"LISTENER_GROUP_TITLE_Profiles" = "פרופילים";
+"LISTENER_DESCRIPTION_profile" = "הפעלת פרופיל";
+"PROFILES" = "פרופילים";
+"PROFILES_DETAIL" = "הגדרת פרופיל עם שיוכי פעולות בהתאמה אישית";
+"ADD_NEW_PROFILE" = "הוסף פרופיל חדש";
+"NEW_PROFILE" = "פרופיל חדש";
+"PROFILE_NAME" = "שם הפרופיל";
