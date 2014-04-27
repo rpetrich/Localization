@@ -499,7 +499,7 @@
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
 	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Fingerprint Sensor";
 	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
-	"LISTENER_GROUP_TITLE_Profiles" = "Profiles"
+	"LISTENER_GROUP_TITLE_Profiles" = "Profiles";
 
 	/* Custom Events */
 
@@ -915,7 +915,7 @@
 	
 	"PROFILES" = "Profiles";
 	"PROFILES_DETAIL" = "Setup custom assignment profiles";
-	"ADD_NEW_PROFILE" = "Add New Profile ";
+	"ADD_NEW_PROFILE" = "Add New Profile";
 	"NEW_PROFILE" = "New Profile";
 	"PROFILE_NAME" = "Profile Name";
 }
