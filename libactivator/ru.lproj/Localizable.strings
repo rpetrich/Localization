@@ -642,3 +642,9 @@
 "NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "Уровень заряда выше %@%%";
 "BATTERY_LEVEL_CHARGES_PAST" = "Уровень заряда выше %@%%";
 "EVENT_GROUP_TITLE_Battery Level" = "Заряд аккумулятора";
+"LISTENER_GROUP_TITLE_Profiles" = "Профили"
+"PROFILES" = "Профили";
+"PROFILES_DETAIL" = "Настроить профили назначений";
+"ADD_NEW_PROFILE" = "Добавить профиль";
+"NEW_PROFILE" = "Новый профиль";
+"PROFILE_NAME" = "Название профиля";
