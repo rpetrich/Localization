@@ -474,33 +474,6 @@
 	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "Double Tap Pane";
 	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "Double-tap on active VideoPane";
 
-	/* Listener Groups */
-
-	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
-	"LISTENER_GROUP_TITLE_System Applications" = "System Applications";
-	"LISTENER_GROUP_TITLE_User Applications" = "User Applications";
-	"LISTENER_GROUP_TITLE_iPod" = "iPod";
-	"LISTENER_GROUP_TITLE_Lock Screen" = "Lock Screen";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings Toggles";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "SBSettings Toggles (Enable)";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "SBSettings Toggles (Disable)";
-	"LISTENER_GROUP_TITLE_Phone" = "Phone";
-	"LISTENER_GROUP_TITLE_Power" = "Power";
-	"LISTENER_GROUP_TITLE_Audio" = "Audio";
-	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
-	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
-	"LISTENER_GROUP_TITLE_Sharing" = "Sharing";
-	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
-	"LISTENER_GROUP_TITLE_Contacts" = "Contacts";
-	"LISTENER_GROUP_TITLE_Camera" = "Camera";
-	"LISTENER_GROUP_TITLE_Ringtones" = "Ringtones";
-	"LISTENER_GROUP_TITLE_Switches" = "Switches";
-	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Switches (Activate)";
-	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
-	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Fingerprint Sensor";
-	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
-	"LISTENER_GROUP_TITLE_Profiles" = "Profiles";
-
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "Application Launch";
@@ -591,6 +564,34 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past" = "Power level charges above specific level";
 	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "Power level charges above %@%%";
 	"BATTERY_LEVEL_CHARGES_PAST" = "Power level charges above %@%%";
+
+	/* Listener Groups */
+
+	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
+	"LISTENER_GROUP_TITLE_System Applications" = "System Applications";
+	"LISTENER_GROUP_TITLE_User Applications" = "User Applications";
+	"LISTENER_GROUP_TITLE_iPod" = "iPod";
+	"LISTENER_GROUP_TITLE_Lock Screen" = "Lock Screen";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings Toggles";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "SBSettings Toggles (Enable)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "SBSettings Toggles (Disable)";
+	"LISTENER_GROUP_TITLE_Phone" = "Phone";
+	"LISTENER_GROUP_TITLE_Power" = "Power";
+	"LISTENER_GROUP_TITLE_Audio" = "Audio";
+	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
+	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
+	"LISTENER_GROUP_TITLE_Sharing" = "Sharing";
+	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+	"LISTENER_GROUP_TITLE_Contacts" = "Contacts";
+	"LISTENER_GROUP_TITLE_Camera" = "Camera";
+	"LISTENER_GROUP_TITLE_Ringtones" = "Ringtones";
+	"LISTENER_GROUP_TITLE_Switches" = "Switches";
+	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Switches (Activate)";
+	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
+	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Fingerprint Sensor";
+	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
+	"LISTENER_GROUP_TITLE_Profiles" = "Profiles";
+	"LISTENER_GROUP_TITLE_Speech Synthesis" = "Speech Synthesis";
 
 	/* Listener Names */
 
@@ -840,6 +841,12 @@
 	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "Set Volume";
 	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Apply specific system audio volume";
 
+	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "Synthesize Speech";
+	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "Have device speak custom text";
+	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Say \"%@\"";
+	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "Have device speak custom text";
+	"TEXT" = "Text";
+
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
 	"LISTENER_TITLE_toggle_Data" = "Data";
@@ -918,4 +925,5 @@
 	"ADD_NEW_PROFILE" = "Add New Profile";
 	"NEW_PROFILE" = "New Profile";
 	"PROFILE_NAME" = "Profile Name";
+	"LISTENER_TITLE_libactivator.profile.Default" = "Default";	
 }

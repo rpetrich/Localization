@@ -592,7 +592,8 @@
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "開關（禁用）";
 	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "指紋身分識別感應器";
 	"LISTENER_GROUP_TITLE_VideoPane" = "視訊面板";
-	"LISTENER_GROUP_TITLE_Profiles" = "档案";
+	"LISTENER_GROUP_TITLE_Profiles" = "檔案";
+	"LISTENER_GROUP_TITLE_Speech Synthesis" = "朗讀";
 
 	/* Listener Names */
 	"LISTENER_DESCRIPTION_switch-flip" = "啟用/禁用該開關";
@@ -735,6 +736,12 @@
 	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "設定音量到最大值的 %@%%";
 	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "設定音量";
 	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "套用指定的系統音量";
+
+	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "朗讀";
+	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "讓裝置朗讀自訂文字";
+	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "朗讀『%@』";
+	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "讓裝置朗讀自訂文字";
+	"TEXT" = "文字";
 
 	/* Third Party Listerners */
 
@@ -1146,4 +1153,5 @@
 	"ADD_NEW_PROFILE" = "添加檔案";
 	"NEW_PROFILE" = "新檔案";
 	"PROFILE_NAME" = "檔案名稱";
+	"LISTENER_TITLE_libactivator.profile.Default" = "預設檔案";
 }
