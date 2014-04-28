@@ -176,6 +176,7 @@
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Impronte digitali";
 	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Dispositivi Bluetooth";
+	"EVENT_GROUP_TITLE_Battery Level" = "Livello batteria";
 
 	/* Events */
 
@@ -473,36 +474,10 @@
 	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "Doppia pressione";
 	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "Premere due volte sul VideoPane attivo";
 
-	/* Listener Groups */
-
-	"LISTENER_GROUP_TITLE_System Actions" = "Azioni sistema";
-	"LISTENER_GROUP_TITLE_System Applications" = "Applicazioni sistema";
-	"LISTENER_GROUP_TITLE_User Applications" = "Applicazioni utente";
-	"LISTENER_GROUP_TITLE_iPod" = "iPod";
-	"LISTENER_GROUP_TITLE_Lock Screen" = "Lockscreen";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Interruttori SBSettings";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Interruttori SBSettings (Attiva)";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Interruttori SBSettings (Disattiva)";
-	"LISTENER_GROUP_TITLE_Phone" = "Telefono";
-	"LISTENER_GROUP_TITLE_Power" = "Alimentazione";
-	"LISTENER_GROUP_TITLE_Audio" = "Audio";
-	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
-	"LISTENER_GROUP_TITLE_Web Clips" = "Clip WEB";
-	"LISTENER_GROUP_TITLE_Sharing" = "Condivisione";
-	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
-	"LISTENER_GROUP_TITLE_Contacts" = "Contatti";
-	"LISTENER_GROUP_TITLE_Camera" = "Fotocamera";
-	"LISTENER_GROUP_TITLE_Ringtones" = "Suonerie";
-	"LISTENER_GROUP_TITLE_Switches" = "Interruttori";
-	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruttori (Attiva)";
-	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruttori (Disattiva)";
-	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Impronte digitali";
-	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
-
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "Avvio applicazione";
-	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "Verrà avviata un'applicazione specifica";
+	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "All'avvio di un'applicazione specifica";
 	"EVENT_TITLE_libactivator.application-launch_FORMAT" = "Avvio di %@";
 	"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "Applicazione %@ avviata";
 
@@ -578,6 +553,46 @@
 
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Riconoscimento impronta \"%@\" valida";
 
+	"NEW_EVENT_TITLE_libactivator.power.drain-past" = "Batteria (scaricamento)";
+	"NEW_EVENT_TITLE_libactivator.power.drain-past_FORMAT" = "Batteria scarica oltre al %@%%";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past" = "La batteria scende sotto un livello specifico";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past_FORMAT" = "Batteria scarica sotto al %@%%";
+	"BATTERY_LEVEL_DRAINS_PAST" = "Batteria scarica sotto al %@%%";
+
+	"NEW_EVENT_TITLE_libactivator.power.charge-past" = "Batteria (caricamento)";
+	"NEW_EVENT_TITLE_libactivator.power.charge-past_FORMAT" = "Batteria carica oltre al %@%%";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past" = "La batteria sale sopra un livello specifico";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "Batteria carica sopra al %@%%";
+	"BATTERY_LEVEL_CHARGES_PAST" = "Batteria carica sopra al %@%%";
+
+	/* Listener Groups */
+
+	"LISTENER_GROUP_TITLE_System Actions" = "Azioni sistema";
+	"LISTENER_GROUP_TITLE_System Applications" = "Applicazioni sistema";
+	"LISTENER_GROUP_TITLE_User Applications" = "Applicazioni utente";
+	"LISTENER_GROUP_TITLE_iPod" = "iPod";
+	"LISTENER_GROUP_TITLE_Lock Screen" = "Lockscreen";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Interruttori SBSettings";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Interruttori SBSettings (Attiva)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Interruttori SBSettings (Disattiva)";
+	"LISTENER_GROUP_TITLE_Phone" = "Telefono";
+	"LISTENER_GROUP_TITLE_Power" = "Alimentazione";
+	"LISTENER_GROUP_TITLE_Audio" = "Audio";
+	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
+	"LISTENER_GROUP_TITLE_Web Clips" = "Clip WEB";
+	"LISTENER_GROUP_TITLE_Sharing" = "Condivisione";
+	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+	"LISTENER_GROUP_TITLE_Contacts" = "Contatti";
+	"LISTENER_GROUP_TITLE_Camera" = "Fotocamera";
+	"LISTENER_GROUP_TITLE_Ringtones" = "Suonerie";
+	"LISTENER_GROUP_TITLE_Switches" = "Interruttori";
+	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruttori (Attiva)";
+	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruttori (Disattiva)";
+	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Impronte digitali";
+	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
+	"LISTENER_GROUP_TITLE_Profiles" = "Profili";
+	"LISTENER_GROUP_TITLE_Speech Synthesis" = "Sintesi vocale";
+
 	/* Listener Names */
 
 	"LISTENER_DESCRIPTION_switch-flip" = "Alterna attiva/disattiva l'interruttore";
@@ -587,6 +602,7 @@
 	"LISTENER_DESCRIPTION_toggle_enable" = "Attiva l'interruttore";
 	"LISTENER_DESCRIPTION_toggle_disable" = "Disattiva l'interruttore";
 	"LISTENER_DESCRIPTION_application" = "Avvia l'applicazione";
+	"LISTENER_DESCRIPTION_profile" = "Attiva il profilo";
 
 	"LISTENER_TITLE_libactivator.system.homebutton" = "Pulsante home";
 	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Simula il pulsante home";
@@ -825,6 +841,12 @@
 	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "Imposta volume";
 	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Imposta il volume ad un valore specifico";
 
+	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "Sintesi vocale";
+	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "Sintesi vocale di un testo personalizzato";
+	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Leggi \"%@\"";
+	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "Sintesi vocale del testo personalizzato";
+	"TEXT" = "Testo";
+
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
 	"LISTENER_TITLE_toggle_Data" = "Data";
@@ -897,4 +919,11 @@
 
 	"FAILED_TO_OPEN_SETTINGS_FILE" = "Apertura file impostazioni, per scrittura, fallita";
 	"FAILED_TO_WRITE_SETTINGS_FILE" = "Scrittura file impostazioni fallita: ";
+	
+	"PROFILES" = "Profili";
+	"PROFILES_DETAIL" = "Gestisci i profili assegnazioni personalizzati";
+	"ADD_NEW_PROFILE" = "Aggiungi un nuovo profilo";
+	"NEW_PROFILE" = "Nuovo profilo";
+	"PROFILE_NAME" = "Nome profilo";
+	"LISTENER_TITLE_libactivator.profile.Default" = "Predefinito";
 }
