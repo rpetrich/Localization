@@ -648,3 +648,10 @@
 "ADD_NEW_PROFILE" = "Добавить профиль";
 "NEW_PROFILE" = "Новый профиль";
 "PROFILE_NAME" = "Название профиля";
+"LISTENER_TITLE_libactivator.profile.Default" = "По умолчанию";
+"LISTENER_GROUP_TITLE_Speech Synthesis" = "Синтез речи";
+"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "Проговорить";
+"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "Устр-во проговорит выбранный текст";
+"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Сказать \"%@\"";
+"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "Устр-во проговорить данный текст";
+"TEXT" = "Текст";
