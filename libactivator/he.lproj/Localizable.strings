@@ -14,6 +14,7 @@
 "ADD_ACTION" = "הוסף פעולה";
 "ADD_NEW_BOOKMARK" = "צור סימניה";
 "ADD_NEW_MENU" = "הוסף תפריט חדש";
+"ADD_NEW_PROFILE" = "הוסף פרופיל חדש";
 "Advertisement" = "פרסומת";
 "ALERT_CANCEL" = "ביטול";
 "ALERT_IGNORE" = "התעלם";
@@ -28,8 +29,8 @@
 "BACKUP_ASSIGNMENTS" = "גיבוי שיוכים";
 "BACKUP_ASSIGNMENTS_DETAIL" = "ייצוא הגדרות תפריט ואירועים";
 "BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "קובץ הגיבוי מאוחסן בתיקייה \"Preferences\" תחת נתיב: \n%@\n ויגובה באמצעות גיבוי iTunes או דרך גיבוי iCloud.";
-"BATTERY_LEVEL_CHARGES_PAST" = "טעינה של הסוללה לכ-%@%%";
-"BATTERY_LEVEL_DRAINS_PAST" = "התרוקנות של הסוללה ל-%@%%";
+"BATTERY_LEVEL_CHARGES_PAST" = "טעינה של הסוללה למעל מ-%@%%";
+"BATTERY_LEVEL_DRAINS_PAST" = "התרוקנות של הסוללה למתחת מ-%@%%";
 "BLACKLIST" = "רשימה שחורה";
 "BLACKLIST_DETAIL" = "התעלמות מפעולות ביישומים ספציפיים";
 "BOOKMARK_DESCRIPTION_FORMAT" = "בקר ב-\"%@\"";
@@ -393,6 +394,7 @@
 "LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "הצגת עמוד הגדרות של \"תמונת הרקע\"";
 "LISTENER_DESCRIPTION_libactivator.settings.wifi" = "הצגת עמוד הגדרות ה-\"אינטרנט אלחוטי\"";
 "LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "כתיבת הודעה חדשה במהירות";
+"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "הקראה ואמירת \"%@\" ע״י המכשיר";
 "LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "משיכת מרכז הבקרה מתחתית המסך";
 "LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "משיכת מרכז העדכונים מראש המסך";
 "LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "חשיפת בר ריבוי המשימות של המכשיר";
@@ -413,6 +415,7 @@
 "LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "כתיבה מהירה של ציוץ בטוויטר";
 "LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "פרסום מהיר ב-Weibo";
 "LISTENER_DESCRIPTION_Place New Call" = "שיחה חדשה";
+"LISTENER_DESCRIPTION_profile" = "הפעלת פרופיל";
 "LISTENER_DESCRIPTION_switch-flip" = "הפעלה/כיבוי מתג";
 "LISTENER_DESCRIPTION_switch-off" = "כיבוי מתג";
 "LISTENER_DESCRIPTION_switch-on" = "הפעלת מתג";
@@ -426,11 +429,13 @@
 "LISTENER_GROUP_TITLE_Lock Screen" = "מסך נעילה";
 "LISTENER_GROUP_TITLE_Phone" = "טלפון";
 "LISTENER_GROUP_TITLE_Power" = "חשמל";
+"LISTENER_GROUP_TITLE_Profiles" = "פרופילים";
 "LISTENER_GROUP_TITLE_Ringtones" = "צלצולים";
 "LISTENER_GROUP_TITLE_SBSettings Toggles" = "כפתורי SBSettings";
 "LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "כיבוי כפתורי SBSettings";
 "LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "הפעלת כפתורי SBSettings";
 "LISTENER_GROUP_TITLE_Sharing" = "שיתוף";
+"LISTENER_GROUP_TITLE_Speech Synthesis" = "צירופי דיבור";
 "LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 "LISTENER_GROUP_TITLE_Switches" = "מתגים";
 "LISTENER_GROUP_TITLE_Switches (Activate)" = "הפעלת מתגים";
@@ -482,6 +487,7 @@
 "LISTENER_TITLE_libactivator.phone.keypad" = "הצגת מקשי חיוג";
 "LISTENER_TITLE_libactivator.phone.recents" = "הצגת שיחות אחרונות";
 "LISTENER_TITLE_libactivator.phone.voicemail" = "הצגת תא קולי";
+"LISTENER_TITLE_libactivator.profile.Default" = "ברירת מחדל";
 "LISTENER_TITLE_libactivator.settings.about" = "אודות";
 "LISTENER_TITLE_libactivator.settings.accessibility" = "נגישות";
 "LISTENER_TITLE_libactivator.settings.auto-lock" = "נעילה אוטומטית";
@@ -514,6 +520,7 @@
 "LISTENER_TITLE_libactivator.settings.wallpaper" = "תמונת רקע";
 "LISTENER_TITLE_libactivator.settings.wifi" = "רשת אלחוטית";
 "LISTENER_TITLE_libactivator.sms.compose-message" = "כתיבת הודעה חדשה";
+"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "אמירת \"%@\"";
 "LISTENER_TITLE_libactivator.system.activate-control-center" = "חשיפת מרכז הבקרה";
 "LISTENER_TITLE_libactivator.system.activate-notification-center" = "חשיפת מרכז העדכונים";
 "LISTENER_TITLE_libactivator.system.activate-switcher" = "חשיפת בר ריבוי המשימות";
@@ -542,7 +549,7 @@
 "LISTENER_TITLE_toggle_SSH" = "SSH";
 "LISTENER_TITLE_toggle_Syslog" = "Syslog";
 "LISTENER_TITLE_toggle_Wi-Fi" = "רשת אלחוטית";
-"LOCALIZATION_ABOUT" = "תורגם על-ידי טמיר דוד.\n(tamirmp4@gmail.com)\n\nלפניות (בקשר לתרגום) הצעות, בקשות, פידבקים, תלונות והערות, ניתן ליצור איתי קשר באמצעות אימייל, או דרך הודעת iMessage.\n\n גרסת התרגום: 1.0.8.1\n\n(תורגם ב-26/04/14, 13:40)";
+"LOCALIZATION_ABOUT" = "תורגם על-ידי טמיר דוד.\n(tamirmp4@gmail.com)\n\nלפניות (בקשר לתרגום) הצעות, בקשות, פידבקים, תלונות והערות, ניתן ליצור איתי קשר באמצעות אימייל, או דרך הודעת iMessage.\n\n גרסת התרגום: 1.0.8.3\n\n(תורגם ב-04/05/14, 11:19)";
 "Loose" = "רופף";
 "MAIL_ANY_SENDER" = "(כל שולח)";
 "MAIL_ANY_SUBJECT" = "(כל נושא)";
@@ -592,10 +599,10 @@
 "NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "התנתקות מחיבור להתקן ה-Bluetooth בשם \"%@\"";
 "NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "כאשר המכשיר מתחבר לרשת אלחוטית";
 "NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "מחובר לרשת אלחוטית בשם \"%@\"";
-"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past" = "טעינת הסוללה למספר אחוזים ספציפי";
-"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "טעינה של הסוללה לכ-%@%%";
-"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past" = "כאשר טעינת הסוללה מגיעה למספר אחוזים ספציפי";
-"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past_FORMAT" = "התרוקנות של הסוללה לכ-%@%%";
+"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past" = "כאשר הסוללה נטענת ומגיעה למספר אחוזים ספציפי";
+"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "טעינה של הסוללה למעל מ-%@%%";
+"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past" = "כאשר הסוללה מתרוקנת ומגיעה למספר אחוזים ספציפי";
+"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past_FORMAT" = "התרוקנות של הסוללה למתחת מ-%@%%";
 "NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "שעה מסויימת ויום מסויים בשבוע מגיעים";
 "NEW_EVENT_TITLE_libactivator.application-launch" = "פתיחת יישום";
 "NEW_EVENT_TITLE_libactivator.icon.flick.down" = "החלקת אייקון מטה";
@@ -622,12 +629,18 @@
 "NEW_EVENT_TITLE_libactivator.power.drain-past_FORMAT" = "התרוקנות סוללה ל-%@%%";
 "NEW_EVENT_TITLE_libactivator.scheduled" = "תזמון";
 "NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "קביעת עוצמת שמע ספציפית";
+"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "דיבור/הקראה של טקסט מותאם אישית ע״י המכשיר";
 "NEW_LISTENER_TITLE_libactivator.audio.volume" = "בחר עוצמת שמע";
+"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "צירופי דיבור";
 "NEW_MENU" = "תפריט חדש";
+"NEW_PROFILE" = "פרופיל חדש";
 "Normal" = "נורמלי";
 "OUT_OF_DATE_MESSAGE" = "פועל במיטבו על גרסאות iOS עדכניות יותר. אנא עדכן את גרסתך בכדי שתוכל להשתמש ב-Activator בצורה תקינה.";
 "OUT_OF_DATE_TITLE" = "גרסת ה-IOS שברשותך ישנה מדי";
 "Precise" = "מדויק";
+"PROFILE_NAME" = "שם הפרופיל";
+"PROFILES" = "פרופילים";
+"PROFILES_DETAIL" = "הגדרת פרופיל עם שיוכי פעולות בהתאמה אישית";
 "RESET_ALERT_CANCEL" = "ביטול";
 "RESET_ALERT_CONTINUE" = "איפוס";
 "RESET_ALERT_MESSAGE" = "האם אתה בטוח שברצונך להמשיך בפעולת האיפוס? פעולה זו, תאפס את כל ההגדרות של Activator למצבן המקורי. בסוף הפעולה, המכשיר יבצע ריספרינג (רענון מערכת) בכדי להשלים את איפוס ההגדרות.";
@@ -652,6 +665,7 @@
 "SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "הצגת באנר בעת ביצוע פעולה";
 "SHOW_ICON" = "הצגת אייקון";
 "Slide Gestures" = "מחוות החלקה";
+"TEXT" = "טקסט";
 "Tight" = "הדוק";
 "TOO_NEW_MESSAGE" = "גרסת ה-IOS שברשותך חדשה מידי, Activator לא נבדק עדיין על גרסת iOS זו. יתכן שחלק מן האפשרויות לא יתפקדו או יפעלו כראוי.";
 "TOO_NEW_TITLE" = "גרסת ה-IOS שברשותך חדשה מדי";
@@ -664,10 +678,3 @@
 "Very Precise" = "מאוד מדויק";
 "WEEKDAYS_LOWERCASE" = "ימי חול";
 "WEEKENDS_LOWERCASE" = "סופי שבוע";
-"LISTENER_GROUP_TITLE_Profiles" = "פרופילים";
-"LISTENER_DESCRIPTION_profile" = "הפעלת פרופיל";
-"PROFILES" = "פרופילים";
-"PROFILES_DETAIL" = "הגדרת פרופיל עם שיוכי פעולות בהתאמה אישית";
-"ADD_NEW_PROFILE" = "הוסף פרופיל חדש";
-"NEW_PROFILE" = "פרופיל חדש";
-"PROFILE_NAME" = "שם הפרופיל";
