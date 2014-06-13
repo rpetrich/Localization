@@ -565,6 +565,11 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "Power level charges above %@%%";
 	"BATTERY_LEVEL_CHARGES_PAST" = "Power level charges above %@%%";
 
+	"NEW_EVENT_TITLE_libactivator.network.left-wifi" = "Left Wi-Fi Network";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Disconnected from a Wi-Fi network";
+	"NEW_EVENT_TITLE_libactivator.network.left-wifi_FORMAT" = "Left %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT" = "Disconnected from specific Wi-Fi";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
@@ -592,6 +597,8 @@
 	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
 	"LISTENER_GROUP_TITLE_Profiles" = "Profiles";
 	"LISTENER_GROUP_TITLE_Speech Synthesis" = "Speech Synthesis";
+	"LISTENER_GROUP_TITLE_Screen Brightness" = "Screen Brightness";
+	"LISTENER_GROUP_TITLE_Message Alert" = "Message Alert";
 
 	/* Listener Names */
 
@@ -846,6 +853,16 @@
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Say \"%@\"";
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "Have device speak custom text";
 	"TEXT" = "Text";
+	
+	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "Set Brightness";
+	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Apply specific screen brightness";
+	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "%@%% Brightness";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness_FORMAT" = "Set brightness to %@%% of maximum";
+
+	"NEW_LISTENER_TITLE_libactivator.message.show" = "Show Message Alert";
+	"NEW_LISTENER_DESCRIPTION_libactivator.message.show" = "Show custom alert message";
+	"LISTENER_TITLE_libactivator.message.show_FORMAT" = "Display \"%@\" message";
+	"LISTENER_DESCRIPTION_libactivator.message.show_FORMAT" = "Show custom alert message";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";

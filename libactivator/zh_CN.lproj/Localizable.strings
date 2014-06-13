@@ -565,6 +565,11 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "电池充电到电量高于 %@%%";
 	"BATTERY_LEVEL_CHARGES_PAST" = "电池充电到电量高于 %@%%";
 
+	"NEW_EVENT_TITLE_libactivator.network.left-wifi" = "断开 Wi-Fi 连接";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi" = "断开某个 Wi-Fi 网络连接";
+	"NEW_EVENT_TITLE_libactivator.network.left-wifi_FORMAT" = "断开 %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT" = "断开指定的 Wi-Fi 网络连接";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
@@ -594,6 +599,8 @@
 	"LISTENER_GROUP_TITLE_VideoPane" = "视频面板";
 	"LISTENER_GROUP_TITLE_Profiles" = "档案";
 	"LISTENER_GROUP_TITLE_Speech Synthesis" = "朗读";
+	"LISTENER_GROUP_TITLE_Screen Brightness" = "屏幕亮度";
+	"LISTENER_GROUP_TITLE_Message Alert" = "信息提示";
 
 	/* Listener Names */
 
@@ -743,6 +750,18 @@
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "朗读“%@”";
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "让设备朗读自定义文本";
 	"TEXT" = "文本";
+
+	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "设置亮度";
+	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "应用指定屏幕亮度";
+	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "%@%% 亮度";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness_FORMAT" = "设置亮度到 %@%%";
+
+	"NEW_LISTENER_TITLE_libactivator.message.show" = "显示信息提示";
+	"NEW_LISTENER_DESCRIPTION_libactivator.message.show" = "显示自定义提示信息";
+	"LISTENER_TITLE_libactivator.message.show_FORMAT" = "显示信息“%@”";
+	"LISTENER_DESCRIPTION_libactivator.message.show_FORMAT" = "显示自定义提示信息";
+	"MESSAGE" = "信息";
+	"TITLE" = "标题";
 
 	/* Third Party Listerners */
 
@@ -1154,5 +1173,5 @@
 	"ADD_NEW_PROFILE" = "添加档案";
 	"NEW_PROFILE" = "新档案";
 	"PROFILE_NAME" = "档案名称";
-	"LISTENER_TITLE_libactivator.profile.Default" = "默认档案";
+	"LISTENER_TITLE_libactivator.profile.Default" = "默认档案";	
 }

@@ -565,6 +565,11 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "電池充電到電量高於 %@%%";
 	"BATTERY_LEVEL_CHARGES_PAST" = "電池充電到電量高於 %@%%";
 
+	"NEW_EVENT_TITLE_libactivator.network.left-wifi" = "斷開 Wi-Fi 連接";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi" = "斷開某個 Wi-Fi 網路連接";
+	"NEW_EVENT_TITLE_libactivator.network.left-wifi_FORMAT" = "斷開 %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT" = "斷開指定的 Wi-Fi 網路連接";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系統動作";
@@ -594,6 +599,8 @@
 	"LISTENER_GROUP_TITLE_VideoPane" = "視訊面板";
 	"LISTENER_GROUP_TITLE_Profiles" = "檔案";
 	"LISTENER_GROUP_TITLE_Speech Synthesis" = "朗讀";
+	"LISTENER_GROUP_TITLE_Screen Brightness" = "螢幕亮度";
+	"LISTENER_GROUP_TITLE_Message Alert" = "訊息提示";
 
 	/* Listener Names */
 	"LISTENER_DESCRIPTION_switch-flip" = "啟用/禁用該開關";
@@ -742,6 +749,18 @@
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "朗讀『%@』";
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "讓裝置朗讀自訂文字";
 	"TEXT" = "文字";
+
+	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "設定亮度";
+	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "應用指定螢幕亮度";
+	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "%@%% 亮度";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness_FORMAT" = "設定亮度到 %@%%";
+
+	"NEW_LISTENER_TITLE_libactivator.message.show" = "顯示訊息提示";
+	"NEW_LISTENER_DESCRIPTION_libactivator.message.show" = "顯示自訂提示訊息";
+	"LISTENER_TITLE_libactivator.message.show_FORMAT" = "顯示訊息『%@』";
+	"LISTENER_DESCRIPTION_libactivator.message.show_FORMAT" = "顯示自訂提示訊息";
+	"MESSAGE" = "訊息";
+	"TITLE" = "標題";
 
 	/* Third Party Listerners */
 
