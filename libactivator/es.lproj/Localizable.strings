@@ -474,32 +474,6 @@
 	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "Doble toque Pane";
 	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "Toca dos veces para activar VideoPane";
 	
-	/* Listener Groups */
-	
-	"LISTENER_GROUP_TITLE_System Actions" = "Acciones del sistema";
-	"LISTENER_GROUP_TITLE_System Applications" = "Aplicaciones del sistema";
-	"LISTENER_GROUP_TITLE_User Applications" = "Aplicaciones del usuario";
-	"LISTENER_GROUP_TITLE_iPod" = "iPod";
-	"LISTENER_GROUP_TITLE_Lock Screen" = "Pantalla de bloqueo";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Botones SBSettings";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Botones (Activar)";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Botones (Desactivar)";
-	"LISTENER_GROUP_TITLE_Phone" = "Teléfono";
-	"LISTENER_GROUP_TITLE_Power" = "Cargador";
-	"LISTENER_GROUP_TITLE_Audio" = "Audio";
-	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
-	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
-	"LISTENER_GROUP_TITLE_Sharing" = "Compartir";
-	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
-	"LISTENER_GROUP_TITLE_Contacts" = "Contactos";
-	"LISTENER_GROUP_TITLE_Camera" = "Cámara";
-	"LISTENER_GROUP_TITLE_Ringtones" = "Tonos";
-	"LISTENER_GROUP_TITLE_Switches" = "Interruptores";
-	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activar)";
-	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Desactivar)";
-	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Lector de huellas";
-	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
-
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "Iniciar aplicación";
@@ -590,6 +564,41 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past" = "El nivel de carga está por encima de un nivel específico";
 	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "El nivel está por encima de %@%%";
 	"BATTERY_LEVEL_CHARGES_PAST" = "El nivel está por encima de %@%%";
+	
+	"NEW_EVENT_TITLE_libactivator.network.left-wifi" = "Abandonar una red Wi-Fi";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Desconectado de una red Wi-Fi";
+	"NEW_EVENT_TITLE_libactivator.network.left-wifi_FORMAT" = "Abandonar %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT" = "Desconectado de una Wi-Fi específica";
+
+	/* Listener Groups */
+	
+	"LISTENER_GROUP_TITLE_System Actions" = "Acciones del sistema";
+	"LISTENER_GROUP_TITLE_System Applications" = "Aplicaciones del sistema";
+	"LISTENER_GROUP_TITLE_User Applications" = "Aplicaciones del usuario";
+	"LISTENER_GROUP_TITLE_iPod" = "iPod";
+	"LISTENER_GROUP_TITLE_Lock Screen" = "Pantalla de bloqueo";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Botones SBSettings";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Botones (Activar)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Botones (Desactivar)";
+	"LISTENER_GROUP_TITLE_Phone" = "Teléfono";
+	"LISTENER_GROUP_TITLE_Power" = "Cargador";
+	"LISTENER_GROUP_TITLE_Audio" = "Audio";
+	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
+	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
+	"LISTENER_GROUP_TITLE_Sharing" = "Compartir";
+	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+	"LISTENER_GROUP_TITLE_Contacts" = "Contactos";
+	"LISTENER_GROUP_TITLE_Camera" = "Cámara";
+	"LISTENER_GROUP_TITLE_Ringtones" = "Tonos";
+	"LISTENER_GROUP_TITLE_Switches" = "Interruptores";
+	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activar)";
+	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Desactivar)";
+	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Lector de huellas";
+	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
+	"LISTENER_GROUP_TITLE_Profiles" = "Perfiles";
+	"LISTENER_GROUP_TITLE_Speech Synthesis" = "Sintetizador de voz";
+	"LISTENER_GROUP_TITLE_Screen Brightness" = "Brillo de pantalla";
+	"LISTENER_GROUP_TITLE_Message Alert" = "Mensaje de aviso";
 
 	/* Listener Names */
 
@@ -600,6 +609,7 @@
 	"LISTENER_DESCRIPTION_toggle_enable" = "Activa la función";
 	"LISTENER_DESCRIPTION_toggle_disable" = "Desactiva la función";
 	"LISTENER_DESCRIPTION_application" = "Inicia la aplicación";
+	"LISTENER_DESCRIPTION_profile" = "Activa el perfil";
 	
 	"LISTENER_TITLE_libactivator.system.homebutton" = "Botón inicio";
 	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Simula una pulsación al botón inicio";
@@ -838,6 +848,22 @@
 	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "Establecer volumen";
 	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Aplicar volumen a un sistema de audio específico";
 	
+	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "Sintetizador de voz";
+	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "Dispositivo diciendo un texto específico";
+	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Decir \"%@\"";
+	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "Dispositivo diciendo un texto específico";
+	"TEXT" = "Texto";
+	
+	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "Establecer brillo";
+	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Aplicar un brillo específico a la pantalla";
+	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "%@%% brillo";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness_FORMAT" = "Establecer brillo al %@%% del máximo";
+
+	"NEW_LISTENER_TITLE_libactivator.message.show" = "Mostrar mensaje de aviso";
+	"NEW_LISTENER_DESCRIPTION_libactivator.message.show" = "Establecer mensaje de aviso personalizado";
+	"LISTENER_TITLE_libactivator.message.show_FORMAT" = "Mostrar el mensaje \"%@\" ";
+	"LISTENER_DESCRIPTION_libactivator.message.show_FORMAT" = "Establecer mensaje de aviso personalizado";
+	
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
 	"LISTENER_TITLE_toggle_Data" = "Datos";
@@ -910,4 +936,11 @@
 
 	"FAILED_TO_OPEN_SETTINGS_FILE" = "Fallo al abrir el archivo de ajustes para la escritura";
 	"FAILED_TO_WRITE_SETTINGS_FILE" = "Fallo al escribir el archivo de ajustes: ";
+	
+	"PROFILES" = "Perfiles";
+	"PROFILES_DETAIL" = "Configurar asignación de perfiles";
+	"ADD_NEW_PROFILE" = "Añadir nuevo perfil";
+	"NEW_PROFILE" = "Nuevo perfil";
+	"PROFILE_NAME" = "Nombre del perfil";
+	"LISTENER_TITLE_libactivator.profile.Default" = "Por defecto";
 }
