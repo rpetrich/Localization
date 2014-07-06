@@ -565,6 +565,11 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "Batteria carica sopra al %@%%";
 	"BATTERY_LEVEL_CHARGES_PAST" = "Batteria carica sopra al %@%%";
 
+	"NEW_EVENT_TITLE_libactivator.network.left-wifi" = "Disconnessione rete Wi-Fi";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Disconnessione da una rete Wi-Fi specifica";
+	"NEW_EVENT_TITLE_libactivator.network.left-wifi_FORMAT" = "Disconnessione da %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT" = "Disconnessione dalla rete Wi-Fi specificata";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "Azioni sistema";
@@ -592,6 +597,8 @@
 	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
 	"LISTENER_GROUP_TITLE_Profiles" = "Profili";
 	"LISTENER_GROUP_TITLE_Speech Synthesis" = "Sintesi vocale";
+	"LISTENER_GROUP_TITLE_Screen Brightness" = "Luminosità schermo";
+	"LISTENER_GROUP_TITLE_Message Alert" = "Messaggi di avviso";
 
 	/* Listener Names */
 
@@ -846,6 +853,16 @@
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Leggi \"%@\"";
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "Sintesi vocale del testo personalizzato";
 	"TEXT" = "Testo";
+	
+	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "Luminosità schermo";
+	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Imposta la luminosità ad un valore specifico";
+	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "Luminosità al %@%%";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness_FORMAT" = "Imposta la luminosità al %@%%";
+
+	"NEW_LISTENER_TITLE_libactivator.message.show" = "Messaggio di avviso";
+	"NEW_LISTENER_DESCRIPTION_libactivator.message.show" = "Mostra un messaggio personalizzato";
+	"LISTENER_TITLE_libactivator.message.show_FORMAT" = "Mostra messaggio \"%@\"";
+	"LISTENER_DESCRIPTION_libactivator.message.show_FORMAT" = "Mostra il messaggio personalizzato";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
@@ -925,5 +942,5 @@
 	"ADD_NEW_PROFILE" = "Aggiungi un nuovo profilo";
 	"NEW_PROFILE" = "Nuovo profilo";
 	"PROFILE_NAME" = "Nome profilo";
-	"LISTENER_TITLE_libactivator.profile.Default" = "Predefinito";
+	"LISTENER_TITLE_libactivator.profile.Default" = "Predefinito";	
 }
