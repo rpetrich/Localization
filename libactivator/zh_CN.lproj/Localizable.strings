@@ -754,7 +754,7 @@
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "让设备朗读自定义文本";
 	"TEXT" = "文本";
 
-	"SET_BRIGHTNESS_TO_FORMAT " = "设置亮度到 %@%%";
+	"SET_BRIGHTNESS_TO_FORMAT" = "设置亮度到 %@%%";
 	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "设置亮度";
 	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "应用指定屏幕亮度";
 	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "%@%% 亮度";
@@ -1177,5 +1177,5 @@
 	"ADD_NEW_PROFILE" = "添加档案";
 	"NEW_PROFILE" = "新档案";
 	"PROFILE_NAME" = "档案名称";
-	"LISTENER_TITLE_libactivator.profile.Default" = "默认档案";	
+	"LISTENER_TITLE_libactivator.profile.Default" = "默认档案";
 }
