@@ -390,6 +390,9 @@
 	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-right" = "向右拖動時鐘";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right" = "向右拖動時鐘/日期區域";
 
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-down" = "向下拖動時鐘";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-down" = "向下拖動時鐘/日期區域";
+
 	"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "按住時鐘";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "按住時鐘/日期區域";
 
@@ -739,10 +742,10 @@
 	"LISTENER_DESCRIPTION_libactivator.ringtone" = "播放該鈴聲";
 
 	"SET_VOLUME_TO_FORMAT" = "設定音量到 %@%%";
-	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% 音量";
-	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "設定音量到最大值的 %@%%";
 	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "設定音量";
 	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "套用指定的系統音量";
+	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% 音量";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "設定音量到最大值的 %@%%";
 
 	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "朗讀";
 	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "讓裝置朗讀自訂文字";
@@ -750,6 +753,7 @@
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "讓裝置朗讀自訂文字";
 	"TEXT" = "文字";
 
+	"SET_BRIGHTNESS_TO_FORMAT" = "設定亮度到 %@%%";
 	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "設定亮度";
 	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "應用指定螢幕亮度";
 	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "%@%% 亮度";

@@ -390,6 +390,9 @@
 	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-right" = "Swipe Clock Right";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right" = "Swipe right on clock/date area";
 
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-down" = "Swipe Clock Down";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-down" = "Swipe down on clock/date area";
+
 	"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "Tap and Hold Clock";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "Single tap & hold on clock/date area";
 
@@ -843,10 +846,10 @@
 	"LISTENER_DESCRIPTION_libactivator.ringtone" = "Play Ringtone";
 
 	"SET_VOLUME_TO_FORMAT" = "Set volume to %@%%";
-	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% Volume";
-	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Set volume to %@%% of maximum";
 	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "Set Volume";
 	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Apply specific system audio volume";
+	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% Volume";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Set volume to %@%% of maximum";
 
 	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "Synthesize Speech";
 	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "Have device speak custom text";
@@ -854,6 +857,7 @@
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "Have device speak custom text";
 	"TEXT" = "Text";
 	
+	"SET_BRIGHTNESS_TO_FORMAT" = "Set brightness to %@%%";
 	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "Set Brightness";
 	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Apply specific screen brightness";
 	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "%@%% Brightness";

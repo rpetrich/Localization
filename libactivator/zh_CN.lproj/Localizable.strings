@@ -390,6 +390,9 @@
 	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-right" = "向右拖动时钟";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right" = "向右拖动时钟/日期区域";
 
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-down" = "向下拖动时钟";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-down" = "向下拖动时钟/日期区域";
+
 	"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "按住时钟";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "按住时钟/日期区域";
 
@@ -740,10 +743,10 @@
 	"LISTENER_DESCRIPTION_libactivator.ringtone" = "播放该铃声";
 
 	"SET_VOLUME_TO_FORMAT" = "设置音量到 %@%%";
-	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% 音量";
-	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "设置音量到最大值的 %@%%";
 	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "设置音量";
 	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "应用指定的系统音量";
+	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% 音量";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "设置音量到最大值的 %@%%";
 
 	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "朗读";
 	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "让设备朗读自定义文本";
@@ -751,6 +754,7 @@
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "让设备朗读自定义文本";
 	"TEXT" = "文本";
 
+	"SET_BRIGHTNESS_TO_FORMAT" = "设置亮度到 %@%%";
 	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "设置亮度";
 	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "应用指定屏幕亮度";
 	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "%@%% 亮度";
@@ -1173,5 +1177,5 @@
 	"ADD_NEW_PROFILE" = "添加档案";
 	"NEW_PROFILE" = "新档案";
 	"PROFILE_NAME" = "档案名称";
-	"LISTENER_TITLE_libactivator.profile.Default" = "默认档案";	
+	"LISTENER_TITLE_libactivator.profile.Default" = "默认档案";
 }
