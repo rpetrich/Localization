@@ -869,6 +869,8 @@
 	"NEW_LISTENER_DESCRIPTION_libactivator.message.show" = "Show custom alert message";
 	"LISTENER_TITLE_libactivator.message.show_FORMAT" = "Display \"%@\" message";
 	"LISTENER_DESCRIPTION_libactivator.message.show_FORMAT" = "Show custom alert message";
+	"TITLE" = "Title";
+	"MESSAGE" = "Message";
 
 	"NEW_LISTENER_TITLE_libactivator.assistant.ask" = "Ask Siri";
 	"NEW_LISTENER_DESCRIPTION_libactivator.assistant.ask" = "Have Siri answer a question";
