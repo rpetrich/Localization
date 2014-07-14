@@ -15,12 +15,12 @@
 	"CURRENTLY_ASSIGNED_TO" = "Actualmente asignado a:";
 	"UNASSIGNED" = "(sin asignar)";
 	"MORE_ACTIONS" = "Más acciones";
-	"MORE_ACTIONS_DETAIL" = "Obtener mas acciones desde Cydia";
+	"MORE_ACTIONS_DETAIL" = "Obtén mas acciones desde Cydia";
 	"DONATE" = "Donar";
-	"DONATE_DETAIL" = "Contribuir por PayPal";
+	"DONATE_DETAIL" = "Contribuye por PayPal";
 	"N_ADDITIONAL_EVENTS" = "%i eventos adicionales";
 	"RESET_SETTINGS" = "Resetear ajustes";
-	"RESET_SETTINGS_DETAIL" = "Devolver ajustes a valores por defecto";
+	"RESET_SETTINGS_DETAIL" = "Devuelve los ajustes a valores por defecto";
 	"RESET_ALERT_TITLE" = "Resetear los ajustes de Activator";
 	"RESET_ALERT_MESSAGE" = "¿Seguro que quiere resetear los ajustes a los valores por defecto?\nSu dispositivo hará respring si continúa.";
 	"RESET_ALERT_CANCEL" = "Cancelar";
@@ -28,6 +28,7 @@
 	"MULTIPLE_ASSIGNMENTS" = "(múltiples)";
 	"UNKNOWN_ASSIGNMENT" = "(desconocido)";
 	"SEARCH" = "Buscar";
+	"MORE" = "Más";
 	
 	"ENABLED" = "Activado";
 	"DISABLED" = "Desactivado";
@@ -95,7 +96,7 @@
 	"MESSAGE_MESSAGE" = "Mensaje";
 	"MESSAGE_ANY_MESSAGE" = "(cualquier mensaje)";
 	
-	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "Mostrar banner al hacer una acción";
+	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "Muestra un banner al ejecutar una acción";
 	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "Mostrar cuando se ejecute una acción";
 	"ACTION_BANNERS" = "Banners de acción";
 	"ACTION_BANNERS_NEVER" = "Nunca";
@@ -190,13 +191,13 @@
 	"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "Pulsa ambos botones simultáneamente";
 	
 	"EVENT_TITLE_libactivator.lock.hold.long" = "Pulsación larga";
-	"EVENT_DESCRIPTION_libactivator.lock.hold.long" = "Presiona durante un momento el botón reposo";
+	"EVENT_DESCRIPTION_libactivator.lock.hold.long" = "Pulsa durante un momento el botón reposo";
 	
 	"EVENT_TITLE_libactivator.menu.hold.short" = "Pulsación corta";
 	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Mantén pulsado el botón inicio";
 
 	"EVENT_TITLE_libactivator.menu.hold.long" = "Pulsación larga";
-	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Presiona durante un momento el botón inicio";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Pulsa durante un momento el botón inicio";
 	
 	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "Pulsación corta en el SpringBoard";
 	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Pulsa el botón inicio en el springboard";
@@ -250,7 +251,7 @@
 	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Arrastra a la pantalla desde abajo-der.";
 	
 	"EVENT_TITLE_libactivator.drag-off.bottom" = "Hacia abajo";
-	"EVENT_DESCRIPTION_libactivator.drag-off.bottom" = "Desliza la pantalla hacia abajo";
+	"EVENT_DESCRIPTION_libactivator.drag-off.bottom" = "Arrastra la pantalla hacia abajo";
 
 	"EVENT_TITLE_libactivator.drag-off.left" = "Hacia la izquierda";
  	"EVENT_DESCRIPTION_libactivator.drag-off.left" = "Arrastra la pantalla hacia la izquierda";
@@ -303,7 +304,7 @@
 	"EVENT_TITLE_libactivator.springboard.spread" = "Separar iconos";
 	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "Separa los iconos con dos dedos";
 	
-	"EVENT_TITLE_libactivator.statusbar.hold" = "Tocar corto";
+	"EVENT_TITLE_libactivator.statusbar.hold" = "Toque corto";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Mantén presionada la barra de estado";
 	
 	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Deslizar a la izquierda";
@@ -312,13 +313,13 @@
 	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "Deslizar a la derecha";
 	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Deliza a la derecha sobre la barra";
 
-        "EVENT_TITLE_libactivator.statusbar.tap.single" = "Tocar";
+        "EVENT_TITLE_libactivator.statusbar.tap.single" = "Toque";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Toca una vez la barra de estado";
 
-	"EVENT_TITLE_libactivator.statusbar.hold.left" = "Tocar corto izquierda";
+	"EVENT_TITLE_libactivator.statusbar.hold.left" = "Toque corto izquierda";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Mantén presionada la parte izquierda";
 
-	"EVENT_TITLE_libactivator.statusbar.hold.right" = "Tocar corto derecha";
+	"EVENT_TITLE_libactivator.statusbar.hold.right" = "Toque corto derecha";
 	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Mantén presionada la parte derecha";
 
 	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Doble toque izquierda";
@@ -327,10 +328,10 @@
 	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "Doble toque derecha";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "Toca 2 veces la parte derecha";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "Tocar izquierda";
+	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "Toque izquierda";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "Toca la parte izquierda de la barra";
 
-	"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "Tocar derecha";
+	"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "Toque derecha";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "Toca la parte derecha de la barra";
 
 	"EVENT_TITLE_libactivator.statusbar.tap.double" = "Doble toque";
@@ -369,10 +370,10 @@
 	"EVENT_TITLE_libactivator.volume.unmute" = "Desilenciar dispositivo";
 	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "Desactiva el silencio a través del botón timbre";
 	
-	"EVENT_TITLE_libactivator.headset-button.press.single" = "Pulsar";
+	"EVENT_TITLE_libactivator.headset-button.press.single" = "Pulsación";
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Pulsa una vez el botón de auriculares";	
 	
-	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Pulsar corto";
+	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Pulsación corta";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Mantén pulsado el botón de auriculares";
 
 	"EVENT_TITLE_libactivator.headset.connected" = "Conectar";
@@ -389,6 +390,9 @@
 
 	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-right" = "Deslizar reloj derecha";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right" = "Desliza a la derecha sobre el reloj";
+	
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-down" = "Deslizar reloj abajo";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-down" = "Desliza hacia abajo sobre el reloj";
 
 	"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "Tocar corto el reloj";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "Mantén presionado el reloj";
@@ -447,8 +451,8 @@
 	"EVENT_TITLE_libactivator.device.locked" = "Bloqueado";
 	"EVENT_DESCRIPTION_libactivator.device.locked" = "Dispositivo bloquedo por el botón reposo o por tiempo";
 
-	"EVENT_TITLE_libactivator.device.unlocked" = "Desbloqueado";
-	"EVENT_DESCRIPTION_libactivator.device.unlocked" = "Dispositivo desbloqueado por la barra deslizadora";
+	"EVENT_TITLE_libactivator.device.unlocked" = "Desbloquear";
+	"EVENT_DESCRIPTION_libactivator.device.unlocked" = "Desbloquea el dispositivo con la barra deslizadora";
 	
 	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single" = "Toque";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single" = "Toca el sensor de huella una vez";
@@ -541,7 +545,7 @@
 	"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "Conectado a %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "Conectado a una red Wi-Fi específica";
 	"NETWORK_NAME" = "Nombre de la red";
-	"EVENT_TITLE_libactivator.network.joined-wifi" = "Conectado a Wi-Fi";
+	"EVENT_TITLE_libactivator.network.joined-wifi" = "Conectar a Wi-Fi";
 	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Conectado a cualquier red Wi-Fi";
 	"EVENT_TITLE_libactivator.network.left-wifi" = "Abandonar Wi-Fi";
 	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Desconectado de una red Wi-Fi";
@@ -551,7 +555,7 @@
 	"NEW_EVENT_TITLE_libactivator.network.bluetooth-disconnect_FORMAT" = "Desconectado de %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "Desconectado con un dispositivo específico";
 	
-	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Huella \"%@\" coincide";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Coincida la huella del \"%@\" ";
 	
 	"NEW_EVENT_TITLE_libactivator.power.drain-past" = "Gastando batería";
 	"NEW_EVENT_TITLE_libactivator.power.drain-past_FORMAT" = "El gasto de batería pasa %@%%";
@@ -599,6 +603,7 @@
 	"LISTENER_GROUP_TITLE_Speech Synthesis" = "Sintetizador de voz";
 	"LISTENER_GROUP_TITLE_Screen Brightness" = "Brillo de pantalla";
 	"LISTENER_GROUP_TITLE_Message Alert" = "Mensaje de aviso";
+	"LISTENER_GROUP_TITLE_Ask Siri" = "Preguntar a Siri";
 
 	/* Listener Names */
 
@@ -854,6 +859,7 @@
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "Dispositivo diciendo un texto específico";
 	"TEXT" = "Texto";
 	
+	"SET_BRIGHTNESS_TO_FORMAT" = "Establecer brillo al %@%%";
 	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "Establecer brillo";
 	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Aplicar un brillo específico a la pantalla";
 	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "%@%% brillo";
@@ -863,6 +869,14 @@
 	"NEW_LISTENER_DESCRIPTION_libactivator.message.show" = "Establecer mensaje de aviso personalizado";
 	"LISTENER_TITLE_libactivator.message.show_FORMAT" = "Mostrar el mensaje \"%@\" ";
 	"LISTENER_DESCRIPTION_libactivator.message.show_FORMAT" = "Establecer mensaje de aviso personalizado";
+	"TITLE" = "Título";
+	"MESSAGE" = "Mensaje";
+	
+	"NEW_LISTENER_TITLE_libactivator.assistant.ask" = "Preguntar a Siri";
+	"NEW_LISTENER_DESCRIPTION_libactivator.assistant.ask" = "Hace que Siri responda a una pregunta";
+	"LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "Preguntar \"%@\"";
+	"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "Hace que Siri responda a una pregunta";
+	"QUESTION" = "Pregunta";
 	
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
@@ -938,7 +952,7 @@
 	"FAILED_TO_WRITE_SETTINGS_FILE" = "Fallo al escribir el archivo de ajustes: ";
 	
 	"PROFILES" = "Perfiles";
-	"PROFILES_DETAIL" = "Configurar asignación de perfiles";
+	"PROFILES_DETAIL" = "Configura la asignación de perfiles";
 	"ADD_NEW_PROFILE" = "Añadir nuevo perfil";
 	"NEW_PROFILE" = "Nuevo perfil";
 	"PROFILE_NAME" = "Nombre del perfil";
