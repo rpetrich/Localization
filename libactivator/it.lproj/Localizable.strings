@@ -28,6 +28,7 @@
 	"MULTIPLE_ASSIGNMENTS" = "(multipli)";
 	"UNKNOWN_ASSIGNMENT" = "(sconosciuto)";
 	"SEARCH" = "Cerca";
+	"MORE" = "Altro";
 
 	"ENABLED" = "Attivato";
 	"DISABLED" = "Disattivato";
@@ -390,6 +391,9 @@
 	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-right" = "Scorrimento (destra)";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right" = "Scorrere verso destra sulla zona ora/data";
 
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-down" = "Scorrimento (giù)";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-down" = "Scorrere verso il basso sulla zona ora/data";
+
 	"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "Pressione breve";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "Tenere premuto sulla zona ora/data";
 
@@ -599,6 +603,7 @@
 	"LISTENER_GROUP_TITLE_Speech Synthesis" = "Sintesi vocale";
 	"LISTENER_GROUP_TITLE_Screen Brightness" = "Luminosità schermo";
 	"LISTENER_GROUP_TITLE_Message Alert" = "Messaggi di avviso";
+	"LISTENER_GROUP_TITLE_Ask Siri" = "Domanda a Siri";
 
 	/* Listener Names */
 
@@ -843,10 +848,10 @@
 	"LISTENER_DESCRIPTION_libactivator.ringtone" = "Riproduci suoneria";
 
 	"SET_VOLUME_TO_FORMAT" = "Imposta il volume al %@%%";
-	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "Volume al %@%%";
-	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Imposta il volume al %@%%";
 	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "Imposta volume";
 	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Imposta il volume ad un valore specifico";
+	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "Volume al %@%%";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Imposta il volume al %@%%";
 
 	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "Sintesi vocale";
 	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "Sintesi vocale di un testo personalizzato";
@@ -854,6 +859,7 @@
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "Sintesi vocale del testo personalizzato";
 	"TEXT" = "Testo";
 	
+	"SET_BRIGHTNESS_TO_FORMAT" = "Imposta la luminosità al %@%%";
 	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "Luminosità schermo";
 	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Imposta la luminosità ad un valore specifico";
 	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "Luminosità al %@%%";
@@ -863,6 +869,14 @@
 	"NEW_LISTENER_DESCRIPTION_libactivator.message.show" = "Mostra un messaggio personalizzato";
 	"LISTENER_TITLE_libactivator.message.show_FORMAT" = "Mostra messaggio \"%@\"";
 	"LISTENER_DESCRIPTION_libactivator.message.show_FORMAT" = "Mostra il messaggio personalizzato";
+	"TITLE" = "Titolo";
+	"MESSAGE" = "Messaggio";
+
+	"NEW_LISTENER_TITLE_libactivator.assistant.ask" = "Domanda a Siri";
+	"NEW_LISTENER_DESCRIPTION_libactivator.assistant.ask" = "Ricevi una risposta ad una domanda";
+	"LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "Domanda \"%@\"";
+	"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "Ricevi una risposta alla domanda fatta";
+	"QUESTION" = "Domanda";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
