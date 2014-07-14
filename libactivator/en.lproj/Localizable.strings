@@ -28,6 +28,7 @@
 	"MULTIPLE_ASSIGNMENTS" = "(multiple)";
 	"UNKNOWN_ASSIGNMENT" = "(unknown)";
 	"SEARCH" = "Search";
+	"MORE" = "More";
 
 	"ENABLED" = "Enabled";
 	"DISABLED" = "Disabled";
@@ -602,6 +603,7 @@
 	"LISTENER_GROUP_TITLE_Speech Synthesis" = "Speech Synthesis";
 	"LISTENER_GROUP_TITLE_Screen Brightness" = "Screen Brightness";
 	"LISTENER_GROUP_TITLE_Message Alert" = "Message Alert";
+	"LISTENER_GROUP_TITLE_Ask Siri" = "Ask Siri";
 
 	/* Listener Names */
 
@@ -867,6 +869,12 @@
 	"NEW_LISTENER_DESCRIPTION_libactivator.message.show" = "Show custom alert message";
 	"LISTENER_TITLE_libactivator.message.show_FORMAT" = "Display \"%@\" message";
 	"LISTENER_DESCRIPTION_libactivator.message.show_FORMAT" = "Show custom alert message";
+
+	"NEW_LISTENER_TITLE_libactivator.assistant.ask" = "Ask Siri";
+	"NEW_LISTENER_DESCRIPTION_libactivator.assistant.ask" = "Have Siri answer a question";
+	"LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "Ask \"%@\"";
+	"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "Have Siri answer a question";
+	"QUESTION" = "Question";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";

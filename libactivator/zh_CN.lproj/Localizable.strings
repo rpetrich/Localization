@@ -28,6 +28,7 @@
 	"MULTIPLE_ASSIGNMENTS" = "【多个】";
 	"UNKNOWN_ASSIGNMENT" = "【未知】";
 	"SEARCH" = "搜索";
+	"MORE" = "更多";
 
 	"ENABLED" = "启用";
 	"DISABLED" = "禁用";
@@ -604,6 +605,7 @@
 	"LISTENER_GROUP_TITLE_Speech Synthesis" = "朗读";
 	"LISTENER_GROUP_TITLE_Screen Brightness" = "屏幕亮度";
 	"LISTENER_GROUP_TITLE_Message Alert" = "信息提示";
+	"LISTENER_GROUP_TITLE_Ask Siri" = "向 Siri 提问";
 
 	/* Listener Names */
 
@@ -646,8 +648,8 @@
 	"LISTENER_TITLE_libactivator.system.activate-control-center" = "激活控制中心";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "激活系统控制中心";
 
-	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "虚拟助手（Siri）";
-	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "激活虚拟助手（Siri）";
+	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "Siri";
+	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "激活 Siri 助理";
 
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "激活多任务栏";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "显示多任务栏（应用程序切换器）";
@@ -766,6 +768,12 @@
 	"LISTENER_DESCRIPTION_libactivator.message.show_FORMAT" = "显示自定义提示信息";
 	"MESSAGE" = "信息";
 	"TITLE" = "标题";
+
+	"NEW_LISTENER_TITLE_libactivator.assistant.ask" = "向 Siri 提问";
+	"NEW_LISTENER_DESCRIPTION_libactivator.assistant.ask" = "让 Siri 回答一个问题";
+	"LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "提问“%@”";
+	"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "让 Siri 回答一个问题";
+	"QUESTION" = "问题";
 
 	/* Third Party Listerners */
 
