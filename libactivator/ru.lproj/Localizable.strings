@@ -669,3 +669,12 @@
 "NEW_LISTENER_DESCRIPTION_libactivator.message.show" = "Показать уведомление с текстом";
 "LISTENER_TITLE_libactivator.message.show_FORMAT" = "Показать \"%@\" на экране";
 "LISTENER_DESCRIPTION_libactivator.message.show_FORMAT" = "Показать уведомление с текстом";
+"EVENT_TITLE_libactivator.lockscreen.clock.swipe-down" = "Свайп вниз по часам";
+"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-down" = "Свайп вниз в зоне показа даты и времени";
+"MORE" = "Еще";
+"LISTENER_GROUP_TITLE_Ask Siri" = "Siri";
+"NEW_LISTENER_TITLE_libactivator.assistant.ask" = "Спросить Siri";
+"NEW_LISTENER_DESCRIPTION_libactivator.assistant.ask" = "Siri ответит на вопрос";
+"LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "Ask \"%@\"";
+"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "Siri ответит на вопрос";
+"QUESTION" = "Задать вопрос";
