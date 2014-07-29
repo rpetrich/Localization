@@ -611,6 +611,7 @@
 	"LISTENER_DESCRIPTION_switch-flip" = "啟用/停用該開關";
 	"LISTENER_DESCRIPTION_switch-off" = "停用該開關";
 	"LISTENER_DESCRIPTION_switch-on" = "啟用該開關";
+	"LISTENER_DESCRIPTION_switch-action" = "激活開關動作";
 	"LISTENER_DESCRIPTION_toggle" = "打開/關閉開關";
 	"LISTENER_DESCRIPTION_toggle_enable" = "打開開關";
 	"LISTENER_DESCRIPTION_toggle_disable" = "關閉開關";

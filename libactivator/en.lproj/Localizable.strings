@@ -610,6 +610,7 @@
 	"LISTENER_DESCRIPTION_switch-flip" = "Activate/deactivate switch";
 	"LISTENER_DESCRIPTION_switch-off" = "Deactivate switch";
 	"LISTENER_DESCRIPTION_switch-on" = "Activate switch";
+	"LISTENER_DESCRIPTION_switch-action" = "Activate switch action";
 	"LISTENER_DESCRIPTION_toggle" = "Activate/deactivate toggle";
 	"LISTENER_DESCRIPTION_toggle_enable" = "Activate toggle";
 	"LISTENER_DESCRIPTION_toggle_disable" = "Deactivate toggle";
