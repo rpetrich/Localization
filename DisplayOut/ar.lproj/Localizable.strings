@@ -1,0 +1,87 @@
+"Display Out" = "العرض الخارجي";
+
+"Enabled" = "تفعيل";
+
+"Orientation" = "الإتجاه";
+"Follow Interface" = "متابعة الإتجاه";
+"Follow SpringBoard" = "متابعة SpringBoard";
+"Landscape Left" = "المشهد لليسار";
+"Landscape Right" = "المشهد لليمين";
+"Portrait" = "صورة";
+"Upside-Down" = "رأسا على عقب";
+
+"Max Screen Resolution" = "أقصى دقة للشاشة";
+"480" = "480";
+"640x480 (all)" = "640x480 (all)";
+"600" = "600";
+"800x600 (VGA/HDMI)" = "800x600 (VGA/HDMI)";
+"720p" = "720p";
+"720p (HDMI-only)" = "720p (HDMI-only)";
+"768p" = "768p";
+"1024x768 (VGA/HDMI)" = "1024x768 (VGA/HDMI)";
+"1280x1024 (HDMI+iPad 2)" = "1280x1024 (HDMI+4S/iPad 2)";
+"1024" = "1024";
+"1920x1200 (HDMI+iPad 2)" = "1920x1200 (HDMI+4S/iPad 2)";
+"1080p" = "1080p";
+
+"Scale" = "تكبير وتصغير الشاشة";
+
+"Aspect Adjust" = "ضبط الصورة الجانبية";
+"Preserve" = "الحفاظ على";
+"16:10" = "16:10";
+"16:10 Display Stretch" = "16:10 Display Stretch";
+"16:9" = "16:9";
+"16:9 Display Stretch" = "16:9 Display Stretch";
+
+"Horizontal Offset" = "إزاحة الصورة إفقياً";
+"Vertical Offset" = "إزاحة الصورة عمودياً";
+
+"Show Taps" = "عرض المؤشر";
+"Never" = "أبدا";
+"Always" = "دائما";
+"Skip Keyboard/OpenGL" = "بدون إظهار على الكيبورد";
+
+"Tap Size" = "حجم المؤشر";
+"Huge" = "كبير جدا";
+"Giant" = "عملاق";
+"Big" = "اكبر";
+"Large" = "كبير";
+"Medium" = "متوسط";
+"Small" = "صغير";
+"Little" = "اصغر";
+"Tiny" = "صغير جدا";
+
+"Showing taps may cause flicker" = "عرض المؤشر قد يسبب وميض";
+
+"Experimental" = "تجريب";
+
+"Native Support" = "الدعم المحلي";
+
+"This app" = "هذا التطبيق";
+" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = "يبدو أن الملحق يدعم العرض الخارجي.\nيمكنك تعطيل العرض الخارجي مؤقتاً.”;
+"OK" = "موافق";
+
+"Just Main Content" = " المحتويات الرئيسية فقط";
+"Shows only the main content on the external display" = "يظهر فقط المحتوى الرئيسي في العرض الخارجي";
+
+"Connection Alerts" = “التنبيه عند الاتصال";
+"Show" = "عرض";
+"External display connected." = "العرض الخارجي متصل";
+"External display disconnected." = "قطع إتصال العرض الخارجي.";
+
+"OpenGL" = "OpenGL";
+"Suppressing flicker may reduce performance or cause additional memory use in some games" = "إزلة الوميض قد تقلل من الأداء أو تسبب استخدام ذاكرة إضافية في بعض الألعاب \n تعريب @iD70my";
+"Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "إلغاء برنامج OpenGL قد يقلل من الأداء أو يسبب استخدام ذاكرة إضافية في بعض الألعاب";
+"Suppress Flicker" = "إزالة الوميض";
+"Allow On Lock Screen" = "السماح في قفل الشاشة";
+
+"Show On" = "العرض على";
+"External Display" = "العرض الخارجي";
+"Both Displays" = "كل ما يعرض";
+
+"Render Quality" = "الجودة";
+"Low Quality" = "جودة منخفضة";
+"High Quality" = "جودة عالية";
+
+"Dim Brightness" = "سطوع خافت";
+"On Connect" = "على اتصال";
