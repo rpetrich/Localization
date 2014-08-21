@@ -23,7 +23,7 @@
 	SHOW_SLIDESHOW_BUTTON = "Show Slideshow Button";
 
 	ICON_VISIBILITY_STYLE = "Icon Visibility";
-	ICON_VISIBILITY_ALWAYS = Always;
+	ICON_VISIBILITY_ALWAYS = "Always";
 	ICON_VISIBILITY_REQUIRE_TAP = "Require Tap";
 	
 	ICON_COUNT = "Icon Count";

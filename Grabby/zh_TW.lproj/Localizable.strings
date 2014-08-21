@@ -21,6 +21,10 @@
 
 	"SHOW_SLIDESHOW_BUTTON" = "顯示幻燈片按鈕";
 
+	"ICON_VISIBILITY_STYLE" = "圖示可見";
+	"ICON_VISIBILITY_ALWAYS" = "總是";
+	"ICON_VISIBILITY_REQUIRE_TAP" = "需按兩下";
+
 	"ICON_COUNT" = "圖示數";
 	"ONE" = "一";
 	"TWO" = "二";
