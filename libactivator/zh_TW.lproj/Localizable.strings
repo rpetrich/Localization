@@ -49,12 +49,15 @@
 	"Advertisement" = "廣告";
 
 	"SAFE_MODE_TITLE" = "在安全模式下";
-	"SAFE_MODE_MESSAGE" = "您的装置當前運行在安全模式下。Activator 的大部分功能在安全模式下已被停用。重新載入 SpringBoard 以回到正常模式。";
+	"SAFE_MODE_MESSAGE" = "您的装置當前運行在安全模式下。Activator 的大部分功能在安全模式下已被停用。重新載入『主畫面』以回到正常模式。";
 	"SAFE_MODE_CANCEL" = "取消";
 	"SAFE_MODE_RESTART" = "重新啟動";
+	"SAFE_MODE_RESET_SETTINGS" = "重置設定";
+	"SAFE_MODE_RESTART_DETAIL" = "重新加載『主畫面』";
+	"ACTIVATOR_DISABLED_WITH_ROCKETS_MESSAGE" = "因 Cydia Substrate 或 RocketBootstrap 未能正常工作，Activator 的大部分功能已被禁用。如果您的裝置當前正處於安全模式下，您會在螢幕頂端狀態列看到“Exit Safe Mode”（退出安全模式）的字樣，您可以點擊“Restart”（重新啟動）以回到正常模式。否則請嘗試在 Cydia 中重新安裝 Cydia Substrate 或 RocketBootstrap。如果您曾禁用過某些自啟動進程，請嘗試還原它們。";
 
 	"ACTIVATOR_DISABLED" = "Activator 已停用";
-	"ACTIVATOR_DISABLED_MESSAGE" = "因 MobileSubstrate 没有正常工作，Activator 大部分功能已被停用。如果您的裝置是處於安全模式下，您可以在螢幕頂端狀態列看到『Exit Safe Mode』（退出安全模式）的字樣，您可以點擊『Restart』（重新啟動）以回到正常模式。";
+	"ACTIVATOR_DISABLED_MESSAGE" = "因 Cydia Substrate 没有正常工作，Activator 大部分功能已被停用。如果您的裝置是處於安全模式下，您可以在螢幕頂端狀態列看到『Exit Safe Mode』（退出安全模式）的字樣，您可以點擊『Restart』（重新啟動）以回到正常模式。";
 
 	"ACTIVATOR_CORRUPT" = "Activator 已損壞";
 	"ACTIVATOR_CORRUPT_MESSAGE" = "可能因 Activator 程式及資源档案損壞，Activator 大部分功能已被停用。請嘗試使用 Cydia 重新安裝 Activator 以修復損壞档案。";
@@ -660,7 +663,7 @@
 	"LISTENER_TITLE_libactivator.system.nothing" = "無事件";
 	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "停用原始動作";
 
-	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "SpringBoard 第一頁";
+	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "『主畫面』第一頁";
 	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "跳轉到第一個圖示頁面";
 
 	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "激活通知中心";
@@ -814,7 +817,7 @@
 	"LISTENER_DESCRIPTION_com.bigboss.springflash" = "開關 LED 閃光燈";
 
 	"LISTENER_TITLE_com.booleanmagic.overboard" = "OverBoard";
-	"LISTENER_DESCRIPTION_com.booleanmagic.overboard" = "顯示 SpringBoard 概覽";
+	"LISTENER_DESCRIPTION_com.booleanmagic.overboard" = "顯示『主畫面』概覽";
 
 	"LISTENER_TITLE_com.collab.proswitcher" = "ProSwitcher";
 	"LISTENER_DESCRIPTION_com.collab.proswitcher" = "支援應用程式預覽的任務管理器";

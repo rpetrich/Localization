@@ -52,9 +52,12 @@
 	"SAFE_MODE_MESSAGE" = "Your device is currently running in Safe Mode. Most features of Activator are disabled while the device is in safe mode. Restart SpringBoard to return to the normal mode.";
 	"SAFE_MODE_CANCEL" = "Cancel";
 	"SAFE_MODE_RESTART" = "Restart";
+	"SAFE_MODE_RESET_SETTINGS" = "Reset Settings";
+	"SAFE_MODE_RESTART_DETAIL" = "Relaunch SpringBoard";
+	"ACTIVATOR_DISABLED_WITH_ROCKETS_MESSAGE" = "Most features of Activator are currently disabled because Cydia Substrate or RocketBootstrap is not functioning. If your device is in Safe Mode, you will see \"Exit Safe Mode\" at the top of your screen, and you can tap \"Restart\" to return to normal mode. Otherwise, try reinstalling Cydia Substrate or RocketBootstrap in Cydia. If you have disabled or removed any launch daemons, restore them for best results.";
 
 	"ACTIVATOR_DISABLED" = "Activator Disabled";
-	"ACTIVATOR_DISABLED_MESSAGE" = "Most features of Activator are currently disabled because Mobile Substrate is not functioning. If your device is in Safe Mode, you will see \"Exit Safe Mode\" at the top of your screen, and you can tap \"Restart\" to return to normal mode.";
+	"ACTIVATOR_DISABLED_MESSAGE" = "Most features of Activator are currently disabled because Cydia Substrate is not functioning. If your device is in Safe Mode, you will see \"Exit Safe Mode\" at the top of your screen, and you can tap \"Restart\" to return to normal mode.";
 
 	"ACTIVATOR_CORRUPT" = "Activator Corrupt";
 	"ACTIVATOR_CORRUPT_MESSAGE" = "Most features of Activator are currently disabled because Activator's internal files seem to be incorrect. Try going into Cydia and reinstalling Activator.";
