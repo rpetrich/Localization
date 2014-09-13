@@ -21,6 +21,10 @@
 	STANDARD = "Normale";
 
 	SHOW_SLIDESHOW_BUTTON = "Pulsante diapositive";
+
+	ICON_VISIBILITY_STYLE = "Visibilità icona";
+	ICON_VISIBILITY_ALWAYS = "Sempre";
+	ICON_VISIBILITY_REQUIRE_TAP = "Richiede pressione";
 	
 	ICON_COUNT = "Numero icone";
 	ONE = "Una";
