@@ -52,9 +52,12 @@
 	"SAFE_MODE_MESSAGE" = "Il dispositivo è attualmente in Safe Mode. La maggior parte delle funzioni di Activator sono disabilitate mentre il dispositivo è in Safe Mode. Riavvia la SpringBoard per tornare nella modalità normale.";
 	"SAFE_MODE_CANCEL" = "Annulla";
 	"SAFE_MODE_RESTART" = "Riavvia";
+	"SAFE_MODE_RESET_SETTINGS" = "Ripristina impostazioni";
+	"SAFE_MODE_RESTART_DETAIL" = "Rilancia SpringBoard";
+	"ACTIVATOR_DISABLED_WITH_ROCKETS_MESSAGE" = "La maggior parte delle funzioni di Activator sono attualmente disabilitate poiché il Cydia Substrate o RocketBootstrap non stanno funzionando correttamente. Se il dispositivo è in Safe Mode, sarà visibile la scritta \"Exit Safe Mode\" in alto, premendoci e successivamente selezionando \"Restart\" si potrà tornare alla modalità normale. Altrimenti provare reinstallando Cydia Substrate o RocketBootstrap tramite Cydia. Se è stato disabilitato o rimosso qualsiasi launch daemons, ripristinarlo per ottenere un risultato migliore.";
 
 	"ACTIVATOR_DISABLED" = "Activator disabilitato";
-	"ACTIVATOR_DISABLED_MESSAGE" = "La maggior parte delle funzioni di Activator sono attualmente disabilitate poiché il Mobile Substrate non sta funzionando correttamente. Se il dispositivo è in Safe Mode, sarà visibile la scritta \"Exit Safe Mode\" in alto, cliccandoci e successivamente cliccando su \"Restart\" si potrà tornare alla modalità normale.";
+	"ACTIVATOR_DISABLED_MESSAGE" = "La maggior parte delle funzioni di Activator sono attualmente disabilitate poiché il Cydia Substrate non sta funzionando correttamente. Se il dispositivo è in Safe Mode, sarà visibile la scritta \"Exit Safe Mode\" in alto, premendoci e successivamente selezionando \"Restart\" si potrà tornare alla modalità normale.";
 
 	"ACTIVATOR_CORRUPT" = "Activator corrotto";
 	"ACTIVATOR_CORRUPT_MESSAGE" = "La maggior parte delle funzioni di Activator sono attualmente disabilitate poiché sembra che i file interni di Activator non siano corretti. Provare reinstallando Activator tramite Cydia.";
@@ -610,6 +613,7 @@
 	"LISTENER_DESCRIPTION_switch-flip" = "Alterna attiva/disattiva l'interruttore";
 	"LISTENER_DESCRIPTION_switch-off" = "Disattiva l'interruttore";
 	"LISTENER_DESCRIPTION_switch-on" = "Attiva l'interruttore";
+	"LISTENER_DESCRIPTION_switch-action" = "Attiva azione dell'interruttore";
 	"LISTENER_DESCRIPTION_toggle" = "Alterna attiva/disattiva l'interruttore";
 	"LISTENER_DESCRIPTION_toggle_enable" = "Attiva l'interruttore";
 	"LISTENER_DESCRIPTION_toggle_disable" = "Disattiva l'interruttore";
