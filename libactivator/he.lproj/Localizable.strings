@@ -341,8 +341,9 @@
 "LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "הגברת עוצמת שמע בצעד אחד";
 "LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "הצגת סמן הווליום";
 "LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "קביעת עוצמת השמע על %@%% מתוך 100%%";
+"LISTENER_DESCRIPTION_libactivator.screen.brightness_FORMAT" = "קביעת בהירות על %@%% מתוך 100%%";
 "LISTENER_DESCRIPTION_libactivator.call" = "שיחה";
-"LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "מניע את הפעלת פונקצית הצמצם (תריס הצילום) במצלמה";
+"LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "מניע את הפעלת פונקציית הצמצם (תריס הצילום) במצלמה";
 "LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "פרסום מהיר של סטטוס ב-Facebook";
 "LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "הצגת חלון הניגון";
 "LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "מעבר לשיר הבא";
@@ -549,7 +550,7 @@
 "LISTENER_TITLE_toggle_SSH" = "SSH";
 "LISTENER_TITLE_toggle_Syslog" = "Syslog";
 "LISTENER_TITLE_toggle_Wi-Fi" = "רשת אלחוטית";
-"LOCALIZATION_ABOUT" = "תורגם על-ידי טמיר דוד.\n(tamirmp4@gmail.com)\n\nלפניות (בקשר לתרגום) הצעות, בקשות, פידבקים, תלונות והערות, ניתן ליצור קשר דרך אימייל.\n\n גרסת התרגום: 1.0.9\n\n(תורגם ב-14 באוגוסט 2014, 21:35)";
+"LOCALIZATION_ABOUT" = "תורגם על-ידי טמיר דוד.\n(tamirmp4@gmail.com)\n\nלפניות (בקשר לתרגום) הצעות, בקשות, פידבקים, תלונות והערות, ניתן ליצור קשר דרך אימייל.\n\n גרסת התרגום: 1.1\n\n(תורגם ב-20 בספטמבר 2014, 12:05)";
 "Loose" = "רופף";
 "MAIL_ANY_SENDER" = "(כל שולח)";
 "MAIL_ANY_SUBJECT" = "(כל נושא)";
@@ -687,7 +688,6 @@
 "NEW_LISTENER_TITLE_libactivator.screen.brightness" = "קביעת בהירות";
 "NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "קביעת בהירות מסך ספציפית";
 "LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "%@%% בהירות";
-"LISTENER_DESCRIPTION_libactivator.screen.brightness_FORMAT" = "קביעת בהירות המסך על %@%% מתוך 100%";
 "NEW_LISTENER_TITLE_libactivator.message.show" = "הצגת הודעת התראה";
 "NEW_LISTENER_DESCRIPTION_libactivator.message.show" = "הצגת הודעת התראה מותאמת אישית";
 "LISTENER_TITLE_libactivator.message.show_FORMAT" = "הצגת \"%@\" בהודעת התראה";
@@ -700,8 +700,8 @@
 "MORE" = "עוד";
 "LISTENER_GROUP_TITLE_Ask Siri" = "שאל את Siri";
 "LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "שאל \"%@\"";
-"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "Siri תענה על שאלה: \"%@\"";
+"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "Siri תענה על שאלה \"%@\"";
 "QUESTION" = "שאלה";
 "EVENT_TITLE_libactivator.lockscreen.clock.swipe-down" = "החלקת שעון מטה";
-"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-down" = "החלקת שעון מטה באיזור השעון/התאריך";
+"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-down" = "החלקת שעון מטה באזור השעון/התאריך";
 "SET_BRIGHTNESS_TO_FORMAT" = "קביעת בהירות המסך על %@%%";
