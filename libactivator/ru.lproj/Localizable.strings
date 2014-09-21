@@ -8,7 +8,7 @@
 "ACTIVATOR_CORRUPT" = "Activator поврежден";
 "ACTIVATOR_CORRUPT_MESSAGE" = "Activator не может функционировать правильно, так как его файлы повреждены. Попробуйте переустановить его.";
 "ACTIVATOR_DISABLED" = "Activator выключен";
-"ACTIVATOR_DISABLED_MESSAGE" = "Activator не может функционировать правильно, так как Mobile Substrate не работает. Если устройство в безопасном режиме, вы увидите надпись \"Exit Safe Mode\" вверху экрана, нажмите на нее и выберите \"Restart\",  чтобы вернуться в обычный режим.";
+"ACTIVATOR_DISABLED_MESSAGE" = "Activator не может функционировать правильно, так как Cydia Substrate не работает. Если устройство в безопасном режиме, вы увидите надпись \"Exit Safe Mode\" вверху экрана, нажмите на нее и выберите \"Restart\",  чтобы вернуться в обычный режим.";
 "ADD" = "Добавить";
 "ADD_ACTION" = "Добавить действие";
 "ADD_NEW_BOOKMARK" = "Добавить закладку";
@@ -124,7 +124,7 @@
 "EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Мультитач жесты";
 "EVENT_GROUP_TITLE_Power" = "Питание";
 "EVENT_GROUP_TITLE_Settings" = "Настройки";
-"EVENT_GROUP_TITLE_Sleep Button" = "Верхняя кнопка";
+"EVENT_GROUP_TITLE_Sleep Button" = "Кнопка \"Сон\"";
 "EVENT_GROUP_TITLE_Slide In Gesture" = "Свайпы в центр экрана";
 "EVENT_GROUP_TITLE_SpringBoard" = "Домашний экран";
 "EVENT_GROUP_TITLE_Status Bar" = "Статус бар";
@@ -143,7 +143,7 @@
 "EVENT_TITLE_libactivator.lock.hold.short" = "Короткое удержание";
 "EVENT_TITLE_libactivator.lock.press.double" = "Двойное нажатие";
 "EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Двойное касание часов";
-"EVENT_TITLE_libactivator.menu.hold.long" = "Длинное нажатие";
+"EVENT_TITLE_libactivator.menu.hold.long" = "Длинное удержание";
 "EVENT_TITLE_libactivator.menu.hold.short" = "Короткое удержание";
 "EVENT_TITLE_libactivator.menu.press.at-springboard" = "Нажатие на домашнем экране";
 "EVENT_TITLE_libactivator.menu.press.double" = "Двойное нажатие";
@@ -195,13 +195,13 @@
 "EVENT_TITLE_libactivator.volume.both.press" = "Нажать обе";
 "EVENT_TITLE_libactivator.volume.display-tap" = "Коснуться окошка";
 "EVENT_TITLE_libactivator.volume.down-up" = "Нижняя, Верхняя";
-"EVENT_TITLE_libactivator.volume.down.hold.short" = "Задержать нижнюю";
+"EVENT_TITLE_libactivator.volume.down.hold.short" = "Удерживать нижнюю";
 "EVENT_TITLE_libactivator.volume.down.press" = "Нажать нижнюю";
 "EVENT_TITLE_libactivator.volume.mute" = "Выключить звук";
 "EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Переключить звук дважды";
 "EVENT_TITLE_libactivator.volume.unmute" = "Включить звук";
 "EVENT_TITLE_libactivator.volume.up-down" = "Вверх, Вниз";
-"EVENT_TITLE_libactivator.volume.up.hold.short" = "Задержать верхнюю";
+"EVENT_TITLE_libactivator.volume.up.hold.short" = "Удерживать верхнюю";
 "EVENT_TITLE_libactivator.volume.up.press" = "Нажать верхнюю";
 "FAILED_TO_OPEN_SETTINGS_FILE" = "Не удалось создать файл настроек";
 "FAILED_TO_WRITE_SETTINGS_FILE" = "Не удалось записать настройки в файл: ";
@@ -236,7 +236,7 @@
 "LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Открыть Телефон->Контакты";
 "LISTENER_DESCRIPTION_libactivator.phone.favorites" = "Открыть Телефон->Избранное";
 "LISTENER_DESCRIPTION_libactivator.phone.keypad" = "Открыть Телефон->Клавиши";
-"LISTENER_DESCRIPTION_libactivator.phone.recents" = "Открыть Телефон->Последние";
+"LISTENER_DESCRIPTION_libactivator.phone.recents" = "Открыть Телефон->Недавние";
 "LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Открыть Телефон->Голос. почта";
 "LISTENER_DESCRIPTION_libactivator.settings.about" = "Открыть Настройки->Информация";
 "LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "Открыть Настройки->Универс. доступ";
@@ -268,7 +268,7 @@
 "LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Открыть Настройки->Обои";
 "LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Открыть Настройки->Wi-Fi";
 "LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Запустить редактор сообщения";
-"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Запустить Центр Уведомлений";
+"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Активировать Центр Уведомлений";
 "LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Показать панель запущенных прил.";
 "LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Перейти к первой странице дом. экрана";
 "LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Имитация нажатия кнопки \"Домой\"";
@@ -278,7 +278,7 @@
 "LISTENER_DESCRIPTION_libactivator.system.respring" = "Перезапустить Springboard (Респринг)";
 "LISTENER_DESCRIPTION_libactivator.system.safemode" = "Запустить Безопасный режим";
 "LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Показать окно управления музыкой";
-"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Имитация нажатия верхней кнопки";
+"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Имитация нажатия кнопки \"Сон\"";
 "LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Активировать страницу поиска";
 "LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Снять скриншот";
 "LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Активировать Siri";
@@ -333,7 +333,7 @@
 "LISTENER_TITLE_libactivator.phone.contacts" = "Показать Контакты";
 "LISTENER_TITLE_libactivator.phone.favorites" = "Показать Избранное";
 "LISTENER_TITLE_libactivator.phone.keypad" = "Показать Клавиши";
-"LISTENER_TITLE_libactivator.phone.recents" = "Показать Последние вызовы";
+"LISTENER_TITLE_libactivator.phone.recents" = "Показать Недавние";
 "LISTENER_TITLE_libactivator.phone.voicemail" = "Показать Голос. почту";
 "LISTENER_TITLE_libactivator.settings.about" = "Информация";
 "LISTENER_TITLE_libactivator.settings.accessibility" = "Универс. доступ";
@@ -365,9 +365,9 @@
 "LISTENER_TITLE_libactivator.settings.wallpaper" = "Обои";
 "LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 "LISTENER_TITLE_libactivator.sms.compose-message" = "Создать сообщение";
-"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Активировать Центр Уведомлений";
-"LISTENER_TITLE_libactivator.system.activate-switcher" = "Показать панель запущенных";
-"LISTENER_TITLE_libactivator.system.first-springboard-page" = "Первая страница дом. экрана";
+"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Активировать ЦУ";
+"LISTENER_TITLE_libactivator.system.activate-switcher" = "Показать запущенные";
+"LISTENER_TITLE_libactivator.system.first-springboard-page" = "Первая стр. дом. экрана";
 "LISTENER_TITLE_libactivator.system.homebutton" = "Кнопка \"Домой\"";
 "LISTENER_TITLE_libactivator.system.nothing" = "Ничего не делать";
 "LISTENER_TITLE_libactivator.system.powerdown" = "Выключить";
@@ -375,7 +375,7 @@
 "LISTENER_TITLE_libactivator.system.respring" = "Респринг";
 "LISTENER_TITLE_libactivator.system.safemode" = "Безопасный режим";
 "LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Показать Сейчас играет";
-"LISTENER_TITLE_libactivator.system.sleepbutton" = "Верхняя кнопка";
+"LISTENER_TITLE_libactivator.system.sleepbutton" = "Кнопка \"Сон\"";
 "LISTENER_TITLE_libactivator.system.spotlight" = "Spotlight";
 "LISTENER_TITLE_libactivator.system.take-screenshot" = "Сделать скриншот";
 "LISTENER_TITLE_libactivator.system.virtual-assistant" = "Siri";
@@ -478,7 +478,7 @@
 "LISTENER_GROUP_TITLE_Ringtones" = "Рингтоны";
 "ACTIVATED" = "Активировано";
 "LISTENER_TITLE_libactivator.keyboard.dictation" = "Диктовка";
-"LISTENER_DESCRIPTION_libactivator.keyboard.dictation" = "Запустить диктовку в акт. текстовое поле";
+"LISTENER_DESCRIPTION_libactivator.keyboard.dictation" = "Активировать диктовку";
 "EVENT_TITLE_libactivator.lockscreen.clock.swipe-left" = "Свайп по часам влево";
 "EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-left" = "Провести пальцем по часам влево";
 "EVENT_TITLE_libactivator.lockscreen.clock.swipe-right" = "Свайп по часам вправо";
@@ -549,8 +549,8 @@
 "EVENT_DESCRIPTION_libactivator.clamshell.open" = "Открыть магнитную обложку";
 "EVENT_TITLE_libactivator.lock.press.with-menu" = "Нажатие с кнопкой \"Домой\"";
 "EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "Нажать вместе с кнопкой \"Домой\"";
-"EVENT_TITLE_libactivator.lock.hold.long" = "Длинное нажатие";
-"EVENT_DESCRIPTION_libactivator.lock.hold.long" = "Нажать и держать верхнюю кнопку";
+"EVENT_TITLE_libactivator.lock.hold.long" = "Длинное удержание";
+"EVENT_DESCRIPTION_libactivator.lock.hold.long" = "Нажать и держать кнопку сна";
 "EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Провести слева направо";
 "EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Провести по нижней границе слева направо";
 "EVENT_TITLE_libactivator.drag-along.screen-bottom.right-to-left" = "Провести справа налево";
@@ -579,9 +579,9 @@
 "LISTENER_GROUP_TITLE_Switches (Activate)" = "Переключатели (Вкл.)";
 "LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Переключатели (Выкл.)";
 "LISTENER_GROUP_TITLE_Camera" = "Камера";
-"Custom Events" = "Настраиваемые действия";
-"Build New Events" = "Настроить свои действия";
-"New Event" = "Новое действие";
+"Custom Events" = "Настраиваемые события";
+"Build New Events" = "Создать свои события";
+"New Event" = "Новое событие";
 "NEW_EVENT_TITLE_libactivator.scheduled" = "Отметка времени";
 "NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "Создать отметку времени для выполнения действия";
 "EVENT_DESCRIPTION_libactivator.scheduled" = "По наступлении выбр. времени в %@";
@@ -678,3 +678,13 @@
 "LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "Ask \"%@\"";
 "LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "Siri ответит на вопрос";
 "QUESTION" = "Задать вопрос";
+"ACTIVATOR_DISABLED_WITH_ROCKETS_MESSAGE" = "Activator не может функционировать правильно, так как Cydia Substrate или RocketBootstrap не работает. Если устройство в безопасном режиме, вы увидите надпись \"Exit Safe Mode\" вверху экрана, нажмите на нее и выберите \"Restart\",  чтобы вернуться в обычный режим.";
+"SAFE_MODE_RESTART_DETAIL" = "Перезапуск SpringBoard";
+"SAFE_MODE_RESET_SETTINGS" = "Сбросить настройки";
+"LISTENER_DESCRIPTION_switch-action" = "Использовать переключатель";
+"Custom Actions" = "Настраиваемые действия";
+"Build New Actions" = "Создать свое действие";
+"New Action" = "Новое действие";
+"TITLE" = "Название";
+"MESSAGE" = "Сообщение";
+"SET_BRIGHTNESS_TO_FORMAT" = "Уровень яркости %@%%";
