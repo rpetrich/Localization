@@ -672,7 +672,7 @@
 "LISTENER_GROUP_TITLE_Ask Siri" = "Siri";
 "NEW_LISTENER_TITLE_libactivator.assistant.ask" = "Спросить Siri";
 "NEW_LISTENER_DESCRIPTION_libactivator.assistant.ask" = "Siri ответит на вопрос";
-"LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "Ask \"%@\"";
+"LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "Спросить \"%@\"";
 "LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "Siri ответит на вопрос";
 "QUESTION" = "Задать вопрос";
 "ACTIVATOR_DISABLED_WITH_ROCKETS_MESSAGE" = "Activator не может функционировать правильно, так как Cydia Substrate или RocketBootstrap не работает. Если устройство в безопасном режиме, вы увидите надпись \"Exit Safe Mode\" вверху экрана, нажмите на нее и выберите \"Restart\",  чтобы вернуться в обычный режим.";
