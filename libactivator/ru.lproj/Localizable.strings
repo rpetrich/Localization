@@ -688,3 +688,9 @@
 "TITLE" = "Название";
 "MESSAGE" = "Сообщение";
 "SET_BRIGHTNESS_TO_FORMAT" = "Уровень яркости %@%%";
+"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Сенсор Touch ID";
+"EVENT_TITLE_libactivator.fingerprint-sensor.press.single" = "Одиночное касание";
+"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single" = "Коснуться сенсора один раз";
+"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Совпадение отпечатка с \"%@\"";
+"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Сенсор Touch ID";
+"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Сенсор Touch ID";
