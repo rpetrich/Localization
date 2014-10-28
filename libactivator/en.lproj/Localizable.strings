@@ -364,14 +364,14 @@
 	"EVENT_TITLE_libactivator.volume.up.hold.short" = "Up Short Hold";
 	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Press and hold up button";
 
-	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Toggle Mute Switch Twice";
-	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Flip mute switch on/off and back";
+	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Toggle Ringer Twice";
+	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Flip ringer switch on/off and back";
 
-	"EVENT_TITLE_libactivator.volume.mute" = "Mute device";
-	"EVENT_DESCRIPTION_libactivator.volume.mute" = "Activate mute via ringer switch";
+	"EVENT_TITLE_libactivator.volume.mute" = "Toggle Ringer Off";
+	"EVENT_DESCRIPTION_libactivator.volume.mute" = "Flip ringer switch to the off position";
 
-	"EVENT_TITLE_libactivator.volume.unmute" = "Unmute device";
-	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "Deactivate mute via ringer switch";
+	"EVENT_TITLE_libactivator.volume.unmute" = "Toggle Ringer On";
+	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "Flip ringer switch to the on position";
 
 	"EVENT_TITLE_libactivator.headset-button.press.single" = "Button Single Press";
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Press headset button once";
