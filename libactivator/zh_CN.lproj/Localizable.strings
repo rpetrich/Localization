@@ -367,11 +367,11 @@
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "拨动两下响铃/静音开关";
 	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "拨动一下响铃/静音开关然后还原";
 
-	"EVENT_TITLE_libactivator.volume.mute" = "设备静音";
-	"EVENT_DESCRIPTION_libactivator.volume.mute" = "通过响铃/静音开关开启静音";
+	"EVENT_TITLE_libactivator.volume.mute" = "关闭响铃/静音开关";
+	"EVENT_DESCRIPTION_libactivator.volume.mute" = "关闭响铃/静音开关以使用静音模式";
 
-	"EVENT_TITLE_libactivator.volume.unmute" = "设备取消静音";
-	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "通过响铃/静音开关取消静音";
+	"EVENT_TITLE_libactivator.volume.unmute" = "开启响铃/静音开关";
+	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "开启响铃/静音开关以使用响铃模式";
 
 	"EVENT_TITLE_libactivator.headset-button.press.single" = "按一下按钮";
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "按一下耳机中央按钮";

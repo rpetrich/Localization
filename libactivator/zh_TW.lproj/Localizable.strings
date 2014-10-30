@@ -367,11 +367,11 @@
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "撥動兩下『響鈴/靜音』切換按鈕";
 	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "撥動一下『響鈴/靜音』切換按鈕然後還原";
 
-	"EVENT_TITLE_libactivator.volume.mute" = "裝置靜音";
-	"EVENT_DESCRIPTION_libactivator.volume.mute" = "通過『響鈴/靜音』切換按鈕開啟靜音";
+	"EVENT_TITLE_libactivator.volume.mute" = "關閉『響鈴/靜音』切換按鈕";
+	"EVENT_DESCRIPTION_libactivator.volume.mute" = "關閉『響鈴/靜音』切換按鈕以使用靜音模式";
 
-	"EVENT_TITLE_libactivator.volume.unmute" = "裝置取消靜音";
-	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "通過『響鈴/靜音』切換按鈕取消靜音";
+	"EVENT_TITLE_libactivator.volume.unmute" = "開啟『響鈴/靜音』切換按鈕";
+	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "開啟『響鈴/靜音』切換按鈕以使用響鈴模式";
 
 	"EVENT_TITLE_libactivator.headset-button.press.single" = "按一下按鈕";
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "按一下耳機中央按鈕";
