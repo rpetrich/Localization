@@ -52,6 +52,9 @@
 	"SAFE_MODE_MESSAGE" = "Tu dispositivo está actualmente en modo seguro. La mayoría de funciones de Activator estarán deshabilitadas mientras el dispositivo esté en modo seguro. Reinicia el SpringBoard para volver al modo normal.";
         "SAFE_MODE_CANCEL" = "Cancelar";
 	"SAFE_MODE_RESTART" = "Reiniciar";
+	"SAFE_MODE_RESET_SETTINGS" = "Resetear ajustes";
+	"SAFE_MODE_RESTART_DETAIL" = "Relanzar SpringBoard";
+	"ACTIVATOR_DISABLED_WITH_ROCKETS_MESSAGE" = "La mayoria de funciones de Activator están desactivadas porque Cydia Substrate o RocketBootstrap no funcionan. Si tu dispositivo está en Modo Seguro, deberías ver \"Exit Safe Mode\" en la parte de arriba de tu pantalla, y puedes pulsar \"Restart\" para volver al modo normal. De otra manera, trata de reinstalar Cydia Substrate o RocketBootstrap en Cydia. Si has desactivado o eliminado algún daemons de ejecución, restáuralos para obtener mejores resultados.";
 
 	"ACTIVATOR_DISABLED" = "Activator desactivado";
 	"ACTIVATOR_DISABLED_MESSAGE" = "La mayoría de funciones de Activator estarán deshabilitadas porque Mobile Substrate no está funcionando. Si tu dispositivo está en modo seguro, verás \"Exit Safe Mode\" en la parte superior de tu pantalla, y podrás tocar \"Reiniciar\" para volver al modo normal.";
@@ -610,6 +613,7 @@
 	"LISTENER_DESCRIPTION_switch-flip" = "Activa/Desactiva el interruptor";
 	"LISTENER_DESCRIPTION_switch-off" = "Desactiva el interruptor";
 	"LISTENER_DESCRIPTION_switch-on" = "Activa el interruptor";
+	"LISTENER_DESCRIPTION_switch-action" = "Activa la acción";
         "LISTENER_DESCRIPTION_toggle" = "Activa/Desactiva la función";
 	"LISTENER_DESCRIPTION_toggle_enable" = "Activa la función";
 	"LISTENER_DESCRIPTION_toggle_disable" = "Desactiva la función";
@@ -848,10 +852,10 @@
 	"LISTENER_DESCRIPTION_libactivator.ringtone" = "Reproducir tono";
 	
 	"SET_VOLUME_TO_FORMAT" = "Establecer volumen en %@%%";
-	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% volumen";
-	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Establecer volumer al %@%% del máximo";
 	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "Establecer volumen";
 	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Aplicar volumen a un sistema de audio específico";
+	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% volumen";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Establecer volumer al %@%% del máximo";
 	
 	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "Sintetizador de voz";
 	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "Dispositivo diciendo un texto específico";
