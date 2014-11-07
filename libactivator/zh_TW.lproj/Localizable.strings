@@ -460,6 +460,12 @@
 	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single" = "按一下";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single" = "按一下指紋身分識別感應器";
 
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.twice" = "按兩下";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.twice" = "按兩下指紋身分識別感應器";
+
+	"EVENT_TITLE_libactivator.fingerprint-sensor.hold" = "按住";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold" = "按一下指紋身分識別感應器";
+
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "從左向右拖動";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "在螢幕底部邊緣從左向右拖動";
 
@@ -669,6 +675,9 @@
 	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "激活通知中心";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "下拉式通知中心";
 
+	"LISTENER_TITLE_libactivator.system.activate-reachability" = "激活螢屏上方觸控";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "螢幕內容下沉";
+	
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "編寫推文";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "啟動推文編輯器";
 
