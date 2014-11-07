@@ -56,13 +56,13 @@
 	"Preferred Client" = "Preferred Client";
 
 	"Clear History" = "Clear History";
-	"Close" = "Close";
+	"Close" = "إغلاق";
 
-	"Cut" = "Cut";
-	"Copy" = "Copy";
-	"Paste" = "Paste";
-	"Select" = "Select";
-	"Select All" = "Select All";
+	"Cut" = "قص";
+	"Copy" = "نسخ";
+	"Paste" = "لصق";
+	"Select" = "تحديد";
+	"Select All" = "تحديد الكل";
 
 	"Locate" = "Locate";
 	"Error retrieving location!" = "Error retrieving location!";
