@@ -690,3 +690,9 @@
 "EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single" = "Коснуться сенсора один раз";
 "EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Совпадение отпечатка с \"%@\"";
 "LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Сенсор Touch ID";
+"EVENT_TITLE_libactivator.fingerprint-sensor.press.twice" = "Двойное касание";
+"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.twice" = "Коснуться сенсора дважды";
+"EVENT_TITLE_libactivator.fingerprint-sensor.hold" = "Короткое удержание";
+"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold" = "Коснуться сенсора и держать";
+"LISTENER_TITLE_libactivator.system.activate-reachability" = "Актив. Reachability";
+"LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "Активировать функцию Reachability";
