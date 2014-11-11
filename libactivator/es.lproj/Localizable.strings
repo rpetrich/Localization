@@ -459,6 +459,12 @@
 	
 	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single" = "Toque";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single" = "Toca el sensor de huella una vez";
+	
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.twice" = "Doble toque";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.twice" = "Toca el sensor de huella dos veces";
+
+	"EVENT_TITLE_libactivator.fingerprint-sensor.hold" = "Toque prolongado";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold" = "Toca el sensor de huella prolongadamente";
 
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Arrastrar de izquierda a derecha";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Arrastra a lo largo de la pantalla de izq. a der.";
@@ -668,6 +674,9 @@
         "LISTENER_TITLE_libactivator.system.activate-notification-center" = "Centro de Notificaciones";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Muestra el centro de notificaciones";
 
+	"LISTENER_TITLE_libactivator.system.activate-reachability" = "Activar Reachability";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "¡Baja iOS hacia tu dedo!";
+	
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Escribir un Tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Inicia el módulo de Twitter";
 
