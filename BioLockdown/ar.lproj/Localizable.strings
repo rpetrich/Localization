@@ -1,0 +1,102 @@
+{
+  "APPLICATION_ACTION_TEXT_FORMAT" = "%@ %@";
+  "SWITCH_ACTION_TEXT_FORMAT" = "%@ %@";
+  "SETTINGS_PANE_ACTION_TEXT_FORMAT" = "%@ %@";
+  "FINGERPRINT_REQUIRED_TO_PREFIX" = "بصمة الأصبع مطلوبة لـ ";
+  "PASSCODE_REQUIRED_TO_PREFIX" = "الرمز مطلوب لـ";
+  "CANCEL_BUTTON_TEXT" = "إلغاء";
+  "USE_PASSCODE_BUTTON_TEXT" = "إستخدام رمز القفل";
+  "AUTHENTICATE_BUTTON_TEXT" = "تحقق";
+  "OPEN_ACTION_TEXT" = "فتح";
+  "REOPEN_ACTION_TEXT" = "إعادة فتح";
+  "LAUNCH_ACTION_TEXT" = "تشغيل";
+  "SWITCH_TO_ACTION_TEXT" = "التحويل إلى";
+  "ENABLE_ACTION_TEXT" = "تفعيل";
+  "DISABLE_ACTION_TEXT" = "تعطيل";
+  "ADJUST_ACTION_TEXT" = "ضبط";
+  "TOGGLE_ACTION_TEXT" = "تبديل";
+  "HOLD_ACTION_TEXT" = "الإنتظار";
+  "DELETE_ACTION_TEXT" = "حذف";
+  "MESSAGE_ACTION_TEXT" = "رسالة";
+  "REARRANGE_ICONS_ACTION_TEXT" = "إعادة ترتيب الأيقونات";
+  "SHUT_DOWN_DEVICE_ACTION_TEXT" = "إيقاف تشغيل الجهاز";
+  "ACTIVATE_SIRI_ACTION_TEXT" = "تفعيل سيري";
+  "ACTIVATE_SPOTLIGHT" = "تفعيل شريط البحث";
+
+  "RESTRICTION_TYPE_APPLICATION" = "التطبيق";
+  "RESTRICTION_TYPE_APPLICATION_PLURAL" = "التطبيقات";
+  "RESTRICTION_TYPE_SETTINGS_PANE" = "الإعدادات";
+  "RESTRICTION_TYPE_SETTINGS_PANE_PLURAL" = "الإعدادات";
+  "RESTRICTION_TYPE_SWITCH" = "المفتاح";
+  "RESTRICTION_TYPE_SWITCH_PLURAL" = "المفاتيح";
+  "RESTRICTION_TYPE_FEATURE" = "ميزة";
+  "RESTRICTION_TYPE_FEATURE_PLURAL" = "ميزات";
+  "RESTRICTION_TYPE_UNKNOWN" = "غير معروف";
+
+  "RESTRICTIONS_HEADER" = "القيود";
+  "NO_FINGERPRINTS_WARNING" = "لا يوجد أي بصمات ، يجب إضافة بصمة لتفعيل الأداة";
+  "SELF_RESTRICTIONS_WARNING" = "للحصول على أفضل النتائج، تأكد من تأمين الوصول إلى الإعدادات أو تأمين إعدادات الأداة .\nتعريب iD70my@";
+
+  "GLOBAL_ENABLED_SETTING" = "تفعيل";
+  "GRACE_PERIOD_SETTING" = "فترة مدة الصلاحية";
+  "GRACE_PERIOD_EXPLANATION" = "كل ماقصر الوقت أصبح أكثر أماناً";
+
+  "GRACE_PERIOD_EXPIRES_TITLE" = "إنتهاء مدة صلاحية السماح";
+  "GRACE_PERIOD_VALUE_0" = "فوراً";
+  "GRACE_PERIOD_VALUE_60" = "بعد دقيقة";
+  "GRACE_PERIOD_VALUE_120" = "بعد دقيقتين";
+  "GRACE_PERIOD_VALUE_300" = "بعد ٥ دقائق";
+  "GRACE_PERIOD_VALUE_600" = "بعد ١٠ دقائق";
+  "GRACE_PERIOD_VALUE_900" = "بعد ١٥ دقيقة";
+  "GRACE_PERIOD_VALUE_1800" = "بعد ٣٠ دقيقة";
+  "GRACE_PERIOD_VALUE_3600" = "بعد ساعة";
+
+  "GRACE_PERIOD_VALUE_UPON_DEVICE_LOCK" = "عند قفل الجهاز";
+
+  "TOUCH_ID_SETTING" = "البصمة";
+  "TOUCH_ID_EXPLANATION" = "إضافة أو إزالة بصمة";
+
+  "NEW_RESTRICTION_BUTTON" = "قيد جديد";
+  "NEW_RESTRICTION_EXPLANATION" = "تقييد التطبيقات أو الإعدادات أو رموز التبديل";
+  
+  "NEW_RESTRICTION_TITLE" = "قيد جديد";
+
+  "ACCESS_TYPES_SETTING" = "أنواع الوصول";
+  "FINGERPRINTS_SETTING_HEADER" = "البصمات";
+  "PASSCODES_SETTING_HEADER" = "الرموز السرية";
+  "WIFI_NETWORKS_SETTING_HEADER" = "شبكات الواي فاي";
+
+  "WIFI_NETWORK_NAME_SETTING_PREFIX" = "إسم الشبكة";
+
+  "DEVICE_PASSCODE_SETTING" = "رمز دخول الجهاز";
+  "CUSTOM_PASSCODE_SETTING_PREFIX" = "مخصص";
+
+  "ALL_PRINTS_DESCRIPTION" = "جميع البصمات";
+  "DEVICE_PASSCODE_DESCRIPTION" = "رمز دخول الجهاز";
+  "CUSTOM_PASSCODE_DESCRIPTION" = "رمز مخصص";
+  "ACCESS_TYPE_DESCRIPTION_SEPARATOR" = ", ";
+
+  "VIBRATION_SETTING" = "الإهتزاز";
+  "VIBRATION_EXPLANATION" = "الإهتزاز عند إدخال بصمة أو الرقم السري";
+
+  "VIBRATION_TITLE" = "الإهتزاز";
+  "VIBRATION_VALUE_0" = "بدون إهتزاز";
+  "VIBRATION_VALUE_1" = "عند الإدخال الخاطئ فقط";
+  "VIBRATION_VALUE_2" = "عند الإدخال الصحيح فقط";
+  "VIBRATION_VALUE_3" = "عند الإدخال الصحيح أو الخاطئ";
+
+  "APP_SWITCHER_PRIVACY_SETTING" = "خصوصية شريط تحويل البرامج";
+  "APP_SWITCHER_PRIVACY_EXPLANATION" = "تعديل نمط البرامج المغلقة في شريط تحويل البرامج";
+
+  "APP_SWITCHER_PRIVACY_TITLE" = "خصوصية شريط تحويل البرامج";
+  "APP_SWITCHER_PRIVACY_VALUE_0" = "مرئي";
+  "APP_SWITCHER_PRIVACY_VALUE_1" = "ضبابي";
+  "APP_SWITCHER_PRIVACY_VALUE_2" = "أسود";
+  
+    "SHARE_THE_LOVE" = "أنا أستخدم أداة BioLockdown لحماية الوصول إلى التطبيقات والإعدادات ومفاتيح التبديل!\nتعريب iD70my@";
+
+  "feature:device-power-off" = "إيقاف تشغيل الجهاز";
+  "feature:rearrange-icons" = "إعادة ترتيب الأيقونات";
+  "feature:assistant" = "سيري";
+  "feature:spotlight" = "شريط البحث";
+}
