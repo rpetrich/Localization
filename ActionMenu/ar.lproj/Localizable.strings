@@ -1,0 +1,148 @@
+{
+	"OK" = "موافق";
+	"Cancel" = "إلغاء";
+	"ON" = "تشغيل";
+	"OFF" = "إيقاف";
+	"all-day" = "كل يوم";
+	"AM" = "AM";
+	"PM" = "PM";
+	"by" = "بواسطة";
+	"on" = "on";
+	"lap" = "lap";
+	"Enabled" = "تمكين";
+	"Use Icons" = "إستخدام الايقونات";
+	"Actions" = "الإجراءات";
+	"More Actions..." = "مزيد من الإجراءات...";
+	"Donate with PayPal" = "التبرع عبر باي بال";
+	"Copy All" = "نسخ الكل";
+	"Debug" = "التصحيح";
+	"Dial" = "إتصال";
+	"Favorites" = "المفضلة";
+	"History" = "السجل";
+	"Lookup" = "بحث";
+	"Scroll" = "التمرير";
+	"Tweet" = "تغريد";
+	"Preferred Client" = "التطبيق المفضل";
+	"Twitter for iPhone" = "تويتر الرسمي";
+	"Tweetbot" = "تويت بوت";
+	"Tweet Sheet" = "مشاركة تويتر";
+	"Pasteboard Favorites" = "Pasteboard Favorites";
+	"Delete Favorite" = "حذف المفضلة";
+	"Add Favorite..." = "إضافة للمفضلة...";
+	"Add Favorite" = "إضافة للمفضلة";
+	"Create" = "تكوين";
+	"Enter the new favorite details" = "إدخل التفاصيل الجديدة للمفضلة";
+	"Open in Safari" = "فتح في سفاري";
+	"Search" = "بحث";
+	"Wikipedia" = "ويكيبيديا";
+	"Dictionary" = "قاموس";
+	"Translate" = "ترجم";
+	"Find" = "اكتشاف";
+	"Find In Page" = "بحث في الصفحة";
+	"Find Next" = "البحث التالي";
+	"Find Previous" = "البحث السابق";
+	"Next" = "التالي";
+	"Previous" = "السابق";
+	"Not Found" = "لم يتم العثور";
+	"Clear" = "تنظيف";
+	"Confirm" = "تأكيد";
+	"Pasteboard History" = "Pasteboard History";
+	"Upgrade" = "تحديث";
+
+	"Right to Left" = "من اليمين إلى اليسار";
+	"Left to Right" = "من اليسار إلى اليمين";
+	"Sorted" = "الترتيب";
+	"New Favorite" = "مفضلة جديدة";
+	"biteSMS" = "biteSMS";
+	"Extended Support" = "الدعم الموسع";
+	"TRANSLATION_ABOUT" = "";
+
+	"Preferred Client" = "Preferred Client";
+
+	"Clear History" = "مسح المحفوظات";
+	"Close" = "إغلاق";
+
+	"Cut" = "قص";
+	"Copy" = "نسخ";
+	"Paste" = "لصق";
+	"Select" = "تحديد";
+	"Select All" = "تحديد الكل";
+
+	"Locate" = "تحديد";
+	"Error retrieving location!" = "حدث خطأ أثناء استرداد الموقع!";
+	"Estimated Accuracy:" = "الدقة تقدر:";
+	"%ld meters" = "%ld متر";
+	"My Location on Google Maps" = "مكاني على خرائط جوجل";
+	"Pastie" = "Pastie";
+	"Send to Pastie" = "إرسال إلى Pastie";
+	"Paste Complete" = "إكتمل اللصق";
+	"The URL has been copied to your clipboard." = "تم نسخ الرابط إلى الحافظة\nتعريب iD70my@.";
+	"Continue" = "إستمرار";
+	"Error" = "خطأ";
+	"Unable to submit your pastie." = "غير قادر على تقديم الرابط من موقع pastie.";
+	"No Search Results" = "لا يوجد نتائج";
+
+	"Edit Favorite" = "تحرير المفضلة";
+	"To Top" = "إلى الأعلى";
+	"To Bottom" = "إلى أسفل";
+
+	"Rich Text For Mail" = "Rich Text For Mail";
+	"Format" = "شكل";
+	"Bold" = "مكثف";
+	"Italic" = "مائل";
+	"Underline" = "خط تحت";
+	"Strikethrough" = "توسيط";
+	"Image" = "صورة";
+	"Text Style" = "نمط النص";
+	"Font Size" = "حجم الخط";
+	"Font Family" = "الخط";
+	"Text Color" = "لون الخط";
+	"Highlight Color" = "رفع ضوء اللون";
+	"Black" = "أسود";
+	"White" = "أبيض";
+	"Silver" = "فضي";
+	"Gray" = "رمادي";
+	"Red" = "أحمر";
+	"Maroon" = "كستنائي";
+	"Yellow" = "أصفر";
+	"Olive" = "زيتوني";
+	"Lime" = "ليموني";
+	"Green" = "أخضر";
+	"Aqua" = "تركوازي فاتح";
+	"Teal" = "تركوازي";
+	"Blue" = "أزرق";
+	"Navy" = "بحري";
+	"Fuchsia" = "فوشي";
+	"Purple" = "أرجواني";
+	"None" = "بدون";
+	"Unknown" = "غير معروف";
+
+	"Playing" = "تشغيل";
+	"\"%@\" by %@ " = "\"%@\" بواسطة %@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> بواسطة <strong>%@</strong> ";
+
+	"Default Actions" = "التطبيقات الإفتراضية";
+	"Replace" = "استبدل";
+
+	"Link" = "رابط";
+	"Insert" = "إدراج";
+	"Link Text" = "رابط النص";
+	"Link URL" = "الرابط";
+
+	"Celeste" = "Celeste";
+	"Voice" = "صوت";
+	"Today" = "اليوم";
+
+	"Date Format" = "تنسيق التاريخ";
+	"Time Format" = "تنسيق الوقت";
+	"None" = "بدون";
+	"Short" = "قصير";
+	"Medium" = "متوسط";
+	"Long" = "طويل";
+	"Full" = "كامل";
+	
+	"Sina Weibo" = "Sina Weibo";
+	"Weibo" = "Weibo";
+	"Facebook" = "فيس بوك";
+	"Twitter" = "تويتر";
+}
