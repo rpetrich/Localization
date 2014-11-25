@@ -109,6 +109,10 @@
 	"%llu bytes" = "%llu بايت";
 	
 	"Recordings" = "التسجيلات";
+	"Settings" = "الإعدادات";
+	"Share" = "مشاركة";
+	"Rename Recording" = "إعادة تسمية التسجيل";
+	"Open in iFile" = "فتح في آي فايل";
 	
 	"Delete Recording" = "حذف التسجيل";
 	"Upload to YouTube" = "رفع لليوتيوب";
@@ -146,11 +150,11 @@
 	"OpenGL capture" = "OpenGL التقاط";
 	"Password" = "كلمة المرور";
 	"Portrait" = "طبيعي";
-  "Current Interface Orientation" = "التوجيه الحالي";
-  "Current" = "الحالي";
-  "Mode" = "الصيغة";
-  "Recalculated" = "Precalculated";
-  "QuickTime" = "كويك تايم";
+        "Current Interface Orientation" = "التوجيه الحالي";
+        "Current" = "الحالي";
+        "Mode" = "الصيغة";
+        "Recalculated" = "Precalculated";
+        "QuickTime" = "كويك تايم";
 	"Record Audio" = "تسجيل الصوت";
 	"Rotation" = "دوران الشاشة";
 	"Scale" = "القياس";
