@@ -1,0 +1,172 @@
+{
+	"Display Recorder" = "تسجيل الشاشة";
+
+	"DisplayRecorder on %@" = "تسجيل الشاشة في %@";
+
+	"Start recording display?" = "بدء تسجيل الشاشة؟";
+	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "بدء تسجيل الشاشة؟\n\nيمكنك إختصار التسجيل من خلال الإعدادات \nتعريب @iD70my";
+	"Cancel" = "إلغاء";
+	"Record" = "تسجيل";
+
+	"Recording errored:\n%@\n(Error Code: %i)" = "خطأ في التسجيل:\n%@\n(رمز الخطأ: %i)";
+	"Recording errored:\n%@" = "خطأ في التسجيل:\n%@";
+	"Recording completed!" = "إكتمل التسجيل!";
+	"OK" = "موافق";
+
+	"Display cannot be recorded while uploading to YouTube." = "لا يمكن التسجيل اثنا رفع الفيديو لليوتيوب.";
+	
+	"Unable to load framebuffer surface" = "غير قادر على اتمام العملية";
+	"Error creating writer: %@" = "خطأ في إنشاء الكاتب: %@";
+	"Unable to start writing" = "غير قادر على بدء الكتابة";
+	"Interrupted by another app using the audio/video codec hardware." = "توقف بسبب استخدام برنامج آخر يستعمل الصوت أو الفيديو.";
+	"Failed to write pixel buffer" = "فشل في إرسال عازلة بكسل";
+	"Unable to open output file at path %@" = "غير قادر على فتح الملف من مسار %@";
+	
+	"Toggle Recording" = "زر التسجيل";
+	"Toggle Web Interface" = "زر واجهة الويب";
+
+	"Begin/end screen recording" = "بدء /إنهاء تسجيل الشاشة";
+	"Enable/disable web interface" = "تفعيل /إلغاء واجهة الويب";
+	
+	"Upload Details" = "تفاصيل التحميل";
+	"Upload" = "تحميل";
+	"Cancel Upload" = "إلغاء التفعيل";
+	
+	"YouTube Terms" = "شروط يوتيوب";
+	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "بالضغط على زر ' تحميل ' تقر بأنك تملك جميع الحقوق للمحتوى، وأنه يتوافق مع شروط خدمة اليوتيوب";
+	"Show Terms" = "إظهار الشروط";
+
+	"Title" = "العنوان";
+	"Description" = "التفاصيل";
+	"Category" = "الفئة";
+	"Public Video" = "فيديو عام";
+
+	"Film & Animation" = "أفلام ورسوم";
+	"Autos & Vehicles" = "السيارات و المركبات";
+	"Music" = "موسيقى";
+	"Pets & Animals" = "حيونات";
+	"Sports" = "الرياضة";
+	"Travel & Events" = "السفر والأحداث";
+	"Gaming" = "الألعاب";
+	"Comedy" = "كوميديا";
+	"People & Blogs" = "الناس ومدونات";
+	"News & Politics" = "أخبار وسياسة";
+	"Entertainment" = "تسلية";
+	"Education" = "تعليم";
+	"Howto & Style" = "موضة";
+	"Nonprofits & Activism" = "مؤسسات خيرية وأنشطة مجتمعية";
+	"Science & Technology" = "العلوم والتكنولوجيا";
+	"Movies" = "أفلام";
+	
+	"YouTube Login Missing" = "معلومات حساب اليوتيوب غير موجودة";
+	"Fill in your login details via the Display Recorder pane in the Settings application." = "ضع تفاصيل تسجيل الدخول في إعدادات الاداة.";
+	"Oversize Video" = " حجم الفيديو كبير جداً";
+	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "إذا كانت ابعاد الفيديو كبيرة قد يتم رفضة من قبل يوتيوب.\nلنتيجة افضل، قم بتنزيل الفيديو الى الكمبيوتر وارفعة او استخدم نصف المقياس، يمكنك تغييرة من اعدادات البرنامج.";
+	"Continue" = "إستمرار";
+	
+	"Title is empty" = "العنوان فارغ";
+	"YouTube requires that all videos have a title." = "يجب ان يكون هناك عنوان للفيديو.";
+	"Description is empty" = "التفاصيل فارغه";
+	"YouTube requires that all videos have a description." = "يجب ان يكون هناك تفاصيل للفيديو.";
+
+	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "فشل التحميل وذلك بسبب خطأ في تسجيل الدخول.";
+	"Upload failed with error:\n" = "فشل التحميل ، لخطأ:\n";
+	"Upload completed successfully\nYouTube link is on the pasteboard" = "تم رفع الفيديو بنجاح\nتم نسخ عنوان الرابط للفيديو";
+	
+	"Help" = "مساعدة";
+	"Enable" = "تفعيل";
+	"Disable" = "تعطيل";
+
+	"Not connected to Wi-Fi" = "غير متصل بالواي فاي";
+	"Web server disabled" = "خادم الويب معطل";
+	
+	"Saving to Camera Roll…" = "جاري الحفظ…";
+	"Save Failed!" = "فشل الحفظ!";
+	"Unable to save video to camera roll." = "غير قادر على حفظ الفيديو في الصور.";
+	
+	"Recording…" = "تسجيل…";
+	"Stop Recording" = "إيقاف التسجيل";
+	
+	"1 day" = "يوم";
+	"%u days" = "%u أيام";
+	"1 hr" = "ساعة";
+	"1 hour" = "ساعة";
+	"%u hrs" = "%u ساعات";
+	"%u hours" = "%u ساعات";
+	"1 min" = "دقيقة";
+	"1 minute" = "دقيقه";
+	"%u mins" = "%u دقائق";
+	"%u minutes" = "%u دقائق";
+	"1 sec" = "ثانية";
+	"1 second" = "ثانية";
+	"%u secs" = "%u ثواني";
+	"%u seconds" = "%u ثواني";
+	" " = " ";
+
+	"%llu GB" = "%llu قيقا";
+	"%llu MB" = "%llu ميقابت";
+	"%llu KB" = "%llu كيلوبايت";
+	"%llu bytes" = "%llu بايت";
+	
+	"Recordings" = "التسجيلات";
+	"Settings" = "الإعدادات";
+	"Share" = "مشاركة";
+	"Rename Recording" = "إعادة تسمية التسجيل";
+	"Open in iFile" = "فتح في آي فايل";
+	
+	"Delete Recording" = "حذف التسجيل";
+	"Upload to YouTube" = "رفع لليوتيوب";
+	"Play Video" = "تشغيل";
+	"Add to Camera Roll" = "إضافة للصور";
+
+	"Activation Methods" = "طرق التفعيل";
+	"Always" = "دائما";
+	"Cancel" = "إلغاء";
+	"Continue" = "إستمرار";
+	"Display Recorder" = "تسجيل الشاشة";
+	"For best performance, select the native device orientation" = "للحصول على أفضل أداء، حدد اتجاه الجهاز الأصلي";
+	"For best results, use the Google login that is linked to your YouTube account" = "للحصول على أفضل النتائج، استخدم تسجيل الدخول جوجل المرتبط بحسابك على يوتيوب";
+	"Framerate" = "نسبة الإطار";
+	"Full" = "كامل";
+	"Grayscale" = "رمادي";
+	"H.264/MOV (experimental)" = "H.264/MOV (تجريبي)";
+	"H.264/MOV" = "H.264/MOV";
+	"H.264/MOV with Mic Audio" = "H.264/MOV مع صوت المايك";
+	"H.264" = "H.264";
+	"H.264 + Mic" = "H.264 + مايك";
+	"Half" = "نصف";
+	"Half-scale is not supported when OpenGL capture is enabled" = "غير معتمد على نصف القياس عندما يتم تمكين التقاط OpenGL";
+	"Hidden" = "مخفي";
+	"Using QuickTime rotation mode allows for recording rotated videos with lower overhead, but some apps (including Messages) do not support this metadata. For best compatibility, select precalulated" = "إستخدم صيغة كويك تايم ، تسمح لك بتصوير الشاشة عند الدوران لكن لاتدعم هذه الميزة بعض التطبيقات ، لنتائج أفضل إستخدم صيغة precalulated\nتعريب @iD70my";
+	"High" = "مرتفع";
+	"Landscape Left" = "عرض لليسار";
+	"Landscape Right" = "عرض لليمين";
+	"Large" = "كبير";
+	"Lock Framerate" = "قفل نسبة الإطار";
+	"Low" = "منخفض";
+	"Medium" = "متوسط";
+	"MJPEG/AVI (stable)" = "MJPEG/AVI (مستقر)";
+	"Open in Safari" = "فتح في سفاري";
+	"OpenGL capture" = "OpenGL التقاط";
+	"Password" = "كلمة المرور";
+	"Portrait" = "طبيعي";
+        "Current Interface Orientation" = "التوجيه الحالي";
+        "Current" = "الحالي";
+        "Mode" = "الصيغة";
+        "Recalculated" = "Precalculated";
+        "QuickTime" = "كويك تايم";
+	"Record Audio" = "تسجيل الصوت";
+	"Rotation" = "دوران الشاشة";
+	"Scale" = "القياس";
+	"Show Taps" = "اظهار اللمس";
+	"Small" = "صغير";
+	"Tap Size" = "حجم الدائرة";
+	"Upside Down" = "رأسا على عقب";
+	"User's Guide" = "دليل المستخدم";
+	"Video Format" = "تنسيق الفيديو";
+	"Video Quality" = "جودة الفيديو";
+	"Web Server" = "خادم الويب";
+	"When Recording" = "عند التسجيل";
+	"YouTube Account" = "حساب اليوتيوب";
+	"YouTube or Google Account" = "حساب جوجل او يوتيوب";
+}
