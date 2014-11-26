@@ -35,7 +35,7 @@
 
   "RESTRICTIONS_HEADER" = "القيود";
   "NO_FINGERPRINTS_WARNING" = "لا يوجد أي بصمات ، يجب إضافة بصمة لتفعيل الأداة";
-  "SELF_RESTRICTIONS_WARNING" = "للحصول على أفضل النتائج، تأكد من تأمين الوصول إلى الإعدادات أو تأمين إعدادات الأداة .\nتعريب iD70my@";
+  "SELF_RESTRICTIONS_WARNING" = "للحصول على أفضل النتائج، تأكد من تأمين الوصول إلى الإعدادات أو تأمين إعدادات الأداة .\nتعريب @iD70my";
 
   "GLOBAL_ENABLED_SETTING" = "تفعيل";
   "GRACE_PERIOD_SETTING" = "فترة مدة الصلاحية";
@@ -93,7 +93,7 @@
   "APP_SWITCHER_PRIVACY_VALUE_1" = "ضبابي";
   "APP_SWITCHER_PRIVACY_VALUE_2" = "أسود";
   
-    "SHARE_THE_LOVE" = "أنا أستخدم أداة BioLockdown لحماية الوصول إلى التطبيقات والإعدادات ومفاتيح التبديل!\nتعريب iD70my@";
+  "SHARE_THE_LOVE" = "أنا أستخدم أداة BioLockdown لحماية الوصول إلى التطبيقات والإعدادات ومفاتيح التبديل!\nتعريب @iD70my";
 
   "feature:device-power-off" = "إيقاف تشغيل الجهاز";
   "feature:rearrange-icons" = "إعادة ترتيب الأيقونات";
