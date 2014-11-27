@@ -35,8 +35,7 @@
 
   "RESTRICTIONS_HEADER" = "القيود";
   "NO_FINGERPRINTS_WARNING" = "لا يوجد أي بصمات ، يجب إضافة بصمة لتفعيل الأداة";
-  "SELF_RESTRICTIONS_WARNING" = "للحصول على أفضل النتائج، تأكد من تأمين الوصول إلى الإعدادات أو تأمين إعدادات الأداة .\nتعريب @iD70my";
-
+  "SELF_RESTRICTIONS_WARNING" = "للحصول على أفضل النتائج، تأكد من تأمين الوصول إلى الإعدادات أو تأمين إعدادات الأداة .\nتعريب iD70my@";
   "GLOBAL_ENABLED_SETTING" = "تفعيل";
   "GRACE_PERIOD_SETTING" = "فترة مدة الصلاحية";
   "GRACE_PERIOD_EXPLANATION" = "كل ماقصر الوقت أصبح أكثر أماناً";
