@@ -1,0 +1,64 @@
+{
+	SETTINGS = "الإعدادات";
+	OPTIONS = "خيارات";
+	ADVANCED_SETTINGS = "إعدادات متقدمة";
+
+	SWIPE_STYLE = "Swipe Style";
+	LEFT_AND_UP_TO_OPEN = "من اليسار ثم للأعلى لفتح التطبيق";
+	JUST_LEFT_TO_OPEN = "من اليسار فقط لفتح التطبيق";
+	LEFT_AND_UP = "من اليسار و أعلى";
+	JUST_LEFT = "من السيار فقط";
+
+	TAPPING_GRABBER = "Tapping Grabber";
+	BOUNCES_LOCK_SCREEN = "Bounces Lock Screen";
+	OPENS_FIRST_APP = "فتح أول التطبيقات";
+	BOUNCES = "Bounces";
+	SHOWS_ICONS = "عرض الأيقونات";
+
+	SHOW_GRABBER = "عرض الآداة";
+	ALWAYS = "دائما";
+	WHEN_NO_NOTIFICATION = "عندما لا يوجد أي إشعارات";
+	STANDARD = "Standard";
+
+	SHOW_SLIDESHOW_BUTTON = "Show Slideshow Button";
+
+	ICON_VISIBILITY_STYLE = "ظهور الأيقونات";
+	ICON_VISIBILITY_ALWAYS = "دائما";
+	ICON_VISIBILITY_REQUIRE_TAP = "عند لمس الشاشة";
+	
+	ICON_COUNT = "عدد الأيقونات";
+	ONE = "واحد";
+	TWO = "إثنين";
+	THREE = "ثلاثة";
+	FOUR = "أربعة";
+	FIVE = "خمسة";
+	SIX = "سته";
+	SEVEN = "سبعة";
+	EIGHT = "ثمانية";
+	NINE = "تسعة";
+	TEN = "عشرة";
+	ELEVEN = "إحدى عشر";
+	TWELVE = "إثنا عشر";
+
+	SCREENSHOT_PRIVACY = "صورة لشاشة الخصوصية";
+
+	CLICK_SOUNDS = "Click Sounds";
+
+	REQUIRE_PASSCODE = "رمز القفل";
+
+	DRAG_STYLE = "نمط السحب";
+	SMOOTH_DRAGGING = "بسحب سلس";
+	SMOOTH = "سلس";
+	LOCK_TO_ICON = "Lock to Icon";
+	LOCKED = "مغلق";
+
+	QUICK_LAUNCH_APPS = "تطبيقات التشغيل السريع";
+	ICON = "الأيقونه";
+	APP = "التطبيق";
+
+	QUICK_LAUNCH_ACTIONS = "إجراءات التشغيل السريع";
+	ACTION = "الإجراء";
+	IMAGE = "صورته";
+
+	PASSCODE_WARNING = "If a device passcode is set, apps that secure access to their data using encryption (such as Mail) require the passcode to behave properly";
+}
