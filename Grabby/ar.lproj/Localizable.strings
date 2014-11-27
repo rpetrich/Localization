@@ -3,7 +3,7 @@
 	OPTIONS = "خيارات";
 	ADVANCED_SETTINGS = "إعدادات متقدمة";
 
-	SWIPE_STYLE = "Swipe Style";
+	SWIPE_STYLE = "نمط السحب";
 	LEFT_AND_UP_TO_OPEN = "من اليسار ثم للأعلى لفتح التطبيق";
 	JUST_LEFT_TO_OPEN = "من اليسار فقط لفتح التطبيق";
 	LEFT_AND_UP = "من اليسار و أعلى";
@@ -60,5 +60,5 @@
 	ACTION = "الإجراء";
 	IMAGE = "صورته";
 
-	PASSCODE_WARNING = "If a device passcode is set, apps that secure access to their data using encryption (such as Mail) require the passcode to behave properly";
+	PASSCODE_WARNING = "عند وضع رمز للقفل يفضل إغلاق خيار رمز القفل ليعمل التطبيق حال سحبه\nتعريب iD70my@ ";
 }
