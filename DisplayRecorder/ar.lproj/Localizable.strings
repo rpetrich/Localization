@@ -137,7 +137,7 @@
 	"Half" = "نصف";
 	"Half-scale is not supported when OpenGL capture is enabled" = "غير معتمد على نصف القياس عندما يتم تمكين التقاط OpenGL";
 	"Hidden" = "مخفي";
-	"Using QuickTime rotation mode allows for recording rotated videos with lower overhead, but some apps (including Messages) do not support this metadata. For best compatibility, select precalulated" = "إستخدم صيغة كويك تايم ، تسمح لك بتصوير الشاشة عند الدوران لكن لاتدعم هذه الميزة بعض التطبيقات ، لنتائج أفضل إستخدم صيغة precalulated\nتعريب @iD70my";
+	"Using QuickTime rotation mode allows for recording rotated videos with lower overhead, but some apps (including Messages) do not support this metadata. For best compatibility, select precalulated" = "إستخدم صيغة كويك تايم ، تسمح لك بتصوير الشاشة عند الدوران لكن لاتدعم هذه الميزة بعض التطبيقات ، لنتائج أفضل إستخدم صيغة precalulated\nتعريب iD70my@";
 	"High" = "مرتفع";
 	"Landscape Left" = "عرض لليسار";
 	"Landscape Right" = "عرض لليمين";
