@@ -4,7 +4,7 @@
 	"DisplayRecorder on %@" = "تسجيل الشاشة في %@";
 
 	"Start recording display?" = "بدء تسجيل الشاشة؟";
-	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "بدء تسجيل الشاشة؟\n\nيمكنك إختصار التسجيل من خلال الإعدادات \nتعريب @iD70my";
+	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "بدء تسجيل الشاشة؟\n\nيمكنك إختصار التسجيل من خلال الإعدادات \nتعريب iD70my@";
 	"Cancel" = "إلغاء";
 	"Record" = "تسجيل";
 
