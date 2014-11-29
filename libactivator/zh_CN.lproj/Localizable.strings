@@ -147,6 +147,13 @@
 	"MODE_TITLE_lockscreen" = "在锁屏界面";
 	"MODE_DESCRIPTION_lockscreen" = "处于锁屏界面时";
 
+	/* Multiple Assignments */
+
+	"ASSIGN_MULTIPLE" = "分配多个动作";
+	"JUST_ONE_LISTENER_ASSIGNMENT" = "仅 %@";
+	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "可同时分配 %@ 和 %@。";
+	"MULTIPLE_ASSIGNMENTS_TITLE" = "多重分配";
+
 	/* Event Groups */
 
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "单指滑入手势";

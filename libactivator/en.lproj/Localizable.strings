@@ -147,6 +147,13 @@
 	"MODE_TITLE_lockscreen" = "At Lock Screen";
 	"MODE_DESCRIPTION_lockscreen" = "When is locked and lock screen is visible";
 
+	/* Multiple Assignments */
+
+	"ASSIGN_MULTIPLE" = "Assign Multiple";
+	"JUST_ONE_LISTENER_ASSIGNMENT" = "Just %@";
+	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "%@ and %@ may be assigned simultaneously.";
+	"MULTIPLE_ASSIGNMENTS_TITLE" = "Multiple Assignments";
+
 	/* Event Groups */
 
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "Slide In Gesture";

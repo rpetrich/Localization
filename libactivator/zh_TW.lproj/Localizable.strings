@@ -147,6 +147,13 @@
 	"MODE_TITLE_lockscreen" = "在『鎖定』螢幕";
 	"MODE_DESCRIPTION_lockscreen" = "處於『鎖定』螢幕時";
 
+	/* Multiple Assignments */
+
+	"ASSIGN_MULTIPLE" = "分配多個動作";
+	"JUST_ONE_LISTENER_ASSIGNMENT" = "僅 %@";
+	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "可同時分配 %@ 和 %@。";
+	"MULTIPLE_ASSIGNMENTS_TITLE" = "多重分配";
+
 	/* Event Groups */
 
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "單指滑入手勢";
