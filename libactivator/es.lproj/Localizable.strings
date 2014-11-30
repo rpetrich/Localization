@@ -147,6 +147,13 @@
 	"MODE_TITLE_lockscreen" = "En la pantalla de bloqueo";
 	"MODE_DESCRIPTION_lockscreen" = "Cuando el dispositivo esté bloqueado";
 	
+	/* Multiple Assignments */
+
+	"ASSIGN_MULTIPLE" = "Asignación múltiple";
+	"JUST_ONE_LISTENER_ASSIGNMENT" = "Sólo %@";
+	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "%@ y %@ se pueden asignar simultáneamente.";
+	"MULTIPLE_ASSIGNMENTS_TITLE" = "Múltiples asignamientos";
+	
 	/* Event Groups */
 	
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "Deslizar hacia adentro";
