@@ -1,0 +1,980 @@
+{
+	"LOCALIZATION_ABOUT" = "Traduzido por:\nPedro Gaspar (@pedro_gaspar)";
+
+	/* Settings Controller */
+
+	"CANT_DEACTIVATE_REMAINING" = "Não se podem desactivar\nos eventos restantes";
+	"AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "Pelo menos um evento deve ser\natribuído a %@";
+	"ALERT_OK" = "Aceitar";
+	"ALERT_IGNORE" = "Ignorar";
+	"ALERT_VALUE_AND" = " e ";
+	"ALREADY_ASSIGNED_TO" = "Já está atribuído a\n%@";
+	"ALERT_CANCEL" = "Cancelar";
+	"ALERT_REASSIGN" = "Reatribuir";
+	"ACTIVATOR" = "Activator";
+	"CURRENTLY_ASSIGNED_TO" = "Actualmente atribuído a:";
+	"UNASSIGNED" = "(não atribuído)";
+	"MORE_ACTIONS" = "Mais acções";
+	"MORE_ACTIONS_DETAIL" = "Obter mais acções via Cydia";
+	"DONATE" = "Doar";
+	"DONATE_DETAIL" = "Contribuir via PayPal";
+	"N_ADDITIONAL_EVENTS" = "%i eventos adicionais";
+	"RESET_SETTINGS" = "Repor definições";
+	"RESET_SETTINGS_DETAIL" = "Repor todas as definições para os valores por omissão";
+	"RESET_ALERT_TITLE" = "Repor definições do Activator";
+	"RESET_ALERT_MESSAGE" = "Tem a certeza que quer repor as definições do Activator para os valores de origem?\nO seu dispositivo reiniciará o SpringBoard se continuar.";
+	"RESET_ALERT_CANCEL" = "Cancelar";
+	"RESET_ALERT_CONTINUE" = "Repor";
+	"MULTIPLE_ASSIGNMENTS" = "(múltiplos)";
+	"UNKNOWN_ASSIGNMENT" = "(desconhecido)";
+	"SEARCH" = "Pesquisar";
+	"MORE" = "Mais";
+
+	"ENABLED" = "Activado";
+	"DISABLED" = "Desactivado";
+
+	"OUT_OF_DATE_TITLE" = "Versão do sistema desactualizada";
+	"OUT_OF_DATE_MESSAGE" = "O Activator funciona melhor em versões recentes do iOS.\nPor favor considere actualizar.";
+
+	"TOO_NEW_TITLE" = "Versão do sistema demasiado recente";
+	"TOO_NEW_MESSAGE" = "O Activator não foi testado com esta versão do iOS.\nAlguns recursos poderão não funcionar como esperado.";
+
+	"VERSION_PROMPT_MORE_INFO" = "Mais informações";
+	"VERSION_PROMPT_IGNORE" = "Ignorar";
+	"VERSION_PROMPT_CONTINUE" = "Continuar";
+
+	"SHOW_ICON" = "Mostrar Ícone";
+	"SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "Mostrar ícone do Activator no SpringBoard";
+
+	"Advertisement" = "Publicidade";
+
+	"SAFE_MODE_TITLE" = "Em Modo de Segurança";
+	"SAFE_MODE_MESSAGE" = "O seu dispositivo está a funcionar em Modo de Segurança. A maioria dos recursos do Activator estão desactivados enquanto o dispositivo estiver em Modo de Segurança. Reinicie o SpringBoard para voltar ao modo normal.";
+	"SAFE_MODE_CANCEL" = "Cancelar";
+	"SAFE_MODE_RESTART" = "Reiniciar";
+	"SAFE_MODE_RESET_SETTINGS" = "Repor definições";
+	"SAFE_MODE_RESTART_DETAIL" = "Reiniciar SpringBoard";
+	"ACTIVATOR_DISABLED_WITH_ROCKETS_MESSAGE" = "A maioria dos recursos do Activator estão desactivados porque o Cydia Substrate ou o RocketBootstrap não estão a funcionar. Se o seu dispositivo estiver em Modo de Segurança, verá no topo do ecrã a mensagem \"Sair do Modo de Segurança\", pode tocar em \"Reiniciar\" para voltar ao modo normal. Em alternativa, tente reinstalar o Cydia Substrate ou o RocketBootstrap no Cydia. Se tiver desactivado ou removido quaisquer launch deamons, restaure-os para obter melhores resultados.";
+
+	"ACTIVATOR_DISABLED" = "Activator desactivado";
+	"ACTIVATOR_DISABLED_MESSAGE" = "A maioria dos recursos do Activator estão desactivados porque o Cydia Substrate não está a funcionar. Se o seu dispositivo estiver em Modo de Segurança, verá no topo do ecrã a mensagem \"Sair do Modo de Segurança\", pode tocar em \"Reiniciar\" para voltar ao modo normal.";
+
+	"ACTIVATOR_CORRUPT" = "Activator corrompido";
+	"ACTIVATOR_CORRUPT_MESSAGE" = "A maioria dos recursos do Activator estão desactivados porque os ficheiros internos do Activator parecem estar incorrectos. Tente ir ao Cydia e reinstalar o Activator.";
+	"CORRUPT_CANCEL" = "Cancelar";
+	"CORRUPT_LAUNCH_CYDIA" = "Abrir Cydia";
+
+	"BLACKLIST" = "Lista negra";
+	"BLACKLIST_DETAIL" = "Ignorar eventos em aplicações específicas";
+
+	"N_ACTIONS" = "%d acções";
+
+	"Slide Gestures" = "Gestos de deslizar";
+	"Sensitivity" = "Sensibilidade";
+	"Tight" = "Máxima";
+	"Very Precise" = "Muito precisa";
+	"Precise" = "Precisa";
+	"Normal" = "Normal";
+	"Lenient" = "Tolerante";
+	"Very Lenient" = "Muito tolerante";
+	"Loose" = "Imprecisa";
+	"Very Loose" = "Muito imprecisa";
+
+	"Custom Events" = "Eventos personalizados";
+	"Build New Events" = "Criar novos eventos";
+	"New Event" = "Novo evento";
+
+	"Custom Actions" = "Acções personalizadas";
+	"Build New Actions" = "Criar novas Acções";
+	"New Action" = "Nova acção";
+
+	"MAIL_SENDER" = "Remetente";
+	"MAIL_SENDER_UNKNOWN" = "Desconhecido";
+	"MAIL_ANY_SENDER" = "(qualquer remetente)";
+	"MAIL_SUBJECT" = "Assunto";
+	"MAIL_ANY_SUBJECT" = "(qualquer assunto)";
+
+	"MESSAGE_SENDER" = "Remetente";
+	"MESSAGE_ANY_SENDER"= "(qualquer remetente)";
+	"MESSAGE_MESSAGE" = "Mensagem";
+	"MESSAGE_ANY_MESSAGE" = "(qualquer mensagem)";
+
+	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "Mostrar banner ao executar uma acção";
+	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "Mostrar ao executar uma acção";
+	"ACTION_BANNERS" = "Banners de acção";
+	"ACTION_BANNERS_NEVER" = "Nunca";
+	"ACTION_BANNERS_TOGGLES_AND_SWITCHES" = "Para botões e interruptores";
+	"ACTION_BANNERS_ALWAYS" = "Sempre";
+	"ACTIVATED" = "Activado";
+
+	"SHARE_THE_LOVE" = "Estou a usar @ActivatorApp para adicionar gestos e atalhos personalizados ao meu %@!";
+
+	/* Bookmarks */
+
+	"BOOKMARKS" = "Marcadores";
+	"BOOKMARKS_DETAIL" = "Gerir acções personalizadas para marcadores";
+
+	"ADD_NEW_BOOKMARK" = "Adicionar novo marcador";
+	"NEW_BOOKMARK" = "Novo marcador";
+	"BOOKMARK_TITLE" = "Título do marcador";
+	"BOOKMARK_URL" = "URL do marcador";
+	"BOOKMARK_DESCRIPTION_FORMAT" = "Visitar %@";
+
+	/* Menus */
+
+	"MENUS" = "Menus";
+	"MENUS_DETAIL" = "Gerir menus personalizados do Activator";
+
+	"ADD_NEW_MENU" = "Adicionar novo menu";
+	"NEW_MENU" = "Novo menu";
+	"MENU_TITLE" = "Título do menu";
+	"ADD" = "Adicionar";
+	"ADD_ACTION" = "Adicionar acção";
+	"CANCEL" = "Cancelar";
+	"ACTION" = "Acção";
+
+	/* Modes */
+
+	"MODE_TITLE_all" = "Em qualquer lugar";
+	"MODE_DESCRIPTION_all" = "";
+
+	"MODE_TITLE_springboard" = "No ecrã principal";
+	"MODE_DESCRIPTION_springboard" = "Quando os ícones do SpringBoard estão visíveis";
+
+	"MODE_TITLE_application" = "Numa aplicação";
+	"MODE_DESCRIPTION_application" = "Quando uma aplicação está visível";
+
+	"MODE_TITLE_lockscreen" = "No ecrã bloqueado";
+	"MODE_DESCRIPTION_lockscreen" = "Quando está bloqueado e o ecrã bloqueado está visível";
+
+	/* Multiple Assignments */
+
+	"ASSIGN_MULTIPLE" = "Atribuir múltiplos";
+	"JUST_ONE_LISTENER_ASSIGNMENT" = "Apenas %@";
+	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "%@ e %@ podem ser atribuídos simultaneamente.";
+	"MULTIPLE_ASSIGNMENTS_TITLE" = "Atribuições múltiplas";
+
+	/* Event Groups */
+
+	"EVENT_GROUP_TITLE_Slide In Gesture" = "Deslizar para dentro";
+	"EVENT_GROUP_TITLE_Slide Out Gesture" = "Deslizar para fora";
+	"EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Deslizar para dentro com dois dedos";
+	"EVENT_GROUP_TITLE_Motion" = "Movimento";
+	"EVENT_GROUP_TITLE_SpringBoard" = "SpringBoard";
+	"EVENT_GROUP_TITLE_Status Bar" = "Barra de estado";
+	"EVENT_GROUP_TITLE_Home Button" = "Botão principal";
+	"EVENT_GROUP_TITLE_Sleep Button" = "Botão de bloqueio";
+	"EVENT_GROUP_TITLE_Volume Buttons" = "Botões de volume";
+	"EVENT_GROUP_TITLE_Headset" = "Auricular com fio";
+	"EVENT_GROUP_TITLE_Lock Screen" = "Ecrã bloqueado";
+	"EVENT_GROUP_TITLE_Power" = "Alimentação";
+	"EVENT_GROUP_TITLE_Audio" = "Áudio";
+	"EVENT_GROUP_TITLE_Settings" = "Definições";
+	"EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Gesto Multi-Toque";
+	"EVENT_GROUP_TITLE_Application Launched" = "Aplicação aberta";
+	"EVENT_GROUP_TITLE_Received Email" = "Email recebido";
+	"EVENT_GROUP_TITLE_Received Message" = "Mensagem recebida";
+	"EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
+	"EVENT_GROUP_TITLE_Scheduled" = "Agendado";
+	"EVENT_GROUP_TITLE_Device" = "Dispositivo";
+	"EVENT_GROUP_TITLE_Slide Along Screen Bottom" = "Deslizar no fundo do ecrã";
+	"EVENT_GROUP_TITLE_Slide Along Screen Left" = "Deslizar à esquerda do ecrã";
+	"EVENT_GROUP_TITLE_Slide Along Screen Right" = "Deslizar à direita do ecrã";
+	"EVENT_GROUP_TITLE_Switches" = "Interruptores";
+	"EVENT_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activar)";
+	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Desactivar)";
+	"EVENT_GROUP_TITLE_Network Status" = "Estado de rede";
+	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Sensor de impressão digital";
+	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
+	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Dispositivos Bluetooth";
+	"EVENT_GROUP_TITLE_Battery Level" = "Nível de bateria";
+
+	/* Events */
+
+	"EVENT_TITLE_libactivator.lock.hold.short" = "Segurar brevemente";
+	"EVENT_DESCRIPTION_libactivator.lock.hold.short" = "Pressione e segure brevemente o botão de bloqueio";
+
+	"EVENT_TITLE_libactivator.lock.press.double" = "Pressionar duas vezes";
+	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "Pressione rapidamente duas vezes o botão de bloqueio";
+
+	"EVENT_TITLE_libactivator.lock.press.with-menu" = "Pressione com o botão principal";
+	"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "Pressione os dois botões simultâneamente";
+
+	"EVENT_TITLE_libactivator.lock.hold.long" = "Segurar prolongadamente";
+	"EVENT_DESCRIPTION_libactivator.lock.hold.long" = "Pressione e segure prolongadamente o botão de bloqueio";
+
+	"EVENT_TITLE_libactivator.menu.hold.short" = "Segurar brevemente";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.short" = "Pressione e segure brevemente o botão principal";
+
+	"EVENT_TITLE_libactivator.menu.hold.long" = "Segurar prolongadamente";
+	"EVENT_DESCRIPTION_libactivator.menu.hold.long" = "Pressione e segure prolongadamente o botão principal";
+
+	"EVENT_TITLE_libactivator.menu.press.at-springboard" = "Pressionar uma vez no SpringBoard";
+	"EVENT_DESCRIPTION_libactivator.menu.press.at-springboard" = "Pressione o botão principal quando estiver no SpringBoard";
+
+	"EVENT_TITLE_libactivator.menu.press.double" = "Pressionar duas vezes";
+	"EVENT_DESCRIPTION_libactivator.menu.press.double" = "Pressione duas vezes o botão principal";
+
+	"EVENT_TITLE_libactivator.menu.press.single" = "Pressionar uma vez";
+	"EVENT_DESCRIPTION_libactivator.menu.press.single" = "Pressione uma vez o botão principal";
+
+	"EVENT_TITLE_libactivator.menu.press.triple" = "Pressionar três vezes";
+	"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "Pressione três vezes o botão principal";
+
+	"EVENT_TITLE_libactivator.motion.shake" = "Agitar dispositivo";
+	"EVENT_DESCRIPTION_libactivator.motion.shake" = "Agite e misture!";
+
+	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Do topo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.down" = "Deslize para o ecrã a partir da barra de estado";
+
+	"EVENT_TITLE_libactivator.slide-in.top-left" = "Do topo esquerdo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-left" = "Deslize para o ecrã a partir do topo esquerdo";
+
+	"EVENT_TITLE_libactivator.slide-in.top-right" = "Do topo direito do ecrã";
+	"EVENT_DESCRIPTION_libactivator.slide-in.top-right" = "Deslize para o ecrã a partir do topo direito";
+
+	"EVENT_TITLE_libactivator.slide-in.left" = "Da esquerda do ecrã";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left" = "Deslize para o ecrã a partir da esquerda";
+
+	"EVENT_TITLE_libactivator.slide-in.left-top" = "Da esquerda em cima do ecrã";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left-top" = "Deslize para o ecrã a partir da esquerda em cima";
+
+	"EVENT_TITLE_libactivator.slide-in.left-bottom" = "Da esquerda em baixo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.slide-in.left-bottom" = "Deslize para o ecrã a partir da esquerda em baixo";
+
+	"EVENT_TITLE_libactivator.slide-in.right" = "Da direita do ecrã";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right" = "Deslize para o ecrã a partir da direita";
+
+	"EVENT_TITLE_libactivator.slide-in.right-top" = "Da direita em cima do ecrã";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right-top" = "Deslize para o ecrã a partir da direita em cima";
+
+	"EVENT_TITLE_libactivator.slide-in.right-bottom" = "Da direita em baixo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.slide-in.right-bottom" = "Deslize para o ecrã a partir da direita em baixo";
+
+	"EVENT_TITLE_libactivator.slide-in.bottom" = "Do fundo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Deslize para o ecrã a partir do fundo";
+
+	"EVENT_TITLE_libactivator.slide-in.bottom-left" = "Do fundo esquerdo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Deslize para o ecrã a partir do fundo esquerdo";
+
+	"EVENT_TITLE_libactivator.slide-in.bottom-right" = "Do fundo direito do ecrã";
+	"EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Deslize para o ecrã a partir do fundo direito";
+
+	"EVENT_TITLE_libactivator.drag-off.bottom" = "Para o fundo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.drag-off.bottom" = "Deslize para o fundo do ecrã";
+
+	"EVENT_TITLE_libactivator.drag-off.left" = "Para a esquerda do ecrã";
+	"EVENT_DESCRIPTION_libactivator.drag-off.left" = "Deslize para a esquerda do ecrã";
+
+	"EVENT_TITLE_libactivator.drag-off.right" = "Para a direita do ecrã";
+	"EVENT_DESCRIPTION_libactivator.drag-off.right" = "Deslize para a direita do ecrã";
+
+	"EVENT_TITLE_libactivator.drag-off.top" = "Para o topo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.drag-off.top" = "Deslize para o topo do ecrã";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom" = "Do fundo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "Deslize para o ecrã a partir do fundo";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left" = "Do fundo esquerdo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "Deslize para o ecrã a partir do fundo esquerdo";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right" = "Do fundo direito do ecrã";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "Deslize para o ecrã a partir do fundo direito";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top" = "Do topo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top" = "Deslize para o ecrã a partir da barra de estado";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top-left" = "Do topo esquerdo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left" = "Deslize para o ecrã a partir do topo esquerdo";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "Do topo direito do ecrã";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right" = "Deslize para o ecrã a partir do topo direito";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left" = "Da esquerda do ecrã";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "Deslize para o ecrã a partir da esquerda";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left-top" = "Da esquerda em cima do ecrã";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-top" = "Deslize para o ecrã a partir da esquerda em cima";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.left-bottom" = "Da esquerda em baixo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-bottom" = "Deslize para o ecrã a partir da esquerda em baixo";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right" = "Da direita do ecrã";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "Deslize para o ecrã a partir da direita";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right-top" = "Da direita em cima do ecrã";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-top" = "Deslize para o ecrã a partir da direita em cima";
+
+	"EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom" = "Da direita em baixo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom" = "Deslize para o ecrã a partir da direita em baixo";
+
+	"EVENT_TITLE_libactivator.springboard.pinch" = "Juntar ícones";
+	"EVENT_DESCRIPTION_libactivator.springboard.pinch" = "Juntar ícones do SpringBoard com dois dedos";
+
+	"EVENT_TITLE_libactivator.springboard.spread" = "Afastar ícones";
+	"EVENT_DESCRIPTION_libactivator.springboard.spread" = "Afastar ícones do SpringBoard com dois dedos";
+
+	"EVENT_TITLE_libactivator.statusbar.hold" = "Segurar";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold" = "Toque e segure a barra de estado";
+
+	"EVENT_TITLE_libactivator.statusbar.swipe.left" = "Deslizar para a esquerda";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.left" = "Toque e deslize para a esquerda na barra de estado";
+
+	"EVENT_TITLE_libactivator.statusbar.swipe.right" = "Deslizar para a direita";
+	"EVENT_DESCRIPTION_libactivator.statusbar.swipe.right" = "Toque e deslize para a direita na barra de estado";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.single" = "Tocar uma vez";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single" = "Toque uma vez na barra de estado";
+
+	"EVENT_TITLE_libactivator.statusbar.hold.left" = "Segurar à esquerda";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.left" = "Toque e segure o lado esquerdo da barra de estado";
+
+	"EVENT_TITLE_libactivator.statusbar.hold.right" = "Segurar à direita";
+	"EVENT_DESCRIPTION_libactivator.statusbar.hold.right" = "Toque e segure o lado direito da barra de estado";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double.left" = "Tocar duas vezes à esquerda";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left" = "Toque duas vezes no lado esquerdo da barra de estado";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double.right" = "Tocar duas vezes à direita";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right" = "Toque duas vezes no lado direito da barra de estado";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.single.left" = "Tocar uma vez à esquerda";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left" = "Toque uma vez no lado esquerdo da barra de estado";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.single.right" = "Tocar uma vez à direita";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right" = "Toque uma vez no lado direito da barra de estado";
+
+	"EVENT_TITLE_libactivator.statusbar.tap.double" = "Tocar duas vezes";
+	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Toque duas vezes na barra de estado";
+
+	"EVENT_TITLE_libactivator.volume.display-tap" = "Tocar no indicador no ecrã";
+	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "Toque no indicador de volume no ecrã";
+
+	"EVENT_TITLE_libactivator.volume.down-up" = "Diminuir, aumentar";
+	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "Pressione diminuir volume, depois aumentar";
+
+	"EVENT_TITLE_libactivator.volume.up-down" = "Aumentar, diminuir";
+	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Pressione aumentar volume, depois diminuir";
+
+	"EVENT_TITLE_libactivator.volume.down.press" = "Pressionar diminuir";
+	"EVENT_DESCRIPTION_libactivator.volume.down.press" = "Pressione o botão de diminuir volume";
+
+	"EVENT_TITLE_libactivator.volume.up.press" = "Pressionar aumentar";
+	"EVENT_DESCRIPTION_libactivator.volume.up.press" = "Pressione o botão de aumentar volume";
+
+	"EVENT_TITLE_libactivator.volume.both.press" = "Pressionar ambos";
+	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Pressione os dois botões simultâneamente";
+
+	"EVENT_TITLE_libactivator.volume.down.hold.short" = "Segurar brevemente diminuir";
+	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "Pressione e segure brevemente o botão diminuir";
+
+	"EVENT_TITLE_libactivator.volume.up.hold.short" = "Segurar brevemente aumentar";
+	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Pressione e segure brevemente o botão aumentar";
+
+	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Alternar silêncio duas vezes";
+	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Mude a posição do interruptor do tocar/silêncio e volte à posição anterior";
+
+	"EVENT_TITLE_libactivator.volume.mute" = "Alternar para silêncio";
+	"EVENT_DESCRIPTION_libactivator.volume.mute" = "Mude a posição do interruptor para silêncio";
+
+	"EVENT_TITLE_libactivator.volume.unmute" = "Alternar para tocar";
+	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "Mude a posição do interruptor para tocar";
+
+	"EVENT_TITLE_libactivator.headset-button.press.single" = "Pressionar uma vez o botão";
+	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Pressione uma vez o botão do auricular";
+
+	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Segurar brevemente o botão";
+	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Pressione e segure brevemente o botão do auricular";
+
+	"EVENT_TITLE_libactivator.headset.connected" = "Ligado";
+	"EVENT_DESCRIPTION_libactivator.headset.connected" = "Auricular ligado ao dispositivo";
+
+	"EVENT_TITLE_libactivator.headset.disconnected" = "Desligado";
+	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "Auricular desligado do dispositivo";
+
+	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Tocar duas vezes no relógio";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Toque duas vezes na área do relógio/data";
+
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-left" = "Deslizar para a esquerda no relógio";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-left" = "Deslize para a esquerda na área do relógio/data";
+
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-right" = "Deslizar para a direita no relógio";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right" = "Deslize para a direita na área do relógio/data";
+
+	"EVENT_TITLE_libactivator.lockscreen.clock.swipe-down" = "Deslizar para baixo no relógio";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-down" = "Deslize para baixo na área do relógio/data";
+
+	"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "Tocar e segurar no relógio";
+	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "Tocar e segurar na área do relógio/data";
+
+	"EVENT_TITLE_libactivator.power.connected" = "Ligado";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "Começa a receber alimentação";
+
+	"EVENT_TITLE_libactivator.power.disconnected" = "Desligado";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Deixa de receber alimentação";
+
+	"EVENT_TITLE_libactivator.five-finger.pinch" = "Juntar cinco dedos";
+	"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "Junte cinco dedos no ecrã";
+
+	"EVENT_TITLE_libactivator.five-finger.spread" = "Afastar cinco dedos";
+	"EVENT_DESCRIPTION_libactivator.five-finger.spread" = "Afaste cinco dedos no ecrã";
+
+	"EVENT_TITLE_libactivator.five-finger.tap" = "Tocar com cinco dedos";
+	"EVENT_DESCRIPTION_libactivator.five-finger.tap" = "Toque com cinco dedos no ecrã";
+
+	"EVENT_TITLE_libactivator.four-finger.pinch" = "Juntar quatro dedos";
+	"EVENT_DESCRIPTION_libactivator.four-finger.pinch" = "Junte quatro dedos no ecrã";
+
+	"EVENT_TITLE_libactivator.four-finger.spread" = "Afastar quatro dedos";
+	"EVENT_DESCRIPTION_libactivator.four-finger.spread" = "Afaste quatro dedos no ecrã";
+
+	"EVENT_TITLE_libactivator.four-finger.tap" = "Tocar quatro dedos";
+	"EVENT_DESCRIPTION_libactivator.four-finger.tap" = "Toque com quatro dedos no ecrã";
+
+	"EVENT_TITLE_libactivator.three-finger.pinch" = "Juntar três dedos";
+	"EVENT_DESCRIPTION_libactivator.three-finger.pinch" = "Junte três dedos no ecrã";
+
+	"EVENT_TITLE_libactivator.three-finger.spread" = "Afastar três dedos";
+	"EVENT_DESCRIPTION_libactivator.three-finger.spread" = "Afaste três dedos no ecrã";
+
+	"EVENT_TITLE_libactivator.three-finger.tap" = "Tocar três dedos";
+	"EVENT_DESCRIPTION_libactivator.three-finger.tap" = "Toque com três dedos no ecrã";
+
+	"EVENT_TITLE_libactivator.icon.flick.down" = "Puxar ícone para baixo";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down" = "Puxe um ícone do SpringBoard para baixo";
+
+	"EVENT_TITLE_libactivator.icon.flick.left" = "Puxar ícone para a esquerda";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left" = "Puxe um ícone do SpringBoard para a esquerda";
+
+	"EVENT_TITLE_libactivator.icon.flick.right" = "Puxar ícone para a direita";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right" = "Puxe um ícone do SpringBoard para a direita";
+
+	"EVENT_TITLE_libactivator.icon.flick.up" = "Puxar ícone para cima";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up" = "Puxe um ícone do SpringBoard para cima";
+
+	"EVENT_TITLE_libactivator.clamshell.close" = "Fechar capa";
+	"EVENT_DESCRIPTION_libactivator.clamshell.close" = "Feche a capa protectora do ecrã";
+
+	"EVENT_TITLE_libactivator.clamshell.open" = "Abrir capa";
+	"EVENT_DESCRIPTION_libactivator.clamshell.open" = "Abra a capa protectora do ecrã";
+
+	"EVENT_TITLE_libactivator.device.locked" = "Bloqueado";
+	"EVENT_DESCRIPTION_libactivator.device.locked" = "Dispositivo bloqueado via botão de bloqueio ou por limite de tempo";
+
+	"EVENT_TITLE_libactivator.device.unlocked" = "Desbloqueado";
+	"EVENT_DESCRIPTION_libactivator.device.unlocked" = "Dispositivo desbloqueado via botão de deslizar para desbloquear";
+
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single" = "Pressionar uma vez";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single" = "Pressione uma vez o sensor de impressão digital";
+
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.twice" = "Pressionar duas vezes";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.twice" = "Pressione duas vezes o sensor de impressão digital";
+
+	"EVENT_TITLE_libactivator.fingerprint-sensor.hold" = "Segurar";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold" = "Pressione e segure o sensor de impressão digital";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Deslizar da esquerda para a direita";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Deslize da esquerda para a direita ao longo do bordo do ecrã";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-bottom.right-to-left" = "Deslizar da direita para a esquerda";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.right-to-left" = "Deslize da direita para a esquerda ao longo do bordo do ecrã";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-left.bottom-to-top" = "Deslizar de baixo para cima";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-left.bottom-to-top" = "Deslizar de baixo para cima ao longo do bordo do ecrã";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-left.top-to-bottom" = "Deslizar de cima para baixo";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-left.top-to-bottom" = "Deslizar de cima para baixo ao longo do bordo do ecrã";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-right.bottom-to-top" = "Deslizar de baixo para cima";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.bottom-to-top" = "Deslizar de baixo para cima ao longo do bordo do ecrã";
+
+	"EVENT_TITLE_libactivator.drag-along.screen-right.top-to-bottom" = "Deslizar de cima para baixo";
+	"EVENT_DESCRIPTION_libactivator.drag-along.screen-right.top-to-bottom" = "Deslizar de cima para baixo ao longo do bordo do ecrã";
+
+	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "Tocar duas vezes no painel";
+	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "Toque duas vezes no painel activo do VideoPane";
+
+	/* Custom Events */
+
+	"NEW_EVENT_TITLE_libactivator.application-launch" = "Abrir aplicação";
+	"NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "Ao abrir uma aplicação específica";
+	"EVENT_TITLE_libactivator.application-launch_FORMAT" = "Abrir %@";
+	"EVENT_DESCRIPTION_libactivator.application-launch_FORMAT" = "Ao abrir a aplicação %@";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.up" = "Puxar ícone para cima";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up" = "Ao puxar um ícone específico para cima";
+	"EVENT_TITLE_libactivator.icon.flick.up_FORMAT" = "Puxar %@ para cima";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.up_FORMAT" = "Puxe o ícone %@ para cima";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.down" = "Puxar ícone para baixo";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down" = "Ao puxar um ícone específico para baixo";
+	"EVENT_TITLE_libactivator.icon.flick.down_FORMAT" = "Puxar %@ para baixo";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.down_FORMAT" = "Puxe o ícone %@ para baixo";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.left" = "Puxar ícone para a esquerda";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left" = "Ao puxar um ícone específico para a esquerda";
+	"EVENT_TITLE_libactivator.icon.flick.left_FORMAT" = "Puxar %@ para a esquerda";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.left_FORMAT" = "Puxe o ícone %@ para a esquerda";
+
+	"NEW_EVENT_TITLE_libactivator.icon.flick.right" = "Puxar ícone para a direita";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right" = "Ao puxar um ícone específico para a direita";
+	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "Puxar %@ para a direita";
+	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Puxe o ícone %@ para a direita";
+
+	"NEW_EVENT_TITLE_libactivator.icon.hold" = "Segurar ícone";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.hold" = "Ao tocar e segurar um ícone específico";
+	"EVENT_TITLE_libactivator.icon.hold_FORMAT" = "Tocar e segurar %@";
+	"EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT" = "Toque e segure o ícone %@";
+
+	"NEW_EVENT_TITLE_libactivator.icon.tap.double" = "Tocar duas vezes em ícone";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.tap.double" = "Ao tocar duas vezes num ícone específico";
+	"EVENT_TITLE_libactivator.icon.tap.double_FORMAT" = "Tocar duas vezes %@";
+	"EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT" = "Toque duas vezes no ícone %@";
+
+	"NEW_EVENT_TITLE_libactivator.scheduled" = "Agendado";
+	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "À hora e dia da semana especificados";
+	"EVENT_DESCRIPTION_libactivator.scheduled" = "Hora de %@";
+	"ANY_DAY_OF_THE_WEEK_LOWERCASE" = "qualquer dia da semana";
+	"WEEKDAYS_LOWERCASE" = "dias úteis";
+	"WEEKENDS_LOWERCASE" = "fim de semana";
+
+	"NEW_EVENT_TITLE_libactivator.mail-received" = "Email recebido";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received" = "Recebido correio com um critério específico";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT" = "De %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT" = "Remetente é %@";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT" = "\"%@\" no assunto";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT" = "Assunto contém \"%@\"";
+	"NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "De %@, \"%@\" no assunto";
+	"NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT" = "Assunto contém \"%2$@\", remetente é %1$@";
+
+	"NEW_EVENT_TITLE_libactivator.message-received" = "Mensagem recebida";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received" = "Mensagem recebida com um critério específico";
+	"NEW_EVENT_TITLE_libactivator.message-received_SENDER_FORMAT" = "De %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_SENDER_FORMAT" = "Remetente é %@";
+	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_FORMAT" = "\"%@\" na mensagem";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_FORMAT" = "Mensagem contém \"%@\"";
+	"NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "De %@, \"%@\" na mensagem";
+	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "Mensagem contém \"%2$@\", remetente é %1$@";
+
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "Ligado a rede Wi-Fi";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Ao ligar a uma rede Wi-Fi";
+	"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "Ligado a %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "Ligado a uma rede Wi-Fi específica";
+	"NETWORK_NAME" = "Nome da rede";
+	"EVENT_TITLE_libactivator.network.joined-wifi" = "Ligado ao Wi-Fi";
+	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Ao ligar a qualquer rede Wi-Fi";
+	"EVENT_TITLE_libactivator.network.left-wifi" = "Desligado do Wi-Fi";
+	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Ao desligar de rede Wi-Fi";
+
+	"NEW_EVENT_TITLE_libactivator.network.bluetooth-connect_FORMAT" = "Ligado a %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-connect_FORMAT" = "Ligado a um dispositivo Bluetooth específico";
+	"NEW_EVENT_TITLE_libactivator.network.bluetooth-disconnect_FORMAT" = "Desligado de %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "Desligado de um dispositivo Bluetooth específico";
+
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Recebe correspondência da impressão digital de \"%@\"";
+
+	"NEW_EVENT_TITLE_libactivator.power.drain-past" = "Bateria descarregada";
+	"NEW_EVENT_TITLE_libactivator.power.drain-past_FORMAT" = "Bateria descarregada abaixo de %@%%";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past" = "Nível de bateria descarregada abaixo de um nível específico";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.drain-past_FORMAT" = "Nível de bateria descarregada abaixo de %@%%";
+	"BATTERY_LEVEL_DRAINS_PAST" = "Nível de bateria descarregada abaixo de %@%%";
+
+	"NEW_EVENT_TITLE_libactivator.power.charge-past" = "Bateria carregada";
+	"NEW_EVENT_TITLE_libactivator.power.charge-past_FORMAT" = "Bateria carregada acima de %@%%";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past" = "Nível de bateria carregada acima de um nível específico";
+	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "Nível de bateria carregada acima de %@%%";
+	"BATTERY_LEVEL_CHARGES_PAST" = "Nível de bateria carregada acima de %@%%";
+
+	"NEW_EVENT_TITLE_libactivator.network.left-wifi" = "Desligado de rede Wi-Fi";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Ao desligar de uma rede Wi-Fi";
+	"NEW_EVENT_TITLE_libactivator.network.left-wifi_FORMAT" = "Desligado de %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT" = "Desligado de uma rede Wi-Fi específica";
+
+	/* Listener Groups */
+
+	"LISTENER_GROUP_TITLE_System Actions" = "Acções do sistema";
+	"LISTENER_GROUP_TITLE_System Applications" = "Aplicações do sistema";
+	"LISTENER_GROUP_TITLE_User Applications" = "Aplicações do utilizador";
+	"LISTENER_GROUP_TITLE_iPod" = "iPod";
+	"LISTENER_GROUP_TITLE_Lock Screen" = "Ecrã bloqueado";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Interruptores SBSettings";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Interruptores SBSettings (Activar)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Interruptores SBSettings (Desactivar)";
+	"LISTENER_GROUP_TITLE_Phone" = "Telefone";
+	"LISTENER_GROUP_TITLE_Power" = "Alimentação";
+	"LISTENER_GROUP_TITLE_Audio" = "Áudio";
+	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
+	"LISTENER_GROUP_TITLE_Web Clips" = "Atalhos";
+	"LISTENER_GROUP_TITLE_Sharing" = "Partilhar";
+	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+	"LISTENER_GROUP_TITLE_Contacts" = "Contactos";
+	"LISTENER_GROUP_TITLE_Camera" = "Câmara";
+	"LISTENER_GROUP_TITLE_Ringtones" = "Toques";
+	"LISTENER_GROUP_TITLE_Switches" = "Interruptores";
+	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activar)";
+	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Desactivar)";
+	"LISTENER_GROUP_TITLE_Fingerprint Sensor" = "Sensor de impressão digital";
+	"LISTENER_GROUP_TITLE_VideoPane" = "VideoPane";
+	"LISTENER_GROUP_TITLE_Profiles" = "Perfis";
+	"LISTENER_GROUP_TITLE_Speech Synthesis" = "Síntese de voz";
+	"LISTENER_GROUP_TITLE_Screen Brightness" = "Brilho do ecrã";
+	"LISTENER_GROUP_TITLE_Message Alert" = "Messagem de alerta";
+	"LISTENER_GROUP_TITLE_Ask Siri" = "Pergunte à Siri";
+
+	/* Listener Names */
+
+	"LISTENER_DESCRIPTION_switch-flip" = "Activa/desactiva interruptor";
+	"LISTENER_DESCRIPTION_switch-off" = "Desactiva interruptor";
+	"LISTENER_DESCRIPTION_switch-on" = "Activa interruptor";
+	"LISTENER_DESCRIPTION_switch-action" = "Activa acção do interruptor";
+	"LISTENER_DESCRIPTION_toggle" = "Activa/desactiva função";
+	"LISTENER_DESCRIPTION_toggle_enable" = "Activa função";
+	"LISTENER_DESCRIPTION_toggle_disable" = "Desactiva função";
+	"LISTENER_DESCRIPTION_application" = "Activa aplicação";
+	"LISTENER_DESCRIPTION_profile" = "Activa perfil";
+
+	"LISTENER_TITLE_libactivator.system.homebutton" = "Botão principal";
+	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Simula pressionar o botão principal";
+
+	"LISTENER_TITLE_libactivator.system.powerdown" = "Desligar";
+	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Desliga imediatamente o dispositivo";
+
+	"LISTENER_TITLE_libactivator.system.reboot" = "Reiniciar";
+	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "Reinicia imediatamente o dispositivo";
+
+	"LISTENER_TITLE_libactivator.system.respring" = "Reiniciar SpringBoard";
+	"LISTENER_DESCRIPTION_libactivator.system.respring" = "Reinicia o SpringBoard normalmente";
+
+	"LISTENER_TITLE_libactivator.system.safemode" = "Modo de segurança";
+	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "Reinicia o SpringBoard em modo de segurança";
+
+	"LISTENER_TITLE_libactivator.system.sleepbutton" = "Botão de bloqueio";
+	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Simula pressionar o botão de bloqueio";
+
+	"LISTENER_TITLE_libactivator.system.spotlight" = "Pesquisa Spotlight";
+	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Activa a página de pesquisa no SpringBoard";
+
+	"LISTENER_TITLE_libactivator.system.take-screenshot" = "Capturar ecrã";
+	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Guarde o conteúdo do ecrã para as fotografias";
+
+	"LISTENER_TITLE_libactivator.system.voice-control" = "Controlo por voz";
+	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Activa o controlo por voz";
+
+	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "Siri";
+	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Activa a assistente virtual";
+
+	"LISTENER_TITLE_libactivator.system.activate-control-center" = "Activar central de controlo";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Mostra definições da central de controlo";
+
+	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Activar multitarefas";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Mostra multitarefas";
+
+	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Mostrar barra \"A reproduzir\"";
+	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Mostra os controlos de reprodução";
+
+	"LISTENER_TITLE_libactivator.system.nothing" = "Não fazer nada";
+	"LISTENER_DESCRIPTION_libactivator.system.nothing" = "Suprime a acção original";
+
+	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "Primeira página do SpringBoard";
+	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Salta para a primeira página de ícones";
+
+	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Activar central de notificações";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Mostra a central de notificações";
+
+	"LISTENER_TITLE_libactivator.system.activate-reachability" = "Activar \"Acesso fácil\"";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "Desloca o ecrã um pouco para baixo";
+
+	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Compor tweet";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Abre o módulo de composição de tweet";
+
+	"LISTENER_TITLE_libactivator.facebook.compose-post" = "Compor publicação do Facebook";
+	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Abre o módulo de composição do Facebook";
+
+	"LISTENER_TITLE_libactivator.mail.compose-message" = "Compor correio";
+	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Abre o módulo de composição de correio";
+
+	"LISTENER_TITLE_libactivator.sms.compose-message" = "Compor mensagem";
+	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Abre o módulo de composição de mensagem";
+
+	"LISTENER_TITLE_libactivator.weibo.compose-post" = "Compor publicação do Weibo";
+	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Abre o módulo de composição do Weibo";
+
+	"LISTENER_TITLE_libactivator.audio.decrease-volume" = "Diminuir volume";
+	"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "Diminui o volume de áudio";
+
+	"LISTENER_TITLE_libactivator.audio.increase-volume" = "Aumentar volume";
+	"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "Aumenta o volume de áudio";
+
+	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Mostrar barra de volume";
+	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Mostra o ajuste de volume";
+
+	"LISTENER_TITLE_libactivator.ipod.music-controls" = "Controlos de reprodução";
+	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Mostra janela \"A reproduzir\"";
+
+	"LISTENER_TITLE_libactivator.ipod.next-track" = "Música seguinte";
+	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "Muda para a música seguinte";
+
+	"LISTENER_TITLE_libactivator.ipod.previous-track" = "Música anterior";
+	"LISTENER_DESCRIPTION_libactivator.ipod.previous-track" = "Volta à música anterior";
+
+	"LISTENER_TITLE_libactivator.ipod.toggle-playback" = "Reproduzir/pausar";
+	"LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback" = "Alterna entre retomar e pausar a reprodução";
+
+	"LISTENER_TITLE_libactivator.ipod.pause-playback" = "Pausar";
+	"LISTENER_DESCRIPTION_libactivator.ipod.pause-playback" = "Pausa a reprodução";
+
+	"LISTENER_TITLE_libactivator.ipod.resume-playback" = "Reproduzir";
+	"LISTENER_DESCRIPTION_libactivator.ipod.resume-playback" = "Retoma a reprodução";
+
+	"LISTENER_TITLE_libactivator.lockscreen.dismiss" = "Desbloquear dispositivo";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss" = "Sai do ecrã bloqueado";
+
+	"LISTENER_TITLE_libactivator.lockscreen.show" = "Bloquear dispositivo";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.show" = "Mostra o ecrã bloqueado";
+
+	"LISTENER_TITLE_libactivator.lockscreen.toggle" = "Bloquear/desbloquear";
+	"LISTENER_DESCRIPTION_libactivator.lockscreen.toggle" = "Alterna entre mostrar e sair do ecrã bloqueado";
+
+	"LISTENER_TITLE_libactivator.phone.contacts" = "Mostrar Contactos";
+	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Abre Telefone no separador Contactos";
+
+	"LISTENER_TITLE_libactivator.phone.favorites" = "Mostrar Favoritos";
+	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "Abre Telefone no separador Favoritos";
+
+	"LISTENER_TITLE_libactivator.phone.keypad" = "Mostrar Teclado";
+	"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "Abre Telefone no separador Teclado";
+
+	"LISTENER_TITLE_libactivator.phone.recents" = "Mostrar Recentes";
+	"LISTENER_DESCRIPTION_libactivator.phone.recents" = "Abre Telefone no separador Recentes";
+
+	"LISTENER_TITLE_libactivator.phone.voicemail" = "Mostrar Voicemail";
+	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Abre Telefone no separador Voicemail";
+
+	"LISTENER_TITLE_libactivator.settings.about" = "Informações";
+	"LISTENER_DESCRIPTION_libactivator.settings.about" = "Abre Definições em Informações";
+
+	"LISTENER_TITLE_libactivator.settings.accessibility" = "Acessibilidade";
+	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "Abre Definições em Acessibilidade";
+
+	"LISTENER_TITLE_libactivator.settings.auto-lock" = "Bloqueio automático";
+	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Abre Definições em Bloqueio automático";
+
+	"LISTENER_TITLE_libactivator.settings.bluetooth" = "Bluetooth";
+	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "Abre Definições em Bluetooth";
+
+	"LISTENER_TITLE_libactivator.settings.brightness" = "Brilho";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "Abre Definições em Brilho";
+
+	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Papel de parede e Brilho";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "Abre Definições em Papel de parede e Brilho";
+
+	"LISTENER_TITLE_libactivator.settings.cellular" = "Dados móveis";
+	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "Abre Definições em Dados móveis";
+
+	"LISTENER_TITLE_libactivator.settings.date-time" = "Data e hora";
+	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Abre Definições em Data e hora";
+
+	"LISTENER_TITLE_libactivator.settings.equalizer" = "Equalizador";
+	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "Abre Definições em Equalizador";
+
+	"LISTENER_TITLE_libactivator.settings.facetime" = "FaceTime";
+	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "Abre Definições em FaceTime";
+
+	"LISTENER_TITLE_libactivator.settings.general" = "Geral";
+	"LISTENER_DESCRIPTION_libactivator.settings.general" = "Abre Definições em Geral";
+
+	"LISTENER_TITLE_libactivator.settings.icloud" = "iCloud";
+	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "Abre Definições em iCloud";
+
+	"LISTENER_TITLE_libactivator.settings.international" = "Internacional";
+	"LISTENER_DESCRIPTION_libactivator.settings.international" = "Abre Definições em Internacional";
+
+	"LISTENER_TITLE_libactivator.settings.keyboard" = "Teclado";
+	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "Abre Definições em Teclado";
+
+	"LISTENER_TITLE_libactivator.settings.location-services" = "Serviços de localização";
+	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "Abre Definições em Serviços de localização";
+
+	"LISTENER_TITLE_libactivator.settings.music" = "Música";
+	"LISTENER_DESCRIPTION_libactivator.settings.music" = "Abre Definições em Música";
+
+	"LISTENER_TITLE_libactivator.settings.network" = "Rede";
+	"LISTENER_DESCRIPTION_libactivator.settings.network" = "Abre Definições em Rede";
+
+	"LISTENER_TITLE_libactivator.settings.notes" = "Notas";
+	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "Abre Definições em Notas";
+
+	"LISTENER_TITLE_libactivator.settings.notifications" = "Notificações";
+	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "Abre Definições em Notificações";
+
+	"LISTENER_TITLE_libactivator.settings.phone" = "Telefone";
+	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "Abre Definições em Telefone";
+
+	"LISTENER_TITLE_libactivator.settings.photos" = "Fotografias e Câmara";
+	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "Abre Definições em Fotografias e Câmara";
+
+	"LISTENER_TITLE_libactivator.settings.safari" = "Safari";
+	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "Abre Definições em Safari";
+
+	"LISTENER_TITLE_libactivator.settings.sounds" = "Sons";
+	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "Abre Definições em Sons";
+
+	"LISTENER_TITLE_libactivator.settings.store" = "iTunes Store e App Store";
+	"LISTENER_DESCRIPTION_libactivator.settings.store" = "Abre Definições em iTunes Store e App Store";
+
+	"LISTENER_TITLE_libactivator.settings.twitter" = "Twitter";
+	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "Abre Definições em Twitter";
+
+	"LISTENER_TITLE_libactivator.settings.usage" = "Utilização";
+	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Abre Definições em Utilização";
+
+	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Siri";
+	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Abre Definições em Siri";
+
+	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
+	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Abre Definições em VPN";
+
+	"LISTENER_TITLE_libactivator.settings.wallpaper" = "Papel de parede";
+	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Abre Definições em Papel de parede";
+
+	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
+	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Abre Definições em Wi-Fi";
+
+	"LISTENER_TITLE_libactivator.camera.invoke-shutter" = "Invocar obturador";
+	"LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "Acciona a função de obturador da Câmara";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.apps" = "Google Apps";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "Activa lista do Google Apps";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.goggles" = "Goggles";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.goggles" = "Activa o recurso Google Goggles";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.search" = "Pesquisa de texto";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.search" = "Activa pesquisa de texto no Google";
+
+	"LISTENER_TITLE_com.rpetrich.activoice.voice" = "Pesquisa por voz";
+	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "Activa pesquisa por voz no Google";
+
+	"LISTENER_TITLE_com.rpetrich.voicememotoggle" = "Gravação";
+	"LISTENER_DESCRIPTION_com.rpetrich.voicememotoggle" = "Alterna entre gravar e pausar uma gravação";
+
+	"LISTENER_TITLE_libactivator.keyboard.dictation" = "Ditado";
+	"LISTENER_DESCRIPTION_libactivator.keyboard.dictation" = "Dita para uma caixa de texto activa";
+
+	"LISTENER_DESCRIPTION_libactivator.call" = "Liga a";
+	"LISTENER_DESCRIPTION_libactivator.mail" = "Envia email para";
+	"LISTENER_DESCRIPTION_libactivator.text" = "Envia mensagem para";
+
+	"LISTENER_DESCRIPTION_libactivator.ringtone" = "Reproduz toque";
+
+	"SET_VOLUME_TO_FORMAT" = "Define volume para %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "Definir volume";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Aplica um volume de áudio específico ao sistema";
+	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "Volume %@%%";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Define volume para %@%% do máximo";
+
+	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "Sintetizar voz";
+	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "O dispositivo diz em voz alta um texto personalizado";
+	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Dizer \"%@\"";
+	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "O dispositivo diz em voz alta um texto personalizado";
+	"TEXT" = "Texto";
+	
+	"SET_BRIGHTNESS_TO_FORMAT" = "Define brilho para %@%%";
+	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "Definir brilho";
+	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Aplica um brilho de ecrã específico";
+	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "Brilho %@%%";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness_FORMAT" = "Define brilho para %@%% do máximo";
+
+	"NEW_LISTENER_TITLE_libactivator.message.show" = "Mostrar mensagem de alerta";
+	"NEW_LISTENER_DESCRIPTION_libactivator.message.show" = "Mostra mensagem de alerta personalizada";
+	"LISTENER_TITLE_libactivator.message.show_FORMAT" = "Mostrar mensagem \"%@\"";
+	"LISTENER_DESCRIPTION_libactivator.message.show_FORMAT" = "Mostra mensagem de alerta personalizada";
+	"TITLE" = "Título";
+	"MESSAGE" = "Mensagem";
+
+	"NEW_LISTENER_TITLE_libactivator.assistant.ask" = "Perguntar a Siri";
+	"NEW_LISTENER_DESCRIPTION_libactivator.assistant.ask" = "Faz a Siri responder a uma pergunta";
+	"LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "Perguntar \"%@\"";
+	"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "Faz a Siri responder a uma pergunta";
+	"QUESTION" = "Pergunta";
+
+	"LISTENER_TITLE_toggle_3G" = "3G";
+	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
+	"LISTENER_TITLE_toggle_Data" = "Dados móveis";
+	"LISTENER_TITLE_toggle_Location" = "Localização";
+	"LISTENER_TITLE_toggle_Phone" = "Telefone";
+	"LISTENER_TITLE_toggle_SSH" = "SSH";
+	"LISTENER_TITLE_toggle_Syslog" = "Syslog";
+	"LISTENER_TITLE_toggle_Wi-Fi" = "Wi-Fi";
+
+	"LISTENER_TITLE_com.rpetrich.superscroller.up" = "Cima";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.up" = "Desloca uma página para cima";
+
+	"LISTENER_TITLE_com.rpetrich.superscroller.down" = "Baixo";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.down" = "Desloca uma página para baixo";
+
+	"LISTENER_TITLE_com.rpetrich.superscroller.autoup" = "Deslocar automaticamente para cima";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autoup" = "Desloca continuamente para cima";
+
+	"LISTENER_TITLE_com.rpetrich.superscroller.autodown" = "Deslocar automaticamente para baixo";
+	"LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown" = "Desloca continuamente para baixo";
+
+	"LISTENER_TITLE_com.rpetrich.voicekeys" = "Teclas de voz";
+	"LISTENER_DESCRIPTION_com.rpetrich.voicekeys" = "Inicia/pára reconhecimento de voz";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.destroy-pane" = "Destruir vídeo";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.destroy-pane" = "Destrói o VideoPane actual";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.detach-pane" = "Destacar VideoPane";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.detach-pane" = "Detaca o vídeo actual para um painel";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.pause-playback" = "Pausar";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.pause-playback" = "Suspende a reprodução do VideoPane";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.ressurect-pane" = "Retomar vídeo";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.ressurect-pane" = "Retoma o VideoPane mais recente";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.resume-playback" = "Reproduzir";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.resume-playback" = "Retoma a reprodução do VideoPane";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-fullscreen" = "Alternar ecrã completo";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-fullscreen" = "Alterna a vizualização em ecrã completo";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-playback" = "Reproduzir/pausar";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-playback" = "Alterna entre retomar e pausar a reprodução do VideoPane";
+
+	"LISTENER_TITLE_com.rpetrich.videopane.toggle-transparency" = "Alternar transparência";
+	"LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-transparency" = "Alterna a transparência do VideoPane activo";
+
+	"LISTENER_TITLE_com.rpetrich.smartclose" = "SmartClose";
+	"LISTENER_DESCRIPTION_com.rpetrich.smartclose" = "Fecha as aplicações em segundo plano, o método inteligente";
+
+	"IN_CYDIA_WARNING" = "É potencialmente perigoso executar acções enquanto o Cydia instala software.";
+
+	"ASSIGNMENTS" = "Atribuições";
+	"ASSIGNMENTS_DETAIL" = "Visão geral de todos os eventos atribuídos";
+
+	"BACKUP_ASSIGNMENTS" = "Backup das atribuições";
+	"BACKUP_ASSIGNMENTS_DETAIL" = "Exporta as atribuições de eventos e menus";
+
+	"RESTORE_ASSIGNMENTS" = "Restaurar atribuições";
+	"RESTORE_ASSIGNMENTS_DETAIL" = "Restaura as atribuições exportadas";
+
+	"RESTORE_ALERT_TITLE" = "Restaurar definições do Activator";
+	"RESTORE_ALERT_MESSAGE" = "Tem a certeza que pretende restaurar as definições a partir da cópia exportada?\nSe continuar, o dispositivo reiniciará o SpringBoard.";
+
+	"RESTORE_ALERT_CANCEL" = "Cancelar";
+	"RESTORE_ALERT_CONTINUE" = "Restaurar";
+
+	"BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "O backup exportado é guardado em %@ e é copiado quando sincroniza com o iTunes ou iCloud.";
+
+	"FAILED_TO_OPEN_SETTINGS_FILE" = "Falhou ao abrir o ficheiro de definições para gravação";
+	"FAILED_TO_WRITE_SETTINGS_FILE" = "Falhou ao gravar no ficheiro de definições: ";
+	
+	"PROFILES" = "Perfis";
+	"PROFILES_DETAIL" = "Definir perfis com atribuições personalizadas";
+	"ADD_NEW_PROFILE" = "Adicionar novo perfil";
+	"NEW_PROFILE" = "Novo perfil";
+	"PROFILE_NAME" = "Nome do perfil";
+	"LISTENER_TITLE_libactivator.profile.Default" = "Default";	
+}
