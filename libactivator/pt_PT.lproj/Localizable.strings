@@ -20,9 +20,9 @@
 	"DONATE_DETAIL" = "Contribuir via PayPal";
 	"N_ADDITIONAL_EVENTS" = "%i eventos adicionais";
 	"RESET_SETTINGS" = "Repor definições";
-	"RESET_SETTINGS_DETAIL" = "Repor todas as definições para os valores por omissão";
+	"RESET_SETTINGS_DETAIL" = "Repor todas as definições para os valores originais";
 	"RESET_ALERT_TITLE" = "Repor definições do Activator";
-	"RESET_ALERT_MESSAGE" = "Tem a certeza que deseja repor as definições do Activator para os valores padrão?\nSe continuar, o seu dispositivo irá reiniciar o SpringBoard.";
+	"RESET_ALERT_MESSAGE" = "Tem a certeza que deseja repor as definições do Activator para os valores originais?\nSe continuar, o seu dispositivo irá reiniciar o SpringBoard.";
 	"RESET_ALERT_CANCEL" = "Cancelar";
 	"RESET_ALERT_CONTINUE" = "Repor";
 	"MULTIPLE_ASSIGNMENTS" = "(múltiplos)";
@@ -521,14 +521,14 @@
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "Puxar %@ para a direita";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Puxe o ícone %@ para a direita";
 
-	"NEW_EVENT_TITLE_libactivator.icon.hold" = "Segurar ícone";
-	"NEW_EVENT_DESCRIPTION_libactivator.icon.hold" = "Ao tocar e segurar um ícone específico";
-	"EVENT_TITLE_libactivator.icon.hold_FORMAT" = "Tocar e segurar %@";
-	"EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT" = "Toque e segure o ícone %@";
+	"NEW_EVENT_TITLE_libactivator.icon.hold" = "Segurar num ícone";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.hold" = "Ao tocar e segurar num ícone específico";
+	"EVENT_TITLE_libactivator.icon.hold_FORMAT" = "Tocar e segurar em %@";
+	"EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT" = "Toque e segure no ícone %@";
 
-	"NEW_EVENT_TITLE_libactivator.icon.tap.double" = "Tocar duas vezes em ícone";
+	"NEW_EVENT_TITLE_libactivator.icon.tap.double" = "Tocar duas vezes num ícone";
 	"NEW_EVENT_DESCRIPTION_libactivator.icon.tap.double" = "Ao tocar duas vezes num ícone específico";
-	"EVENT_TITLE_libactivator.icon.tap.double_FORMAT" = "Tocar duas vezes %@";
+	"EVENT_TITLE_libactivator.icon.tap.double_FORMAT" = "Tocar duas vezes em %@";
 	"EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT" = "Toque duas vezes no ícone %@";
 
 	"NEW_EVENT_TITLE_libactivator.scheduled" = "Agendado";
