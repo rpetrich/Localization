@@ -665,7 +665,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Activate virtual assistant";
 
 	"LISTENER_TITLE_libactivator.system.activate-control-center" = "Activate Control Center";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Show control center";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Show settings control center";
 
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Activate Switcher";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Show application switcher";
