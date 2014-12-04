@@ -777,6 +777,9 @@
 	"LISTENER_TITLE_libactivator.settings.equalizer" = "Equalizer";
 	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "Open Settings to Equalizer";
 
+	"LISTENER_TITLE_libactivator.settings.facebook" = "Facebook";
+	"LISTENER_DESCRIPTION_libactivator.settings.facebook" = "Open Settings to Facebook";
+
 	"LISTENER_TITLE_libactivator.settings.facetime" = "FaceTime";
 	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "Open Settings to FaceTime";
 
