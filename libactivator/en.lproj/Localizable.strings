@@ -610,6 +610,7 @@
 	"LISTENER_GROUP_TITLE_Contacts" = "Contacts";
 	"LISTENER_GROUP_TITLE_Camera" = "Camera";
 	"LISTENER_GROUP_TITLE_Ringtones" = "Ringtones";
+	"LISTENER_GROUP_TITLE_Settings" = "Settings";
 	"LISTENER_GROUP_TITLE_Switches" = "Switches";
 	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Switches (Activate)";
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
