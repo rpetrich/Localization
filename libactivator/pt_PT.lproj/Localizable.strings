@@ -610,6 +610,7 @@
 	"LISTENER_GROUP_TITLE_Contacts" = "Contactos";
 	"LISTENER_GROUP_TITLE_Camera" = "Câmara";
 	"LISTENER_GROUP_TITLE_Ringtones" = "Toques";
+	"LISTENER_GROUP_TITLE_Settings" = "Definições";
 	"LISTENER_GROUP_TITLE_Switches" = "Interruptores";
 	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activar)";
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Desactivar)";
