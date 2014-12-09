@@ -22,7 +22,7 @@
 	"RESET_SETTINGS" = "Repor definições";
 	"RESET_SETTINGS_DETAIL" = "Repor todas as definições para os valores por omissão";
 	"RESET_ALERT_TITLE" = "Repor definições do Activator";
-	"RESET_ALERT_MESSAGE" = "Tem a certeza que deseja repor as definições do Activator para os valores padrão?\nSe continuar, o seu dispositivo irá reiniciar o SpringBoard.";
+	"RESET_ALERT_MESSAGE" = "Tem a certeza que quer repor as definições do Activator para os valores de origem?\nO seu dispositivo reiniciará o SpringBoard se continuar.";
 	"RESET_ALERT_CANCEL" = "Cancelar";
 	"RESET_ALERT_CONTINUE" = "Repor";
 	"MULTIPLE_ASSIGNMENTS" = "(múltiplos)";
@@ -532,8 +532,8 @@
 	"EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT" = "Toque duas vezes no ícone %@";
 
 	"NEW_EVENT_TITLE_libactivator.scheduled" = "Agendado";
-	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "No dia da semana e hora especificados";
-	"EVENT_DESCRIPTION_libactivator.scheduled" = "De %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "À hora e dia da semana especificados";
+	"EVENT_DESCRIPTION_libactivator.scheduled" = "Hora de %@";
 	"ANY_DAY_OF_THE_WEEK_LOWERCASE" = "qualquer dia da semana";
 	"WEEKDAYS_LOWERCASE" = "dias úteis";
 	"WEEKENDS_LOWERCASE" = "fim de semana";
@@ -631,7 +631,7 @@
 	"LISTENER_DESCRIPTION_toggle" = "Activa/desactiva função";
 	"LISTENER_DESCRIPTION_toggle_enable" = "Activa função";
 	"LISTENER_DESCRIPTION_toggle_disable" = "Desactiva função";
-	"LISTENER_DESCRIPTION_application" = "Abre aplicação";
+	"LISTENER_DESCRIPTION_application" = "Activa aplicação";
 	"LISTENER_DESCRIPTION_profile" = "Activa perfil";
 
 	"LISTENER_TITLE_libactivator.system.homebutton" = "Botão principal";
@@ -646,8 +646,8 @@
 	"LISTENER_TITLE_libactivator.system.respring" = "Reiniciar SpringBoard";
 	"LISTENER_DESCRIPTION_libactivator.system.respring" = "Reinicia o SpringBoard normalmente";
 
-	"LISTENER_TITLE_libactivator.system.safemode" = "Modo de Segurança";
-	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "Reinicia o SpringBoard em Modo de Segurança";
+	"LISTENER_TITLE_libactivator.system.safemode" = "Modo de segurança";
+	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "Reinicia o SpringBoard em modo de segurança";
 
 	"LISTENER_TITLE_libactivator.system.sleepbutton" = "Botão de bloqueio";
 	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Simula pressionar o botão de bloqueio";
@@ -656,7 +656,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Activa a página de pesquisa no SpringBoard";
 
 	"LISTENER_TITLE_libactivator.system.take-screenshot" = "Capturar ecrã";
-	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Guarda o conteúdo do ecrã para as fotografias";
+	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Guarde o conteúdo do ecrã para as fotografias";
 
 	"LISTENER_TITLE_libactivator.system.voice-control" = "Controlo por voz";
 	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Activa o controlo por voz";
@@ -665,7 +665,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Activa a assistente virtual";
 
 	"LISTENER_TITLE_libactivator.system.activate-control-center" = "Activar central de controlo";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Mostra a central de controlo";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Mostra definições da central de controlo";
 
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Activar multitarefas";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Mostra multitarefas";
@@ -686,19 +686,19 @@
 	"LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "Desloca o ecrã um pouco para baixo";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Compor tweet";
-	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Abre o compositor do Twitter";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Abre o módulo de composição de tweet";
 
 	"LISTENER_TITLE_libactivator.facebook.compose-post" = "Compor publicação do Facebook";
-	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Abre o compositor do Facebook";
+	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Abre o módulo de composição do Facebook";
 
-	"LISTENER_TITLE_libactivator.mail.compose-message" = "Compor email";
-	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Abre o compositor de email";
+	"LISTENER_TITLE_libactivator.mail.compose-message" = "Compor correio";
+	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Abre o módulo de composição de correio";
 
 	"LISTENER_TITLE_libactivator.sms.compose-message" = "Compor mensagem";
-	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Abre o compositor de mensagem";
+	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Abre o módulo de composição de mensagem";
 
 	"LISTENER_TITLE_libactivator.weibo.compose-post" = "Compor publicação do Weibo";
-	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Abre o compositor do Weibo";
+	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Abre o módulo de composição do Weibo";
 
 	"LISTENER_TITLE_libactivator.audio.decrease-volume" = "Diminuir volume";
 	"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "Diminui o volume de áudio";
@@ -885,7 +885,7 @@
 	
 	"SET_BRIGHTNESS_TO_FORMAT" = "Define brilho para %@%%";
 	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "Definir brilho";
-	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Aplica um brilho específico ao ecrã";
+	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Aplica um brilho de ecrã específico";
 	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "Brilho %@%%";
 	"LISTENER_DESCRIPTION_libactivator.screen.brightness_FORMAT" = "Define brilho para %@%% do máximo";
 
