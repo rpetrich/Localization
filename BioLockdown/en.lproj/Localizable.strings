@@ -92,6 +92,7 @@
 	APP_SWITCHER_PRIVACY_VALUE_0 = "Visible";
 	APP_SWITCHER_PRIVACY_VALUE_1 = "Blurred";
 	APP_SWITCHER_PRIVACY_VALUE_2 = "Black";
+	APP_SWITCHER_PRIVACY_VALUE_3 = "White";
 
 	SHARE_THE_LOVE = "I'm using BioLockdown to protect access to my iPhone's apps, settings and switches!";
 
