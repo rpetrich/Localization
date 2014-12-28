@@ -606,10 +606,11 @@
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
 	"LISTENER_GROUP_TITLE_Sharing" = "Compartir";
-	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+	"LISTENER_GROUP_TITLE_Activoice" = "Activoz";
 	"LISTENER_GROUP_TITLE_Contacts" = "Contactos";
 	"LISTENER_GROUP_TITLE_Camera" = "Cámara";
 	"LISTENER_GROUP_TITLE_Ringtones" = "Tonos";
+	"LISTENER_GROUP_TITLE_Settings" = "Ajustes";
 	"LISTENER_GROUP_TITLE_Switches" = "Interruptores";
 	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activar)";
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Desactivar)";
@@ -776,6 +777,9 @@
 	
 	"LISTENER_TITLE_libactivator.settings.equalizer" = "Ecualizador";
 	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "Abre ajustes en Ecualizador";
+	
+	"LISTENER_TITLE_libactivator.settings.facebook" = "Facebook";
+	"LISTENER_DESCRIPTION_libactivator.settings.facebook" = "Abre ajustes en Facebook";
 	
 	"LISTENER_TITLE_libactivator.settings.facetime" = "FaceTime";
 	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "Abre ajustes en FaceTime";
