@@ -184,7 +184,7 @@
 	"EVENT_GROUP_TITLE_Switches (Activate)" = "Switches (Activate)";
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
 	"EVENT_GROUP_TITLE_Network Status" = "Network Status";
-	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Fingerprint Sensor";
+	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Touch ID Fingerprint Sensor";
 	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Bluetooth Devices";
 	"EVENT_GROUP_TITLE_Battery Level" = "Battery Level";
