@@ -877,6 +877,18 @@
 	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% Volume";
 	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Set volume to %@%% of maximum";
 
+	"SET_MEDIA_VOLUME_TO_FORMAT" = "Set media volume to %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume.media" = "Set Media Volume";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.media" = "Apply specific media audio volume";
+	"LISTENER_TITLE_libactivator.audio.volume.media_FORMAT" = "%@%% Media Volume";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume.media_FORMAT" = "Set media volume to %@%% of maximum";
+
+	"SET_RINGER_VOLUME_TO_FORMAT" = "Set ringer volume to %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume.ringer" = "Set Ringer Volume";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.ringer" = "Apply specific ringer audio volume";
+	"LISTENER_TITLE_libactivator.audio.volume.ringer_FORMAT" = "%@%% Ringer Volume";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume.ringer_FORMAT" = "Set ringer volume to %@%% of maximum";
+
 	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "Synthesize Speech";
 	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "Have device speak custom text";
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Say \"%@\"";
