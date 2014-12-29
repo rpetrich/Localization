@@ -371,6 +371,12 @@
 	"EVENT_TITLE_libactivator.volume.up.hold.short" = "Up Short Hold";
 	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Press and hold up button";
 
+	"EVENT_TITLE_libactivator.volume.down.press.with-menu" = "Press With Volume Down";
+	"EVENT_DESCRIPTION_libactivator.volume.down.press.with-menu" = "Press both buttons simultaneously";
+
+	"EVENT_TITLE_libactivator.volume.up.press.with-menu" = "Press With Volume Up";
+	"EVENT_DESCRIPTION_libactivator.volume.up.press.with-menu" = "Press both buttons simultaneously";
+
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Toggle Ringer Twice";
 	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Flip ringer switch on/off and back";
 

@@ -371,6 +371,12 @@
 	"EVENT_TITLE_libactivator.volume.up.hold.short" = "按住上鍵";
 	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "按住上音量按鈕";
 
+	"EVENT_TITLE_libactivator.volume.down.press.with-menu" = "與下音量按鈕一起按";
+	"EVENT_DESCRIPTION_libactivator.volume.down.press.with-menu" = "同時按下兩個按鈕";
+
+	"EVENT_TITLE_libactivator.volume.up.press.with-menu" = "與上音量按鈕一起按";
+	"EVENT_DESCRIPTION_libactivator.volume.up.press.with-menu" = "同時按下兩個按鈕";
+
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "撥動兩下『響鈴/靜音』切換按鈕";
 	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "撥動一下『響鈴/靜音』切換按鈕然後還原";
 
@@ -624,6 +630,7 @@
 	"LISTENER_GROUP_TITLE_Ask Siri" = "向 Siri 提問";
 
 	/* Listener Names */
+
 	"LISTENER_DESCRIPTION_switch-flip" = "啟用/停用該開關";
 	"LISTENER_DESCRIPTION_switch-off" = "停用該開關";
 	"LISTENER_DESCRIPTION_switch-on" = "啟用該開關";
@@ -769,6 +776,18 @@
 	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% 音量";
 	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "設定音量到最大值的 %@%%";
 
+	"SET_MEDIA_VOLUME_TO_FORMAT" = "設定媒體音量到 %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume.media" = "設定媒體音量";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.media" = "套用指定的媒體音量";
+	"LISTENER_TITLE_libactivator.audio.volume.media_FORMAT" = "%@%% 媒體音量";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume.media_FORMAT" = "設定媒體音量到最大值的 %@%%";
+
+	"SET_RINGER_VOLUME_TO_FORMAT" = "設定響鈴音量到 %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume.ringer" = "設定響鈴音量";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.ringer" = "套用指定的響鈴音量";
+	"LISTENER_TITLE_libactivator.audio.volume.ringer_FORMAT" = "%@%% 響鈴音量";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume.ringer_FORMAT" = "設定響鈴音量到最大值的 %@%%";
+	
 	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "朗讀";
 	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "讓裝置朗讀自訂文字";
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "朗讀『%@』";

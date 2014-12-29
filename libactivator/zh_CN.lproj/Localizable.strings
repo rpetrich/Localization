@@ -371,6 +371,12 @@
 	"EVENT_TITLE_libactivator.volume.up.hold.short" = "按住上键";
 	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "按住上音量按钮";
 
+	"EVENT_TITLE_libactivator.volume.down.press.with-menu" = "与下音量按钮一起按";
+	"EVENT_DESCRIPTION_libactivator.volume.down.press.with-menu" = "同时按下两个按钮";
+
+	"EVENT_TITLE_libactivator.volume.up.press.with-menu" = "与上音量按钮一起按";
+	"EVENT_DESCRIPTION_libactivator.volume.up.press.with-menu" = "同时按下两个按钮";
+
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "拨动两下响铃/静音开关";
 	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "拨动一下响铃/静音开关然后还原";
 
@@ -770,6 +776,18 @@
 	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% 音量";
 	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "设置音量到最大值的 %@%%";
 
+	"SET_MEDIA_VOLUME_TO_FORMAT" = "设置媒体音量到 %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume.media" = "设置媒体音量";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.media" = "应用指定的媒体音量";
+	"LISTENER_TITLE_libactivator.audio.volume.media_FORMAT" = "%@%% 媒体音量";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume.media_FORMAT" = "设置媒体音量到最大值的 %@%%";
+
+	"SET_RINGER_VOLUME_TO_FORMAT" = "设置响铃音量到 %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume.ringer" = "设置响铃音量";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.ringer" = "应用指定的响铃音量";
+	"LISTENER_TITLE_libactivator.audio.volume.ringer_FORMAT" = "%@%% 响铃音量";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume.ringer_FORMAT" = "设置响铃音量到最大值的 %@%%";
+	
 	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "朗读";
 	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "让设备朗读自定义文本";
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "朗读“%@”";
