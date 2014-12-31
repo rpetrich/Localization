@@ -184,7 +184,7 @@
 	"EVENT_GROUP_TITLE_Switches (Activate)" = "Interruttori (Attiva)";
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Interruttori (Disattiva)";
 	"EVENT_GROUP_TITLE_Network Status" = "Stato rete";
-	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Impronte digitali";
+	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Impronte digitali (Touch ID)";
 	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Dispositivi Bluetooth";
 	"EVENT_GROUP_TITLE_Battery Level" = "Livello batteria";
@@ -197,8 +197,8 @@
 	"EVENT_TITLE_libactivator.lock.press.double" = "Pressione doppia";
 	"EVENT_DESCRIPTION_libactivator.lock.press.double" = "Premere due volte il pulsante power";
 
-	"EVENT_TITLE_libactivator.lock.press.with-menu" = "Pressione combinata (home)";
-	"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "Premere power ed home insieme";
+	"EVENT_TITLE_libactivator.lock.press.with-menu" = "Combinazione (power + home)";
+	"EVENT_DESCRIPTION_libactivator.lock.press.with-menu" = "Premere power e home insieme";
 
 	"EVENT_TITLE_libactivator.lock.hold.long" = "Pressione lunga";
 	"EVENT_DESCRIPTION_libactivator.lock.hold.long" = "Tenere premuto a lungo il pulsante power";
@@ -221,7 +221,7 @@
 	"EVENT_TITLE_libactivator.menu.press.triple" = "Pressione tripla";
 	"EVENT_DESCRIPTION_libactivator.menu.press.triple" = "Premere tre volte il pulsante home";
 
-	"EVENT_TITLE_libactivator.motion.shake" = "Scuoti";
+	"EVENT_TITLE_libactivator.motion.shake" = "Scuotimento";
 	"EVENT_DESCRIPTION_libactivator.motion.shake" = "Scuotere il dispositivo";
 
 	"EVENT_TITLE_libactivator.statusbar.swipe.down" = "Bordo superiore";
@@ -347,23 +347,23 @@
 	"EVENT_TITLE_libactivator.statusbar.tap.double" = "Pressione doppia";
 	"EVENT_DESCRIPTION_libactivator.statusbar.tap.double" = "Premere due volte sulla barra di stato";
 
-	"EVENT_TITLE_libactivator.volume.display-tap" = "Pressione visiva";
+	"EVENT_TITLE_libactivator.volume.display-tap" = "Pressione visiva (popup)";
 	"EVENT_DESCRIPTION_libactivator.volume.display-tap" = "Premere sul popup visivo del volume";
 
-	"EVENT_TITLE_libactivator.volume.down-up" = "Giù, sù";
+	"EVENT_TITLE_libactivator.volume.down-up" = "Combinazione (giù poi sù)";
 	"EVENT_DESCRIPTION_libactivator.volume.down-up" = "Premere volume giù, poi volume sù";
 
-	"EVENT_TITLE_libactivator.volume.up-down" = "Sù, giù";
+	"EVENT_TITLE_libactivator.volume.up-down" = "Combinazione (sù poi giù)";
 	"EVENT_DESCRIPTION_libactivator.volume.up-down" = "Premere volume sù, poi volume giù";
 
-	"EVENT_TITLE_libactivator.volume.down.press" = "Giù";
+	"EVENT_TITLE_libactivator.volume.down.press" = "Pressione singola (giù)";
 	"EVENT_DESCRIPTION_libactivator.volume.down.press" = "Premere volume giù";
 
-	"EVENT_TITLE_libactivator.volume.up.press" = "Sù";
+	"EVENT_TITLE_libactivator.volume.up.press" = "Pressione singola (sù)";
 	"EVENT_DESCRIPTION_libactivator.volume.up.press" = "Premere volume sù";
 
-	"EVENT_TITLE_libactivator.volume.both.press" = "Pressione simultanea";
-	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Premere entrambi i pulsanti volume";
+	"EVENT_TITLE_libactivator.volume.both.press" = "Combinazione (sù + giù)";
+	"EVENT_DESCRIPTION_libactivator.volume.both.press" = "Premere volume sù e giù insieme";
 
 	"EVENT_TITLE_libactivator.volume.down.hold.short" = "Pressione breve (giù)";
 	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "Tenere premuto volume giù";
@@ -371,20 +371,20 @@
 	"EVENT_TITLE_libactivator.volume.up.hold.short" = "Pressione breve (sù)";
 	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Tenere premuto volume sù";
 
-	"EVENT_TITLE_libactivator.volume.down.press.with-menu" = "Pressione combinata (vol. giù)";
+	"EVENT_TITLE_libactivator.volume.down.press.with-menu" = "Combinazione (power + giù)";
 	"EVENT_DESCRIPTION_libactivator.volume.down.press.with-menu" = "Premere power e volume giù insieme";
 
-	"EVENT_TITLE_libactivator.volume.up.press.with-menu" = "Pressione combinata (vol. sù)";
+	"EVENT_TITLE_libactivator.volume.up.press.with-menu" = "Combinazione (power + sù)";
 	"EVENT_DESCRIPTION_libactivator.volume.up.press.with-menu" = "Premere power e volume sù insieme";
 
-	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Alterna muto";
-	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Alternare l'interruttore muto 2 volte";
+	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Alternazione (interruttore)";
+	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Alternare l'interruttore suoneria due volte";
 
-	"EVENT_TITLE_libactivator.volume.mute" = "Muto";
-	"EVENT_DESCRIPTION_libactivator.volume.mute" = "Attivare il muto tramite l'interruttore";
+	"EVENT_TITLE_libactivator.volume.mute" = "Disattivazione (interruttore)";
+	"EVENT_DESCRIPTION_libactivator.volume.mute" = "Disattivare la suoneria tramite l'interruttore";
 
-	"EVENT_TITLE_libactivator.volume.unmute" = "Non muto";
-	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "Disattivare il muto tramite l'interruttore";
+	"EVENT_TITLE_libactivator.volume.unmute" = "Attivazione (interruttore)";
+	"EVENT_DESCRIPTION_libactivator.volume.unmute" = "Attivare la suoneria tramite l'interruttore";
 
 	"EVENT_TITLE_libactivator.headset-button.press.single" = "Pressione singola";
 	"EVENT_DESCRIPTION_libactivator.headset-button.press.single" = "Premere il pulsante auricolare";
@@ -392,11 +392,11 @@
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "Pressione breve";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "Tenere premuto il pulsante auricolare";
 
-	"EVENT_TITLE_libactivator.headset.connected" = "Connesso";
-	"EVENT_DESCRIPTION_libactivator.headset.connected" = "Auricolare collegato al dispositivo";
+	"EVENT_TITLE_libactivator.headset.connected" = "Connessione";
+	"EVENT_DESCRIPTION_libactivator.headset.connected" = "Auricolari collegati al dispositivo";
 
-	"EVENT_TITLE_libactivator.headset.disconnected" = "Disconnesso";
-	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "Auricolare scollegato dal dispositivo";
+	"EVENT_TITLE_libactivator.headset.disconnected" = "Disconnessione";
+	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "Auricolari scollegati dal dispositivo";
 
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "Pressione doppia";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "Premere due volte sulla zona ora/data";
@@ -413,11 +413,11 @@
 	"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "Pressione breve";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "Tenere premuto sulla zona ora/data";
 
-	"EVENT_TITLE_libactivator.power.connected" = "Connesso";
-	"EVENT_DESCRIPTION_libactivator.power.connected" = "All'inizio della ricezione di alimentazione";
+	"EVENT_TITLE_libactivator.power.connected" = "Connessione";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "Alimentazione collegata al dispositivo";
 
-	"EVENT_TITLE_libactivator.power.disconnected" = "Disconnesso";
-	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Al termine della ricezione di alimentazione";
+	"EVENT_TITLE_libactivator.power.disconnected" = "Disconnessione";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "Alimentazione scollegata dal dispositivo";
 
 	"EVENT_TITLE_libactivator.five-finger.pinch" = "Compressione (5 dita)";
 	"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "Comprimere lo schermo con 5 dita";
