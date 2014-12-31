@@ -977,10 +977,10 @@
 	"ASSIGNMENTS_DETAIL" = "Visualizza tutte le assegnazioni eventi";
 
 	"BACKUP_ASSIGNMENTS" = "Salva assegnazioni";
-	"BACKUP_ASSIGNMENTS_DETAIL" = "Esporta eventi e assegnazioni";
+	"BACKUP_ASSIGNMENTS_DETAIL" = "Esporta eventi ed assegnazioni impostate";
 
 	"RESTORE_ASSIGNMENTS" = "Ripristina assegnazioni";
-	"RESTORE_ASSIGNMENTS_DETAIL" = "Ripristina assegnazioni esportate";
+	"RESTORE_ASSIGNMENTS_DETAIL" = "Ripristina eventi ed assegnazioni esportate";
 
 	"RESTORE_ALERT_TITLE" = "Ripristina impostazioni";
 	"RESTORE_ALERT_MESSAGE" = "Sei sicuro di voler ripristinare le impostazioni della copia esportata?\nSe continui il dispositivo effettuerà un respring.";
