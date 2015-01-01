@@ -154,6 +154,14 @@
 	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "%@ and %@ may be assigned simultaneously.";
 	"MULTIPLE_ASSIGNMENTS_TITLE" = "Multiple Assignments";
 
+	/* Incompatible Assignment */
+
+	"INCOMPATIBLE_ASSIGNMENT" = "Incompatible Assignment";
+	"INCOMPATIBLE_WARNING_BOTH_PLURAL" = "%@ isn't compatible with %@ and %@.\nIt will be assigned to only %@ and %@.";
+	"INCOMPATIBLE_WARNING_COMPATIBLE_PLURAL" = "%@ isn't compatible with %@.\nIt will be assigned to only %@ and %@.";
+	"INCOMPATIBLE_WARNING_INCOMPATIBLE_PLURAL" = "%@ isn't compatible with %@ and %@.\nIt will be assigned to only %@.";
+	"INCOMPATIBLE_WARNING_NEITHER_PLURAL" = "%@ isn't compatible with %@.\nIt will be assigned to only %@.";
+
 	/* Event Groups */
 
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "Slide In Gesture";
@@ -479,6 +487,9 @@
 	"EVENT_TITLE_libactivator.fingerprint-sensor.hold" = "Short Hold";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold" = "Touch and hold on fingerprint sensor";
 
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Single Press and Slide Up";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Touch fingerprint sensor and swipe onto screen";
+
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Drag left to right";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Drag along screen edge from left to right";
 
@@ -691,6 +702,9 @@
 	"LISTENER_TITLE_libactivator.system.activate-reachability" = "Activate Reachability";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "Bring iOS in for a hug!";
 
+	"LISTENER_TITLE_libactivator.system.vibrate" = "Vibrate";
+	"LISTENER_DESCRIPTION_libactivator.system.vibrate" = "Triggers device vibration";
+
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Compose Tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Launch modal tweet composer";
 
@@ -900,7 +914,7 @@
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Say \"%@\"";
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "Have device speak custom text";
 	"TEXT" = "Text";
-	
+
 	"SET_BRIGHTNESS_TO_FORMAT" = "Set brightness to %@%%";
 	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "Set Brightness";
 	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Apply specific screen brightness";
@@ -992,11 +1006,11 @@
 
 	"FAILED_TO_OPEN_SETTINGS_FILE" = "Failed to open settings file for writing";
 	"FAILED_TO_WRITE_SETTINGS_FILE" = "Failed to write to settings file: ";
-	
+
 	"PROFILES" = "Profiles";
 	"PROFILES_DETAIL" = "Setup custom assignment profiles";
 	"ADD_NEW_PROFILE" = "Add New Profile";
 	"NEW_PROFILE" = "New Profile";
 	"PROFILE_NAME" = "Profile Name";
-	"LISTENER_TITLE_libactivator.profile.Default" = "Default";	
+	"LISTENER_TITLE_libactivator.profile.Default" = "Default";
 }

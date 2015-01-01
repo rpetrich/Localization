@@ -154,6 +154,14 @@
 	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "可同时分配 %@ 和 %@。";
 	"MULTIPLE_ASSIGNMENTS_TITLE" = "多重分配";
 
+	/* Incompatible Assignment */
+
+	"INCOMPATIBLE_ASSIGNMENT" = "不兼容的分配";
+	"INCOMPATIBLE_WARNING_BOTH_PLURAL" = "%@ 与“%@”和“%@”不兼容。\n该动作只能分配到“%@”和“%@”。";
+	"INCOMPATIBLE_WARNING_COMPATIBLE_PLURAL" = "%@ 与“%@”不兼容。\n该动作只能分配到“%@”和“%@”。";
+	"INCOMPATIBLE_WARNING_INCOMPATIBLE_PLURAL" = "%@ 与“%@”和“%@”不兼容。\n该动作只能分配到“%@”。";
+	"INCOMPATIBLE_WARNING_NEITHER_PLURAL" = "%@ 与“%@”不兼容。\n该动作只能分配到“%@”。";
+
 	/* Event Groups */
 
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "单指滑入手势";
@@ -184,7 +192,7 @@
 	"EVENT_GROUP_TITLE_Switches (Activate)" = "开关（启用）";
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "开关（禁用）";
 	"EVENT_GROUP_TITLE_Network Status" = "网络状态";
-	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "指纹识别传感器";
+	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Touch ID 指纹识别传感器";
 	"EVENT_GROUP_TITLE_VideoPane" = "视频面板";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "蓝牙设备";
 	"EVENT_GROUP_TITLE_Battery Level" = "电池电量";
@@ -479,6 +487,9 @@
 	"EVENT_TITLE_libactivator.fingerprint-sensor.hold" = "按住";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold" = "按住指纹识别传感器";
 
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-slide-in" = "按一下后向上滑动";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-slide-in" = "按一下指纹识别传感器后向屏幕滑动";
+
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "从左向右拖动";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "在屏幕底部边缘从左向右拖动";
 
@@ -692,6 +703,9 @@
 	"LISTENER_TITLE_libactivator.system.activate-reachability" = "激活便捷访问";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "屏幕内容下沉";
 
+	"LISTENER_TITLE_libactivator.system.vibrate" = "振动";
+	"LISTENER_DESCRIPTION_libactivator.system.vibrate" = "让设备振动一下";
+
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "编写推文";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "启动推文编辑器";
 
@@ -787,7 +801,7 @@
 	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.ringer" = "应用指定的响铃音量";
 	"LISTENER_TITLE_libactivator.audio.volume.ringer_FORMAT" = "%@%% 响铃音量";
 	"LISTENER_DESCRIPTION_libactivator.audio.volume.ringer_FORMAT" = "设置响铃音量到最大值的 %@%%";
-	
+
 	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "朗读";
 	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "让设备朗读自定义文本";
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "朗读“%@”";
