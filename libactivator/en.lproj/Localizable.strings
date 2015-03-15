@@ -588,7 +588,7 @@
 	"NEW_EVENT_TITLE_libactivator.network.bluetooth-disconnect_FORMAT" = "Disconnected from %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "Disconnected from specific Bluetooth device";
 
-	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Recieve \"%@\" fingerprint match";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "Receive \"%@\" fingerprint match";
 
 	"NEW_EVENT_TITLE_libactivator.power.drain-past" = "Battery Drains";
 	"NEW_EVENT_TITLE_libactivator.power.drain-past_FORMAT" = "Battery Drains Past %@%%";
