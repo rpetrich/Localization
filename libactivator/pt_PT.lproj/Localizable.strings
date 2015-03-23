@@ -1025,5 +1025,5 @@
 	"ADD_NEW_PROFILE" = "Adicionar novo perfil";
 	"NEW_PROFILE" = "Novo perfil";
 	"PROFILE_NAME" = "Nome do perfil";
-	"LISTENER_TITLE_libactivator.profile.Default" = "Default";	
+	"LISTENER_TITLE_libactivator.profile.Default" = "Predefinido";	
 }
