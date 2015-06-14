@@ -196,6 +196,7 @@
 	"EVENT_GROUP_TITLE_VideoPane" = "視訊面板";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "藍牙装置";
 	"EVENT_GROUP_TITLE_Battery Level" = "電池電量";
+	"EVENT_GROUP_TITLE_Riker" = "Riker";
 
 	/* Events */
 
@@ -511,6 +512,15 @@
 	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "按兩下面板";
 	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "按兩下活動的視訊面板";
 
+	"EVENT_TITLE_com.rpetrich.riker.center" = "中間按鈕";
+	"EVENT_DESCRIPTION_com.rpetrich.riker.center" = "按下 Riker 手勢區域的中間按鈕";
+
+	"EVENT_TITLE_com.rpetrich.riker.left" = "左側按鈕";
+	"EVENT_DESCRIPTION_com.rpetrich.riker.left" = "按下 Riker 手勢區域的左側按鈕";
+
+	"EVENT_TITLE_com.rpetrich.riker.right" = "右側按鈕";
+	"EVENT_DESCRIPTION_com.rpetrich.riker.right" = "按下 Riker 手勢區域的右側按鈕";
+
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "啟動應用程式";
@@ -687,6 +697,9 @@
 
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "啟動多工列";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "顯示多工列（應用程式切換器）";
+
+	"LISTENER_TITLE_libactivator.system.back" = "返回";
+	"LISTENER_DESCRIPTION_libactivator.system.back" = "返回上一個頁面";
 
 	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "顯示正在播放列";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "顯示標準音樂/影片控制";

@@ -1,0 +1,38 @@
+{
+	"OK" = "OK";
+	"Cancel" = "Cancel";
+
+	"Close All Apps?" = "Close All Apps?";
+	"Close All" = "Close All";
+
+	"App Switcher" = "App Switcher";
+	"Pagination" = "Pagination";
+	"Swipe Up:" = "Swipe Up:";
+	"Swipe Down:" = "Swipe Down:";
+	"Preview/Open App" = "Preview/Open App";
+	"Close App" = "Close App";
+	"Close All Apps" = "Close All Apps";
+	"Tap & Hold to Close All" = "Tap & Hold to Close All";
+	"Show Active App" = "Show Active App";
+
+	"Auxiliary Pages" = "Auxiliary Pages";
+	"Playback" = "Playback";
+	"Tap track title to alternate between controls" = "Tap track title to alternate between controls";
+	"Volume Slider" = "Volume Slider";
+	"Track Scrubber" = "Track Scrubber";
+	"Settings" = "Settings";
+	"Swipe up on toggles to access more" = "Swipe up on toggles to access more";
+	"AirPlay / AirDrop" = "AirPlay / AirDrop";
+	"Double Row Toggles" = "Double Row Toggles";
+	"Swap Auxiliary Page Order" = "Swap Auxiliary Page Order";
+	"Puts Settings page left of the Playback page." = "Puts Settings page left of the Playback page.";
+
+	"Advanced Options" = "Advanced Options";
+	"Open To:" = "Open To:";
+	"Visible Pages" = "Visible Pages";
+	"Last Opened Page" = "Last Opened Page";
+	"Playback Page" = "Playback Page";
+	"Settings Page" = "Settings Page";
+	"If Playing, Open to Playback" = "If Playing, Open to Playback";
+	"If Not Playing, Hide Playback" = "If Not Playing, Hide Playback";
+}

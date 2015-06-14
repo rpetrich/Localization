@@ -49,7 +49,7 @@
 	"Advertisement" = "Advertisement";
 
 	"SAFE_MODE_TITLE" = "In Safe Mode";
-	"SAFE_MODE_MESSAGE" = "Your device is currently running in Safe Mode. Most features of Activator are disabled while the device is in safe mode. Restart SpringBoard to return to the normal mode.";
+	"SAFE_MODE_MESSAGE" = "Your device is currently running in Safe Mode. Most features of Activator are disabled whilst the device is in safe mode. Restart SpringBoard to return to the normal mode.";
 	"SAFE_MODE_CANCEL" = "Cancel";
 	"SAFE_MODE_RESTART" = "Restart";
 	"SAFE_MODE_RESET_SETTINGS" = "Reset Settings";
@@ -193,7 +193,6 @@
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
 	"EVENT_GROUP_TITLE_Network Status" = "Network Status";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Touch ID Fingerprint Sensor";
-	"EVENT_GROUP_TITLE_Fingerprint Matches" = "Touch ID Fingerprint Matches";
 	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Bluetooth Devices";
 	"EVENT_GROUP_TITLE_Battery Level" = "Battery Level";
@@ -513,8 +512,8 @@
 	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "Double Tap Pane";
 	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "Double-tap on active VideoPane";
 
-	"EVENT_TITLE_com.rpetrich.riker.center" = "Center Button";
-	"EVENT_DESCRIPTION_com.rpetrich.riker.center" = "Press center button on Riker gesture area";
+	"EVENT_TITLE_com.rpetrich.riker.center" = "Centre Button";
+	"EVENT_DESCRIPTION_com.rpetrich.riker.center" = "Press centre button on Riker gesture area";
 
 	"EVENT_TITLE_com.rpetrich.riker.left" = "Left Button";
 	"EVENT_DESCRIPTION_com.rpetrich.riker.left" = "Press left button on Riker gesture area";
@@ -692,8 +691,8 @@
 	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "Siri";
 	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Activate virtual assistant";
 
-	"LISTENER_TITLE_libactivator.system.activate-control-center" = "Activate Control Center";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Show settings control center";
+	"LISTENER_TITLE_libactivator.system.activate-control-center" = "Activate Control Centre";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Show settings control centre";
 
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Activate Switcher";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Show application switcher";
@@ -710,8 +709,8 @@
 	"LISTENER_TITLE_libactivator.system.first-springboard-page" = "First SpringBoard Page";
 	"LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Jump to first page of icons";
 
-	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Activate Notification Center";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Pull down notification center";
+	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Activate Notification Centre";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Pull down notification centre";
 
 	"LISTENER_TITLE_libactivator.system.activate-reachability" = "Activate Reachability";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "Bring iOS in for a hug!";
@@ -773,8 +772,8 @@
 	"LISTENER_TITLE_libactivator.phone.contacts" = "Show Contacts";
 	"LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Launch Phone to the Contacts tab";
 
-	"LISTENER_TITLE_libactivator.phone.favorites" = "Show Favorites";
-	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "Launch Phone to the Favorites tab";
+	"LISTENER_TITLE_libactivator.phone.favorites" = "Show Favourites";
+	"LISTENER_DESCRIPTION_libactivator.phone.favorites" = "Launch Phone to the Favourites tab";
 
 	"LISTENER_TITLE_libactivator.phone.keypad" = "Show Keypad";
 	"LISTENER_DESCRIPTION_libactivator.phone.keypad" = "Launch Phone to the Keypad tab";
@@ -809,8 +808,8 @@
 	"LISTENER_TITLE_libactivator.settings.date-time" = "Date & Time";
 	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Open Settings to Date & Time";
 
-	"LISTENER_TITLE_libactivator.settings.equalizer" = "Equalizer";
-	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "Open Settings to Equalizer";
+	"LISTENER_TITLE_libactivator.settings.equalizer" = "Equaliser";
+	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "Open Settings to Equaliser";
 
 	"LISTENER_TITLE_libactivator.settings.facebook" = "Facebook";
 	"LISTENER_DESCRIPTION_libactivator.settings.facebook" = "Open Settings to Facebook";
@@ -923,7 +922,7 @@
 	"LISTENER_TITLE_libactivator.audio.volume.ringer_FORMAT" = "%@%% Ringer Volume";
 	"LISTENER_DESCRIPTION_libactivator.audio.volume.ringer_FORMAT" = "Set ringer volume to %@%% of maximum";
 
-	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "Synthesize Speech";
+	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "Synthesise Speech";
 	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "Have device speak custom text";
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Say \"%@\"";
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "Have device speak custom text";
@@ -999,7 +998,7 @@
 	"LISTENER_TITLE_com.rpetrich.smartclose" = "SmartClose";
 	"LISTENER_DESCRIPTION_com.rpetrich.smartclose" = "Close background apps, the smart way";
 
-	"IN_CYDIA_WARNING" = "It is potentially dangerous to perform actions while Cydia is installing software.";
+	"IN_CYDIA_WARNING" = "It is potentially dangerous to perform actions whilst Cydia is installing software.";
 
 	"ASSIGNMENTS" = "Assignments";
 	"ASSIGNMENTS_DETAIL" = "Overview all event assignments";

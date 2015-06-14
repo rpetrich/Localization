@@ -154,6 +154,14 @@
 	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "%@ e %@ possono essere assegnati simultaneamente.";
 	"MULTIPLE_ASSIGNMENTS_TITLE" = "Assegnazioni multiple";
 
+	/* Incompatible Assignment */
+
+	"INCOMPATIBLE_ASSIGNMENT" = "Assegnazione incompatibile";
+	"INCOMPATIBLE_WARNING_BOTH_PLURAL" = "%@ non è compatibile con %@ e %@.\nSarà assegnato soltanto a %@ e %@.";
+	"INCOMPATIBLE_WARNING_COMPATIBLE_PLURAL" = "%@ non è compatibile con %@.\nSarà assegnato soltanto a %@ e %@.";
+	"INCOMPATIBLE_WARNING_INCOMPATIBLE_PLURAL" = "%@ non è compatibile con %@ e %@.\nSarà assegnato soltanto a %@.";
+	"INCOMPATIBLE_WARNING_NEITHER_PLURAL" = "%@ non è compatibile con %@.\nSarà assegnato soltanto a %@.";
+
 	/* Event Groups */
 
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "Gesti scorrimento (verso interno)";
@@ -188,6 +196,7 @@
 	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Dispositivi Bluetooth";
 	"EVENT_GROUP_TITLE_Battery Level" = "Livello batteria";
+	"EVENT_GROUP_TITLE_Riker" = "Riker";
 
 	/* Events */
 
@@ -479,6 +488,9 @@
 	"EVENT_TITLE_libactivator.fingerprint-sensor.hold" = "Sfioramento breve";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold" = "Tenere sfiorato il sensore impronte digitali";
 
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Sfioramento singolo (scorri sù)";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Sfiorare il sensore e scorrere verso l'alto";
+
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Da sinistra verso destra";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Scorrere i bordi da sinistra verso destra";
 
@@ -499,6 +511,15 @@
 
 	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "Pressione doppia";
 	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "Premere due volte sul VideoPane attivo";
+
+	"EVENT_TITLE_com.rpetrich.riker.center" = "Pulsante centrale";
+	"EVENT_DESCRIPTION_com.rpetrich.riker.center" = "Premere il pulsante al centro nell'area di Riker";
+
+	"EVENT_TITLE_com.rpetrich.riker.left" = "Pulsante sinistro";
+	"EVENT_DESCRIPTION_com.rpetrich.riker.left" = "Premere il pulsante a sinistra nell'area di Riker";
+
+	"EVENT_TITLE_com.rpetrich.riker.right" = "Pulsante destro";
+	"EVENT_DESCRIPTION_com.rpetrich.riker.right" = "Premere il pulsante a destra nell'area di Riker";
 
 	/* Custom Events */
 
@@ -676,6 +697,9 @@
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Selettore applicazioni";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Mostra il selettore applicazioni";
 
+	"LISTENER_TITLE_libactivator.system.back" = "Indietro";
+	"LISTENER_DESCRIPTION_libactivator.system.back" = "Torna indietro di una schermata";
+
 	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Mostra barra esecuzione";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Mostra i controlli multimediali";
 
@@ -690,6 +714,9 @@
 
 	"LISTENER_TITLE_libactivator.system.activate-reachability" = "Accesso facilitato";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "Permette l'uso con una mano";
+
+	"LISTENER_TITLE_libactivator.system.vibrate" = "Vibra";
+	"LISTENER_DESCRIPTION_libactivator.system.vibrate" = "Attiva la vibrazione";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Componi tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Avvia il compositore tweet";
@@ -900,7 +927,7 @@
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Leggi \"%@\"";
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "Sintesi vocale del testo personalizzato";
 	"TEXT" = "Testo";
-	
+
 	"SET_BRIGHTNESS_TO_FORMAT" = "Imposta la luminosità al %@%%";
 	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "Luminosità schermo";
 	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Imposta la luminosità ad un valore specifico";
@@ -992,11 +1019,11 @@
 
 	"FAILED_TO_OPEN_SETTINGS_FILE" = "Apertura file impostazioni, per scrittura, fallita";
 	"FAILED_TO_WRITE_SETTINGS_FILE" = "Scrittura file impostazioni fallita: ";
-	
+
 	"PROFILES" = "Profili";
 	"PROFILES_DETAIL" = "Gestisci i profili assegnazioni personalizzati";
 	"ADD_NEW_PROFILE" = "Aggiungi un nuovo profilo";
 	"NEW_PROFILE" = "Nuovo profilo";
 	"PROFILE_NAME" = "Nome profilo";
-	"LISTENER_TITLE_libactivator.profile.Default" = "Predefinito";	
+	"LISTENER_TITLE_libactivator.profile.Default" = "Predefinito";
 }
