@@ -193,6 +193,7 @@
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Desactivar)";
 	"EVENT_GROUP_TITLE_Network Status" = "Estado de rede";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Sensor de impressão digital";
+	"EVENT_GROUP_TITLE_Fingerprint Matches" = "Correspondências de impressão digital";
 	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Dispositivos Bluetooth";
 	"EVENT_GROUP_TITLE_Battery Level" = "Nível de bateria";
