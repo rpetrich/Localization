@@ -109,6 +109,12 @@
 
 	"SHARE_THE_LOVE" = "I'm using @ActivatorApp to add customizable gestures and shortcuts to my %@!";
 
+	"APPLICATION_KEYCHAIN_WARNING" = "If a device passcode is set, apps that secure access to their data using encryption (such as Mail) require the passcode to behave properly.";
+	"APPLICATIONS" = "Applications";
+	"ASK_FOR_PASSCODE" = "Ask For Passcode";
+	"IF_ACTIVATED_WHILE_PASSCODE_LOCKED" = "If activated whilst passcode locked";
+	"OPEN_APP_IMMEDIATELY" = "Open App Immediately";
+
 	/* Bookmarks */
 
 	"BOOKMARKS" = "Bookmarks";
@@ -193,6 +199,7 @@
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
 	"EVENT_GROUP_TITLE_Network Status" = "Network Status";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Touch ID Fingerprint Sensor";
+	"EVENT_GROUP_TITLE_Fingerprint Matches" = "Touch ID Fingerprint Matches";
 	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Bluetooth Devices";
 	"EVENT_GROUP_TITLE_Battery Level" = "Battery Level";
@@ -648,6 +655,7 @@
 	"LISTENER_GROUP_TITLE_Screen Brightness" = "Screen Brightness";
 	"LISTENER_GROUP_TITLE_Message Alert" = "Message Alert";
 	"LISTENER_GROUP_TITLE_Ask Siri" = "Ask Siri";
+	"LISTENER_GROUP_TITLE_Run Command" = "Run Command";
 
 	/* Listener Names */
 
@@ -946,6 +954,12 @@
 	"LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "Ask \"%@\"";
 	"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "Have Siri answer a question";
 	"QUESTION" = "Question";
+
+	"NEW_LISTENER_TITLE_libactivator.command.run" = "Run Command";
+	"NEW_LISTENER_DESCRIPTION_libactivator.command.run" = "Run custom shell command";
+	"LISTENER_TITLE_libactivator.command.run_FORMAT" = "Run \"%@\" command";
+	"COMMAND" = "Command";
+	"RUN_COMMAND_WARNING" = "Custom commands can potentially harm your device if used improperly. Proceed with caution.";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";

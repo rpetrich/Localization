@@ -109,6 +109,12 @@
 
 	"SHARE_THE_LOVE" = "我正在我的 %@ 上使用 @ActivatorApp 來添加自訂手勢及捷徑！";
 
+	"APPLICATION_KEYCHAIN_WARNING" = "如果密碼已設定，需要使用加密訪問資料的應用程式（如郵件）需要密碼以正常工作。";
+	"APPLICATIONS" = "應用程式";
+	"ASK_FOR_PASSCODE" = "需要密碼";
+	"IF_ACTIVATED_WHILE_PASSCODE_LOCKED" = "當密碼鎖定時激活";
+	"OPEN_APP_IMMEDIATELY" = "立即打開應用程式";
+
 	/* Bookmarks */
 
 	"BOOKMARKS" = "書籤";
@@ -193,6 +199,7 @@
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "開關（停用）";
 	"EVENT_GROUP_TITLE_Network Status" = "網路狀態";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Touch ID 指紋身分識別感應器";
+	"EVENT_GROUP_TITLE_Fingerprint Matches" = "Touch ID 指紋身分識別感應器匹配";
 	"EVENT_GROUP_TITLE_VideoPane" = "視訊面板";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "藍牙装置";
 	"EVENT_GROUP_TITLE_Battery Level" = "電池電量";
@@ -649,6 +656,7 @@
 	"LISTENER_GROUP_TITLE_Screen Brightness" = "螢幕亮度";
 	"LISTENER_GROUP_TITLE_Message Alert" = "訊息提示";
 	"LISTENER_GROUP_TITLE_Ask Siri" = "向 Siri 提問";
+	"LISTENER_GROUP_TITLE_Run Command" = "執行命令";
 
 	/* Listener Names */
 
@@ -839,6 +847,12 @@
 	"LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "提問“%@”";
 	"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "讓 Siri 回答一個問題";
 	"QUESTION" = "問題";
+
+	"NEW_LISTENER_TITLE_libactivator.command.run" = "執行命令";
+	"NEW_LISTENER_DESCRIPTION_libactivator.command.run" = "執行自訂腳本命令";
+	"LISTENER_TITLE_libactivator.command.run_FORMAT" = "執行『%@』命令";
+	"COMMAND" = "命令";
+	"RUN_COMMAND_WARNING" = "自訂命令如使用錯誤可能會損害您的裝置。使用時請保持警惕。";
 
 	/* Third Party Listerners */
 
