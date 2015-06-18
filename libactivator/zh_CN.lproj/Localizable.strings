@@ -109,7 +109,7 @@
 
 	"SHARE_THE_LOVE" = "我正在我的 %@ 上使用 @ActivatorApp 来添加自定义手势和快捷方式！";
 
-	"APPLICATION_KEYCHAIN_WARNING" = "如果密码已设置，需要使用加密访问数据的应用程序（如邮件）需要密码以正常工作。";
+	"APPLICATION_KEYCHAIN_WARNING" = "如果已启用密码锁定，使用加密安全访问数据的应用程序（如邮件）需要密码以正常工作。";
 	"APPLICATIONS" = "应用程序";
 	"ASK_FOR_PASSCODE" = "需要密码";
 	"IF_ACTIVATED_WHILE_PASSCODE_LOCKED" = "当密码锁定时激活";
@@ -852,7 +852,7 @@
 	"NEW_LISTENER_DESCRIPTION_libactivator.command.run" = "执行自定义脚本命令";
 	"LISTENER_TITLE_libactivator.command.run_FORMAT" = "执行“%@”命令";
 	"COMMAND" = "命令";
-	"RUN_COMMAND_WARNING" = "自定义命令如使用错误可能会损害您的设备。使用时请保持警惕。";
+	"RUN_COMMAND_WARNING" = "不正确地使用自定义命令可能会损害您的设备，使用时请务必保持警惕。";
 
 	/* Third Party Listerners */
 
