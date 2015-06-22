@@ -109,6 +109,12 @@
 
 	"SHARE_THE_LOVE" = "Estou a usar @ActivatorApp para adicionar gestos e atalhos personalizados ao meu %@!";
 
+	"APPLICATION_KEYCHAIN_WARNING" = "Se estiver definido um código, as aplicações que protegem os seus dados com encriptação (como o Correio) precisam do código para funcionarem correctamente.";
+	"APPLICATIONS" = "Aplicações";
+	"ASK_FOR_PASSCODE" = "Pedir código";
+	"IF_ACTIVATED_WHILE_PASSCODE_LOCKED" = "Se for activada enquando bloqueado por código";
+	"OPEN_APP_IMMEDIATELY" = "Abrir app imediatamente";
+
 	/* Bookmarks */
 
 	"BOOKMARKS" = "Marcadores";
@@ -649,6 +655,7 @@
 	"LISTENER_GROUP_TITLE_Screen Brightness" = "Brilho do ecrã";
 	"LISTENER_GROUP_TITLE_Message Alert" = "Messagem de alerta";
 	"LISTENER_GROUP_TITLE_Ask Siri" = "Pergunte à Siri";
+	"LISTENER_GROUP_TITLE_Run Command" = "Executar comando";
 
 	/* Listener Names */
 
@@ -947,6 +954,12 @@
 	"LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "Perguntar \"%@\"";
 	"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "Faz a Siri responder a uma pergunta";
 	"QUESTION" = "Pergunta";
+
+	"NEW_LISTENER_TITLE_libactivator.command.run" = "Executar comando";
+	"NEW_LISTENER_DESCRIPTION_libactivator.command.run" = "Executa um comando personalizado no terminal";
+	"LISTENER_TITLE_libactivator.command.run_FORMAT" = "Executar comando \"%@\"";
+	"COMMAND" = "Comando";
+	"RUN_COMMAND_WARNING" = "Comandos personalizados podem potencialmente danificar o seu dispositivo se utilizados de modo impróprio. Continue com cuidado.";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
