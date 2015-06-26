@@ -20,9 +20,9 @@
 	"DONATE_DETAIL" = "Contribuir via PayPal";
 	"N_ADDITIONAL_EVENTS" = "%i eventos adicionais";
 	"RESET_SETTINGS" = "Repor definições";
-	"RESET_SETTINGS_DETAIL" = "Repor todas as definições para os valores por omissão";
+	"RESET_SETTINGS_DETAIL" = "Repor todas as definições para os valores originais";
 	"RESET_ALERT_TITLE" = "Repor definições do Activator";
-	"RESET_ALERT_MESSAGE" = "Tem a certeza que quer repor as definições do Activator para os valores de origem?\nO seu dispositivo reiniciará o SpringBoard se continuar.";
+	"RESET_ALERT_MESSAGE" = "Tem a certeza que deseja repor as definições do Activator para os valores originais?\nSe continuar, o SpringBoard do seu dispositivo será reiniciado.";
 	"RESET_ALERT_CANCEL" = "Cancelar";
 	"RESET_ALERT_CONTINUE" = "Repor";
 	"MULTIPLE_ASSIGNMENTS" = "(múltiplos)";
@@ -37,7 +37,7 @@
 	"OUT_OF_DATE_MESSAGE" = "O Activator funciona melhor em versões recentes do iOS.\nPor favor considere actualizar.";
 
 	"TOO_NEW_TITLE" = "Versão do sistema demasiado recente";
-	"TOO_NEW_MESSAGE" = "O Activator não foi testado com esta versão do iOS.\nAlguns recursos poderão não funcionar como esperado.";
+	"TOO_NEW_MESSAGE" = "O Activator não foi testado nesta versão do iOS.\nAlguns recursos poderão não funcionar como esperado.";
 
 	"VERSION_PROMPT_MORE_INFO" = "Mais informações";
 	"VERSION_PROMPT_IGNORE" = "Ignorar";
@@ -154,6 +154,14 @@
 	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "%@ e %@ podem ser atribuídos simultaneamente.";
 	"MULTIPLE_ASSIGNMENTS_TITLE" = "Atribuições múltiplas";
 
+	/* Incompatible Assignment */
+
+	"INCOMPATIBLE_ASSIGNMENT" = "Atribuições incompatíveis";
+	"INCOMPATIBLE_WARNING_BOTH_PLURAL" = "%@ não é compatível com %@ e %@.\nSerá atribuído apenas a %@ e %@.";
+	"INCOMPATIBLE_WARNING_COMPATIBLE_PLURAL" = "%@ não é compatível com %@.\nSerá atribuído apenas a %@ e %@.";
+	"INCOMPATIBLE_WARNING_INCOMPATIBLE_PLURAL" = "%@ não é compatível com %@ e %@.\nSerá atribuído apenas a %@.";
+	"INCOMPATIBLE_WARNING_NEITHER_PLURAL" = "%@ não é compatível com %@.\nSerá atribuído apenas a %@.";
+
 	/* Event Groups */
 
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "Deslizar para dentro";
@@ -188,6 +196,7 @@
 	"EVENT_GROUP_TITLE_VideoPane" = "VideoPane";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Dispositivos Bluetooth";
 	"EVENT_GROUP_TITLE_Battery Level" = "Nível de bateria";
+	"EVENT_GROUP_TITLE_Riker" = "Riker";
 
 	/* Events */
 
@@ -371,6 +380,12 @@
 	"EVENT_TITLE_libactivator.volume.up.hold.short" = "Segurar brevemente aumentar";
 	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Pressione e segure brevemente o botão aumentar";
 
+	"EVENT_TITLE_libactivator.volume.down.press.with-menu" = "Pressionar com diminuir volume";
+	"EVENT_DESCRIPTION_libactivator.volume.down.press.with-menu" = "Pressione os dois botões simultâneamente";
+
+	"EVENT_TITLE_libactivator.volume.up.press.with-menu" = "Pressionar com aumentar volume";
+	"EVENT_DESCRIPTION_libactivator.volume.up.press.with-menu" = "Pressione os dois botões simultâneamente";
+
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Alternar silêncio duas vezes";
 	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Mude a posição do interruptor do tocar/silêncio e volte à posição anterior";
 
@@ -473,6 +488,9 @@
 	"EVENT_TITLE_libactivator.fingerprint-sensor.hold" = "Segurar";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold" = "Pressione e segure o sensor de impressão digital";
 
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Pressionar uma vez e deslizar para cima";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Pressione uma vez o sensor de impressão digital e deslize para o ecrã ";
+
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Deslizar da esquerda para a direita";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Deslize da esquerda para a direita ao longo do bordo do ecrã";
 
@@ -493,6 +511,15 @@
 
 	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "Tocar duas vezes no painel";
 	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "Toque duas vezes no painel activo do VideoPane";
+
+	"EVENT_TITLE_com.rpetrich.riker.center" = "Botão central";
+	"EVENT_DESCRIPTION_com.rpetrich.riker.center" = "Pressione o botão central na área de gestos do Riker";
+
+	"EVENT_TITLE_com.rpetrich.riker.left" = "Botão esquerdo";
+	"EVENT_DESCRIPTION_com.rpetrich.riker.left" = "Pressione o botão esquerdo na área de gestos do Riker";
+
+	"EVENT_TITLE_com.rpetrich.riker.right" = "Botão direito";
+	"EVENT_DESCRIPTION_com.rpetrich.riker.right" = "Pressione o botão direito na área de gestos do Riker";
 
 	/* Custom Events */
 
@@ -521,19 +548,19 @@
 	"EVENT_TITLE_libactivator.icon.flick.right_FORMAT" = "Puxar %@ para a direita";
 	"EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT" = "Puxe o ícone %@ para a direita";
 
-	"NEW_EVENT_TITLE_libactivator.icon.hold" = "Segurar ícone";
-	"NEW_EVENT_DESCRIPTION_libactivator.icon.hold" = "Ao tocar e segurar um ícone específico";
-	"EVENT_TITLE_libactivator.icon.hold_FORMAT" = "Tocar e segurar %@";
-	"EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT" = "Toque e segure o ícone %@";
+	"NEW_EVENT_TITLE_libactivator.icon.hold" = "Segurar num ícone";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.hold" = "Ao tocar e segurar num ícone específico";
+	"EVENT_TITLE_libactivator.icon.hold_FORMAT" = "Tocar e segurar em %@";
+	"EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT" = "Toque e segure no ícone %@";
 
-	"NEW_EVENT_TITLE_libactivator.icon.tap.double" = "Tocar duas vezes em ícone";
+	"NEW_EVENT_TITLE_libactivator.icon.tap.double" = "Tocar duas vezes num ícone";
 	"NEW_EVENT_DESCRIPTION_libactivator.icon.tap.double" = "Ao tocar duas vezes num ícone específico";
-	"EVENT_TITLE_libactivator.icon.tap.double_FORMAT" = "Tocar duas vezes %@";
+	"EVENT_TITLE_libactivator.icon.tap.double_FORMAT" = "Tocar duas vezes em %@";
 	"EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT" = "Toque duas vezes no ícone %@";
 
 	"NEW_EVENT_TITLE_libactivator.scheduled" = "Agendado";
-	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "À hora e dia da semana especificados";
-	"EVENT_DESCRIPTION_libactivator.scheduled" = "Hora de %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "No dia da semana e hora especificados";
+	"EVENT_DESCRIPTION_libactivator.scheduled" = "De %@";
 	"ANY_DAY_OF_THE_WEEK_LOWERCASE" = "qualquer dia da semana";
 	"WEEKDAYS_LOWERCASE" = "dias úteis";
 	"WEEKENDS_LOWERCASE" = "fim de semana";
@@ -631,7 +658,7 @@
 	"LISTENER_DESCRIPTION_toggle" = "Activa/desactiva função";
 	"LISTENER_DESCRIPTION_toggle_enable" = "Activa função";
 	"LISTENER_DESCRIPTION_toggle_disable" = "Desactiva função";
-	"LISTENER_DESCRIPTION_application" = "Activa aplicação";
+	"LISTENER_DESCRIPTION_application" = "Abre aplicação";
 	"LISTENER_DESCRIPTION_profile" = "Activa perfil";
 
 	"LISTENER_TITLE_libactivator.system.homebutton" = "Botão principal";
@@ -646,8 +673,8 @@
 	"LISTENER_TITLE_libactivator.system.respring" = "Reiniciar SpringBoard";
 	"LISTENER_DESCRIPTION_libactivator.system.respring" = "Reinicia o SpringBoard normalmente";
 
-	"LISTENER_TITLE_libactivator.system.safemode" = "Modo de segurança";
-	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "Reinicia o SpringBoard em modo de segurança";
+	"LISTENER_TITLE_libactivator.system.safemode" = "Modo de Segurança";
+	"LISTENER_DESCRIPTION_libactivator.system.safemode" = "Reinicia o SpringBoard em Modo de Segurança";
 
 	"LISTENER_TITLE_libactivator.system.sleepbutton" = "Botão de bloqueio";
 	"LISTENER_DESCRIPTION_libactivator.system.sleepbutton" = "Simula pressionar o botão de bloqueio";
@@ -656,7 +683,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.spotlight" = "Activa a página de pesquisa no SpringBoard";
 
 	"LISTENER_TITLE_libactivator.system.take-screenshot" = "Capturar ecrã";
-	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Guarde o conteúdo do ecrã para as fotografias";
+	"LISTENER_DESCRIPTION_libactivator.system.take-screenshot" = "Guarda o conteúdo do ecrã para as fotografias";
 
 	"LISTENER_TITLE_libactivator.system.voice-control" = "Controlo por voz";
 	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Activa o controlo por voz";
@@ -665,10 +692,13 @@
 	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Activa a assistente virtual";
 
 	"LISTENER_TITLE_libactivator.system.activate-control-center" = "Activar central de controlo";
-	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Mostra definições da central de controlo";
+	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Mostra a central de controlo";
 
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "Activar multitarefas";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Mostra multitarefas";
+
+	"LISTENER_TITLE_libactivator.system.back" = "Recuar";
+	"LISTENER_DESCRIPTION_libactivator.system.back" = "Recua um ecrã";
 
 	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Mostrar barra \"A reproduzir\"";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Mostra os controlos de reprodução";
@@ -685,20 +715,23 @@
 	"LISTENER_TITLE_libactivator.system.activate-reachability" = "Activar \"Acesso fácil\"";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "Desloca o ecrã um pouco para baixo";
 
+	"LISTENER_TITLE_libactivator.system.vibrate" = "Vibrar";
+	"LISTENER_DESCRIPTION_libactivator.system.vibrate" = "Acciona a vibração do dispositivo";
+
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Compor tweet";
-	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Abre o módulo de composição de tweet";
+	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Abre o compositor do Twitter";
 
 	"LISTENER_TITLE_libactivator.facebook.compose-post" = "Compor publicação do Facebook";
-	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Abre o módulo de composição do Facebook";
+	"LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Abre o compositor do Facebook";
 
-	"LISTENER_TITLE_libactivator.mail.compose-message" = "Compor correio";
-	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Abre o módulo de composição de correio";
+	"LISTENER_TITLE_libactivator.mail.compose-message" = "Compor email";
+	"LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Abre o compositor de email";
 
 	"LISTENER_TITLE_libactivator.sms.compose-message" = "Compor mensagem";
-	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Abre o módulo de composição de mensagem";
+	"LISTENER_DESCRIPTION_libactivator.sms.compose-message" = "Abre o compositor de mensagem";
 
 	"LISTENER_TITLE_libactivator.weibo.compose-post" = "Compor publicação do Weibo";
-	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Abre o módulo de composição do Weibo";
+	"LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Abre o compositor do Weibo";
 
 	"LISTENER_TITLE_libactivator.audio.decrease-volume" = "Diminuir volume";
 	"LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "Diminui o volume de áudio";
@@ -877,6 +910,18 @@
 	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "Volume %@%%";
 	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Define volume para %@%% do máximo";
 
+	"SET_MEDIA_VOLUME_TO_FORMAT" = "Define volume da reprodução para %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume.media" = "Definir volume da reprodução";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.media" = "Aplica um volume de áudio específico à reprodução";
+	"LISTENER_TITLE_libactivator.audio.volume.media_FORMAT" = "Volume da reprodução %@%%";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume.media_FORMAT" = "Define volume da reprodução para %@%% do máximo";
+
+	"SET_RINGER_VOLUME_TO_FORMAT" = "Define volume do toque para %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume.ringer" = "Definir volume do toque";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.ringer" = "Aplica um volume de áudio específico ao toque";
+	"LISTENER_TITLE_libactivator.audio.volume.ringer_FORMAT" = "Volume do toque %@%%";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume.ringer_FORMAT" = "Define volume do toque para %@%% do máximo";
+
 	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "Sintetizar voz";
 	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "O dispositivo diz em voz alta um texto personalizado";
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Dizer \"%@\"";
@@ -885,7 +930,7 @@
 	
 	"SET_BRIGHTNESS_TO_FORMAT" = "Define brilho para %@%%";
 	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "Definir brilho";
-	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Aplica um brilho de ecrã específico";
+	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Aplica um brilho específico ao ecrã";
 	"LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "Brilho %@%%";
 	"LISTENER_DESCRIPTION_libactivator.screen.brightness_FORMAT" = "Define brilho para %@%% do máximo";
 
@@ -965,7 +1010,7 @@
 	"RESTORE_ASSIGNMENTS_DETAIL" = "Restaura as atribuições exportadas";
 
 	"RESTORE_ALERT_TITLE" = "Restaurar definições do Activator";
-	"RESTORE_ALERT_MESSAGE" = "Tem a certeza que pretende restaurar as definições a partir da cópia exportada?\nSe continuar, o dispositivo reiniciará o SpringBoard.";
+	"RESTORE_ALERT_MESSAGE" = "Tem a certeza que deseja restaurar as definições a partir da cópia exportada?\nSe continuar, o SpringBoard do seu dispositivo será reiniciado.";
 
 	"RESTORE_ALERT_CANCEL" = "Cancelar";
 	"RESTORE_ALERT_CONTINUE" = "Restaurar";
@@ -980,5 +1025,5 @@
 	"ADD_NEW_PROFILE" = "Adicionar novo perfil";
 	"NEW_PROFILE" = "Novo perfil";
 	"PROFILE_NAME" = "Nome do perfil";
-	"LISTENER_TITLE_libactivator.profile.Default" = "Default";	
+	"LISTENER_TITLE_libactivator.profile.Default" = "Predefinido";	
 }

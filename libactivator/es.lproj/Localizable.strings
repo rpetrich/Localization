@@ -154,6 +154,14 @@
 	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "%@ y %@ se pueden asignar simultáneamente.";
 	"MULTIPLE_ASSIGNMENTS_TITLE" = "Múltiples asignamientos";
 	
+	/* Incompatible Assignment */
+
+	"INCOMPATIBLE_ASSIGNMENT" = "Asignamiento incompatible";
+	"INCOMPATIBLE_WARNING_BOTH_PLURAL" = "%@ no es compatible con %@ ni con %@.\nSolo podrá ser asignado a %@ y a %@.";
+	"INCOMPATIBLE_WARNING_COMPATIBLE_PLURAL" = "%@ no es compatible con %@.\nSolo podrá ser asignado a %@ y a %@.";
+	"INCOMPATIBLE_WARNING_INCOMPATIBLE_PLURAL" = "%@ no es compatible con %@ ni con %@.\nSolo podrá ser asignado a %@.";
+	"INCOMPATIBLE_WARNING_NEITHER_PLURAL" = "%@ no es compatible con %@.\nSolo podrá ser asignado a %@.";
+	
 	/* Event Groups */
 	
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "Deslizar hacia adentro";
@@ -369,7 +377,13 @@
 	"EVENT_DESCRIPTION_libactivator.volume.down.hold.short" = "Mantén pulsado el botón abajo";	
 	
 	"EVENT_TITLE_libactivator.volume.up.hold.short" = "Pulsación corta arriba";
-	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Mantén pulsado el botón arriba";	
+	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Mantén pulsado el botón arriba";
+	
+	"EVENT_TITLE_libactivator.volume.down.press.with-menu" = "Pulsación con volumen abajo";
+	"EVENT_DESCRIPTION_libactivator.volume.down.press.with-menu" = "Pulsa ambos botones a la vez";
+
+	"EVENT_TITLE_libactivator.volume.up.press.with-menu" = "Pulsación con volumen arriba";
+	"EVENT_DESCRIPTION_libactivator.volume.up.press.with-menu" = "Pulsa ambos botones a la vez";
 	
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Activar silencio dos veces";
 	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "Act./desac. el silencio 2 veces seguidas";	
@@ -472,6 +486,9 @@
 
 	"EVENT_TITLE_libactivator.fingerprint-sensor.hold" = "Toque prolongado";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold" = "Toca el sensor de huella prolongadamente";
+	
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Toque y deslizar arriba";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Toca el sensor de huella y desliza hacia la pantalla";
 
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Arrastrar de izquierda a derecha";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Arrastra a lo largo de la pantalla de izq. a der.";
@@ -606,10 +623,11 @@
 	"LISTENER_GROUP_TITLE_SuperScroller" = "SuperScroller";
 	"LISTENER_GROUP_TITLE_Web Clips" = "Web Clips";
 	"LISTENER_GROUP_TITLE_Sharing" = "Compartir";
-	"LISTENER_GROUP_TITLE_Activoice" = "Activoice";
+	"LISTENER_GROUP_TITLE_Activoice" = "Activoz";
 	"LISTENER_GROUP_TITLE_Contacts" = "Contactos";
 	"LISTENER_GROUP_TITLE_Camera" = "Cámara";
 	"LISTENER_GROUP_TITLE_Ringtones" = "Tonos";
+	"LISTENER_GROUP_TITLE_Settings" = "Ajustes";
 	"LISTENER_GROUP_TITLE_Switches" = "Interruptores";
 	"LISTENER_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activar)";
 	"LISTENER_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Desactivar)";
@@ -681,8 +699,11 @@
         "LISTENER_TITLE_libactivator.system.activate-notification-center" = "Centro de Notificaciones";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Muestra el centro de notificaciones";
 
-	"LISTENER_TITLE_libactivator.system.activate-reachability" = "Activar Reachability";
+	"LISTENER_TITLE_libactivator.system.activate-reachability" = "Activar Fácil alcance";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "¡Baja iOS hacia tu dedo!";
+	
+	"LISTENER_TITLE_libactivator.system.vibrate" = "Vibrar";
+	"LISTENER_DESCRIPTION_libactivator.system.vibrate" = "Activa la vibración del dispositivo";
 	
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Escribir un Tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Inicia el módulo de Twitter";
@@ -777,6 +798,9 @@
 	"LISTENER_TITLE_libactivator.settings.equalizer" = "Ecualizador";
 	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "Abre ajustes en Ecualizador";
 	
+	"LISTENER_TITLE_libactivator.settings.facebook" = "Facebook";
+	"LISTENER_DESCRIPTION_libactivator.settings.facebook" = "Abre ajustes en Facebook";
+	
 	"LISTENER_TITLE_libactivator.settings.facetime" = "FaceTime";
 	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "Abre ajustes en FaceTime";
 	
@@ -869,9 +893,21 @@
 	
 	"SET_VOLUME_TO_FORMAT" = "Establecer volumen en %@%%";
 	"NEW_LISTENER_TITLE_libactivator.audio.volume" = "Establecer volumen";
-	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Aplicar volumen a un sistema de audio específico";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume" = "Aplicar volumen específico a el audio";
 	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% volumen";
-	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Establecer volumer al %@%% del máximo";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Establecer volumen al %@%% del máximo";
+	
+	"SET_MEDIA_VOLUME_TO_FORMAT" = "Establecer volumen multimedia en %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume.media" = "Establecer volumen multimedia";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.media" = "Aplicar volumen específico a multimedia";
+	"LISTENER_TITLE_libactivator.audio.volume.media_FORMAT" = "%@%% volumen multimedia";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume.media_FORMAT" = "Establecer volumen multimedia al %@%% del máximo";
+
+	"SET_RINGER_VOLUME_TO_FORMAT" = "Establecer volumen de tono en %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume.ringer" = "Establecer volumen del tono";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.ringer" = "Aplicar volumen especifico al tono";
+	"LISTENER_TITLE_libactivator.audio.volume.ringer_FORMAT" = "%@%% volumen del tono";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume.ringer_FORMAT" = "Establecer volumen del tono al %@%% del máximo";
 	
 	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "Sintetizador de voz";
 	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "Dispositivo diciendo un texto específico";

@@ -109,6 +109,12 @@
 
 	"SHARE_THE_LOVE" = "我正在我的 %@ 上使用 @ActivatorApp 来添加自定义手势和快捷方式！";
 
+	"APPLICATION_KEYCHAIN_WARNING" = "如果已启用密码锁定，使用加密安全访问数据的应用程序（如邮件）需要密码以正常工作。";
+	"APPLICATIONS" = "应用程序";
+	"ASK_FOR_PASSCODE" = "需要密码";
+	"IF_ACTIVATED_WHILE_PASSCODE_LOCKED" = "当密码锁定时激活";
+	"OPEN_APP_IMMEDIATELY" = "立即打开应用程序";
+
 	/* Bookmarks */
 
 	"BOOKMARKS" = "书签";
@@ -154,6 +160,14 @@
 	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "可同时分配 %@ 和 %@。";
 	"MULTIPLE_ASSIGNMENTS_TITLE" = "多重分配";
 
+	/* Incompatible Assignment */
+
+	"INCOMPATIBLE_ASSIGNMENT" = "不兼容的分配";
+	"INCOMPATIBLE_WARNING_BOTH_PLURAL" = "%@ 与“%@”和“%@”不兼容。\n该动作只能分配到“%@”和“%@”。";
+	"INCOMPATIBLE_WARNING_COMPATIBLE_PLURAL" = "%@ 与“%@”不兼容。\n该动作只能分配到“%@”和“%@”。";
+	"INCOMPATIBLE_WARNING_INCOMPATIBLE_PLURAL" = "%@ 与“%@”和“%@”不兼容。\n该动作只能分配到“%@”。";
+	"INCOMPATIBLE_WARNING_NEITHER_PLURAL" = "%@ 与“%@”不兼容。\n该动作只能分配到“%@”。";
+
 	/* Event Groups */
 
 	"EVENT_GROUP_TITLE_Slide In Gesture" = "单指滑入手势";
@@ -184,10 +198,12 @@
 	"EVENT_GROUP_TITLE_Switches (Activate)" = "开关（启用）";
 	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "开关（禁用）";
 	"EVENT_GROUP_TITLE_Network Status" = "网络状态";
-	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "指纹识别传感器";
+	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Touch ID 指纹识别传感器";
+	"EVENT_GROUP_TITLE_Fingerprint Matches" = "Touch ID 指纹识别传感器匹配";
 	"EVENT_GROUP_TITLE_VideoPane" = "视频面板";
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "蓝牙设备";
 	"EVENT_GROUP_TITLE_Battery Level" = "电池电量";
+	"EVENT_GROUP_TITLE_Riker" = "Riker";
 
 	/* Events */
 
@@ -371,6 +387,12 @@
 	"EVENT_TITLE_libactivator.volume.up.hold.short" = "按住上键";
 	"EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "按住上音量按钮";
 
+	"EVENT_TITLE_libactivator.volume.down.press.with-menu" = "与下音量按钮一起按";
+	"EVENT_DESCRIPTION_libactivator.volume.down.press.with-menu" = "同时按下两个按钮";
+
+	"EVENT_TITLE_libactivator.volume.up.press.with-menu" = "与上音量按钮一起按";
+	"EVENT_DESCRIPTION_libactivator.volume.up.press.with-menu" = "同时按下两个按钮";
+
 	"EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "拨动两下响铃/静音开关";
 	"EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice" = "拨动一下响铃/静音开关然后还原";
 
@@ -473,6 +495,9 @@
 	"EVENT_TITLE_libactivator.fingerprint-sensor.hold" = "按住";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold" = "按住指纹识别传感器";
 
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-slide-in" = "按一下后向上滑动";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-slide-in" = "按一下指纹识别传感器后向屏幕滑动";
+
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "从左向右拖动";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "在屏幕底部边缘从左向右拖动";
 
@@ -493,6 +518,15 @@
 
 	"EVENT_TITLE_com.rpetrich.videopane.double-tap" = "按两下面板";
 	"EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap" = "按两下活动的视频面板";
+
+	"EVENT_TITLE_com.rpetrich.riker.center" = "中间按钮";
+	"EVENT_DESCRIPTION_com.rpetrich.riker.center" = "按下 Riker 手势区域的中间按钮";
+
+	"EVENT_TITLE_com.rpetrich.riker.left" = "左侧按钮";
+	"EVENT_DESCRIPTION_com.rpetrich.riker.left" = "按下 Riker 手势区域的左侧按钮";
+
+	"EVENT_TITLE_com.rpetrich.riker.right" = "右侧按钮";
+	"EVENT_DESCRIPTION_com.rpetrich.riker.right" = "按下 Riker 手势区域的右侧按钮";
 
 	/* Custom Events */
 
@@ -622,6 +656,7 @@
 	"LISTENER_GROUP_TITLE_Screen Brightness" = "屏幕亮度";
 	"LISTENER_GROUP_TITLE_Message Alert" = "信息提示";
 	"LISTENER_GROUP_TITLE_Ask Siri" = "向 Siri 提问";
+	"LISTENER_GROUP_TITLE_Run Command" = "执行命令";
 
 	/* Listener Names */
 
@@ -671,6 +706,9 @@
 	"LISTENER_TITLE_libactivator.system.activate-switcher" = "激活多任务栏";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "显示多任务栏（应用程序切换器）";
 
+	"LISTENER_TITLE_libactivator.system.back" = "返回";
+	"LISTENER_DESCRIPTION_libactivator.system.back" = "返回上一个页面";
+
 	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "显示正在播放栏";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "显示标准音频/视频控制";
 
@@ -685,6 +723,9 @@
 
 	"LISTENER_TITLE_libactivator.system.activate-reachability" = "激活便捷访问";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "屏幕内容下沉";
+
+	"LISTENER_TITLE_libactivator.system.vibrate" = "振动";
+	"LISTENER_DESCRIPTION_libactivator.system.vibrate" = "让设备振动一下";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "编写推文";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "启动推文编辑器";
@@ -770,6 +811,18 @@
 	"LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% 音量";
 	"LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "设置音量到最大值的 %@%%";
 
+	"SET_MEDIA_VOLUME_TO_FORMAT" = "设置媒体音量到 %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume.media" = "设置媒体音量";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.media" = "应用指定的媒体音量";
+	"LISTENER_TITLE_libactivator.audio.volume.media_FORMAT" = "%@%% 媒体音量";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume.media_FORMAT" = "设置媒体音量到最大值的 %@%%";
+
+	"SET_RINGER_VOLUME_TO_FORMAT" = "设置响铃音量到 %@%%";
+	"NEW_LISTENER_TITLE_libactivator.audio.volume.ringer" = "设置响铃音量";
+	"NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.ringer" = "应用指定的响铃音量";
+	"LISTENER_TITLE_libactivator.audio.volume.ringer_FORMAT" = "%@%% 响铃音量";
+	"LISTENER_DESCRIPTION_libactivator.audio.volume.ringer_FORMAT" = "设置响铃音量到最大值的 %@%%";
+
 	"NEW_LISTENER_TITLE_libactivator.speech.synthesize" = "朗读";
 	"NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize" = "让设备朗读自定义文本";
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "朗读“%@”";
@@ -794,6 +847,12 @@
 	"LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "提问“%@”";
 	"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "让 Siri 回答一个问题";
 	"QUESTION" = "问题";
+
+	"NEW_LISTENER_TITLE_libactivator.command.run" = "执行命令";
+	"NEW_LISTENER_DESCRIPTION_libactivator.command.run" = "执行自定义脚本命令";
+	"LISTENER_TITLE_libactivator.command.run_FORMAT" = "执行“%@”命令";
+	"COMMAND" = "命令";
+	"RUN_COMMAND_WARNING" = "不正确地使用自定义命令可能会损害您的设备，使用时请务必保持警惕。";
 
 	/* Third Party Listerners */
 

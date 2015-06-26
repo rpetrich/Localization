@@ -1,0 +1,38 @@
+{
+	"OK" = "确定";
+	"Cancel" = "取消";
+
+	"Close All Apps?" = "确定要退出全部应用程序？";
+	"Close All" = "全部退出";
+
+	"App Switcher" = "多任务栏";
+	"Pagination" = "分页";
+	"Swipe Up:" = "向上滑动：";
+	"Swipe Down:" = "向下滑动：";
+	"Preview/Open App" = "预览/开启应用程序";
+	"Close App" = "退出应用程序";
+	"Close All Apps" = "退出全部应用程序";
+	"Tap & Hold to Close All" = "按住以退出全部";
+	"Show Active App" = "显示活动的应用程序";
+
+	"Auxiliary Pages" = "辅助页面";
+	"Playback" = "播放";
+	"Tap track title to alternate between controls" = "按一下曲目标题以切换控件。";
+	"Volume Slider" = "音量控制";
+	"Track Scrubber" = "播放头";
+	"Settings" = "设置";
+	"Swipe up on toggles to access more" = "在开关上向上滑动以切换不同的开关分页。";
+	"AirPlay / AirDrop" = "AirPlay / AirDrop";
+	"Double Row Toggles" = "双行开关";
+	"Swap Auxiliary Page Order" = "交换辅助页面顺序";
+	"Puts Settings page left of the Playback page." = "将设置页面放置于播放页面的左边。";
+
+	"Advanced Options" = "高级设置";
+	"Open To:" = "开启到：";
+	"Visible Pages" = "可见页面";
+	"Last Opened Page" = "最后开启的页面";
+	"Playback Page" = "播放页面";
+	"Settings Page" = "设置页面";
+	"If Playing, Open to Playback" = "如正播放则开启播放页面";
+	"If Not Playing, Hide Playback" = "如未播放则隐藏播放页面";
+}

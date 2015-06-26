@@ -1,0 +1,38 @@
+{
+	"OK" = "OK";
+	"Cancel" = "Annuler";
+
+	"Close All Apps?" = "Quitter toutes les Apps ?";
+	"Close All" = "Quitter";
+
+	"App Switcher" = "App Switcher";
+	"Pagination" = "Pagination";
+	"Swipe Up:" = "Swipe vers le Haut:";
+	"Swipe Down:" = "Swipe vers le Bas:";
+	"Preview/Open App" = "Aperçu/Ouvrir App";
+	"Close App" = "Quitter l'App";
+	"Close All Apps" = "Quitter toutes les Apps";
+	"Tap & Hold to Close All" = "Taper et Maintenir pour tout quitter";
+	"Show Active App" = "Afficher l'App Active";
+
+	"Auxiliary Pages" = "Pages Auxiliaires";
+	"Playback" = "Playback";
+	"Tap track title to alternate between controls" = "Tapez le titre de la chanson pour alterner les contrôles";
+	"Volume Slider" = "Slider du Volume";
+	"Track Scrubber" = "Défilement de Piste";
+	"Settings" = "Réglages";
+	"Swipe up on toggles to access more" = "Glisser vers le haut sur les toggles pour en voir plus";
+	"AirPlay / AirDrop" = "AirPlay / AirDrop";
+	"Double Row Toggles" = "Double Rangée de Toggles";
+	"Swap Auxiliary Page Order" = "Interchanger Ordre Pages Auxiliaires";
+	"Puts Settings page left of the Playback page." = "Insère la page des Réglages avant la page du Playback";
+
+	"Advanced Options" = "Options Avancées";
+	"Open To:" = "Ouvrir directement:";
+	"Visible Pages" = "Pages Visibles";
+	"Last Opened Page" = "Dernière Page Ouverte";
+	"Playback Page" = "Page Playback";
+	"Settings Page" = "Page Régalges";
+	"If Playing, Open to Playback" = "En écoute, Ouvrir Playback";
+	"If Not Playing, Hide Playback" = "En non-écoute, Cacher Playback";
+}
