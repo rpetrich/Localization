@@ -138,6 +138,7 @@
 	"CANCEL" = "取消";
 	"ADD_ACTION" = "添加動作";
 	"ACTION" = "動作";
+	"PREVIEW_MENU" = "預看菜單";
 
 	/* Modes */
 

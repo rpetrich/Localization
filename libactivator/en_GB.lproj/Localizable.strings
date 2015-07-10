@@ -138,6 +138,7 @@
 	"ADD_ACTION" = "Add Action";
 	"CANCEL" = "Cancel";
 	"ACTION" = "Action";
+	"PREVIEW_MENU" = "Preview Menu";
 
 	/* Modes */
 
