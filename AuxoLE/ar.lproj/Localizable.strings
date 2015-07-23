@@ -1,0 +1,38 @@
+{
+	"OK" = "موافق";
+	"Cancel" = "إلغاء";
+
+	"Close All Apps?" = "إغلاق جميع التطبيقات؟";
+	"Close All" = "إغلاق الكل";
+
+	"App Switcher" = "App Switcher";
+	"Pagination" = "ترقيم الصفحات";
+	"Swipe Up:" = "إسحب للأعلى:";
+	"Swipe Down:" = "إسحب للأسفل:";
+	"Preview/Open App" = "معاينة / فتح التطبيق";
+	"Close App" = "إغلاق التطبيق";
+	"Close All Apps" = "إغلاق جميع التطبيقات";
+	"Tap & Hold to Close All" = "Tap & Hold to Close All";
+	"Show Active App" = "عرض أحدث التطبيقات";
+
+	"Auxiliary Pages" = "مساعد الصفحات";
+	"Playback" = "تشغيل";
+	"Tap track title to alternate between controls" = "Tap track title to alternate between controls";
+	"Volume Slider" = "حجم المفتاح";
+	"Track Scrubber" = "Track Scrubber";
+	"Settings" = "الإعدادات";
+	"Swipe up on toggles to access more" = "Swipe up on toggles to access more";
+	"AirPlay / AirDrop" = "AirPlay / AirDrop";
+	"Double Row Toggles" = "Double Row Toggles";
+	"Swap Auxiliary Page Order" = "Swap Auxiliary Page Order";
+	"Puts Settings page left of the Playback page." = "Puts Settings page left of the Playback page.";
+
+	"Advanced Options" = "خيارات متقدمة";
+	"Open To:" = "فتح في:";
+	"Visible Pages" = "صفحات مرئية";
+	"Last Opened Page" = "أخر صفحة مفتوحة";
+	"Playback Page" = "تشغيل الصفحة";
+	"Settings Page" = "إعدادات الصفحة";
+	"If Playing, Open to Playback" = "If Playing, Open to Playback";
+	"If Not Playing, Hide Playback" = "If Not Playing, Hide Playback";
+}
