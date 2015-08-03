@@ -29,6 +29,7 @@
 	"UNKNOWN_ASSIGNMENT" = "(unknown)";
 	"SEARCH" = "Search";
 	"MORE" = "More";
+	"BUILD" = "Build";
 
 	"ENABLED" = "Enabled";
 	"DISABLED" = "Disabled";
@@ -83,10 +84,12 @@
 	"Custom Events" = "Custom Events";
 	"Build New Events" = "Build New Events";
 	"New Event" = "New Event";
+	"Build Events" = "Build Events";
 
 	"Custom Actions" = "Custom Actions";
 	"Build New Actions" = "Build New Actions";
 	"New Action" = "New Action";
+	"Build Actions" = "Build Actions";
 
 	"MAIL_SENDER" = "Sender";
 	"MAIL_SENDER_UNKNOWN" = "Unknown";
@@ -676,6 +679,9 @@
 	"LISTENER_TITLE_libactivator.system.powerdown" = "Power Down";
 	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Immediately powers down the device";
 
+	"LISTENER_TITLE_libactivator.system.power-menu" = "Power Down View";
+	"LISTENER_DESCRIPTION_libactivator.system.power-menu" = "Show the system power down view";
+
 	"LISTENER_TITLE_libactivator.system.reboot" = "Reboot";
 	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "Immediately reboots the device";
 
@@ -747,6 +753,9 @@
 
 	"LISTENER_TITLE_libactivator.audio.increase-volume" = "Volume Up";
 	"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "Increase audio volume by one step";
+
+	"LISTENER_TITLE_libactivator.audio.launch-playing-app" =  "Launch Playing App";
+	"LISTENER_DESCRIPTION_libactivator.audio.launch-playing-app" = "Open application currently playing audio";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Show Volume Bar";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Show the volume slider";

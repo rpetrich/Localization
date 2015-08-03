@@ -90,6 +90,7 @@
 	APP_SWITCHER_PRIVACY_VALUE_0 = "显示";
 	APP_SWITCHER_PRIVACY_VALUE_1 = "模糊";
 	APP_SWITCHER_PRIVACY_VALUE_2 = "黑色";
+	APP_SWITCHER_PRIVACY_VALUE_3 = "白色";
 
 	SHARE_THE_LOVE = "我正在使用 BioLockdown 来保护我 iPhone 上的应用程序，设置和功能开关！";
 

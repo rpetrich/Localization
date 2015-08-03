@@ -29,6 +29,7 @@
 	"UNKNOWN_ASSIGNMENT" = "【未知】";
 	"SEARCH" = "搜索";
 	"MORE" = "更多";
+	"BUILD"= "创建";
 
 	"ENABLED" = "启用";
 	"DISABLED" = "禁用";
@@ -83,10 +84,12 @@
 	"Custom Events" = "自定义事件";
 	"Build New Events" = "创建自定义事件";
 	"New Event" = "新事件";
+	"Build Events" = "创建事件";
 
 	"Custom Actions" = "自定义动作";
 	"Build New Actions" = "创建自定义动作";
 	"New Action" = "新动作";
+	"Build Actions" = "创建动作";
 
 	"MAIL_SENDER" = "发件人";
 	"MAIL_SENDER_UNKNOWN" = "未知发件人";
@@ -675,7 +678,10 @@
 	"LISTENER_DESCRIPTION_libactivator.system.homebutton" = "模拟按一下主屏幕按钮";
 
 	"LISTENER_TITLE_libactivator.system.powerdown" = "关机";
-	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "关闭设备电源";
+	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "立即关闭设备电源";
+
+	"LISTENER_TITLE_libactivator.system.power-menu" = "关机视图";
+	"LISTENER_DESCRIPTION_libactivator.system.power-menu" = "显示系统关机视图";
 
 	"LISTENER_TITLE_libactivator.system.reboot" = "重新启动";
 	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "重新启动设备";
@@ -748,6 +754,9 @@
 
 	"LISTENER_TITLE_libactivator.audio.increase-volume" = "调高音量";
 	"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "调高一格音量";
+
+	"LISTENER_TITLE_libactivator.audio.launch-playing-app" = "启动正在播放应用";
+	"LISTENER_DESCRIPTION_libactivator.audio.launch-playing-app" = "打开正在播放音频的应用程序";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "显示音量栏";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "显示音量滑块";
