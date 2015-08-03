@@ -29,6 +29,7 @@
 	"UNKNOWN_ASSIGNMENT" = "(desconhecido)";
 	"SEARCH" = "Pesquisar";
 	"MORE" = "Mais";
+	"BUILD" = "Criar";
 
 	"ENABLED" = "Activado";
 	"DISABLED" = "Desactivado";
@@ -83,10 +84,12 @@
 	"Custom Events" = "Eventos personalizados";
 	"Build New Events" = "Criar novos eventos";
 	"New Event" = "Novo evento";
+	"Build Events" = "Criar eventos";
 
 	"Custom Actions" = "Acções personalizadas";
 	"Build New Actions" = "Criar novas Acções";
 	"New Action" = "Nova acção";
+	"Build Actions" = "Criar acções";
 
 	"MAIL_SENDER" = "Remetente";
 	"MAIL_SENDER_UNKNOWN" = "Desconhecido";
@@ -676,6 +679,9 @@
 	"LISTENER_TITLE_libactivator.system.powerdown" = "Desligar";
 	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Desliga imediatamente o dispositivo";
 
+	"LISTENER_TITLE_libactivator.system.power-menu" = "Botão de desligar";
+	"LISTENER_DESCRIPTION_libactivator.system.power-menu" = "Mostra o botão de desligar";
+
 	"LISTENER_TITLE_libactivator.system.reboot" = "Reiniciar";
 	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "Reinicia imediatamente o dispositivo";
 
@@ -747,6 +753,9 @@
 
 	"LISTENER_TITLE_libactivator.audio.increase-volume" = "Aumentar volume";
 	"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "Aumenta o volume de áudio";
+
+	"LISTENER_TITLE_libactivator.audio.launch-playing-app" =  "Abrir app em reprodução";
+	"LISTENER_DESCRIPTION_libactivator.audio.launch-playing-app" = "Abre a aplicação que está a reproduzir áudio";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Mostrar barra de volume";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Mostra o ajuste de volume";
