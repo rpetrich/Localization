@@ -1,0 +1,144 @@
+{
+	"OK" = "Ok";
+	"Cancel" = "Cancelar";
+	"ON" = "On";
+	"OFF" = "Off";
+	"all-day" = "todo o dia";
+	"AM" = "AM";
+	"PM" = "PM";
+	"by" = "por";
+	"on" = "em";
+	"lap" = "lap";
+	"Enabled" = "Activado";
+	"Use Icons" = "Utilizar ícones";
+	"Actions" = "Acções";
+	"More Actions..." = "Mais acções...";
+	"Donate with PayPal" = "Contribuir via PayPal";
+	"Copy All" = "Copiar tudo";
+	"Debug" = "Depurar";
+	"Dial" = "Ligar";
+	"Favorites" = "Favoritos";
+	"History" = "Histórico";
+	"Lookup" = "Pesquisa";
+	"Scroll" = "Deslocar";
+	"Tweet" = "Tweetar";
+	"Pasteboard Favorites" = "Favoritos da área de transferência";
+	"Delete Favorite" = "Apagar favorito";
+	"Add Favorite..." = "Adicionar favorito...";
+	"Add Favorite" = "Adicionar favorito";
+	"Create" = "Criar";
+	"Enter the new favorite details" = "Insira os detalhes do novo favorito";
+	"Open in Safari" = "Abrir no Safari";
+	"Search" = "Pesquisar";
+	"Wikipedia" = "Wikipedia";
+	"Dictionary" = "Dicionário";
+	"Translate" = "Traduzir";
+	"Find" = "Procurar";
+	"Find In Page" = "Procurar na página";
+	"Find Next" = "Procurar próximo";
+	"Find Previous" = "Procurar anterior";
+	"Next" = "Próximo";
+	"Previous" = "Anterior";
+	"Not Found" = "Não encontrado";
+	"Clear" = "Limpar";
+	"Confirm" = "Confirmar";
+	"Pasteboard History" = "Histórico da área de transferência";
+	"Upgrade" = "Actualizar";
+
+	"Right to Left" = "Da direita para a esquerda";
+	"Left to Right" = "Da esquerda para a direita";
+	"Sorted" = "Ordenado";
+	"New Favorite" = "Novo favorito";
+	"biteSMS" = "biteSMS";
+	"Extended Support" = "Suporte estendido";
+	"TRANSLATION_ABOUT" = "Traduzido por:\nPedro Gaspar (@pedro_gaspar)";
+
+	"Preferred Client" = "Cliente preferido";
+
+	"Clear History" = "Limpar histórico";
+	"Close" = "Fechar";
+
+	"Cut" = "Cortar";
+	"Copy" = "Copiar";
+	"Paste" = "Colar";
+	"Select" = "Seleccionar";
+	"Select All" = "Seleccionar tudo";
+
+	"Locate" = "Localizar";
+	"Error retrieving location!" = "Erro ao obter localização!";
+	"Estimated Accuracy:" = "Precisão estimada:";
+	"%ld meters" = "%ld metros";
+	"My Location on Google Maps" = "A minha localização no Google Maps";
+	"Pastie" = "Pastie";
+	"Send to Pastie" = "Enviar para o Pastie";
+	"Paste Complete" = "Cópia concluída";
+	"The URL has been copied to your clipboard." = "O URL foi copiado para a sua área de transferência.";
+	"Continue" = "Continuar";
+	"Error" = "Erro";
+	"Unable to submit your pastie." = "Não foi possível submeter o seu pastie.";
+	"No Search Results" = "Nenhum resultado de pesquisa";
+
+	"Edit Favorite" = "Editar favorito";
+	"To Top" = "Para cima";
+	"To Bottom" = "Para baixo";
+
+	"Rich Text For Mail" = "Rich Text para correio";
+	"Format" = "Formato";
+	"Bold" = "Negrito";
+	"Italic" = "Itálico";
+	"Underline" = "Sublinhado";
+	"Strikethrough" = "Rasurado";
+	"Image" = "Imagem";
+	"Text Style" = "Estilo de texto";
+	"Font Size" = "Tamanho da fonte";
+	"Font Family" = "Família da fonte";
+	"Text Color" = "Cor do texto";
+	"Highlight Color" = "Cor de destaque";
+	"Black" = "Preto";
+	"White" = "Branco";
+	"Silver" = "Prateado";
+	"Gray" = "Cinzento";
+	"Red" = "Vermelho";
+	"Maroon" = "Castanho";
+	"Yellow" = "Amarelo";
+	"Olive" = "Oliva";
+	"Lime" = "Verde limão";
+	"Green" = "Verde";
+	"Aqua" = "Azul água";
+	"Teal" = "Verde azulado";
+	"Blue" = "Azul";
+	"Navy" = "Azul naval";
+	"Fuchsia" = "Fúchsia";
+	"Purple" = "Violeta";
+	"None" = "Nenhum";
+	"Unknown" = "Desconhecido";
+
+	"Playing" = "A reproduzir";
+	"\"%@\" by %@ " = "\"%@\" por %@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> por <strong>%@</strong> ";
+
+	"Default Actions" = "Acções padrão";
+	"Replace" = "Substituir";
+
+	"Link" = "Ligação";
+	"Insert" = "Inserir";
+	"Link Text" = "Texto da ligação";
+	"Link URL" = "URL da ligação";
+
+	"Celeste" = "Celeste";
+	"Voice" = "Voz";
+	"Today" = "Hoje";
+
+	"Date Format" = "Formato da data";
+	"Time Format" = "Formato da hora";
+	"None" = "Nenhum";
+	"Short" = "Curto";
+	"Medium" = "Médio";
+	"Long" = "Longo";
+	"Full" = "Completo";
+	
+	"Sina Weibo" = "Sina Weibo";
+	"Weibo" = "Weibo";
+	"Facebook" = "Facebook";
+	"Twitter" = "Twitter";
+}
