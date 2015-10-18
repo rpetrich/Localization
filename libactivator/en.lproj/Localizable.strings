@@ -660,6 +660,7 @@
 	"LISTENER_GROUP_TITLE_Message Alert" = "Message Alert";
 	"LISTENER_GROUP_TITLE_Ask Siri" = "Ask Siri";
 	"LISTENER_GROUP_TITLE_Run Command" = "Run Command";
+	"LISTENER_GROUP_TITLE_Application Shortcuts" = "Application Shortcuts";
 
 	/* Listener Names */
 
@@ -970,6 +971,8 @@
 	"LISTENER_TITLE_libactivator.command.run_FORMAT" = "Run \"%@\" command";
 	"COMMAND" = "Command";
 	"RUN_COMMAND_WARNING" = "Custom commands can potentially harm your device if used improperly. Proceed with caution.";
+
+	"LISTENER_DESCRIPTION_application_shortcut_FORMAT" = "Activate %@ app shortcut";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";

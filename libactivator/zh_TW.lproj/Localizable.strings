@@ -661,6 +661,7 @@
 	"LISTENER_GROUP_TITLE_Message Alert" = "訊息提示";
 	"LISTENER_GROUP_TITLE_Ask Siri" = "向 Siri 提問";
 	"LISTENER_GROUP_TITLE_Run Command" = "執行命令";
+	"LISTENER_GROUP_TITLE_Application Shortcuts" = "快速動作";
 
 	/* Listener Names */
 
@@ -863,6 +864,8 @@
 	"LISTENER_TITLE_libactivator.command.run_FORMAT" = "執行『%@』命令";
 	"COMMAND" = "命令";
 	"RUN_COMMAND_WARNING" = "不正確地使用自訂命令可能會損害您的裝置，使用時請務必保持警惕。";
+
+	"LISTENER_DESCRIPTION_application_shortcut_FORMAT" = "激活 %@ 的快速動作";
 
 	/* Third Party Listerners */
 
