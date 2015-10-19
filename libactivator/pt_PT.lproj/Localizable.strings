@@ -660,6 +660,7 @@
 	"LISTENER_GROUP_TITLE_Message Alert" = "Messagem de alerta";
 	"LISTENER_GROUP_TITLE_Ask Siri" = "Pergunte à Siri";
 	"LISTENER_GROUP_TITLE_Run Command" = "Executar comando";
+	"LISTENER_GROUP_TITLE_Application Shortcuts" = "Atalhos de aplicações";
 
 	/* Listener Names */
 
@@ -970,6 +971,8 @@
 	"LISTENER_TITLE_libactivator.command.run_FORMAT" = "Executar comando \"%@\"";
 	"COMMAND" = "Comando";
 	"RUN_COMMAND_WARNING" = "Comandos personalizados podem potencialmente danificar o seu dispositivo se utilizados de modo impróprio. Continue com cuidado.";
+
+	"LISTENER_DESCRIPTION_application_shortcut_FORMAT" = "Activar atalho da aplicação %@";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
