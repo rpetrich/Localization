@@ -628,6 +628,11 @@
 	"NEW_EVENT_TITLE_libactivator.network.left-wifi_FORMAT" = "斷開 %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT" = "斷開指定的 Wi-Fi 網路連接";
 
+	"NEW_EVENT_TITLE_libactivator.icon.3d-touch" = "圖示 3D Touch";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.3d-touch" = "強制點按某個應用程式的圖示";
+	"EVENT_TITLE_libactivator.icon.3d-touch_FORMAT" = "%@ 圖示 3D Touch";
+	"EVENT_DESCRIPTION_libactivator.icon.3d-touch_FORMAT" = "強制點按 %@ 『主畫面』圖示";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系統動作";

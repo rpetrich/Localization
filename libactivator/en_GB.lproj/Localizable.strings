@@ -628,6 +628,11 @@
 	"NEW_EVENT_TITLE_libactivator.network.left-wifi_FORMAT" = "Left %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT" = "Disconnected from specific Wi-Fi";
 
+	"NEW_EVENT_TITLE_libactivator.icon.3d-touch" = "Icon 3D Touch";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.3d-touch" = "A specific icon is force touched";
+	"EVENT_TITLE_libactivator.icon.3d-touch_FORMAT" = "%@ Icon 3D Touch";
+	"EVENT_DESCRIPTION_libactivator.icon.3d-touch_FORMAT" = "Force touch %@ SpringBoard icon";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "System Actions";
