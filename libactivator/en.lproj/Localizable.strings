@@ -569,6 +569,11 @@
 	"EVENT_TITLE_libactivator.icon.tap.double_FORMAT" = "%@ Icon Double Tap";
 	"EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT" = "Double tap %@ SpringBoard icon";
 
+	"NEW_EVENT_TITLE_libactivator.icon.3d-touch" = "Icon 3D Touch";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.3d-touch" = "A specific icon is force touched";
+	"EVENT_TITLE_libactivator.icon.3d-touch_FORMAT" = "%@ Icon 3D Touch";
+	"EVENT_DESCRIPTION_libactivator.icon.3d-touch_FORMAT" = "Force touch %@ SpringBoard icon";
+
 	"NEW_EVENT_TITLE_libactivator.scheduled" = "Scheduled";
 	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "Specific weekday and time passes";
 	"EVENT_DESCRIPTION_libactivator.scheduled" = "Time passes on %@";
