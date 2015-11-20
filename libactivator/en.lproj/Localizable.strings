@@ -671,6 +671,7 @@
 	"LISTENER_GROUP_TITLE_Ask Siri" = "Ask Siri";
 	"LISTENER_GROUP_TITLE_Run Command" = "Run Command";
 	"LISTENER_GROUP_TITLE_Application Shortcuts" = "Application Shortcuts";
+	"LISTENER_GROUP_TITLE_Vibration" = "Vibration";
 
 	/* Listener Names */
 
@@ -743,6 +744,15 @@
 
 	"LISTENER_TITLE_libactivator.system.vibrate" = "Vibrate";
 	"LISTENER_DESCRIPTION_libactivator.system.vibrate" = "Triggers device vibration";
+
+	"LISTENER_TITLE_libactivator.system.haptic.flick" = "Flick";
+	"LISTENER_DESCRIPTION_libactivator.system.haptic.flick" = "Triggers taptic engine flick";
+
+	"LISTENER_TITLE_libactivator.system.haptic.quirk" = "Quirk";
+	"LISTENER_DESCRIPTION_libactivator.system.haptic.quirk" = "Triggers taptic engine quirk";
+
+	"LISTENER_TITLE_libactivator.system.haptic.tap" = "Tap";
+	"LISTENER_DESCRIPTION_libactivator.system.haptic.tap" = "Triggers taptic engine tap";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Compose Tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Launch modal tweet composer";

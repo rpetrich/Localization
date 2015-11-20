@@ -667,6 +667,7 @@
 	"LISTENER_GROUP_TITLE_Ask Siri" = "向 Siri 提问";
 	"LISTENER_GROUP_TITLE_Run Command" = "执行命令";
 	"LISTENER_GROUP_TITLE_Application Shortcuts" = "快速操作";
+	"LISTENER_GROUP_TITLE_Vibration" = "振动";
 
 	/* Listener Names */
 
@@ -739,6 +740,15 @@
 
 	"LISTENER_TITLE_libactivator.system.vibrate" = "振动";
 	"LISTENER_DESCRIPTION_libactivator.system.vibrate" = "让设备振动一下";
+
+	"LISTENER_TITLE_libactivator.system.haptic.flick" = "轻弹";
+	"LISTENER_DESCRIPTION_libactivator.system.haptic.flick" = "触发 Taptic Engine 的轻弹效果";
+
+	"LISTENER_TITLE_libactivator.system.haptic.quirk" = "急转";
+	"LISTENER_DESCRIPTION_libactivator.system.haptic.quirk" = "触发 Taptic Engine 的急转效果";
+
+	"LISTENER_TITLE_libactivator.system.haptic.tap" = "轻按";
+	"LISTENER_DESCRIPTION_libactivator.system.haptic.tap" = "触发 Taptic Engine 的轻按效果";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "编写推文";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "启动推文编辑器";
