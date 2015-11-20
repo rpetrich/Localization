@@ -30,6 +30,8 @@
 	"SEARCH" = "Search";
 	"MORE" = "More";
 	"BUILD" = "Build";
+	"ASSIGNMENT_WARNING" = "Assignment Warning";
+	"EVENT_ASSIGNMENT_WARNING_FINGERPRINT" = "Assigning specific fingerprints requires that your device's Touch ID sensor be configured in a slower, more accurate matching mode. This reduces the performance and reliability of the default reachability shortcut and other fingerprint sensor assignments selected in Activator.";
 
 	"ENABLED" = "Enabled";
 	"DISABLED" = "Disabled";

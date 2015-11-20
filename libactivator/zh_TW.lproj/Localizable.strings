@@ -30,6 +30,8 @@
 	"SEARCH" = "搜尋";
 	"MORE" = "更多";
 	"BUILD"= "創建";
+	"ASSIGNMENT_WARNING" = "分配警告";
+	"EVENT_ASSIGNMENT_WARNING_FINGERPRINT" = "分配指定的指紋需要您的設備的指紋身分識別感應器設定為較慢以獲得更高準確率的模式。這會降低螢屏上方觸控等功能的性能和穩定性。";
 
 	"ENABLED" = "啟用";
 	"DISABLED" = "停用";
