@@ -628,6 +628,11 @@
 	"NEW_EVENT_TITLE_libactivator.network.left-wifi_FORMAT" = "断开 %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT" = "断开指定的 Wi-Fi 网络连接";
 
+	"NEW_EVENT_TITLE_libactivator.icon.3d-touch" = "图标 3D Touch";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.3d-touch" = "用力点按某个应用程序的图标";
+	"EVENT_TITLE_libactivator.icon.3d-touch_FORMAT" = "%@ 图标 3D Touch";
+	"EVENT_DESCRIPTION_libactivator.icon.3d-touch_FORMAT" = "用力点按 %@ 主屏幕图标";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "系统动作";
