@@ -210,6 +210,7 @@
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "藍牙装置";
 	"EVENT_GROUP_TITLE_Battery Level" = "電池電量";
 	"EVENT_GROUP_TITLE_Riker" = "Riker";
+	"EVENT_GROUP_TITLE_3D Touch" = "3D Touch";
 
 	/* Events */
 
@@ -533,6 +534,18 @@
 
 	"EVENT_TITLE_com.rpetrich.riker.right" = "右側按鈕";
 	"EVENT_DESCRIPTION_com.rpetrich.riker.right" = "按下 Riker 手勢區域的右側按鈕";
+
+	"EVENT_TITLE_libactivator.force-touch.screen-bottom" = "螢幕底部中央";
+	"EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom" = "強制點按螢幕底部邊緣的中央區域";
+
+	"EVENT_TITLE_libactivator.force-touch.screen-bottom-left" = "螢幕左下部";
+	"EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom-left" = "強制點按螢幕底部邊緣的左側區域";
+
+	"EVENT_TITLE_libactivator.force-touch.screen-bottom-right" = "螢幕右下部";
+	"EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom-right" = "強制點按螢幕底部邊緣的右側區域";
+
+	"EVENT_TITLE_libactivator.force-touch.statusbar" = "狀態列";
+	"EVENT_DESCRIPTION_libactivator.force-touch.statusbar" = "強制點按狀態列";
 
 	/* Custom Events */
 

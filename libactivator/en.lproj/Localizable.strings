@@ -210,6 +210,7 @@
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Bluetooth Devices";
 	"EVENT_GROUP_TITLE_Battery Level" = "Battery Level";
 	"EVENT_GROUP_TITLE_Riker" = "Riker";
+	"EVENT_GROUP_TITLE_3D Touch" = "3D Touch";
 
 	/* Events */
 
@@ -533,6 +534,18 @@
 
 	"EVENT_TITLE_com.rpetrich.riker.right" = "Right Button";
 	"EVENT_DESCRIPTION_com.rpetrich.riker.right" = "Press right button on Riker gesture area";
+
+	"EVENT_TITLE_libactivator.force-touch.screen-bottom" = "Screen Bottom Center";
+	"EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom" = "Force-touch on the screen's bottom center edge";
+
+	"EVENT_TITLE_libactivator.force-touch.screen-bottom-left" = "Screen Bottom Left";
+	"EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom-left" = "Force-touch on the screen's bottom left edge";
+
+	"EVENT_TITLE_libactivator.force-touch.screen-bottom-right" = "Screen Bottom Right";
+	"EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom-right" = "Force-touch on the screen's bottom right edge";
+
+	"EVENT_TITLE_libactivator.force-touch.statusbar" = "Status Bar";
+	"EVENT_DESCRIPTION_libactivator.force-touch.statusbar" = "Force-touch on the statusbar";
 
 	/* Custom Events */
 
