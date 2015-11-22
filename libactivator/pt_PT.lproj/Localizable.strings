@@ -29,6 +29,7 @@
 	"UNKNOWN_ASSIGNMENT" = "(desconhecido)";
 	"SEARCH" = "Pesquisar";
 	"MORE" = "Mais";
+	"BUILD" = "Criar";
 
 	"ENABLED" = "Activado";
 	"DISABLED" = "Desactivado";
@@ -83,10 +84,12 @@
 	"Custom Events" = "Eventos personalizados";
 	"Build New Events" = "Criar novos eventos";
 	"New Event" = "Novo evento";
+	"Build Events" = "Criar eventos";
 
 	"Custom Actions" = "Acções personalizadas";
 	"Build New Actions" = "Criar novas Acções";
 	"New Action" = "Nova acção";
+	"Build Actions" = "Criar acções";
 
 	"MAIL_SENDER" = "Remetente";
 	"MAIL_SENDER_UNKNOWN" = "Desconhecido";
@@ -625,6 +628,11 @@
 	"NEW_EVENT_TITLE_libactivator.network.left-wifi_FORMAT" = "Desligado de %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT" = "Desligado de uma rede Wi-Fi específica";
 
+	"NEW_EVENT_TITLE_libactivator.icon.3d-touch" = "3D Touch num ícone";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.3d-touch" = "Ao tocar com força num ícone específico";
+	"EVENT_TITLE_libactivator.icon.3d-touch_FORMAT" = "3D Touch em %@";
+	"EVENT_DESCRIPTION_libactivator.icon.3d-touch_FORMAT" = "Toque com força no ícone %@";
+
 	/* Listener Groups */
 
 	"LISTENER_GROUP_TITLE_System Actions" = "Acções do sistema";
@@ -657,6 +665,7 @@
 	"LISTENER_GROUP_TITLE_Message Alert" = "Messagem de alerta";
 	"LISTENER_GROUP_TITLE_Ask Siri" = "Pergunte à Siri";
 	"LISTENER_GROUP_TITLE_Run Command" = "Executar comando";
+	"LISTENER_GROUP_TITLE_Application Shortcuts" = "Atalhos de aplicações";
 
 	/* Listener Names */
 
@@ -675,6 +684,9 @@
 
 	"LISTENER_TITLE_libactivator.system.powerdown" = "Desligar";
 	"LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Desliga imediatamente o dispositivo";
+
+	"LISTENER_TITLE_libactivator.system.power-menu" = "Botão de desligar";
+	"LISTENER_DESCRIPTION_libactivator.system.power-menu" = "Mostra o botão de desligar";
 
 	"LISTENER_TITLE_libactivator.system.reboot" = "Reiniciar";
 	"LISTENER_DESCRIPTION_libactivator.system.reboot" = "Reinicia imediatamente o dispositivo";
@@ -747,6 +759,9 @@
 
 	"LISTENER_TITLE_libactivator.audio.increase-volume" = "Aumentar volume";
 	"LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "Aumenta o volume de áudio";
+
+	"LISTENER_TITLE_libactivator.audio.launch-playing-app" =  "Abrir app em reprodução";
+	"LISTENER_DESCRIPTION_libactivator.audio.launch-playing-app" = "Abre a aplicação que está a reproduzir áudio";
 
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Mostrar barra de volume";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Mostra o ajuste de volume";
@@ -961,6 +976,8 @@
 	"LISTENER_TITLE_libactivator.command.run_FORMAT" = "Executar comando \"%@\"";
 	"COMMAND" = "Comando";
 	"RUN_COMMAND_WARNING" = "Comandos personalizados podem potencialmente danificar o seu dispositivo se utilizados de modo impróprio. Continue com cuidado.";
+
+	"LISTENER_DESCRIPTION_application_shortcut_FORMAT" = "Activar atalho da aplicação %@";
 
 	"LISTENER_TITLE_toggle_3G" = "3G";
 	"LISTENER_TITLE_toggle_Bluetooth" = "Bluetooth";
