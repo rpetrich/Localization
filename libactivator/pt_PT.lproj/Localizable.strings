@@ -584,6 +584,11 @@
 	"EVENT_TITLE_libactivator.icon.tap.double_FORMAT" = "Tocar duas vezes em %@";
 	"EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT" = "Toque duas vezes no ícone %@";
 
+	"NEW_EVENT_TITLE_libactivator.icon.3d-touch" = "3D Touch num ícone";
+	"NEW_EVENT_DESCRIPTION_libactivator.icon.3d-touch" = "Ao tocar com força num ícone específico";
+	"EVENT_TITLE_libactivator.icon.3d-touch_FORMAT" = "3D Touch em %@";
+	"EVENT_DESCRIPTION_libactivator.icon.3d-touch_FORMAT" = "Toque com força no ícone %@";
+
 	"NEW_EVENT_TITLE_libactivator.scheduled" = "Agendado";
 	"NEW_EVENT_DESCRIPTION_libactivator.scheduled" = "No dia da semana e hora especificados";
 	"EVENT_DESCRIPTION_libactivator.scheduled" = "De %@";
@@ -642,11 +647,6 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Ao desligar de uma rede Wi-Fi";
 	"NEW_EVENT_TITLE_libactivator.network.left-wifi_FORMAT" = "Desligado de %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT" = "Desligado de uma rede Wi-Fi específica";
-
-	"NEW_EVENT_TITLE_libactivator.icon.3d-touch" = "3D Touch num ícone";
-	"NEW_EVENT_DESCRIPTION_libactivator.icon.3d-touch" = "Ao tocar com força num ícone específico";
-	"EVENT_TITLE_libactivator.icon.3d-touch_FORMAT" = "3D Touch em %@";
-	"EVENT_DESCRIPTION_libactivator.icon.3d-touch_FORMAT" = "Toque com força no ícone %@";
 
 	/* Listener Groups */
 
