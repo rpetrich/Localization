@@ -30,6 +30,8 @@
 	"SEARCH" = "Pesquisar";
 	"MORE" = "Mais";
 	"BUILD" = "Criar";
+	"ASSIGNMENT_WARNING" = "Aviso de atribuição";
+	"EVENT_ASSIGNMENT_WARNING_FINGERPRINT" = "Atribuir impressões digitais específicas requer que o sensor de impressão digital esteja configurado num modo de correspondência mais lento e preciso. Isto reduz a performance e a fiabilidade do atalho predefinido para o Acesso fácil e de outras atribuições do Activator ao sensor de impressão digital.";
 
 	"ENABLED" = "Activado";
 	"DISABLED" = "Desactivado";
@@ -208,6 +210,7 @@
 	"EVENT_GROUP_TITLE_Bluetooth Devices" = "Dispositivos Bluetooth";
 	"EVENT_GROUP_TITLE_Battery Level" = "Nível de bateria";
 	"EVENT_GROUP_TITLE_Riker" = "Riker";
+	"EVENT_GROUP_TITLE_3D Touch" = "3D Touch";
 
 	/* Events */
 
@@ -532,6 +535,18 @@
 	"EVENT_TITLE_com.rpetrich.riker.right" = "Botão direito";
 	"EVENT_DESCRIPTION_com.rpetrich.riker.right" = "Pressione o botão direito na área de gestos do Riker";
 
+	"EVENT_TITLE_libactivator.force-touch.screen-bottom" = "Fundo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom" = "Tocar com força no fundo do ecrã";
+
+	"EVENT_TITLE_libactivator.force-touch.screen-bottom-left" = "Fundo esquerdo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom-left" = "Tocar com força no fundo esquerdo do ecrã";
+
+	"EVENT_TITLE_libactivator.force-touch.screen-bottom-right" = "Fundo direito do ecrã";
+	"EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom-right" = "Tocar com força no fundo direito do ecrã";
+
+	"EVENT_TITLE_libactivator.force-touch.statusbar" = "Barra de estado";
+	"EVENT_DESCRIPTION_libactivator.force-touch.statusbar" = "Tocar com força na barra de estado";
+
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "Abrir aplicação";
@@ -666,6 +681,7 @@
 	"LISTENER_GROUP_TITLE_Ask Siri" = "Pergunte à Siri";
 	"LISTENER_GROUP_TITLE_Run Command" = "Executar comando";
 	"LISTENER_GROUP_TITLE_Application Shortcuts" = "Atalhos de aplicações";
+	"LISTENER_GROUP_TITLE_Vibration" = "Vibração";
 
 	/* Listener Names */
 
@@ -721,7 +737,7 @@
 	"LISTENER_TITLE_libactivator.system.back" = "Recuar";
 	"LISTENER_DESCRIPTION_libactivator.system.back" = "Recua um ecrã";
 
-	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Mostrar barra \"A reproduzir\"";
+	"LISTENER_TITLE_libactivator.system.show-now-playing-bar" = "Mostrar ecrã A reproduzir";
 	"LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar" = "Mostra os controlos de reprodução";
 
 	"LISTENER_TITLE_libactivator.system.nothing" = "Não fazer nada";
@@ -733,11 +749,20 @@
 	"LISTENER_TITLE_libactivator.system.activate-notification-center" = "Activar central de notificações";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-notification-center" = "Mostra a central de notificações";
 
-	"LISTENER_TITLE_libactivator.system.activate-reachability" = "Activar \"Acesso fácil\"";
+	"LISTENER_TITLE_libactivator.system.activate-reachability" = "Activar Acesso fácil";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "Desloca o ecrã um pouco para baixo";
 
 	"LISTENER_TITLE_libactivator.system.vibrate" = "Vibrar";
 	"LISTENER_DESCRIPTION_libactivator.system.vibrate" = "Acciona a vibração do dispositivo";
+
+	"LISTENER_TITLE_libactivator.system.haptic.flick" = "Flick";
+	"LISTENER_DESCRIPTION_libactivator.system.haptic.flick" = "Acciona o flick do Taptic Engine";
+
+	"LISTENER_TITLE_libactivator.system.haptic.quirk" = "Quirk";
+	"LISTENER_DESCRIPTION_libactivator.system.haptic.quirk" = "Acciona o quirk do Taptic Engine";
+
+	"LISTENER_TITLE_libactivator.system.haptic.tap" = "Tocar";
+	"LISTENER_DESCRIPTION_libactivator.system.haptic.tap" = "Acciona o toque do Taptic Engine";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Compor tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Abre o compositor do Twitter";
@@ -767,7 +792,7 @@
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Mostra o ajuste de volume";
 
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "Controlos de reprodução";
-	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Mostra janela \"A reproduzir\"";
+	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Mostra ecrã A reproduzir";
 
 	"LISTENER_TITLE_libactivator.ipod.next-track" = "Música seguinte";
 	"LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "Muda para a música seguinte";
