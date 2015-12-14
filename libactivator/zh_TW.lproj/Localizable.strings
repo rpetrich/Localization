@@ -120,6 +120,13 @@
 	"IF_ACTIVATED_WHILE_PASSCODE_LOCKED" = "當密碼鎖定時激活";
 	"OPEN_APP_IMMEDIATELY" = "立即打開應用程式";
 
+	"Multi-touch Gestures" = "多點觸摸手勢";
+	"Stop delivering touches" = "停止傳遞觸摸";
+	"App receives \"touches cancelled\" event" = "應用程式接收『觸摸取消』事件";
+	"Continue delivering touches" = "繼續傳遞觸摸";
+	"App receives subsequent touch events" = "應用程式接收後續觸摸事件";
+	"When Event is Handled" = "事件被處理時";
+
 	/* Bookmarks */
 
 	"BOOKMARKS" = "書籤";
@@ -544,6 +551,12 @@
 	"EVENT_TITLE_libactivator.force-touch.screen-bottom-right" = "螢幕右下部";
 	"EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom-right" = "強制點按螢幕底部邊緣的右側區域";
 
+	"EVENT_TITLE_libactivator.force-touch.screen-left" = "螢幕左側邊緣";
+	"EVENT_DESCRIPTION_libactivator.force-touch.screen-left" = "強制點按螢幕左側邊緣區域";
+
+	"EVENT_TITLE_libactivator.force-touch.screen-right" = "螢幕右側邊緣";
+	"EVENT_DESCRIPTION_libactivator.force-touch.screen-right" = "強制點按螢幕右側邊緣區域";
+
 	"EVENT_TITLE_libactivator.force-touch.statusbar" = "狀態列";
 	"EVENT_DESCRIPTION_libactivator.force-touch.statusbar" = "強制點按狀態列";
 
@@ -764,6 +777,9 @@
 
 	"LISTENER_TITLE_libactivator.system.haptic.tap" = "輕按";
 	"LISTENER_DESCRIPTION_libactivator.system.haptic.tap" = "觸發 Taptic Engine 的輕按效果";
+
+	"LISTENER_TITLE_libactivator.system.clear-switcher" = "清理應用程式";
+	"LISTENER_DESCRIPTION_libactivator.system.clear-switcher" = "退出全部應用程式";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "編寫推文";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "啟動推文編輯器";
