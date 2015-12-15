@@ -120,6 +120,13 @@
 	"IF_ACTIVATED_WHILE_PASSCODE_LOCKED" = "Se for activada enquando bloqueado por código";
 	"OPEN_APP_IMMEDIATELY" = "Abrir app imediatamente";
 
+	"Multi-touch Gestures" = "Gestos Multi-Toque";
+	"Stop delivering touches" = "Deixar de receber toques";
+	"App receives \"touches cancelled\" event" = "A app recebe o evento \"toques cancelados\"";
+	"Continue delivering touches" = "Continuar a receber toques";
+	"App receives subsequent touch events" = "A app recebe os eventos de toque subsequetes";
+	"When Event is Handled" = "Quando ocorre evento";
+
 	/* Bookmarks */
 
 	"BOOKMARKS" = "Marcadores";
@@ -544,6 +551,12 @@
 	"EVENT_TITLE_libactivator.force-touch.screen-bottom-right" = "Fundo direito do ecrã";
 	"EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom-right" = "Tocar com força no fundo direito do ecrã";
 
+	"EVENT_TITLE_libactivator.force-touch.screen-left" = "Bordo esquerdo do ecrã";
+	"EVENT_DESCRIPTION_libactivator.force-touch.screen-left" = "Tocar com força no bordo esquerdo do ecrã";
+
+	"EVENT_TITLE_libactivator.force-touch.screen-right" = "Bordo direito do ecrã";
+	"EVENT_DESCRIPTION_libactivator.force-touch.screen-right" = "Tocar com força no bordo direito do ecrã";
+
 	"EVENT_TITLE_libactivator.force-touch.statusbar" = "Barra de estado";
 	"EVENT_DESCRIPTION_libactivator.force-touch.statusbar" = "Tocar com força na barra de estado";
 
@@ -763,6 +776,9 @@
 
 	"LISTENER_TITLE_libactivator.system.haptic.tap" = "Tocar";
 	"LISTENER_DESCRIPTION_libactivator.system.haptic.tap" = "Acciona o toque do Taptic Engine";
+
+	"LISTENER_TITLE_libactivator.system.clear-switcher" = "Limpar multitarefas";   
+	"LISTENER_DESCRIPTION_libactivator.system.clear-switcher" = "Remove todas as apps das multitarefas";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Compor tweet";
 	"LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Abre o compositor do Twitter";
