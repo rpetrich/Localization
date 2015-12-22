@@ -777,7 +777,7 @@
 	"LISTENER_TITLE_libactivator.system.haptic.tap" = "Tocar";
 	"LISTENER_DESCRIPTION_libactivator.system.haptic.tap" = "Acciona o toque do Taptic Engine";
 
-	"LISTENER_TITLE_libactivator.system.clear-switcher" = "Limpar multitarefas";   
+	"LISTENER_TITLE_libactivator.system.clear-switcher" = "Limpar multitarefas";
 	"LISTENER_DESCRIPTION_libactivator.system.clear-switcher" = "Remove todas as apps das multitarefas";
 
 	"LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Compor tweet";
@@ -963,6 +963,12 @@
 	"LISTENER_TITLE_libactivator.keyboard.dictation" = "Ditado";
 	"LISTENER_DESCRIPTION_libactivator.keyboard.dictation" = "Dita para uma caixa de texto activa";
 
+	"LISTENER_TITLE_libactivator.screen.brightness.decrease" = "Diminuir brilho";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness.decrease" = "Diminui o brilho do ecrã";
+
+	"LISTENER_TITLE_libactivator.screen.brightness.increase" = "Aumentar brilho";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness.increase" = "Aumenta o brilho do ecrã";
+
 	"LISTENER_DESCRIPTION_libactivator.call" = "Liga a";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "Envia email para";
 	"LISTENER_DESCRIPTION_libactivator.text" = "Envia mensagem para";
@@ -992,7 +998,7 @@
 	"LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Dizer \"%@\"";
 	"LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT" = "O dispositivo diz em voz alta um texto personalizado";
 	"TEXT" = "Texto";
-	
+
 	"SET_BRIGHTNESS_TO_FORMAT" = "Define brilho para %@%%";
 	"NEW_LISTENER_TITLE_libactivator.screen.brightness" = "Definir brilho";
 	"NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness" = "Aplica um brilho específico ao ecrã";
@@ -1092,11 +1098,11 @@
 
 	"FAILED_TO_OPEN_SETTINGS_FILE" = "Falhou ao abrir o ficheiro de definições para gravação";
 	"FAILED_TO_WRITE_SETTINGS_FILE" = "Falhou ao gravar no ficheiro de definições: ";
-	
+
 	"PROFILES" = "Perfis";
 	"PROFILES_DETAIL" = "Definir perfis com atribuições personalizadas";
 	"ADD_NEW_PROFILE" = "Adicionar novo perfil";
 	"NEW_PROFILE" = "Novo perfil";
 	"PROFILE_NAME" = "Nome do perfil";
-	"LISTENER_TITLE_libactivator.profile.Default" = "Predefinido";	
+	"LISTENER_TITLE_libactivator.profile.Default" = "Predefinido";
 }
