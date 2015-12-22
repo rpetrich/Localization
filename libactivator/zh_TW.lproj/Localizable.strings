@@ -856,6 +856,12 @@
 	"LISTENER_TITLE_com.rpetrich.voicememotoggle" = "語音備忘錄";
 	"LISTENER_DESCRIPTION_com.rpetrich.voicememotoggle" = "錄製語音備忘錄";
 
+	"LISTENER_TITLE_libactivator.screen.brightness.decrease" = "調低亮度";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness.decrease" = "將螢幕亮度調低一格";
+
+	"LISTENER_TITLE_libactivator.screen.brightness.increase" = "調高亮度";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness.increase" = "將螢幕亮度調高一格";
+
 	"LISTENER_DESCRIPTION_libactivator.call" = "呼叫";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "發郵件給";
 	"LISTENER_DESCRIPTION_libactivator.text" = "發訊息給";
