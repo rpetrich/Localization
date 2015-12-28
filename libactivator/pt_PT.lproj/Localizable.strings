@@ -942,7 +942,7 @@
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Abre Definições em Wi-Fi";
 
-	"LISTENER_TITLE_libactivator.camera.invoke-shutter" = "Invocar obturador";
+	"LISTENER_TITLE_libactivator.camera.invoke-shutter" = "Obturador da câmara";
 	"LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "Acciona a função de obturador da Câmara";
 
 	"LISTENER_TITLE_com.rpetrich.activoice.apps" = "Google Apps";
