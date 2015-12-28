@@ -963,6 +963,12 @@
 	"LISTENER_TITLE_libactivator.keyboard.dictation" = "Dictation";
 	"LISTENER_DESCRIPTION_libactivator.keyboard.dictation" = "Dictate into active text field";
 
+	"LISTENER_TITLE_libactivator.screen.brightness.decrease" = "Decrease Brightness";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness.decrease" = "Decrease screen brightness by one step";
+
+	"LISTENER_TITLE_libactivator.screen.brightness.increase" = "Increase Brightness";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness.increase" = "Increase screen brightness by one step";
+
 	"LISTENER_DESCRIPTION_libactivator.call" = "Call";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "Mail";
 	"LISTENER_DESCRIPTION_libactivator.text" = "Message";

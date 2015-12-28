@@ -856,6 +856,12 @@
 	"LISTENER_TITLE_com.rpetrich.voicememotoggle" = "语音备忘录";
 	"LISTENER_DESCRIPTION_com.rpetrich.voicememotoggle" = "录制语音备忘录";
 
+	"LISTENER_TITLE_libactivator.screen.brightness.decrease" = "调低亮度";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness.decrease" = "将屏幕亮度调低一格";
+
+	"LISTENER_TITLE_libactivator.screen.brightness.increase" = "调高亮度";
+	"LISTENER_DESCRIPTION_libactivator.screen.brightness.increase" = "将屏幕亮度调高一格";
+
 	"LISTENER_DESCRIPTION_libactivator.call" = "呼叫";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "发邮件给";
 	"LISTENER_DESCRIPTION_libactivator.text" = "发信息给";
