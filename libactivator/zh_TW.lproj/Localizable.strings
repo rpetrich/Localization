@@ -27,6 +27,7 @@
 	"RESET_ALERT_CONTINUE" = "重置";
 	"MULTIPLE_ASSIGNMENTS" = "【多個】";
 	"UNKNOWN_ASSIGNMENT" = "【未知】";
+	"(unknown)" = "【未知】";
 	"SEARCH" = "搜尋";
 	"MORE" = "更多";
 	"BUILD"= "創建";
@@ -172,6 +173,16 @@
 	"JUST_ONE_LISTENER_ASSIGNMENT" = "僅 %@";
 	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "可同時分配 %@ 和 %@。";
 	"MULTIPLE_ASSIGNMENTS_TITLE" = "多重分配";
+
+	"ASSIGN_AFTER_PAUSE" = "分配在暫停後";
+	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_WITH_PAUSE_MESSAGE" = "使用暫停功能可同時分配 %@ 和 %@。";
+	"MULTIPLE_ASSIGNMENTS_WITH_PAUSE_TITLE" = "多重分配";
+
+	"CANT_REMOVE_PAUSE_TITLE" = "無法移除暫停";
+	"CANT_REMOVE_PAUSE_MESSAGE" = "移除該暫停會導致不兼容的動作同時執行。";
+
+	"PAUSE_ONE_SECOND_DIVIDER" = "— 暫停 1 秒 —";
+	"PAUSE_N_SECONDS_DIVIDER" = "— 暫停 %d 秒 —";
 
 	/* Incompatible Assignment */
 
@@ -696,6 +707,7 @@
 	"LISTENER_GROUP_TITLE_Run Command" = "執行命令";
 	"LISTENER_GROUP_TITLE_Application Shortcuts" = "快速動作";
 	"LISTENER_GROUP_TITLE_Vibration" = "振動";
+	"LISTENER_GROUP_TITLE_Clock" = "時鐘";
 
 	/* Listener Names */
 
@@ -861,6 +873,33 @@
 
 	"LISTENER_TITLE_libactivator.screen.brightness.increase" = "調高亮度";
 	"LISTENER_DESCRIPTION_libactivator.screen.brightness.increase" = "將螢幕亮度調高一格";
+
+	"LISTENER_TITLE_libactivator.phone.answer-call" = "接聽電話";
+	"LISTENER_DESCRIPTION_libactivator.phone.answer-call" = "接聽撥入電話或繼續保留中的通話";
+
+	"LISTENER_TITLE_libactivator.phone.disconnect-call" = "掛斷電話";
+	"LISTENER_DESCRIPTION_libactivator.phone.disconnect-call" = "掛斷活動中的電話或撥入電話";
+
+	"LISTENER_TITLE_libactivator.notes.compose-note" = "編寫備忘錄";
+	"LISTENER_DESCRIPTION_libactivator.notes.compose-note" = "啟動備忘錄編輯器";
+
+	"LISTENER_TITLE_libactivator.system.local-back" = "本地返回";
+	"LISTENER_DESCRIPTION_libactivator.system.local-back" = "在當前應用程序中返回到上一個螢幕";
+
+	"LISTENER_TITLE_libactivator.clock.alarm" = "鬧鐘";
+	"LISTENER_DESCRIPTION_libactivator.clock.alarm" = "打開時鐘的鬧鐘頁面";
+
+	"LISTENER_TITLE_libactivator.clock.stopwatch" = "碼錶";
+	"LISTENER_DESCRIPTION_libactivator.clock.stopwatch" = "打開時鐘的碼錶頁面";
+
+	"LISTENER_TITLE_libactivator.clock.timer" = "計時器";
+	"LISTENER_DESCRIPTION_libactivator.clock.timer" = "打開時鐘的計時器頁面";
+
+	"LISTENER_TITLE_libactivator.clock.world-clock" = "世界時鐘";
+	"LISTENER_DESCRIPTION_libactivator.clock.world-clock" = "打開時鐘的世界時鐘頁面";
+
+	"LISTENER_TITLE_libactivator.settings.battery" = "電池";
+	"LISTENER_DESCRIPTION_libactivator.settings.battery" = "打開設置的電池頁面";
 
 	"LISTENER_DESCRIPTION_libactivator.call" = "呼叫";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "發郵件給";

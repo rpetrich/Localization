@@ -27,6 +27,7 @@
 	"RESET_ALERT_CONTINUE" = "Reset";
 	"MULTIPLE_ASSIGNMENTS" = "(multiple)";
 	"UNKNOWN_ASSIGNMENT" = "(unknown)";
+	"(unknown)" = "(unknown)";
 	"SEARCH" = "Search";
 	"MORE" = "More";
 	"BUILD" = "Build";
@@ -172,6 +173,16 @@
 	"JUST_ONE_LISTENER_ASSIGNMENT" = "Just %@";
 	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "%@ and %@ may be assigned simultaneously.";
 	"MULTIPLE_ASSIGNMENTS_TITLE" = "Multiple Assignments";
+
+	"ASSIGN_AFTER_PAUSE" = "Assign After Pause";
+	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_WITH_PAUSE_MESSAGE" = "%@ and %@ may be assigned simultaneously, if a pause is added.";
+	"MULTIPLE_ASSIGNMENTS_WITH_PAUSE_TITLE" = "Multiple Assignments";
+
+	"CANT_REMOVE_PAUSE_TITLE" = "Can't Remove Pause";
+	"CANT_REMOVE_PAUSE_MESSAGE" = "Removing this pause would cause two incompatible actions to be performed simultaneously.";
+
+	"PAUSE_ONE_SECOND_DIVIDER" = "— pause 1 second —";
+	"PAUSE_N_SECONDS_DIVIDER" = "— pause %d seconds —";
 
 	/* Incompatible Assignment */
 
@@ -695,6 +706,7 @@
 	"LISTENER_GROUP_TITLE_Run Command" = "Run Command";
 	"LISTENER_GROUP_TITLE_Application Shortcuts" = "Application Shortcuts";
 	"LISTENER_GROUP_TITLE_Vibration" = "Vibration";
+	"LISTENER_GROUP_TITLE_Clock" = "Clock";
 
 	/* Listener Names */
 
@@ -968,6 +980,33 @@
 
 	"LISTENER_TITLE_libactivator.screen.brightness.increase" = "Increase Brightness";
 	"LISTENER_DESCRIPTION_libactivator.screen.brightness.increase" = "Increase screen brightness by one step";
+
+	"LISTENER_TITLE_libactivator.phone.answer-call" = "Answer Call";
+	"LISTENER_DESCRIPTION_libactivator.phone.answer-call" = "Answer incoming or resume held call";
+
+	"LISTENER_TITLE_libactivator.phone.disconnect-call" = "Disconnect Call";
+	"LISTENER_DESCRIPTION_libactivator.phone.disconnect-call" = "Hang up on active or incoming call";
+
+	"LISTENER_TITLE_libactivator.notes.compose-note" = "Compose Note";
+	"LISTENER_DESCRIPTION_libactivator.notes.compose-note" = "Launch modal notes composer";
+
+	"LISTENER_TITLE_libactivator.system.local-back" = "Local Back";
+	"LISTENER_DESCRIPTION_libactivator.system.local-back" = "Go back one screen in the current app";
+
+	"LISTENER_TITLE_libactivator.clock.alarm" = "Alarm";
+	"LISTENER_DESCRIPTION_libactivator.clock.alarm" = "Open Clock app to Alarm page";
+
+	"LISTENER_TITLE_libactivator.clock.stopwatch" = "Stopwatch";
+	"LISTENER_DESCRIPTION_libactivator.clock.stopwatch" = "Open Clock app to Stopwatch page";
+
+	"LISTENER_TITLE_libactivator.clock.timer" = "Timer";
+	"LISTENER_DESCRIPTION_libactivator.clock.timer" = "Open Clock app to Timer page";
+
+	"LISTENER_TITLE_libactivator.clock.world-clock" = "World Clock";
+	"LISTENER_DESCRIPTION_libactivator.clock.world-clock" = "Open Clock app to World Clock page";
+
+	"LISTENER_TITLE_libactivator.settings.battery" = "Battery";
+	"LISTENER_DESCRIPTION_libactivator.settings.battery" = "Open Settings to Battery page";
 
 	"LISTENER_DESCRIPTION_libactivator.call" = "Call";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "Mail";
