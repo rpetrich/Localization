@@ -899,7 +899,7 @@
 	"LISTENER_DESCRIPTION_libactivator.clock.world-clock" = "打開時鐘的世界時鐘頁面";
 
 	"LISTENER_TITLE_libactivator.settings.battery" = "電池";
-	"LISTENER_DESCRIPTION_libactivator.settings.battery" = "打開設置的電池頁面";
+	"LISTENER_DESCRIPTION_libactivator.settings.battery" = "打開設定的電池頁面";
 
 	"LISTENER_DESCRIPTION_libactivator.call" = "呼叫";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "發郵件給";
