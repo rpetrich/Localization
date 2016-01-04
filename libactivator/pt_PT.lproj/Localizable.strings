@@ -27,6 +27,7 @@
 	"RESET_ALERT_CONTINUE" = "Repor";
 	"MULTIPLE_ASSIGNMENTS" = "(múltiplos)";
 	"UNKNOWN_ASSIGNMENT" = "(desconhecido)";
+	"(unknown)" = "(desconhecido)";
 	"SEARCH" = "Pesquisar";
 	"MORE" = "Mais";
 	"BUILD" = "Criar";
@@ -172,6 +173,16 @@
 	"JUST_ONE_LISTENER_ASSIGNMENT" = "Apenas %@";
 	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "%@ e %@ podem ser atribuídos simultaneamente.";
 	"MULTIPLE_ASSIGNMENTS_TITLE" = "Atribuições múltiplas";
+
+	"ASSIGN_AFTER_PAUSE" = "Atribuir depois de pausa";
+	"MAY_BE_ASSIGNED_SIMULTANEOUSLY_WITH_PAUSE_MESSAGE" = "%@ e %@ podem ser atribuídos simultaneamente, se for adicionada uma pausa.";
+	"MULTIPLE_ASSIGNMENTS_WITH_PAUSE_TITLE" = "Atribuições múltiplas";
+
+	"CANT_REMOVE_PAUSE_TITLE" = "Não pode remover pausa";
+	"CANT_REMOVE_PAUSE_MESSAGE" = "Ao remover esta pausa seriam executadas simultaneamente duas acções incompatíveis.";
+
+	"PAUSE_ONE_SECOND_DIVIDER" = "— pausar 1 segundo —";
+	"PAUSE_N_SECONDS_DIVIDER" = "— pausar %d segundos —";
 
 	/* Incompatible Assignment */
 
@@ -695,6 +706,7 @@
 	"LISTENER_GROUP_TITLE_Run Command" = "Executar comando";
 	"LISTENER_GROUP_TITLE_Application Shortcuts" = "Atalhos de aplicações";
 	"LISTENER_GROUP_TITLE_Vibration" = "Vibração";
+	"LISTENER_GROUP_TITLE_Clock" = "Relógio";
 
 	/* Listener Names */
 
@@ -968,6 +980,33 @@
 
 	"LISTENER_TITLE_libactivator.screen.brightness.increase" = "Aumentar brilho";
 	"LISTENER_DESCRIPTION_libactivator.screen.brightness.increase" = "Aumenta o brilho do ecrã";
+
+	"LISTENER_TITLE_libactivator.phone.answer-call" = "Aceitar chamada";
+	"LISTENER_DESCRIPTION_libactivator.phone.answer-call" = "Aceita ou retoma chamada";
+
+	"LISTENER_TITLE_libactivator.phone.disconnect-call" = "Desligar chamada";
+	"LISTENER_DESCRIPTION_libactivator.phone.disconnect-call" = "Desliga ou recusa chamada";
+
+	"LISTENER_TITLE_libactivator.notes.compose-note" = "Compor nota";
+	"LISTENER_DESCRIPTION_libactivator.notes.compose-note" = "Abre o compositor de nota";
+
+	"LISTENER_TITLE_libactivator.system.local-back" = "Voltar a trás";
+	"LISTENER_DESCRIPTION_libactivator.system.local-back" = "Volta ao ecrã anterior na aplicação actual";
+
+	"LISTENER_TITLE_libactivator.clock.alarm" = "Alarme";
+	"LISTENER_DESCRIPTION_libactivator.clock.alarm" = "Abre Relógio no separador Alarme";
+
+	"LISTENER_TITLE_libactivator.clock.stopwatch" = "Cronómetro";
+	"LISTENER_DESCRIPTION_libactivator.clock.stopwatch" = "Abre Relógio no separador Cronómetro";
+
+	"LISTENER_TITLE_libactivator.clock.timer" = "Temporizador";
+	"LISTENER_DESCRIPTION_libactivator.clock.timer" = "Abre Relógio no separador Temporizador";
+
+	"LISTENER_TITLE_libactivator.clock.world-clock" = "Relógio";
+	"LISTENER_DESCRIPTION_libactivator.clock.world-clock" = "Abre Relógio no separador Relógio";
+
+	"LISTENER_TITLE_libactivator.settings.battery" = "Bateria";
+	"LISTENER_DESCRIPTION_libactivator.settings.battery" = "Abre Definições em Bateria";
 
 	"LISTENER_DESCRIPTION_libactivator.call" = "Liga a";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "Envia email para";
