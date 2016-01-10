@@ -104,6 +104,7 @@
 	"MESSAGE_ANY_SENDER"= "(any sender)";
 	"MESSAGE_MESSAGE" = "Message";
 	"MESSAGE_ANY_MESSAGE" = "(any message)";
+	"SHOW_AS_BANNER" = "Show as Banner";
 
 	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "Show banner when performing an action";
 	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "Show when performing an action";
@@ -1115,6 +1116,11 @@
 
 	"LISTENER_TITLE_com.rpetrich.smartclose" = "SmartClose";
 	"LISTENER_DESCRIPTION_com.rpetrich.smartclose" = "Close background apps, the smart way";
+
+	"LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:SEARCH" = "Search";
+	"LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:ONE_YEAR_AGO" = "One Year Ago";
+	"LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:MOST_RECENT_PHOTO" = "Most Recent Photo";
+	"LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:FAVORITES" = "Favorites";
 
 	"IN_CYDIA_WARNING" = "It is potentially dangerous to perform actions while Cydia is installing software.";
 
