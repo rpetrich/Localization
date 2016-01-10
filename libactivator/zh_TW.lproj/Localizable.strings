@@ -182,7 +182,7 @@
 	"CANT_REMOVE_PAUSE_MESSAGE" = "移除該暫停會導致不兼容的動作同時執行。";
 
 	"PAUSE_ONE_SECOND_DIVIDER" = "— 暫停 1 秒 —";
-	"PAUSE_N_SECONDS_DIVIDER" = "— 暫停 %d 秒 —";
+	"PAUSE_N_SECONDS_DIVIDER" = "— 暫停 %@ 秒 —";
 
 	/* Incompatible Assignment */
 

@@ -182,7 +182,7 @@
 	"CANT_REMOVE_PAUSE_MESSAGE" = "Ao remover esta pausa seriam executadas simultaneamente duas acções incompatíveis.";
 
 	"PAUSE_ONE_SECOND_DIVIDER" = "— pausar 1 segundo —";
-	"PAUSE_N_SECONDS_DIVIDER" = "— pausar %d segundos —";
+	"PAUSE_N_SECONDS_DIVIDER" = "— pausar %@ segundos —";
 
 	/* Incompatible Assignment */
 
