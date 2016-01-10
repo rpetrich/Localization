@@ -1,4 +1,5 @@
 {
+    "(unknown)" = "( Unbekannt )";
     ACTION = Aktion;
     "ACTION_BANNERS" = Mitteilungen;
     "ACTION_BANNERS_ALWAYS" = Immer;
@@ -30,9 +31,12 @@
     ASSIGNMENTS = Zuweisungen;
     "ASSIGNMENTS_DETAIL" = "\U00dcberblick \U00fcber zugewiesene Ereignisse";
     "ASSIGNMENT_WARNING" = Zuweisungswarnung;
+    "ASSIGN_AFTER_PAUSE" = "Nach einer Unterbrechung zuweisen";
     "ASSIGN_MULTIPLE" = "Mehrfach zuweisen";
     "AT_LEAST_ONE_ASSIGNMENT_REQUIRED" = "Mindestens ein Ereignis\nmuss zugewiesen werden \"%@\"";
     Advertisement = Werbung;
+    "App receives \"touches cancelled\" event" = "App erh\U00e4lt Ereignis \"Geste abbrechen\"";
+    "App receives subsequent touch events" = "App erh\U00e4lt mehrfache Ereignisgesten";
     "BACKUP_ASSIGNMENTS" = "Zuweisungen sichern";
     "BACKUP_ASSIGNMENTS_DETAIL" = "Ereignis- und Men\U00fczuweisungen sichern";
     "BACKUP_RESTORE_ASSIGNMENT_FOOTER" = "Die Sicherung wird in \"%@\" gespeichert und mit einem iTunes- oder iCloud-Backup gesichert.";
@@ -52,10 +56,13 @@
     "Build New Events" = "Neues Ereignis erstellen";
     CANCEL = Abbruch;
     "CANT_DEACTIVATE_REMAINING" = "Verbleibendes Ereignis\nkann nicht deaktiviert werden.";
+    "CANT_REMOVE_PAUSE_MESSAGE" = "Wenn diese Unterbrechung entfernt wird, kann es dazu f\U00fchren, dass zwei inkompatible Ereignisse gleichzeitig ausgef\U00fchrt werden.";
+    "CANT_REMOVE_PAUSE_TITLE" = "Unterbrechung kann nicht entfernt werden";
     COMMAND = Befehl;
     "CORRUPT_CANCEL" = Abbrechen;
     "CORRUPT_LAUNCH_CYDIA" = "Cydia starten";
     "CURRENTLY_ASSIGNED_TO" = "Derzeit zugewiesen :";
+    "Continue delivering touches" = "Weiterhin Gesten senden";
     "Custom Actions" = "Benutzerdefinierte Aktionen";
     "Custom Events" = "Benutzerdefinierte Ereignisse";
     DISABLED = Deaktiviert;
@@ -93,6 +100,8 @@
     "EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom" = "L\U00f6se 3D Touch am unteren-mittleren Rand aus";
     "EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom-left" = "L\U00f6se 3D Touch am unteren-linken Rand aus";
     "EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom-right" = "L\U00f6se 3D Touch am unteren-rechten Rand aus";
+    "EVENT_DESCRIPTION_libactivator.force-touch.screen-left" = "L\U00f6se 3D Touch am linken Rand aus";
+    "EVENT_DESCRIPTION_libactivator.force-touch.screen-right" = "L\U00f6se 3D Touch am rechten Rand aus";
     "EVENT_DESCRIPTION_libactivator.force-touch.statusbar" = "L\U00f6se 3D Touch auf der Statusleiste aus";
     "EVENT_DESCRIPTION_libactivator.four-finger.pinch" = "Bildschirm mit 4 Fingern zusammendr\U00fccken";
     "EVENT_DESCRIPTION_libactivator.four-finger.spread" = "Bildschirm mit 4 Fingern auseinanderziehen";
@@ -250,6 +259,8 @@
     "EVENT_TITLE_libactivator.force-touch.screen-bottom" = "Unterer Rand, Mitte dr\U00fccken";
     "EVENT_TITLE_libactivator.force-touch.screen-bottom-left" = "Unterer Rand, Links dr\U00fccken";
     "EVENT_TITLE_libactivator.force-touch.screen-bottom-right" = "Unterer Rand, Rechts dr\U00fccken";
+    "EVENT_TITLE_libactivator.force-touch.screen-left" = "Linken Rand dr\U00fccken";
+    "EVENT_TITLE_libactivator.force-touch.screen-right" = "Rechten Rand dr\U00fccken";
     "EVENT_TITLE_libactivator.force-touch.statusbar" = "Statusleiste dr\U00fccken";
     "EVENT_TITLE_libactivator.four-finger.pinch" = "Mit 4 Fingern zusammendr\U00fccken";
     "EVENT_TITLE_libactivator.four-finger.spread" = "Mit 4 Fingern auseinanderziehen";
@@ -383,6 +394,10 @@
     "LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT" = "Lautst\U00e4rke auf %@%% vom Maximum einstellen";
     "LISTENER_DESCRIPTION_libactivator.call" = "Rufe an :";
     "LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "Ausl\U00f6ser der Kamera-App bet\U00e4tigen";
+    "LISTENER_DESCRIPTION_libactivator.clock.alarm" = "Startet Uhr, Seite \"Wecker\"";
+    "LISTENER_DESCRIPTION_libactivator.clock.stopwatch" = "Startet Uhr, Seite \"Stopuhr\"";
+    "LISTENER_DESCRIPTION_libactivator.clock.timer" = "Startet Uhr, Seite \"Timer\"";
+    "LISTENER_DESCRIPTION_libactivator.clock.world-clock" = "Startet Uhr, Seite \"Weltuhr\"";
     "LISTENER_DESCRIPTION_libactivator.facebook.compose-post" = "Einen Beitrag auf Facebook verfassen";
     "LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Zeigt die Medien-Steuerelemente an";
     "LISTENER_DESCRIPTION_libactivator.ipod.next-track" = "Springe zum n\U00e4chsten Titel";
@@ -397,16 +412,21 @@
     "LISTENER_DESCRIPTION_libactivator.mail" = "E-Mail an :";
     "LISTENER_DESCRIPTION_libactivator.mail.compose-message" = "Eine neue E-Mail verfassen";
     "LISTENER_DESCRIPTION_libactivator.message.show_FORMAT" = "Zeige benutzerdefinierte Warnmeldung";
+    "LISTENER_DESCRIPTION_libactivator.notes.compose-note" = "Eine neue Notiz verfassen";
+    "LISTENER_DESCRIPTION_libactivator.phone.answer-call" = "Eingehenden Anruf annehmen oder Gehaltenen fortsetzen";
     "LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Startet Telefon, Seite \"Kontakte\"";
     "LISTENER_DESCRIPTION_libactivator.phone.favorites" = "Startet Telefon, Seite \"Favoriten\"";
     "LISTENER_DESCRIPTION_libactivator.phone.keypad" = "Startet Telefon, Seite \"Ziffernblock\"";
     "LISTENER_DESCRIPTION_libactivator.phone.recents" = "Startet Telefon, Seite \"Anrufliste\"";
     "LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Startet Telefon, Seite \"Voicemail\"";
     "LISTENER_DESCRIPTION_libactivator.ringtone" = "Klingelton abspielen";
+    "LISTENER_DESCRIPTION_libactivator.screen.brightness.decrease" = "Helligkeit um einen Punkt senken";
+    "LISTENER_DESCRIPTION_libactivator.screen.brightness.increase" = "Helligkeit um einen Punkt erh\U00f6hen";
     "LISTENER_DESCRIPTION_libactivator.screen.brightness_FORMAT" = "Helligkeit auf %@%% vom Maximum einstellen";
     "LISTENER_DESCRIPTION_libactivator.settings.about" = "\U00d6ffne Einstellungsseite \"Info\"";
     "LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "\U00d6ffne Einstellungsseite \"Bedienungshilfen\"";
     "LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "\U00d6ffne Einstellungsseite \"Automatische Sperre\"";
+    "LISTENER_DESCRIPTION_libactivator.settings.battery" = "\U00d6ffne Einstellungsseite \"Batterie\"";
     "LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "\U00d6ffne Einstellungsseite \"Bluetooth\"";
     "LISTENER_DESCRIPTION_libactivator.settings.brightness" = "\U00d6ffne Einstellungsseite \"Helligkeit\"";
     "LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "\U00d6ffne Einstellungsseite \"Helligkeit & Hintergrund\"";
@@ -442,11 +462,13 @@
     "LISTENER_DESCRIPTION_libactivator.system.activate-reachability" = "Erreiche den oberen Bildschirmbereich";
     "LISTENER_DESCRIPTION_libactivator.system.activate-switcher" = "Zeigt den App-Switcher an";
     "LISTENER_DESCRIPTION_libactivator.system.back" = "Eine Seite zur\U00fcckgehen";
+    "LISTENER_DESCRIPTION_libactivator.system.clear-switcher" = "Alle Apps im App-Switcher beenden";
     "LISTENER_DESCRIPTION_libactivator.system.first-springboard-page" = "Zur ersten SpringBoard-Seite wechseln";
     "LISTENER_DESCRIPTION_libactivator.system.haptic.flick" = "L\U00f6se Taptic-Engine's Schnipsen aus";
     "LISTENER_DESCRIPTION_libactivator.system.haptic.quirk" = "L\U00f6se Taptic-Engine's Zucken aus";
     "LISTENER_DESCRIPTION_libactivator.system.haptic.tap" = "L\U00f6se Taptic-Engine's Tippen aus";
     "LISTENER_DESCRIPTION_libactivator.system.homebutton" = "Home-Button simulieren";
+    "LISTENER_DESCRIPTION_libactivator.system.local-back" = "Eine Seite in der aktuellen App zur\U00fcckgehen";
     "LISTENER_DESCRIPTION_libactivator.system.nothing" = "Unterdr\U00fcckt die urspr\U00fcngliche Aktion";
     "LISTENER_DESCRIPTION_libactivator.system.power-menu" = "Zeigt dir die \"Ausschalten-Auswahl\" an";
     "LISTENER_DESCRIPTION_libactivator.system.powerdown" = "Schaltet dein iDevice sofort aus";
@@ -476,6 +498,7 @@
     "LISTENER_GROUP_TITLE_Ask Siri" = "Siri fragen";
     "LISTENER_GROUP_TITLE_Audio" = Audio;
     "LISTENER_GROUP_TITLE_Camera" = Kamera;
+    "LISTENER_GROUP_TITLE_Clock" = Uhr;
     "LISTENER_GROUP_TITLE_Contacts" = Kontakte;
     "LISTENER_GROUP_TITLE_Fingerprint Sensor" = Fingerabdrucksensor;
     "LISTENER_GROUP_TITLE_Lock Screen" = Sperrbildschirm;
@@ -531,6 +554,10 @@
     "LISTENER_TITLE_libactivator.audio.volume.ringer_FORMAT" = "%@%% Klingelton-Lautst\U00e4rke";
     "LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% Lautst\U00e4rke";
     "LISTENER_TITLE_libactivator.camera.invoke-shutter" = "Ausl\U00f6ser bet\U00e4tigen";
+    "LISTENER_TITLE_libactivator.clock.alarm" = "Wecker anzeigen";
+    "LISTENER_TITLE_libactivator.clock.stopwatch" = "Stopuhr anzeigen";
+    "LISTENER_TITLE_libactivator.clock.timer" = "Timer anzeigen";
+    "LISTENER_TITLE_libactivator.clock.world-clock" = "Weltuhr anzeigen";
     "LISTENER_TITLE_libactivator.command.run_FORMAT" = "Befehl \"%@\" ausf\U00fchren";
     "LISTENER_TITLE_libactivator.facebook.compose-post" = "Facebook-Beitrag verfassen";
     "LISTENER_TITLE_libactivator.ipod.music-controls" = "Medien-Steuerelemente";
@@ -545,16 +572,22 @@
     "LISTENER_TITLE_libactivator.lockscreen.toggle" = "Sperren / Entsperren";
     "LISTENER_TITLE_libactivator.mail.compose-message" = "E-Mail verfassen";
     "LISTENER_TITLE_libactivator.message.show_FORMAT" = "Zeige \"%@\" Nachricht";
+    "LISTENER_TITLE_libactivator.notes.compose-note" = "Notiz verfassen";
+    "LISTENER_TITLE_libactivator.phone.answer-call" = "Anruf beantworten";
     "LISTENER_TITLE_libactivator.phone.contacts" = "Kontakte zeigen";
+    "LISTENER_TITLE_libactivator.phone.disconnect-call" = "Anruf beenden";
     "LISTENER_TITLE_libactivator.phone.favorites" = "Favoriten zeigen";
     "LISTENER_TITLE_libactivator.phone.keypad" = "Zifernblock zeigen";
     "LISTENER_TITLE_libactivator.phone.recents" = "Anrufliste zeigen";
     "LISTENER_TITLE_libactivator.phone.voicemail" = "Voicemail zeigen";
     "LISTENER_TITLE_libactivator.profile.Default" = Standard;
+    "LISTENER_TITLE_libactivator.screen.brightness.decrease" = "Helligkeit senken";
+    "LISTENER_TITLE_libactivator.screen.brightness.increase" = "Helligkeit erh\U00f6hen";
     "LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "%@%% Helligkeit";
     "LISTENER_TITLE_libactivator.settings.about" = Info;
     "LISTENER_TITLE_libactivator.settings.accessibility" = Bedienungshilfen;
     "LISTENER_TITLE_libactivator.settings.auto-lock" = "Automatische Sperre";
+    "LISTENER_TITLE_libactivator.settings.battery" = Batterie;
     "LISTENER_TITLE_libactivator.settings.bluetooth" = Bluetooth;
     "LISTENER_TITLE_libactivator.settings.brightness" = Helligkeit;
     "LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Helligkeit & Hintergrund";
@@ -590,11 +623,13 @@
     "LISTENER_TITLE_libactivator.system.activate-reachability" = "Einhandmodus aktivieren";
     "LISTENER_TITLE_libactivator.system.activate-switcher" = "App-Switcher aktivieren";
     "LISTENER_TITLE_libactivator.system.back" = "Zur\U00fcck";
+    "LISTENER_TITLE_libactivator.system.clear-switcher" = "App-Switcher leeren";
     "LISTENER_TITLE_libactivator.system.first-springboard-page" = "Erste SpringBoard-Seite";
     "LISTENER_TITLE_libactivator.system.haptic.flick" = Schnipsen;
     "LISTENER_TITLE_libactivator.system.haptic.quirk" = Zucken;
     "LISTENER_TITLE_libactivator.system.haptic.tap" = Tippen;
     "LISTENER_TITLE_libactivator.system.homebutton" = "Home-Button";
+    "LISTENER_TITLE_libactivator.system.local-back" = "Eine Seite zur\U00fcck";
     "LISTENER_TITLE_libactivator.system.nothing" = "Nichts tun";
     "LISTENER_TITLE_libactivator.system.power-menu" = "Ausschalten-Auswahl";
     "LISTENER_TITLE_libactivator.system.powerdown" = Ausschalten;
@@ -627,6 +662,7 @@
     "MAIL_SENDER_UNKNOWN" = Unbekannt;
     "MAIL_SUBJECT" = Betreff;
     "MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE" = "\"%@\" und \"%@\" k\U00f6nnen gleichzeitig zugewiesen werden.";
+    "MAY_BE_ASSIGNED_SIMULTANEOUSLY_WITH_PAUSE_MESSAGE" = "\"%@\" und \"%@\" k\U00f6nnen gleichzeitig mit einer Unterbrechung zugewiesen werden.";
     MENUS = "Men\U00fcs";
     "MENUS_DETAIL" = "Benutzerdefinierte Activator-Men\U00fcs";
     "MENU_TITLE" = "Men\U00fctitel";
@@ -648,6 +684,8 @@
     "MORE_ACTIONS_DETAIL" = "Weitere Aktionen \U00fcber Cydia erhalten";
     "MULTIPLE_ASSIGNMENTS" = "( mehrfach )";
     "MULTIPLE_ASSIGNMENTS_TITLE" = Mehrfachzuweisungen;
+    "MULTIPLE_ASSIGNMENTS_WITH_PAUSE_TITLE" = "Mehrfachzuweisungen mit Unterbrechung";
+    "Multi-touch Gestures" = "Gesten mit mehreren Fingern";
     "NETWORK_NAME" = Netzwerkname;
     "NEW_BOOKMARK" = "Neues Lesezeichen";
     "NEW_EVENT_DESCRIPTION_libactivator.application-launch" = "Eine Anwendung wurde gestartet";
@@ -730,6 +768,8 @@
     "OPEN_APP_IMMEDIATELY" = "App sofort \U00f6ffnen";
     "OUT_OF_DATE_MESSAGE" = "Activator funktioniert am besten mit neueren iOS-Versionen.\nBitte beachte die Aktualisierungen.";
     "OUT_OF_DATE_TITLE" = "System-Version ist veraltet";
+    "PAUSE_N_SECONDS_DIVIDER" = "\U2014 Unterbreche f\U00fcr %d Sekunden \U2014";
+    "PAUSE_ONE_SECOND_DIVIDER" = "\U2014 Unterbreche f\U00fcr 1 Sekunde \U2014";
     "PREVIEW_MENU" = "Vorschau-Men\U00fc";
     PROFILES = Profile;
     "PROFILES_DETAIL" = "Zus\U00e4tzliche Zuweisungsprofile anlegen";
@@ -766,6 +806,7 @@
     "SHOW_ICON" = "Icon anzeigen";
     Sensitivity = Empfindlichkeit;
     "Slide Gestures" = Bewegungsgesten;
+    "Stop delivering touches" = "Keine weiteren Gesten senden";
     TEXT = Text;
     TITLE = Titel;
     "TOO_NEW_MESSAGE" = "Activator wurde noch nicht mit dieser iOS-Version getestet, daher kann es unter Umst\U00e4nden dazu f\U00fchren, dass einige Features nicht funktionieren.";
@@ -781,4 +822,5 @@
     "Very Precise" = "Sehr genau";
     "WEEKDAYS_LOWERCASE" = Wochentags;
     "WEEKENDS_LOWERCASE" = Wochenends;
+    "When Event is Handled" = "Wenn das Ereignis ausgef\U00fchrt wird";
 }
