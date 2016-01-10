@@ -230,6 +230,8 @@
 	"EVENT_GROUP_TITLE_Battery Level" = "Battery Level";
 	"EVENT_GROUP_TITLE_Riker" = "Riker";
 	"EVENT_GROUP_TITLE_3D Touch" = "3D Touch";
+	"EVENT_GROUP_TITLE_Apple Watch" = "Apple Watch";
+	"EVENT_GROUP_TITLE_Media Playback" = "Media Playback";
 
 	/* Events */
 
@@ -572,6 +574,15 @@
 	"EVENT_TITLE_libactivator.force-touch.statusbar" = "Status Bar";
 	"EVENT_DESCRIPTION_libactivator.force-touch.statusbar" = "Force-touch on the statusbar";
 
+	"EVENT_TITLE_libactivator.watch.connected" = "Connected";
+	"EVENT_DESCRIPTION_libactivator.watch.connected" = "Detected connectivity to watch";
+
+	"EVENT_TITLE_libactivator.watch.disconnected" = "Disconnected";
+	"EVENT_DESCRIPTION_libactivator.watch.disconnected" = "Detected loss of connectivity to watch";
+
+	"EVENT_TITLE_libactivator.now-playing.info-changed" = "Current Track Changed";
+	"EVENT_DESCRIPTION_libactivator.now-playing.info-changed" = "Received updated track information";
+
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "Application Launch";
@@ -789,6 +800,9 @@
 
 	"LISTENER_TITLE_libactivator.system.haptic.tap" = "Tap";
 	"LISTENER_DESCRIPTION_libactivator.system.haptic.tap" = "Triggers taptic engine tap";
+
+	"LISTENER_TITLE_libactivator.watch.haptic.tap" = "Watch Tap";
+	"LISTENER_DESCRIPTION_libactivator.watch.haptic.tap" = "Triggers watch taptic engine tap";
 
 	"LISTENER_TITLE_libactivator.system.clear-switcher" = "Clear App Switcher";
 	"LISTENER_DESCRIPTION_libactivator.system.clear-switcher" = "Remove all apps from the switcher";
