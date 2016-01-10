@@ -104,6 +104,7 @@
 	"MESSAGE_ANY_SENDER"= "任意發件人";
 	"MESSAGE_MESSAGE" = "訊息內容";
 	"MESSAGE_ANY_MESSAGE" = "任意內容";
+	"SHOW_AS_BANNER" = "顯示為橫幅";
 
 	"SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "觸發動作時顯示通知橫幅";
 	"ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION" = "觸發動作時顯示通知橫幅";
@@ -229,6 +230,8 @@
 	"EVENT_GROUP_TITLE_Battery Level" = "電池電量";
 	"EVENT_GROUP_TITLE_Riker" = "Riker";
 	"EVENT_GROUP_TITLE_3D Touch" = "3D Touch";
+	"EVENT_GROUP_TITLE_Apple Watch" = "Apple Watch";
+	"EVENT_GROUP_TITLE_Media Playback" = "媒體播放";
 
 	/* Events */
 
@@ -571,6 +574,15 @@
 	"EVENT_TITLE_libactivator.force-touch.statusbar" = "狀態列";
 	"EVENT_DESCRIPTION_libactivator.force-touch.statusbar" = "強制點按狀態列";
 
+	"EVENT_TITLE_libactivator.watch.connected" = "連接到 Apple Watch";
+	"EVENT_DESCRIPTION_libactivator.watch.connected" = "檢測到 Apple Watch 已連接";
+
+	"EVENT_TITLE_libactivator.watch.disconnected" = "斷開 Apple Watch 連接";
+	"EVENT_DESCRIPTION_libactivator.watch.disconnected" = "檢測到 Apple Watch 的連接已斷開";
+
+	"EVENT_TITLE_libactivator.now-playing.info-changed" = "當前曲目已變更";
+	"EVENT_DESCRIPTION_libactivator.now-playing.info-changed" = "接收到更新的曲目資訊";
+	
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "啟動應用程式";
@@ -790,6 +802,9 @@
 	"LISTENER_TITLE_libactivator.system.haptic.tap" = "輕按";
 	"LISTENER_DESCRIPTION_libactivator.system.haptic.tap" = "觸發 Taptic Engine 的輕按效果";
 
+	"LISTENER_TITLE_libactivator.watch.haptic.tap" = "Apple Watch 輕按";
+	"LISTENER_DESCRIPTION_libactivator.watch.haptic.tap" = "觸發 Apple Watch 的 Taptic Engine 的輕按效果";
+	
 	"LISTENER_TITLE_libactivator.system.clear-switcher" = "清理應用程式";
 	"LISTENER_DESCRIPTION_libactivator.system.clear-switcher" = "退出全部應用程式";
 
@@ -883,7 +898,7 @@
 	"LISTENER_TITLE_libactivator.notes.compose-note" = "編寫備忘錄";
 	"LISTENER_DESCRIPTION_libactivator.notes.compose-note" = "啟動備忘錄編輯器";
 
-	"LISTENER_TITLE_libactivator.system.local-back" = "本地返回";
+	"LISTENER_TITLE_libactivator.system.local-back" = "區域返回";
 	"LISTENER_DESCRIPTION_libactivator.system.local-back" = "在當前應用程序中返回到上一個螢幕";
 
 	"LISTENER_TITLE_libactivator.clock.alarm" = "鬧鐘";
@@ -1340,6 +1355,14 @@
 
 	"LISTENER_TITLE_com.rpetrich.smartclose" = "智能關閉";
 	"LISTENER_DESCRIPTION_com.rpetrich.smartclose" = "智能關閉背景執行的應用程式";
+
+	"LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:SEARCH" = "搜尋";
+	"LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:ONE_YEAR_AGO" = "一年前";
+	"LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:MOST_RECENT_PHOTO" = "最新照片";
+	"LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:FAVORITES" = "喜好項目";
+
+	"LISTENER_TITLE_libactivator.ringtone.ping" = "砰砰";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Alert-In-Conversation" = "訊息";
 
 	"IN_CYDIA_WARNING" = "在 Cydia 安裝軟體時進行其他操作會有潛在的危險。";
 
