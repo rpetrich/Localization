@@ -139,6 +139,7 @@
     "EVENT_DESCRIPTION_libactivator.motion.shake" = "Sch\U00fctteln";
     "EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "Mit einem WLAN-Netzwerk verbunden";
     "EVENT_DESCRIPTION_libactivator.network.left-wifi" = "Ein WLAN-Netzwerk verlassen";
+    "EVENT_DESCRIPTION_libactivator.now-playing.info-changed" = "Neuer Titel wird wiedergegeben";
     "EVENT_DESCRIPTION_libactivator.power.connected" = "Netzstecker wird angeschlossen";
     "EVENT_DESCRIPTION_libactivator.power.disconnected" = "Netzstecker wird entfernt";
     "EVENT_DESCRIPTION_libactivator.scheduled" = "%@";
@@ -195,7 +196,10 @@
     "EVENT_DESCRIPTION_libactivator.volume.up.hold.short" = "Dr\U00fccken und halten der Lauter-Taste";
     "EVENT_DESCRIPTION_libactivator.volume.up.press" = "Lauter-Taste dr\U00fccken";
     "EVENT_DESCRIPTION_libactivator.volume.up.press.with-menu" = "Beide Tasten zugleich dr\U00fccken";
+    "EVENT_DESCRIPTION_libactivator.watch.connected" = "Verbindung zur \Uf8ff Watch hergestellt";
+    "EVENT_DESCRIPTION_libactivator.watch.disconnected" = "Verbindung zur \Uf8ff Watch getrennt";
     "EVENT_GROUP_TITLE_3D Touch" = "3D Touch";
+    "EVENT_GROUP_TITLE_Apple Watch" = "Apple Watch";
     "EVENT_GROUP_TITLE_Application Launched" = "Anwendung gestartet";
     "EVENT_GROUP_TITLE_Audio" = Audio;
     "EVENT_GROUP_TITLE_Battery Level" = Batterieladung;
@@ -206,6 +210,7 @@
     "EVENT_GROUP_TITLE_Headset" = "Headset-Tasten";
     "EVENT_GROUP_TITLE_Home Button" = "Home-Button";
     "EVENT_GROUP_TITLE_Lock Screen" = Sperrbildschirm;
+    "EVENT_GROUP_TITLE_Media Playback" = Wiedergabe;
     "EVENT_GROUP_TITLE_Motion" = Bewegung;
     "EVENT_GROUP_TITLE_Multi-Touch Gesture" = "Gesten mit mehreren Fingern";
     "EVENT_GROUP_TITLE_Network Status" = Netzwerkstatus;
@@ -298,6 +303,7 @@
     "EVENT_TITLE_libactivator.motion.shake" = "iDevice sch\U00fctteln";
     "EVENT_TITLE_libactivator.network.joined-wifi" = "WLAN-Netzwerk beigetreten";
     "EVENT_TITLE_libactivator.network.left-wifi" = "WLAN-Netzwerk verlassen";
+    "EVENT_TITLE_libactivator.now-playing.info-changed" = "Neuer Titel wird wiedergegeben";
     "EVENT_TITLE_libactivator.power.connected" = Verbunden;
     "EVENT_TITLE_libactivator.power.disconnected" = Getrennt;
     "EVENT_TITLE_libactivator.slide-in.bottom" = "Vom unteren Rand";
@@ -353,6 +359,8 @@
     "EVENT_TITLE_libactivator.volume.up.hold.short" = "Lauter kurz halten";
     "EVENT_TITLE_libactivator.volume.up.press" = "Lauter-Taste";
     "EVENT_TITLE_libactivator.volume.up.press.with-menu" = "Mit Lauter-Taste dr\U00fccken";
+    "EVENT_TITLE_libactivator.watch.connected" = Verbunden;
+    "EVENT_TITLE_libactivator.watch.disconnected" = Getrennt;
     "FAILED_TO_OPEN_SETTINGS_FILE" = "Fehler beim \U00d6ffnen der Einstellungen";
     "FAILED_TO_WRITE_SETTINGS_FILE" = "Fehler beim Schreiben der Einstellungen : ";
     "IF_ACTIVATED_WHILE_PASSCODE_LOCKED" = "Aktivierung im Sperrzustand";
@@ -415,6 +423,7 @@
     "LISTENER_DESCRIPTION_libactivator.notes.compose-note" = "Eine neue Notiz verfassen";
     "LISTENER_DESCRIPTION_libactivator.phone.answer-call" = "Eingehenden Anruf annehmen oder Gehaltenen fortsetzen";
     "LISTENER_DESCRIPTION_libactivator.phone.contacts" = "Startet Telefon, Seite \"Kontakte\"";
+    "LISTENER_DESCRIPTION_libactivator.phone.disconnect-call" = "Aktiven oder eingehenden Anruf beenden";
     "LISTENER_DESCRIPTION_libactivator.phone.favorites" = "Startet Telefon, Seite \"Favoriten\"";
     "LISTENER_DESCRIPTION_libactivator.phone.keypad" = "Startet Telefon, Seite \"Ziffernblock\"";
     "LISTENER_DESCRIPTION_libactivator.phone.recents" = "Startet Telefon, Seite \"Anrufliste\"";
@@ -484,6 +493,7 @@
     "LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Sprachsteuerung aktivieren";
     "LISTENER_DESCRIPTION_libactivator.text" = "Nachricht an :";
     "LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet" = "Einen neuen Tweet verfassen";
+    "LISTENER_DESCRIPTION_libactivator.watch.haptic.tap" = "L\U00f6se Taptic-Engine's Tippen aus";
     "LISTENER_DESCRIPTION_libactivator.weibo.compose-post" = "Einen Beitrag auf Weibo verfassen";
     "LISTENER_DESCRIPTION_profile" = "Profil aktivieren";
     "LISTENER_DESCRIPTION_switch-action" = "Aktiviere Switch-Aktion";
@@ -581,6 +591,8 @@
     "LISTENER_TITLE_libactivator.phone.recents" = "Anrufliste zeigen";
     "LISTENER_TITLE_libactivator.phone.voicemail" = "Voicemail zeigen";
     "LISTENER_TITLE_libactivator.profile.Default" = Standard;
+    "LISTENER_TITLE_libactivator.ringtone.ping" = Ping;
+    "LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Alert-In-Conversation" = Message;
     "LISTENER_TITLE_libactivator.screen.brightness.decrease" = "Helligkeit senken";
     "LISTENER_TITLE_libactivator.screen.brightness.increase" = "Helligkeit erh\U00f6hen";
     "LISTENER_TITLE_libactivator.screen.brightness_FORMAT" = "%@%% Helligkeit";
@@ -616,6 +628,10 @@
     "LISTENER_TITLE_libactivator.settings.vpn" = VPN;
     "LISTENER_TITLE_libactivator.settings.wallpaper" = Hintergrundbild;
     "LISTENER_TITLE_libactivator.settings.wifi" = WLAN;
+    "LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:FAVORITES" = Favoriten;
+    "LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:MOST_RECENT_PHOTO" = "Neue Fotos";
+    "LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:ONE_YEAR_AGO" = "Vor einem Jahr";
+    "LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:SEARCH" = Suche;
     "LISTENER_TITLE_libactivator.sms.compose-message" = "Nachricht verfassen";
     "LISTENER_TITLE_libactivator.speech.synthesize_FORMAT" = "Sage \"%@\"";
     "LISTENER_TITLE_libactivator.system.activate-control-center" = "Kontrollzentrum aktivieren";
@@ -644,6 +660,7 @@
     "LISTENER_TITLE_libactivator.system.virtual-assistant" = Siri;
     "LISTENER_TITLE_libactivator.system.voice-control" = Sprachsteuerung;
     "LISTENER_TITLE_libactivator.twitter.compose-tweet" = "Tweet verfassen";
+    "LISTENER_TITLE_libactivator.watch.haptic.tap" = Tippen;
     "LISTENER_TITLE_libactivator.weibo.compose-post" = "Weibo-Beitrag verfassen";
     "LISTENER_TITLE_toggle_3G" = 3G;
     "LISTENER_TITLE_toggle_Bluetooth" = Bluetooth;
@@ -768,7 +785,7 @@
     "OPEN_APP_IMMEDIATELY" = "App sofort \U00f6ffnen";
     "OUT_OF_DATE_MESSAGE" = "Activator funktioniert am besten mit neueren iOS-Versionen.\nBitte beachte die Aktualisierungen.";
     "OUT_OF_DATE_TITLE" = "System-Version ist veraltet";
-    "PAUSE_N_SECONDS_DIVIDER" = "\U2014 Unterbreche f\U00fcr %@ Sekunden \U2014";
+    "PAUSE_N_SECONDS_DIVIDER" = "\U2014 Unterbreche f\U00fcr %d Sekunden \U2014";
     "PAUSE_ONE_SECOND_DIVIDER" = "\U2014 Unterbreche f\U00fcr 1 Sekunde \U2014";
     "PREVIEW_MENU" = "Vorschau-Men\U00fc";
     PROFILES = Profile;
@@ -802,6 +819,7 @@
     "SET_VOLUME_TO_FORMAT" = "Lautst\U00e4rke auf %@%% einstellen";
     "SHARE_THE_LOVE" = "I'm using @ActivatorApp by @rpetrich to add customizable Gestures and Shortcuts to my %@ !";
     "SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD" = "Activator auf dem SpringBoard anzeigen";
+    "SHOW_AS_BANNER" = "Als Banner anzeigen";
     "SHOW_BANNER_WHEN_PERFORMING_AN_ACTION" = "Zeige beim Ausf\U00fchren einer Aktion ein Banner";
     "SHOW_ICON" = "Icon anzeigen";
     Sensitivity = Empfindlichkeit;
