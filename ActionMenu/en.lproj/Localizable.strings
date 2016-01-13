@@ -81,6 +81,9 @@
 	"Edit Favorite" = "Edit Favorite";
 	"To Top" = "To Top";
 	"To Bottom" = "To Bottom";
+	"Menu Items" = "Menu Items";
+	"Action Buttons" = "Action Buttons";
+	"Save" = "Save";
 
 	"Rich Text For Mail" = "Rich Text For Mail";
 	"Format" = "Format";
@@ -141,4 +144,5 @@
 	"Weibo" = "Weibo";
 	"Facebook" = "Facebook";
 	"Twitter" = "Twitter";
+	"Tweet Sheet" = "Tweet Sheet";
 }

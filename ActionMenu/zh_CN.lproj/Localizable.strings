@@ -83,6 +83,9 @@
 	"Edit Favorite" = "编辑收藏";
 	"To Top" = "到顶部";
 	"To Bottom" = "到底部";
+	"Menu Items" = "菜单项目";
+	"Action Buttons" = "动作按钮";
+	"Save" = "保存";
 
 	"Rich Text For Mail" = "多格式文本邮件";
 	"RichTextForMail" = "多格式文本邮件";
@@ -143,5 +146,6 @@
 	"Sina Weibo" = "新浪微博";
 	"Weibo" = "微博";
 	"Facebook" = "Facebook";
-	"Twitter" = "推特";
+	"Twitter" = "Twitter";
+	"Tweet Sheet" = "Twitter 编辑器";
 }
