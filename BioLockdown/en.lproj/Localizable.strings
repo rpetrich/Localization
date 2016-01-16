@@ -18,6 +18,8 @@
 	HOLD_ACTION_TEXT = "hold";
 	DELETE_ACTION_TEXT = "delete";
 	MESSAGE_ACTION_TEXT = "message";
+	PLACE_CALL_ACTION_TEXT = "place call";
+	ANSWER_CALL_ACTION_TEXT = "answer call";
 	REARRANGE_ICONS_ACTION_TEXT = "rearrange icons";
 	SHUT_DOWN_DEVICE_ACTION_TEXT = "shut down device";
 	ACTIVATE_SIRI_ACTION_TEXT = "activate Siri";
@@ -100,4 +102,6 @@
 	"feature:rearrange-icons" = "Rearrange Icons";
 	"feature:assistant" = "Siri";
 	"feature:spotlight" = "Spotlight";
+	"feature:answer-call" = "Answer Call";
+	"feature:place-call" = "Place Call";
 }
