@@ -33,8 +33,10 @@
 	RESTRICTION_TYPE_SWITCH_PLURAL = "Switches";
 	RESTRICTION_TYPE_FEATURE = "Feature";
 	RESTRICTION_TYPE_FEATURE_PLURAL = "Features";
+	RESTRICTION_TYPE_FOLDER = "Folder";
+	RESTRICTION_TYPE_FOLDER_PLURAL = "Folders";
 	RESTRICTION_TYPE_UNKNOWN = "Unknown";
-
+	
 	RESTRICTIONS_HEADER = "Restrictions";
 	NO_FINGERPRINTS_WARNING = "No fingerprints on file. You must add fingerprints via Touch ID before using BioLockdown.";
 	SELF_RESTRICTIONS_WARNING = "For best results, be sure to lock access to either the Settings app or the BioLockdown settings pane";
