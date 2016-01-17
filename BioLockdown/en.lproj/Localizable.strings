@@ -24,6 +24,9 @@
 	SHUT_DOWN_DEVICE_ACTION_TEXT = "shut down device";
 	ACTIVATE_SIRI_ACTION_TEXT = "activate Siri";
 	ACTIVATE_SPOTLIGHT = "activate Spotlight";
+	ACTIVATE_CONTROL_CENTER_ACTION_TEXT = "activate Control Center";
+	ACTIVATE_NOTIFICATION_CENTER_ACTION_TEXT = "activate Notification Center";
+	ACTIVATE_APP_SWITCHER_ACTION_TEXT = "activate App Switcher";
 
 	RESTRICTION_TYPE_APPLICATION = "Application";
 	RESTRICTION_TYPE_APPLICATION_PLURAL = "Apps";
@@ -116,4 +119,7 @@
 	"feature:spotlight" = "Spotlight";
 	"feature:answer-call" = "Answer Call";
 	"feature:place-call" = "Place Call";
+	"feature:app-switcher" = "App Switcher";
+	"feature:notification-center" = "Notification Center";
+	"feature:control-center" = "Control Center";
 }
