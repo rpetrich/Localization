@@ -100,6 +100,12 @@
 	APP_SWITCHER_PRIVACY_VALUE_2 = "Black";
 	APP_SWITCHER_PRIVACY_VALUE_3 = "White";
 
+	LOCK_DEVICE_ON_FAIL_SETTING = "Lock Device On Cancel";
+	LOCK_DEVICE_ON_FAIL_EXPLANATION = "Adjust behavior of cancel button";
+	LOCK_DEVICE_ON_FAIL_TITLE = "Cancel Button Behavior";
+	LOCK_DEVICE_ON_FAIL_VALUE_0 = "Cancel locks device";
+	LOCK_DEVICE_ON_FAIL_VALUE_1 = "Cancel dismisses authentication prompt";
+
 	SHARE_THE_LOVE = "I'm using BioLockdown to protect access to my iPhone's apps, settings and switches!";
 
 	"feature:device-power-off" = "Power Off Device";
