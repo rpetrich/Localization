@@ -36,6 +36,8 @@
 	RESTRICTION_TYPE_FOLDER = "Folder";
 	RESTRICTION_TYPE_FOLDER_PLURAL = "Folders";
 	RESTRICTION_TYPE_UNKNOWN = "Unknown";
+
+	FOLDER_RESTRICTION_WARNING = "Only access to the folder will be protected. Apps within the folder may still be launched via Spotlight or Siri";
 	
 	RESTRICTIONS_HEADER = "Restrictions";
 	NO_FINGERPRINTS_WARNING = "No fingerprints on file. You must add fingerprints via Touch ID before using BioLockdown.";
