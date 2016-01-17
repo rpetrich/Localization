@@ -82,6 +82,8 @@
 	CUSTOM_PASSCODE_DESCRIPTION = "Custom passcode";
 	ACCESS_TYPE_DESCRIPTION_SEPARATOR = ", ";
 
+	CONNECTED_DEVICES_SETTING_HEADER = "Connected Devices";
+
 	VIBRATION_SETTING = "Vibration";
 	VIBRATION_EXPLANATION = "Vibrate upon receiving a passcode/fingerprint";
 
