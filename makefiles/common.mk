@@ -1,2 +1,3 @@
 stage::
 	$(ECHO_NOTHING)rsync -a "$(FW_PROJECT_DIR)/Localization/$(LOCALIZATION_PROJECT_NAME)/" "$(FW_STAGING_DIR)$(LOCALIZATION_DEST_PATH)" $(FW_RSYNC_EXCLUDES)$(ECHO_END)
+	$(ECHO_NOTHING)find "$(THEOS_STAGING_DIR)$(LOCALIZATION_DEST_PATH)" -iname '*.strings' -exec plutil -convert binary1 {} \;$(ECHO_END)
