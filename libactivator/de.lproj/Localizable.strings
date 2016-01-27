@@ -348,14 +348,14 @@
     "EVENT_TITLE_libactivator.two-finger-slide-in.top-right" = "Vom oberen Rand, rechts";
     "EVENT_TITLE_libactivator.volume.both.press" = "Beide dr\U00fccken";
     "EVENT_TITLE_libactivator.volume.display-tap" = "Anzeige tippen";
-    "EVENT_TITLE_libactivator.volume.down-up" = "Oben, Unten";
+    "EVENT_TITLE_libactivator.volume.down-up" = "Unten, Oben";
     "EVENT_TITLE_libactivator.volume.down.hold.short" = "Leiser kurz halten";
     "EVENT_TITLE_libactivator.volume.down.press" = "Leiser-Taste";
     "EVENT_TITLE_libactivator.volume.down.press.with-menu" = "Mit Leiser-Taste dr\U00fccken";
     "EVENT_TITLE_libactivator.volume.mute" = "Klingelton ausschalten";
     "EVENT_TITLE_libactivator.volume.toggle-mute-twice" = "Lautlos-Schalter zweimal umschalten";
     "EVENT_TITLE_libactivator.volume.unmute" = "Klingelton einschalten";
-    "EVENT_TITLE_libactivator.volume.up-down" = "Unten, Oben";
+    "EVENT_TITLE_libactivator.volume.up-down" = "Oben, Unten";
     "EVENT_TITLE_libactivator.volume.up.hold.short" = "Lauter kurz halten";
     "EVENT_TITLE_libactivator.volume.up.press" = "Lauter-Taste";
     "EVENT_TITLE_libactivator.volume.up.press.with-menu" = "Mit Lauter-Taste dr\U00fccken";
