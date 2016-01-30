@@ -785,7 +785,7 @@
     "OPEN_APP_IMMEDIATELY" = "App sofort \U00f6ffnen";
     "OUT_OF_DATE_MESSAGE" = "Activator funktioniert am besten mit neueren iOS-Versionen.\nBitte beachte die Aktualisierungen.";
     "OUT_OF_DATE_TITLE" = "System-Version ist veraltet";
-    "PAUSE_N_SECONDS_DIVIDER" = "\U2014 Unterbreche f\U00fcr %d Sekunden \U2014";
+    "PAUSE_N_SECONDS_DIVIDER" = "\U2014 Unterbreche f\U00fcr %@ Sekunden \U2014";
     "PAUSE_ONE_SECOND_DIVIDER" = "\U2014 Unterbreche f\U00fcr 1 Sekunde \U2014";
     "PREVIEW_MENU" = "Vorschau-Men\U00fc";
     PROFILES = Profile;
