@@ -692,9 +692,9 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "User Applications";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "Lock Screen";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings Toggles";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "SBSettings Toggles (Enable)";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "SBSettings Toggles (Disable)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Toggles";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Toggles (Enable)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Toggles (Disable)";
 	"LISTENER_GROUP_TITLE_Phone" = "Phone";
 	"LISTENER_GROUP_TITLE_Power" = "Power";
 	"LISTENER_GROUP_TITLE_Audio" = "Audio";
