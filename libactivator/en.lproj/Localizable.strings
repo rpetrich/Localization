@@ -223,9 +223,6 @@
 	"EVENT_GROUP_TITLE_Slide Along Screen Bottom" = "Slide Along Screen Bottom";
 	"EVENT_GROUP_TITLE_Slide Along Screen Left" = "Slide Along Screen Left";
 	"EVENT_GROUP_TITLE_Slide Along Screen Right" = "Slide Along Screen Right";
-	"EVENT_GROUP_TITLE_Switches" = "Switches";
-	"EVENT_GROUP_TITLE_Switches (Activate)" = "Switches (Activate)";
-	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
 	"EVENT_GROUP_TITLE_Network Status" = "Network Status";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Touch ID Fingerprint Sensor";
 	"EVENT_GROUP_TITLE_Fingerprint Matches" = "Touch ID Fingerprint Matches";
