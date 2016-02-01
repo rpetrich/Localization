@@ -34,6 +34,10 @@
 	"ASSIGNMENT_WARNING" = "Aviso de atribuição";
 	"EVENT_ASSIGNMENT_WARNING_FINGERPRINT" = "Atribuir impressões digitais específicas requer que o sensor de impressão digital esteja configurado num modo de correspondência mais lento e preciso. Isto reduz a performance e a fiabilidade do atalho predefinido para o Acesso fácil e de outras atribuições do Activator ao sensor de impressão digital.";
 
+	"API_ACCESS_WARNING_FORMAT" = "%@ precisa de autorização para enviar acções e modificar atribuições de eventos";
+	"GRANT ACCESS" = "Permitir acesso";
+	"DENY ACCESS" = "Negar acesso";
+
 	"ENABLED" = "Activado";
 	"DISABLED" = "Desactivado";
 
@@ -219,9 +223,6 @@
 	"EVENT_GROUP_TITLE_Slide Along Screen Bottom" = "Deslizar no fundo do ecrã";
 	"EVENT_GROUP_TITLE_Slide Along Screen Left" = "Deslizar à esquerda do ecrã";
 	"EVENT_GROUP_TITLE_Slide Along Screen Right" = "Deslizar à direita do ecrã";
-	"EVENT_GROUP_TITLE_Switches" = "Interruptores";
-	"EVENT_GROUP_TITLE_Switches (Activate)" = "Interruptores (Activar)";
-	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Interruptores (Desactivar)";
 	"EVENT_GROUP_TITLE_Network Status" = "Estado de rede";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Sensor de impressão digital";
 	"EVENT_GROUP_TITLE_Fingerprint Matches" = "Correspondências de impressão digital";
@@ -691,9 +692,9 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "Aplicações do utilizador";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "Ecrã bloqueado";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Interruptores SBSettings";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Interruptores SBSettings (Activar)";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Interruptores SBSettings (Desactivar)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Interruptores";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Interruptores (Activar)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Interruptores (Desactivar)";
 	"LISTENER_GROUP_TITLE_Phone" = "Telefone";
 	"LISTENER_GROUP_TITLE_Power" = "Alimentação";
 	"LISTENER_GROUP_TITLE_Audio" = "Áudio";
@@ -719,6 +720,7 @@
 	"LISTENER_GROUP_TITLE_Application Shortcuts" = "Atalhos de aplicações";
 	"LISTENER_GROUP_TITLE_Vibration" = "Vibração";
 	"LISTENER_GROUP_TITLE_Clock" = "Relógio";
+	"LISTENER_GROUP_TITLE_Color Profiles" = "Perfis de cor";
 
 	/* Listener Names */
 
