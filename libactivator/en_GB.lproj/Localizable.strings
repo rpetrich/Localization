@@ -34,6 +34,10 @@
 	"ASSIGNMENT_WARNING" = "Assignment Warning";
 	"EVENT_ASSIGNMENT_WARNING_FINGERPRINT" = "Assigning specific fingerprints requires that your device's Touch ID sensor be configured in a slower, more accurate matching mode. This reduces the performance and reliability of the default reachability shortcut and other fingerprint sensor assignments selected in Activator.";
 
+	"API_ACCESS_WARNING_FORMAT" = "%@ is requesting permission to dispatch actions and modify event assignments.";
+	"GRANT ACCESS" = "Grant Access";
+	"DENY ACCESS" = "Deny Access";
+
 	"ENABLED" = "Enabled";
 	"DISABLED" = "Disabled";
 
@@ -219,9 +223,6 @@
 	"EVENT_GROUP_TITLE_Slide Along Screen Bottom" = "Slide Along Screen Bottom";
 	"EVENT_GROUP_TITLE_Slide Along Screen Left" = "Slide Along Screen Left";
 	"EVENT_GROUP_TITLE_Slide Along Screen Right" = "Slide Along Screen Right";
-	"EVENT_GROUP_TITLE_Switches" = "Switches";
-	"EVENT_GROUP_TITLE_Switches (Activate)" = "Switches (Activate)";
-	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "Switches (Deactivate)";
 	"EVENT_GROUP_TITLE_Network Status" = "Network Status";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Touch ID Fingerprint Sensor";
 	"EVENT_GROUP_TITLE_Fingerprint Matches" = "Touch ID Fingerprint Matches";
@@ -691,9 +692,9 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "User Applications";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "Lock Screen";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings Toggles";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "SBSettings Toggles (Enable)";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "SBSettings Toggles (Disable)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "Toggles";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "Toggles (Enable)";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "Toggles (Disable)";
 	"LISTENER_GROUP_TITLE_Phone" = "Phone";
 	"LISTENER_GROUP_TITLE_Power" = "Power";
 	"LISTENER_GROUP_TITLE_Audio" = "Audio";
@@ -719,6 +720,7 @@
 	"LISTENER_GROUP_TITLE_Application Shortcuts" = "Application Shortcuts";
 	"LISTENER_GROUP_TITLE_Vibration" = "Vibration";
 	"LISTENER_GROUP_TITLE_Clock" = "Clock";
+	"LISTENER_GROUP_TITLE_Color Profiles" = "Color Profiles";
 
 	/* Listener Names */
 

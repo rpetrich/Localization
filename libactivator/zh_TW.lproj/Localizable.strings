@@ -34,6 +34,10 @@
 	"ASSIGNMENT_WARNING" = "分配警告";
 	"EVENT_ASSIGNMENT_WARNING_FINGERPRINT" = "分配指定的指紋需要您的設備的指紋身分識別感應器設定為較慢以獲得更高準確率的模式。這會降低螢屏上方觸控等功能的性能和穩定性。";
 
+	"API_ACCESS_WARNING_FORMAT" = "%@ 正請求發送動作及修改事件分配的權限。";
+	"GRANT ACCESS" = "允許訪問";
+	"DENY ACCESS" = "拒絕訪問";
+
 	"ENABLED" = "啟用";
 	"DISABLED" = "停用";
 
@@ -219,9 +223,6 @@
 	"EVENT_GROUP_TITLE_Slide Along Screen Bottom" = "沿螢幕底部拖動";
 	"EVENT_GROUP_TITLE_Slide Along Screen Left" = "沿螢幕左側拖動";
 	"EVENT_GROUP_TITLE_Slide Along Screen Right" = "沿螢幕右側拖動";
-	"EVENT_GROUP_TITLE_Switches" = "開關";
-	"EVENT_GROUP_TITLE_Switches (Activate)" = "開關（啟用）";
-	"EVENT_GROUP_TITLE_Switches (Deactivate)" = "開關（停用）";
 	"EVENT_GROUP_TITLE_Network Status" = "網路狀態";
 	"EVENT_GROUP_TITLE_Fingerprint Sensor" = "Touch ID 指紋身分識別感應器";
 	"EVENT_GROUP_TITLE_Fingerprint Matches" = "Touch ID 指紋身分識別感應器匹配";
@@ -691,9 +692,9 @@
 	"LISTENER_GROUP_TITLE_User Applications" = "使用者應用程式";
 	"LISTENER_GROUP_TITLE_iPod" = "iPod";
 	"LISTENER_GROUP_TITLE_Lock Screen" = "『鎖定』螢幕";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "SBSettings 開關";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "SBSettings 開關（開啟）";
-	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "SBSettings 開關（關閉）";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles" = "開關";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)" = "開關（開啟）";
+	"LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)" = "開關（關閉）";
 	"LISTENER_GROUP_TITLE_Phone" = "電話";
 	"LISTENER_GROUP_TITLE_Power" = "電源";
 	"LISTENER_GROUP_TITLE_Audio" = "音訊";
@@ -720,6 +721,7 @@
 	"LISTENER_GROUP_TITLE_Application Shortcuts" = "快速動作";
 	"LISTENER_GROUP_TITLE_Vibration" = "振動";
 	"LISTENER_GROUP_TITLE_Clock" = "時鐘";
+	"LISTENER_GROUP_TITLE_Color Profiles" = "顏色檔案";
 
 	/* Listener Names */
 

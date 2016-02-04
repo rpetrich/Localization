@@ -34,7 +34,7 @@
 	"ASSIGNMENT_WARNING" = "Assignment Warning";
 	"EVENT_ASSIGNMENT_WARNING_FINGERPRINT" = "Assigning specific fingerprints requires that your device's Touch ID sensor be configured in a slower, more accurate matching mode. This reduces the performance and reliability of the default reachability shortcut and other fingerprint sensor assignments selected in Activator.";
 
-	"API_ACCESS_WARNING_FORMAT" = "%@ is requesting permission to dispatch actions and modify event assignments";
+	"API_ACCESS_WARNING_FORMAT" = "%@ is requesting permission to dispatch actions and modify event assignments.";
 	"GRANT ACCESS" = "Grant Access";
 	"DENY ACCESS" = "Deny Access";
 
