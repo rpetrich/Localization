@@ -34,6 +34,14 @@
 	"ASSIGNMENT_WARNING" = "分配警告";
 	"EVENT_ASSIGNMENT_WARNING_FINGERPRINT" = "分配指定的指纹需要您的设备的指纹识别感应器设定为较慢以获得更高准确率的模式。这会降低便捷访问等功能的性能和稳定性。";
 
+	"ASSIGN" = "分配";
+	"UNASSIGN" = "解除分配";
+	"CLEAR" = "清除";
+	"DELETE" = "删除";
+	"REMOVE" = "移除";
+	"INSTALL" = "安装";
+	"BUY" = "购买";
+
 	"API_ACCESS_WARNING_FORMAT" = "%@ 正请求发送动作及修改事件分配的权限。";
 	"GRANT ACCESS" = "允许访问";
 	"DENY ACCESS" = "拒绝访问";
