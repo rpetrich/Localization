@@ -34,6 +34,14 @@
 	"ASSIGNMENT_WARNING" = "Aviso de atribuição";
 	"EVENT_ASSIGNMENT_WARNING_FINGERPRINT" = "Atribuir impressões digitais específicas requer que o sensor de impressão digital esteja configurado num modo de correspondência mais lento e preciso. Isto reduz a performance e a fiabilidade do atalho predefinido para o Acesso fácil e de outras atribuições do Activator ao sensor de impressão digital.";
 
+	"ASSIGN" = "Atribuir";
+	"UNASSIGN" = "Remover atribuição";
+	"CLEAR" = "Limpar";
+	"DELETE" = "Apagar";
+	"REMOVE" = "Remover";
+	"INSTALL" = "Instalar";
+	"BUY" = "Comprar";
+
 	"API_ACCESS_WARNING_FORMAT" = "%@ precisa de autorização para enviar acções e modificar atribuições de eventos.";
 	"GRANT ACCESS" = "Permitir acesso";
 	"DENY ACCESS" = "Negar acesso";
