@@ -25,9 +25,11 @@
     "ALERT_VALUE_AND" = " und ";
     "ALREADY_ASSIGNED_TO" = "Bereits zugewiesen zu\n\"%@\"";
     "ANY_DAY_OF_THE_WEEK_LOWERCASE" = "Ein beliebiger Tag in der Woche";
+    "API_ACCESS_WARNING_FORMAT" = "%@ ben\U00f6tigt deine Erlaubnis, um Aktionen zu senden und Ereignis-Zuweisungen zu \U00e4ndern.";
     APPLICATIONS = Anwendungen;
     "APPLICATION_KEYCHAIN_WARNING" = "Wenn ein Sperrcode gesetzt wurde, ben\U00f6tigen Apps, die auf eine Verschl\U00fcsselung zur\U00fcckgreifen ( wie Mail ) den Sperrcode, um auf deine Daten zugreifen zu k\U00f6nnen.";
     "ASK_FOR_PASSCODE" = "Nach dem Sperrcode fragen";
+    ASSIGN = Zuweisen;
     ASSIGNMENTS = Zuweisungen;
     "ASSIGNMENTS_DETAIL" = "\U00dcberblick \U00fcber zugewiesene Ereignisse";
     "ASSIGNMENT_WARNING" = Zuweisungswarnung;
@@ -50,6 +52,7 @@
     "BOOKMARK_TITLE" = Lesezeichentitel;
     "BOOKMARK_URL" = "Lesezeichen-Adresse";
     BUILD = Erstellen;
+    BUY = Kaufen;
     "Build Actions" = "Aktion erstellen";
     "Build Events" = "Ereignis erstellen";
     "Build New Actions" = "Neues Aktion erstellen";
@@ -58,6 +61,7 @@
     "CANT_DEACTIVATE_REMAINING" = "Verbleibendes Ereignis\nkann nicht deaktiviert werden.";
     "CANT_REMOVE_PAUSE_MESSAGE" = "Wenn diese Unterbrechung entfernt wird, kann es dazu f\U00fchren, dass zwei inkompatible Ereignisse gleichzeitig ausgef\U00fchrt werden.";
     "CANT_REMOVE_PAUSE_TITLE" = "Unterbrechung kann nicht entfernt werden";
+    CLEAR = Leeren;
     COMMAND = Befehl;
     "CORRUPT_CANCEL" = Abbrechen;
     "CORRUPT_LAUNCH_CYDIA" = "Cydia starten";
@@ -65,6 +69,8 @@
     "Continue delivering touches" = "Weiterhin Gesten senden";
     "Custom Actions" = "Benutzerdefinierte Aktionen";
     "Custom Events" = "Benutzerdefinierte Ereignisse";
+    DELETE = Entfernen;
+    "DENY ACCESS" = "Zugriff verweigern";
     DISABLED = Deaktiviert;
     DONATE = Spenden;
     "DONATE_DETAIL" = "Via PayPal beitragen";
@@ -229,9 +235,6 @@
     "EVENT_GROUP_TITLE_Smart Cover" = "Smart Cover";
     "EVENT_GROUP_TITLE_SpringBoard" = SpringBoard;
     "EVENT_GROUP_TITLE_Status Bar" = Statusleiste;
-    "EVENT_GROUP_TITLE_Switches" = Switches;
-    "EVENT_GROUP_TITLE_Switches (Activate)" = "Switches ( Aktiviert )";
-    "EVENT_GROUP_TITLE_Switches (Deactivate)" = "Switches ( Deaktiviert )";
     "EVENT_GROUP_TITLE_Two Finger Slide In Gesture" = "Vom Bildschirmrand mit 2 Fingern wischen";
     "EVENT_GROUP_TITLE_VideoPane" = VideoPane;
     "EVENT_GROUP_TITLE_Volume Buttons" = "Lautst\U00e4rke-Buttons";
@@ -363,12 +366,14 @@
     "EVENT_TITLE_libactivator.watch.disconnected" = Getrennt;
     "FAILED_TO_OPEN_SETTINGS_FILE" = "Fehler beim \U00d6ffnen der Einstellungen";
     "FAILED_TO_WRITE_SETTINGS_FILE" = "Fehler beim Schreiben der Einstellungen : ";
+    "GRANT ACCESS" = "Zugriff erlauben";
     "IF_ACTIVATED_WHILE_PASSCODE_LOCKED" = "Aktivierung im Sperrzustand";
     "INCOMPATIBLE_ASSIGNMENT" = "Inkompatible Zuweisung";
     "INCOMPATIBLE_WARNING_BOTH_PLURAL" = "\"%@\" ist nicht kompatibel mit \"%@\" und \"%@\"\nEs werden nur \"%@\" und \"%@\" zugewiesen.";
     "INCOMPATIBLE_WARNING_COMPATIBLE_PLURAL" = "\"%@\" ist nicht kompatibel mit \"%@\"\nEs werden nur \"%@\" und \"%@\" zugewiesen.";
     "INCOMPATIBLE_WARNING_INCOMPATIBLE_PLURAL" = "\"%@\" ist nicht kompatibel mit \"%@\" und \"%@\".\nEs wird nur \"%@\" zugewiesen.";
     "INCOMPATIBLE_WARNING_NEITHER_PLURAL" = "\"%@\" ist nicht kompatibel mit \"%@\".\nEs wird nur \"%@\" zugewiesen.";
+    INSTALL = Installieren;
     "IN_CYDIA_WARNING" = "Es ist gef\U00e4hrlich, Aktionen auszuf\U00fchren, w\U00e4hrend Cydia Software installiert oder \U00c4nderungen daran vornimmt.";
     "JUST_ONE_LISTENER_ASSIGNMENT" = "Nur %@";
     "LISTENER_DESCRIPTION_application" = "Anwendung starten";
@@ -509,6 +514,7 @@
     "LISTENER_GROUP_TITLE_Audio" = Audio;
     "LISTENER_GROUP_TITLE_Camera" = Kamera;
     "LISTENER_GROUP_TITLE_Clock" = Uhr;
+    "LISTENER_GROUP_TITLE_Color Profiles" = Farbprofile;
     "LISTENER_GROUP_TITLE_Contacts" = Kontakte;
     "LISTENER_GROUP_TITLE_Fingerprint Sensor" = Fingerabdrucksensor;
     "LISTENER_GROUP_TITLE_Lock Screen" = Sperrbildschirm;
@@ -793,6 +799,7 @@
     "PROFILE_NAME" = Profilname;
     Precise = Genau;
     QUESTION = Frage;
+    REMOVE = Entfernen;
     "RESET_ALERT_CANCEL" = Abbrechen;
     "RESET_ALERT_CONTINUE" = "Zur\U00fccksetzen";
     "RESET_ALERT_MESSAGE" = "Bist du sicher, dass du die Activator-Einstellungen auf die Standardwerte zur\U00fccksetzen m\U00f6chtest ? \nNach diesem Schritt wird das SpringBoard wird neugestartet.";
@@ -830,6 +837,7 @@
     "TOO_NEW_MESSAGE" = "Activator wurde noch nicht mit dieser iOS-Version getestet, daher kann es unter Umst\U00e4nden dazu f\U00fchren, dass einige Features nicht funktionieren.";
     "TOO_NEW_TITLE" = "System-Version zu neu";
     Tight = Fest;
+    UNASSIGN = "Nicht zuweisen";
     UNASSIGNED = "( Nicht zugewiesen )";
     "UNKNOWN_ASSIGNMENT" = "( Unbekannt )";
     "VERSION_PROMPT_CONTINUE" = Weiter;
