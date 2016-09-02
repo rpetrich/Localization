@@ -967,7 +967,7 @@
 	"LISTENER_TITLE_libactivator.settings.usage" = "Usage";
 	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Open Settings to Usage";
 
-	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Virtual Assistant";
+	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Siri";
 	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Open Settings to Virtual Assistant";
 
 	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
