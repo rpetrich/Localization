@@ -979,6 +979,8 @@
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Open Settings to Wi-Fi";
 
+	"LISTENER_DESCRIPTION_SETTINGS_FORMAT" = "Open Settings to %@ page";
+
 	"LISTENER_TITLE_libactivator.camera.invoke-shutter" = "Camera Shutter";
 	"LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "Trigger camera app's shutter function";
 
