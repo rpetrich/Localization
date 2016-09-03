@@ -773,7 +773,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Activa o controlo por voz";
 
 	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "Siri";
-	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Activa a assistente virtual";
+	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Activa a Siri";
 
 	"LISTENER_TITLE_libactivator.system.activate-control-center" = "Activar central de controlo";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Mostra a central de controlo";
@@ -979,7 +979,7 @@
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Abre Definições em Wi-Fi";
 	
-	"LISTENER_DESCRIPTION_SETTINGS_FORMAT" = "Abrir Definições na página %@";
+	"LISTENER_DESCRIPTION_SETTINGS_FORMAT" = "Abre Definições na página %@";
 
 	"LISTENER_TITLE_libactivator.camera.invoke-shutter" = "Obturador da câmara";
 	"LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "Acciona a função de obturador da Câmara";
@@ -1079,9 +1079,9 @@
 	"MESSAGE" = "Mensagem";
 
 	"NEW_LISTENER_TITLE_libactivator.assistant.ask" = "Perguntar a Siri";
-	"NEW_LISTENER_DESCRIPTION_libactivator.assistant.ask" = "Faz a Siri responder a uma pergunta";
+	"NEW_LISTENER_DESCRIPTION_libactivator.assistant.ask" = "A Siri responde a uma pergunta";
 	"LISTENER_TITLE_libactivator.assistant.ask_FORMAT" = "Perguntar \"%@\"";
-	"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "Faz a Siri responder a uma pergunta";
+	"LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT" = "A Siri responde a uma pergunta";
 	"QUESTION" = "Pergunta";
 
 	"NEW_LISTENER_TITLE_libactivator.command.run" = "Executar comando";
