@@ -25,7 +25,7 @@
     "ALERT_VALUE_AND" = " und ";
     "ALREADY_ASSIGNED_TO" = "Bereits zugewiesen zu\n\"%@\"";
     "ANY_DAY_OF_THE_WEEK_LOWERCASE" = "Ein beliebiger Tag in der Woche";
-    "API_ACCESS_WARNING_FORMAT" = "%@ ben\U00f6tigt deine Erlaubnis, um Aktionen zu senden und Ereignis-Zuweisungen zu \U00e4ndern.";
+    "API_ACCESS_WARNING_FORMAT" = "\"%@\" ben\U00f6tigt deine Erlaubnis, um Aktionen zu senden und Ereignis-Zuweisungen zu \U00e4ndern.";
     APPLICATIONS = Anwendungen;
     "APPLICATION_KEYCHAIN_WARNING" = "Wenn ein Sperrcode gesetzt wurde, ben\U00f6tigen Apps, die auf eine Verschl\U00fcsselung zur\U00fcckgreifen ( wie Mail ) den Sperrcode, um auf deine Daten zugreifen zu k\U00f6nnen.";
     "ASK_FOR_PASSCODE" = "Nach dem Sperrcode fragen";
@@ -375,7 +375,8 @@
     "INCOMPATIBLE_WARNING_NEITHER_PLURAL" = "\"%@\" ist nicht kompatibel mit \"%@\".\nEs wird nur \"%@\" zugewiesen.";
     INSTALL = Installieren;
     "IN_CYDIA_WARNING" = "Es ist gef\U00e4hrlich, Aktionen auszuf\U00fchren, w\U00e4hrend Cydia Software installiert oder \U00c4nderungen daran vornimmt.";
-    "JUST_ONE_LISTENER_ASSIGNMENT" = "Nur %@";
+    "JUST_ONE_LISTENER_ASSIGNMENT" = "Nur \"%@\"";
+    "LISTENER_DESCRIPTION_SETTINGS_FORMAT" = "\U00d6ffne Einstellungsseite \"%@\"";
     "LISTENER_DESCRIPTION_application" = "Anwendung starten";
     "LISTENER_DESCRIPTION_application_shortcut_FORMAT" = "Aktiviere \"%@\"-Verkn\U00fcpfung";
     "LISTENER_DESCRIPTION_com.rpetrich.activoice.apps" = "Aktiviere Google's App-Liste";
