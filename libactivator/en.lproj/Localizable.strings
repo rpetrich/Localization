@@ -535,6 +535,9 @@
 	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Single Press and Slide Up";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Touch fingerprint sensor and swipe onto screen";
 
+	"EVENT_TITLE_libactivator.fingerprint-sensor.hold-long" = "Long Hold";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold-long" = "Touch and long hold on fingerprint sensor";
+
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Drag left to right";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Drag along screen edge from left to right";
 
@@ -887,97 +890,145 @@
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Launch Phone to the Voicemail tab";
 
 	"LISTENER_TITLE_libactivator.settings.about" = "About";
-	"LISTENER_DESCRIPTION_libactivator.settings.about" = "Open Settings to About";
+	"LISTENER_DESCRIPTION_libactivator.settings.about" = "Open Settings to About page";
 
 	"LISTENER_TITLE_libactivator.settings.accessibility" = "Accessibility";
-	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "Open Settings to Accessibility";
+	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "Open Settings to Accessibility page";
 
 	"LISTENER_TITLE_libactivator.settings.auto-lock" = "Auto-Lock";
-	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Open Settings to Auto-Lock";
+	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Open Settings to Auto-Lock page";
+
+	"LISTENER_TITLE_libactivator.settings.background-app-refresh" = "Background App Refresh";
+	"LISTENER_DESCRIPTION_libactivator.settings.background-app-refresh" = "Open Settings to Background App Refresh page";
+
+	"LISTENER_TITLE_libactivator.settings.battery" = "Battery";
+	"LISTENER_DESCRIPTION_libactivator.settings.battery" = "Open Settings to Battery page";
 
 	"LISTENER_TITLE_libactivator.settings.bluetooth" = "Bluetooth";
-	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "Open Settings to Bluetooth";
-
-	"LISTENER_TITLE_libactivator.settings.brightness" = "Brightness";
-	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "Open Settings to Brightness";
+	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "Open Settings to Bluetooth page";
 
 	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Brightness & Wallpaper";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "Open Settings to Brightness/Wallpaper page";
 
+	"LISTENER_TITLE_libactivator.settings.brightness" = "Brightness";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "Open Settings to Brightness page";
+
+	"LISTENER_TITLE_libactivator.settings.carplay" = "CarPlay";
+	"LISTENER_DESCRIPTION_libactivator.settings.carplay" = "Open Settings to CarPlay page";
+
 	"LISTENER_TITLE_libactivator.settings.cellular" = "Cellular";
-	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "Open Settings to Cellular";
+	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "Open Settings to Cellular page";
+
+	"LISTENER_TITLE_libactivator.settings.control-center" = "Control Center";
+	"LISTENER_DESCRIPTION_libactivator.settings.control-center" = "Open Settings to Control Center page";
 
 	"LISTENER_TITLE_libactivator.settings.date-time" = "Date & Time";
-	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Open Settings to Date & Time";
+	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Open Settings to Date & Time page";
+
+	"LISTENER_TITLE_libactivator.settings.display" = "Display & Brightness";
+	"LISTENER_DESCRIPTION_libactivator.settings.display" = "Open Settings to Display & Brightness page";
+
+	"LISTENER_TITLE_libactivator.settings.do-not-disturb" = "Do Not Disturb";
+	"LISTENER_DESCRIPTION_libactivator.settings.do-not-disturb" = "Open Settings to Do Not Disturb page";
 
 	"LISTENER_TITLE_libactivator.settings.equalizer" = "Equalizer";
-	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "Open Settings to Equalizer";
+	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "Open Settings to Equalizer page";
 
 	"LISTENER_TITLE_libactivator.settings.facebook" = "Facebook";
-	"LISTENER_DESCRIPTION_libactivator.settings.facebook" = "Open Settings to Facebook";
+	"LISTENER_DESCRIPTION_libactivator.settings.facebook" = "Open Settings to Facebook page";
 
 	"LISTENER_TITLE_libactivator.settings.facetime" = "FaceTime";
-	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "Open Settings to FaceTime";
+	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "Open Settings to FaceTime page";
+
+	"LISTENER_TITLE_libactivator.settings.game-center" = "Game Center";
+	"LISTENER_DESCRIPTION_libactivator.settings.game-center" = "Open Settings to Game Center page";
 
 	"LISTENER_TITLE_libactivator.settings.general" = "General";
-	"LISTENER_DESCRIPTION_libactivator.settings.general" = "Open Settings to General";
+	"LISTENER_DESCRIPTION_libactivator.settings.general" = "Open Settings to General page";
+
+	"LISTENER_TITLE_libactivator.settings.handoff" = "Handoff";
+	"LISTENER_DESCRIPTION_libactivator.settings.handoff" = "Open Settings to Handoff page";
 
 	"LISTENER_TITLE_libactivator.settings.icloud" = "iCloud";
-	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "Open Settings to iCloud";
+	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "Open Settings to iCloud page";
 
 	"LISTENER_TITLE_libactivator.settings.international" = "International";
-	"LISTENER_DESCRIPTION_libactivator.settings.international" = "Open Settings to International";
+	"LISTENER_DESCRIPTION_libactivator.settings.international" = "Open Settings to International page";
 
 	"LISTENER_TITLE_libactivator.settings.keyboard" = "Keyboard";
-	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "Open Settings to Keyboard";
+	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "Open Settings to Keyboard page";
 
 	"LISTENER_TITLE_libactivator.settings.location-services" = "Location Services";
-	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "Open Settings to Location Services";
+	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "Open Settings to Location Services page";
+
+	"LISTENER_TITLE_libactivator.settings.mail" = "Mail, Contacts, Calendars";
+	"LISTENER_DESCRIPTION_libactivator.settings.mail" = "Open Settings to Accounts page";
+
+	"LISTENER_TITLE_libactivator.settings.managed-configuration" = "Profiles & Device Management";
+	"LISTENER_DESCRIPTION_libactivator.settings.managed-configuration" = "Open Settings to Managed Configuration page";
+
+	"LISTENER_TITLE_libactivator.settings.maps" = "Maps";
+	"LISTENER_DESCRIPTION_libactivator.settings.maps" = "Open Settings to Maps page";
+
+	"LISTENER_TITLE_libactivator.settings.messages" = "Messages";
+	"LISTENER_DESCRIPTION_libactivator.settings.messages" = "Open Settings to Messages page";
 
 	"LISTENER_TITLE_libactivator.settings.music" = "Music";
-	"LISTENER_DESCRIPTION_libactivator.settings.music" = "Open Settings to Music";
+	"LISTENER_DESCRIPTION_libactivator.settings.music" = "Open Settings to Music page";
 
 	"LISTENER_TITLE_libactivator.settings.network" = "Network";
-	"LISTENER_DESCRIPTION_libactivator.settings.network" = "Open Settings to Network";
+	"LISTENER_DESCRIPTION_libactivator.settings.network" = "Open Settings to Network page";
 
 	"LISTENER_TITLE_libactivator.settings.notes" = "Notes";
-	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "Open Settings to Notes";
+	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "Open Settings to Notes page";
 
 	"LISTENER_TITLE_libactivator.settings.notifications" = "Notifications";
-	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "Open Settings to Notifications";
+	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "Open Settings to Notifications page";
+
+	"LISTENER_TITLE_libactivator.settings.passcode" = "Touch ID & Passcode";
+	"LISTENER_DESCRIPTION_libactivator.settings.passcode" = "Open Settings to Touch ID & Passcode page";
 
 	"LISTENER_TITLE_libactivator.settings.phone" = "Phone";
-	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "Open Settings to Phone";
+	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "Open Settings to Phone page";
 
 	"LISTENER_TITLE_libactivator.settings.photos" = "Photos";
-	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "Open Settings to Photos";
+	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "Open Settings to Photos page";
+
+	"LISTENER_TITLE_libactivator.settings.privacy" = "Privacy";
+	"LISTENER_DESCRIPTION_libactivator.settings.privacy" = "Open Settings to Privacy page";
+
+	"LISTENER_TITLE_libactivator.settings.reminders" = "Reminders";
+	"LISTENER_DESCRIPTION_libactivator.settings.reminders" = "Open Settings to Reminders page";
 
 	"LISTENER_TITLE_libactivator.settings.safari" = "Safari";
-	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "Open Settings to Safari";
+	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "Open Settings to Safari page";
 
 	"LISTENER_TITLE_libactivator.settings.sounds" = "Sounds";
-	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "Open Settings to Sounds";
+	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "Open Settings to Sounds page";
 
 	"LISTENER_TITLE_libactivator.settings.store" = "Store";
-	"LISTENER_DESCRIPTION_libactivator.settings.store" = "Open Settings to Store";
+	"LISTENER_DESCRIPTION_libactivator.settings.store" = "Open Settings to Store page";
+
+	"LISTENER_TITLE_libactivator.settings.tethering" = "Personal Hotspot";
+	"LISTENER_DESCRIPTION_libactivator.settings.tethering" = "Open Settings to Tethering page";
 
 	"LISTENER_TITLE_libactivator.settings.twitter" = "Twitter";
-	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "Open Settings to Twitter";
+	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "Open Settings to Twitter page";
 
 	"LISTENER_TITLE_libactivator.settings.usage" = "Usage";
-	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Open Settings to Usage";
+	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Open Settings to Usage page";
 
 	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Siri";
-	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Open Settings to Siri";
+	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Open Settings to Virtual Assistant page";
 
 	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
-	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Open Settings to VPN";
+	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Open Settings to VPN page";
 
 	"LISTENER_TITLE_libactivator.settings.wallpaper" = "Wallpaper";
-	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Open Settings to Wallpaper";
+	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Open Settings to Wallpaper page";
 
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
-	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Open Settings to Wi-Fi";
+	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Open Settings to Wi-Fi page";
 
 	"LISTENER_DESCRIPTION_SETTINGS_FORMAT" = "Open Settings to %@ page";
 
@@ -1031,9 +1082,6 @@
 
 	"LISTENER_TITLE_libactivator.clock.world-clock" = "World Clock";
 	"LISTENER_DESCRIPTION_libactivator.clock.world-clock" = "Open Clock app to World Clock page";
-
-	"LISTENER_TITLE_libactivator.settings.battery" = "Battery";
-	"LISTENER_DESCRIPTION_libactivator.settings.battery" = "Open Settings to Battery page";
 
 	"LISTENER_DESCRIPTION_libactivator.call" = "Call";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "Mail";
