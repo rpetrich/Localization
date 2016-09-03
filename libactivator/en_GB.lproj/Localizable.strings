@@ -773,7 +773,7 @@
 	"LISTENER_DESCRIPTION_libactivator.system.voice-control" = "Activate Voice Control";
 
 	"LISTENER_TITLE_libactivator.system.virtual-assistant" = "Siri";
-	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Activate virtual assistant";
+	"LISTENER_DESCRIPTION_libactivator.system.virtual-assistant" = "Activate Siri";
 
 	"LISTENER_TITLE_libactivator.system.activate-control-center" = "Activate Control Centre";
 	"LISTENER_DESCRIPTION_libactivator.system.activate-control-center" = "Show settings control centre";
@@ -967,8 +967,8 @@
 	"LISTENER_TITLE_libactivator.settings.usage" = "Usage";
 	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Open Settings to Usage";
 
-	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Virtual Assistant";
-	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Open Settings to Virtual Assistant";
+	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Siri";
+	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Open Settings to Siri";
 
 	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
 	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Open Settings to VPN";
@@ -978,6 +978,8 @@
 
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
 	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Open Settings to Wi-Fi";
+
+	"LISTENER_DESCRIPTION_SETTINGS_FORMAT" = "Open Settings to %@ page";
 
 	"LISTENER_TITLE_libactivator.camera.invoke-shutter" = "Camera Shutter";
 	"LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "Trigger camera app's shutter function";

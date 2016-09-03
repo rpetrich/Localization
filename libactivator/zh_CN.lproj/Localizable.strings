@@ -924,7 +924,7 @@
 	"LISTENER_DESCRIPTION_libactivator.clock.world-clock" = "打开时钟的世界时钟页面";
 
 	"LISTENER_TITLE_libactivator.settings.battery" = "电池";
-	"LISTENER_DESCRIPTION_libactivator.settings.battery" = "打开设置的电池页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.battery" = "打开设置的“电池”页面";
 	
 	"LISTENER_DESCRIPTION_libactivator.call" = "呼叫";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "发邮件给";
@@ -1217,100 +1217,102 @@
 	"LISTENER_DESCRIPTION_com.rpetrich.activoice.voice" = "访问谷歌语音搜索";
 
 	"LISTENER_TITLE_libactivator.settings.about" = "关于本机";
-	"LISTENER_DESCRIPTION_libactivator.settings.about" = "打开设置的关于本机页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.about" = "打开设置的“关于本机”页面";
 
 	"LISTENER_TITLE_libactivator.settings.accessibility" = "辅助功能";
-	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "打开设置的辅助功能页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "打开设置的“辅助功能”页面";
 
 	"LISTENER_TITLE_libactivator.settings.auto-lock" = "自动锁定";
-	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "打开设置的自动锁定页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "打开设置的“自动锁定”页面";
 
 	"LISTENER_TITLE_libactivator.settings.bluetooth" = "蓝牙";
-	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "打开设置的蓝牙页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "打开设置的“蓝牙”页面";
 
 	"LISTENER_TITLE_libactivator.settings.brightness" = "亮度";
-	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "打开设置的亮度页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "打开设置的“亮度”页面";
 
 	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "亮度与墙纸";
-	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "打开设置的亮度与墙纸页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "打开设置的“亮度与墙纸”页面";
 
 	"LISTENER_TITLE_libactivator.settings.cellular" = "蜂窝移动网络";
-	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "打开设置的蜂窝移动网络页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "打开设置的“蜂窝移动网络”页面";
 
 	"LISTENER_TITLE_libactivator.settings.date-time" = "日期与时间";
-	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "打开设置的日期与时间页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "打开设置的“日期与时间”页面";
 
 	"LISTENER_TITLE_libactivator.settings.equalizer" = "均衡器";
-	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "打开设置的均衡器页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "打开设置的“均衡器”页面";
 
 	"LISTENER_TITLE_libactivator.settings.facetime" = "FaceTime";
-	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "打开设置的 FaceTime 页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "打开设置的“FaceTime”页面";
 
 	"LISTENER_TITLE_libactivator.settings.general" = "通用";
-	"LISTENER_DESCRIPTION_libactivator.settings.general" = "打开设置的通用页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.general" = "打开设置的“通用”页面";
 
 	"LISTENER_TITLE_libactivator.settings.icloud" = "iCloud";
-	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "打开设置的 iCloud 页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "打开设置的“iCloud”页面";
 
 	"LISTENER_TITLE_libactivator.settings.international" = "多语言环境";
-	"LISTENER_DESCRIPTION_libactivator.settings.international" = "打开设置的多语言环境页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.international" = "打开设置的“多语言环境”页面";
 
 	"LISTENER_TITLE_libactivator.settings.keyboard" = "键盘";
-	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "打开设置的键盘页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "打开设置的“键盘”页面";
 
 	"LISTENER_TITLE_libactivator.settings.location-services" = "定位服务";
-	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "打开设置的定位服务页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "打开设置的“定位服务”页面";
 
 	"LISTENER_TITLE_libactivator.settings.music" = "音乐";
-	"LISTENER_DESCRIPTION_libactivator.settings.music" = "打开设置的音乐页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.music" = "打开设置的“音乐”页面";
 
 	"LISTENER_TITLE_libactivator.settings.network" = "网络";
-	"LISTENER_DESCRIPTION_libactivator.settings.network" = "打开设置的网络页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.network" = "打开设置的“网络”页面";
 
 	"LISTENER_TITLE_libactivator.settings.notes" = "备忘录";
-	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "打开设置的备忘录页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "打开设置的“备忘录”页面";
 
 	"LISTENER_TITLE_libactivator.settings.notifications" = "通知";
-	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "打开设置的通知页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "打开设置的“通知”页面";
 
 	"LISTENER_TITLE_libactivator.settings.phone" = "电话";
-	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "打开设置的电话页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "打开设置的“电话”页面";
 
 	"LISTENER_TITLE_libactivator.settings.photos" = "照片";
-	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "打开设置的照片页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "打开设置的“照片”页面";
 
 	"LISTENER_TITLE_libactivator.settings.safari" = "Safari";
-	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "打开设置的 Safari 页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "打开设置的“Safari”页面";
 
 	"LISTENER_TITLE_libactivator.settings.sounds" = "声音";
-	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "打开设置的声音页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "打开设置的“声音”页面";
 
 	"LISTENER_TITLE_libactivator.settings.store" = "iTunes Store 和 App Store";
-	"LISTENER_DESCRIPTION_libactivator.settings.store" = "打开设置的 iTunes Store 和 App Store 页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.store" = "打开设置的“iTunes Store 和 App Store”页面";
 
 	"LISTENER_TITLE_libactivator.settings.twitter" = "Twitter";
-	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "打开设置的 Twitter 页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "打开设置的“Twitter”页面";
 
 	"LISTENER_TITLE_libactivator.settings.facebook" = "Facebook";
-	"LISTENER_DESCRIPTION_libactivator.settings.facebook" = "打开设置的 Facebook 页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.facebook" = "打开设置的“Facebook”页面";
 
 	"LISTENER_TITLE_libactivator.settings.weibo" = "新浪微博";
-	"LISTENER_DESCRIPTION_libactivator.settings.weibo" = "打开设置的新浪微博页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.weibo" = "打开设置的“新浪微博”页面";
 
 	"LISTENER_TITLE_libactivator.settings.usage" = "用量";
-	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "打开设置的用量页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "打开设置的“用量”页面";
 
-	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "虚拟助手（Siri）";
-	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "打开设置的虚拟助手（Siri）页面";
+	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Siri";
+	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "打开设置的“Siri”页面";
 
 	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
-	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "打开设置的 VPN 页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "打开设置的“VPN”页面";
 
 	"LISTENER_TITLE_libactivator.settings.wallpaper" = "墙纸";
-	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "打开设置的墙纸页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "打开设置的“墙纸”页面";
 
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
-	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "打开设置的 Wi-Fi 页面";
+	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "打开设置的“Wi-Fi”页面";
+
+	"LISTENER_DESCRIPTION_SETTINGS_FORMAT" = "打开设置的“%@”页面";
 
 	"LISTENER_TITLE_libactivator.keyboard.dictation" = "听写";
 	"LISTENER_DESCRIPTION_libactivator.keyboard.dictation" = "在当前活动的文本区域听写输入";
