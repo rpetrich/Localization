@@ -535,6 +535,9 @@
 	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Pressionar uma vez e deslizar para cima";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Pressione uma vez o sensor de impressão digital e deslize para o ecrã ";
 
+	"EVENT_TITLE_libactivator.fingerprint-sensor.hold-long" = "Segurar prolongadamente";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold-long" = "Pressione e segure prolongadamente o sensor de impressão digital";
+
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Deslizar da esquerda para a direita";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Deslize da esquerda para a direita ao longo do bordo do ecrã";
 
@@ -887,97 +890,145 @@
 	"LISTENER_DESCRIPTION_libactivator.phone.voicemail" = "Abre Telefone no separador Voicemail";
 
 	"LISTENER_TITLE_libactivator.settings.about" = "Informações";
-	"LISTENER_DESCRIPTION_libactivator.settings.about" = "Abre Definições em Informações";
+	"LISTENER_DESCRIPTION_libactivator.settings.about" = "Abre Definições na página Informações";
 
 	"LISTENER_TITLE_libactivator.settings.accessibility" = "Acessibilidade";
-	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "Abre Definições em Acessibilidade";
+	"LISTENER_DESCRIPTION_libactivator.settings.accessibility" = "Abre Definições na página Acessibilidade";
 
 	"LISTENER_TITLE_libactivator.settings.auto-lock" = "Bloqueio automático";
-	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Abre Definições em Bloqueio automático";
+	"LISTENER_DESCRIPTION_libactivator.settings.auto-lock" = "Abre Definições na página Bloqueio automático";
+
+	"LISTENER_TITLE_libactivator.settings.background-app-refresh" = "Actualização em segundo plano";
+	"LISTENER_DESCRIPTION_libactivator.settings.background-app-refresh" = "Abre Definições na página Actualização em segundo plano";
+
+	"LISTENER_TITLE_libactivator.settings.battery" = "Bateria";
+	"LISTENER_DESCRIPTION_libactivator.settings.battery" = "Abre Definições na página Bateria";
 
 	"LISTENER_TITLE_libactivator.settings.bluetooth" = "Bluetooth";
-	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "Abre Definições em Bluetooth";
-
-	"LISTENER_TITLE_libactivator.settings.brightness" = "Brilho";
-	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "Abre Definições em Brilho";
+	"LISTENER_DESCRIPTION_libactivator.settings.bluetooth" = "Abre Definições na página Bluetooth";
 
 	"LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper" = "Papel de parede e Brilho";
 	"LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper" = "Abre Definições em Papel de parede e Brilho";
 
+	"LISTENER_TITLE_libactivator.settings.brightness" = "Brilho";
+	"LISTENER_DESCRIPTION_libactivator.settings.brightness" = "Abre Definições na página Brilho";
+
+	"LISTENER_TITLE_libactivator.settings.carplay" = "CarPlay";
+	"LISTENER_DESCRIPTION_libactivator.settings.carplay" = "Abre Definições na página CarPlay";
+
 	"LISTENER_TITLE_libactivator.settings.cellular" = "Dados móveis";
-	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "Abre Definições em Dados móveis";
+	"LISTENER_DESCRIPTION_libactivator.settings.cellular" = "Abre Definições na página Dados móveis";
+
+	"LISTENER_TITLE_libactivator.settings.control-center" = "Central de controlo";
+	"LISTENER_DESCRIPTION_libactivator.settings.control-center" = "Abre Definições na página Central de controlo";
 
 	"LISTENER_TITLE_libactivator.settings.date-time" = "Data e hora";
-	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Abre Definições em Data e hora";
+	"LISTENER_DESCRIPTION_libactivator.settings.date-time" = "Abre Definições na página Data e hora";
+
+	"LISTENER_TITLE_libactivator.settings.display" = "Ecrã e Brilho";
+	"LISTENER_DESCRIPTION_libactivator.settings.display" = "Abre Definições na página Ecrã e Brilho";
+
+	"LISTENER_TITLE_libactivator.settings.do-not-disturb" = "Não incomodar";
+	"LISTENER_DESCRIPTION_libactivator.settings.do-not-disturb" = "Abre Definições na página Não incomodar";
 
 	"LISTENER_TITLE_libactivator.settings.equalizer" = "Equalizador";
-	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "Abre Definições em Equalizador";
+	"LISTENER_DESCRIPTION_libactivator.settings.equalizer" = "Abre Definições na página Equalizador";
 
 	"LISTENER_TITLE_libactivator.settings.facebook" = "Facebook";
-	"LISTENER_DESCRIPTION_libactivator.settings.facebook" = "Abre Definições em Facebook";
+	"LISTENER_DESCRIPTION_libactivator.settings.facebook" = "Abre Definições na página Facebook";
 
 	"LISTENER_TITLE_libactivator.settings.facetime" = "FaceTime";
-	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "Abre Definições em FaceTime";
+	"LISTENER_DESCRIPTION_libactivator.settings.facetime" = "Abre Definições na página FaceTime";
+
+	"LISTENER_TITLE_libactivator.settings.game-center" = "Game Center";
+	"LISTENER_DESCRIPTION_libactivator.settings.game-center" = "Abre Definições na página Game Center";
 
 	"LISTENER_TITLE_libactivator.settings.general" = "Geral";
-	"LISTENER_DESCRIPTION_libactivator.settings.general" = "Abre Definições em Geral";
+	"LISTENER_DESCRIPTION_libactivator.settings.general" = "Abre Definições na página Geral";
+
+	"LISTENER_TITLE_libactivator.settings.handoff" = "Handoff";
+	"LISTENER_DESCRIPTION_libactivator.settings.handoff" = "Abre Definições na página Handoff";
 
 	"LISTENER_TITLE_libactivator.settings.icloud" = "iCloud";
-	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "Abre Definições em iCloud";
+	"LISTENER_DESCRIPTION_libactivator.settings.icloud" = "Abre Definições na página iCloud";
 
 	"LISTENER_TITLE_libactivator.settings.international" = "Internacional";
-	"LISTENER_DESCRIPTION_libactivator.settings.international" = "Abre Definições em Internacional";
+	"LISTENER_DESCRIPTION_libactivator.settings.international" = "Abre Definições na página Internacional";
 
 	"LISTENER_TITLE_libactivator.settings.keyboard" = "Teclado";
-	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "Abre Definições em Teclado";
+	"LISTENER_DESCRIPTION_libactivator.settings.keyboard" = "Abre Definições na página Teclado";
 
 	"LISTENER_TITLE_libactivator.settings.location-services" = "Serviços de localização";
-	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "Abre Definições em Serviços de localização";
+	"LISTENER_DESCRIPTION_libactivator.settings.location-services" = "Abre Definições na página Serviços de localização";
+
+	"LISTENER_TITLE_libactivator.settings.mail" = "Mail, Contactos, Calendário";
+	"LISTENER_DESCRIPTION_libactivator.settings.mail" = "Abre Definições na página Contas";
+
+	"LISTENER_TITLE_libactivator.settings.managed-configuration" = "Gestão de dispositivos e perfis";
+	"LISTENER_DESCRIPTION_libactivator.settings.managed-configuration" = "Abre Definições na página Gestão de dispositivos e perfis";
+
+	"LISTENER_TITLE_libactivator.settings.maps" = "Mapas";
+	"LISTENER_DESCRIPTION_libactivator.settings.maps" = "Abre Definições na página Mapas";
+
+	"LISTENER_TITLE_libactivator.settings.messages" = "Mensagens";
+	"LISTENER_DESCRIPTION_libactivator.settings.messages" = "Abre Definições na página Mensagens";
 
 	"LISTENER_TITLE_libactivator.settings.music" = "Música";
-	"LISTENER_DESCRIPTION_libactivator.settings.music" = "Abre Definições em Música";
+	"LISTENER_DESCRIPTION_libactivator.settings.music" = "Abre Definições na página Música";
 
 	"LISTENER_TITLE_libactivator.settings.network" = "Rede";
-	"LISTENER_DESCRIPTION_libactivator.settings.network" = "Abre Definições em Rede";
+	"LISTENER_DESCRIPTION_libactivator.settings.network" = "Abre Definições na página Rede";
 
 	"LISTENER_TITLE_libactivator.settings.notes" = "Notas";
-	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "Abre Definições em Notas";
+	"LISTENER_DESCRIPTION_libactivator.settings.notes" = "Abre Definições na página Notas";
 
 	"LISTENER_TITLE_libactivator.settings.notifications" = "Notificações";
-	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "Abre Definições em Notificações";
+	"LISTENER_DESCRIPTION_libactivator.settings.notifications" = "Abre Definições na página Notificações";
+
+	"LISTENER_TITLE_libactivator.settings.passcode" = "Touch ID e código";
+	"LISTENER_DESCRIPTION_libactivator.settings.passcode" = "Abre Definições na página Touch ID e código";
 
 	"LISTENER_TITLE_libactivator.settings.phone" = "Telefone";
-	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "Abre Definições em Telefone";
+	"LISTENER_DESCRIPTION_libactivator.settings.phone" = "Abre Definições na página Telefone";
 
 	"LISTENER_TITLE_libactivator.settings.photos" = "Fotografias e Câmara";
-	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "Abre Definições em Fotografias e Câmara";
+	"LISTENER_DESCRIPTION_libactivator.settings.photos" = "Abre Definições na página Fotografias e Câmara";
+
+	"LISTENER_TITLE_libactivator.settings.privacy" = "Privacidade";
+	"LISTENER_DESCRIPTION_libactivator.settings.privacy" = "Abre Definições na página Privacidade";
+
+	"LISTENER_TITLE_libactivator.settings.reminders" = "Lembretes";
+	"LISTENER_DESCRIPTION_libactivator.settings.reminders" = "Abre Definições na página Lembretes";
 
 	"LISTENER_TITLE_libactivator.settings.safari" = "Safari";
-	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "Abre Definições em Safari";
+	"LISTENER_DESCRIPTION_libactivator.settings.safari" = "Abre Definições na página Safari";
 
 	"LISTENER_TITLE_libactivator.settings.sounds" = "Sons";
-	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "Abre Definições em Sons";
+	"LISTENER_DESCRIPTION_libactivator.settings.sounds" = "Abre Definições na página Sons";
 
 	"LISTENER_TITLE_libactivator.settings.store" = "iTunes Store e App Store";
-	"LISTENER_DESCRIPTION_libactivator.settings.store" = "Abre Definições em iTunes Store e App Store";
+	"LISTENER_DESCRIPTION_libactivator.settings.store" = "Abre Definições na página iTunes Store e App Store";
+
+	"LISTENER_TITLE_libactivator.settings.tethering" = "Hotspot pessoal";
+	"LISTENER_DESCRIPTION_libactivator.settings.tethering" = "Abre Definições na página Hotspot pessoal";
 
 	"LISTENER_TITLE_libactivator.settings.twitter" = "Twitter";
-	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "Abre Definições em Twitter";
+	"LISTENER_DESCRIPTION_libactivator.settings.twitter" = "Abre Definições na página Twitter";
 
 	"LISTENER_TITLE_libactivator.settings.usage" = "Utilização";
-	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Abre Definições em Utilização";
+	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Abre Definições na página Utilização";
 
 	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Siri";
-	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Abre Definições em Siri";
+	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Abre Definições na página Siri";
 
 	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
-	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Abre Definições em VPN";
+	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Abre Definições na página VPN";
 
 	"LISTENER_TITLE_libactivator.settings.wallpaper" = "Papel de parede";
-	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Abre Definições em Papel de parede";
+	"LISTENER_DESCRIPTION_libactivator.settings.wallpaper" = "Abre Definições na página Papel de parede";
 
 	"LISTENER_TITLE_libactivator.settings.wifi" = "Wi-Fi";
-	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Abre Definições em Wi-Fi";
+	"LISTENER_DESCRIPTION_libactivator.settings.wifi" = "Abre Definições na página Wi-Fi";
 	
 	"LISTENER_DESCRIPTION_SETTINGS_FORMAT" = "Abre Definições na página %@";
 
@@ -1031,9 +1082,6 @@
 
 	"LISTENER_TITLE_libactivator.clock.world-clock" = "Relógio";
 	"LISTENER_DESCRIPTION_libactivator.clock.world-clock" = "Abre Relógio no separador Relógio";
-
-	"LISTENER_TITLE_libactivator.settings.battery" = "Bateria";
-	"LISTENER_DESCRIPTION_libactivator.settings.battery" = "Abre Definições em Bateria";
 
 	"LISTENER_DESCRIPTION_libactivator.call" = "Liga a";
 	"LISTENER_DESCRIPTION_libactivator.mail" = "Envia email para";
