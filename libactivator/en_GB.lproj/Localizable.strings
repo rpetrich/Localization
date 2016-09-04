@@ -241,6 +241,7 @@
 	"EVENT_GROUP_TITLE_3D Touch" = "3D Touch";
 	"EVENT_GROUP_TITLE_Apple Watch" = "Apple Watch";
 	"EVENT_GROUP_TITLE_Media Playback" = "Media Playback";
+	"EVENT_GROUP_TITLE_Car" = "Car";
 
 	/* Events */
 
@@ -594,6 +595,12 @@
 
 	"EVENT_TITLE_libactivator.now-playing.info-changed" = "Current Track Changed";
 	"EVENT_DESCRIPTION_libactivator.now-playing.info-changed" = "Received updated track information";
+
+	"EVENT_TITLE_libactivator.car.connected" = "Connected";
+	"EVENT_DESCRIPTION_libactivator.car.connected" = "CarPlay accessory connected";
+
+	"EVENT_TITLE_libactivator.car.disconnected" = "Disconnected";
+	"EVENT_DESCRIPTION_libactivator.car.disconnected" = "CarPlay accessory disconnected";
 
 	/* Custom Events */
 

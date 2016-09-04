@@ -446,10 +446,10 @@
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按住耳机中央按钮";
 
 	"EVENT_TITLE_libactivator.headset.connected" = "连接耳机";
-	"EVENT_DESCRIPTION_libactivator.headset.connected" = "设备插上耳机";
+	"EVENT_DESCRIPTION_libactivator.headset.connected" = "连接上有线耳机";
 
 	"EVENT_TITLE_libactivator.headset.disconnected" = "断开耳机连接";
-	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "设备拔下耳机";
+	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "断开与有线耳机的连接";
 
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "按两下时钟";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "按两下时钟/日期区域";
@@ -467,10 +467,10 @@
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "按住时钟/日期区域";
 
 	"EVENT_TITLE_libactivator.power.connected" = "连接电源";
-	"EVENT_DESCRIPTION_libactivator.power.connected" = "正使用外接供电";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "连接上外部电源";
 
 	"EVENT_TITLE_libactivator.power.disconnected" = "断开电源";
-	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "已停止外接供电";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "断开外部电源";
 
 	"EVENT_TITLE_libactivator.five-finger.pinch" = "合拢五指";
 	"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "在屏幕合拢五只手指";
@@ -586,14 +586,20 @@
 	"EVENT_TITLE_libactivator.force-touch.statusbar" = "顶部状态栏";
 	"EVENT_DESCRIPTION_libactivator.force-touch.statusbar" = "用力点按顶部状态栏";
 
-	"EVENT_TITLE_libactivator.watch.connected" = "连接到 Apple Watch";
-	"EVENT_DESCRIPTION_libactivator.watch.connected" = "检测到 Apple Watch 已连接";
+	"EVENT_TITLE_libactivator.watch.connected" = "连接 Apple Watch";
+	"EVENT_DESCRIPTION_libactivator.watch.connected" = "连接到 Apple Watch";
 
 	"EVENT_TITLE_libactivator.watch.disconnected" = "断开 Apple Watch 连接";
-	"EVENT_DESCRIPTION_libactivator.watch.disconnected" = "检测到 Apple Watch 的连接已断开";
+	"EVENT_DESCRIPTION_libactivator.watch.disconnected" = "断开到 Apple Watch 的连接";
 
 	"EVENT_TITLE_libactivator.now-playing.info-changed" = "当前曲目已变更";
 	"EVENT_DESCRIPTION_libactivator.now-playing.info-changed" = "接收到更新的曲目信息";
+
+	"EVENT_TITLE_libactivator.car.connected" = "连接汽车";
+	"EVENT_DESCRIPTION_libactivator.car.connected" = "连接到 CarPlay 配件";
+
+	"EVENT_TITLE_libactivator.car.disconnected" = "断开汽车连接";
+	"EVENT_DESCRIPTION_libactivator.car.disconnected" = "断开到 CarPlay 配件的连接";
 
 	/* Custom Events */
 

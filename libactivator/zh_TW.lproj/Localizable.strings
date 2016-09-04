@@ -241,6 +241,7 @@
 	"EVENT_GROUP_TITLE_3D Touch" = "3D Touch";
 	"EVENT_GROUP_TITLE_Apple Watch" = "Apple Watch";
 	"EVENT_GROUP_TITLE_Media Playback" = "媒體播放";
+	"EVENT_GROUP_TITLE_Car" = "汽車";
 
 	/* Events */
 
@@ -445,11 +446,11 @@
 	"EVENT_TITLE_libactivator.headset-button.hold.short" = "按住按鈕";
 	"EVENT_DESCRIPTION_libactivator.headset-button.hold.short" = "按住耳機中央按鈕";
 
-	"EVENT_TITLE_libactivator.headset.connected" = "連接耳機";
-	"EVENT_DESCRIPTION_libactivator.headset.connected" = "裝置插上耳機";
+	"EVENT_TITLE_libactivator.headset.connected" = "連結耳機";
+	"EVENT_DESCRIPTION_libactivator.headset.connected" = "連結上有線耳機";
 
-	"EVENT_TITLE_libactivator.headset.disconnected" = "斷開耳機連接";
-	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "裝置拔下耳機";
+	"EVENT_TITLE_libactivator.headset.disconnected" = "斷開耳機連結";
+	"EVENT_DESCRIPTION_libactivator.headset.disconnected" = "斷開與有線耳機的連結";
 
 	"EVENT_TITLE_libactivator.lockscreen.clock.double-tap" = "按兩下時鐘";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap" = "按兩下時鐘/日期區域";
@@ -466,11 +467,11 @@
 	"EVENT_TITLE_libactivator.lockscreen.clock.tap-hold" = "按住時鐘";
 	"EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold" = "按住時鐘/日期區域";
 
-	"EVENT_TITLE_libactivator.power.connected" = "連接電源";
-	"EVENT_DESCRIPTION_libactivator.power.connected" = "正使用外接供電";
+	"EVENT_TITLE_libactivator.power.connected" = "連結電源";
+	"EVENT_DESCRIPTION_libactivator.power.connected" = "連結上外部電源";
 
 	"EVENT_TITLE_libactivator.power.disconnected" = "斷開電源";
-	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "已停止外接供電";
+	"EVENT_DESCRIPTION_libactivator.power.disconnected" = "斷開外部電源";
 
 	"EVENT_TITLE_libactivator.five-finger.pinch" = "往內撥動五指";
 	"EVENT_DESCRIPTION_libactivator.five-finger.pinch" = "在螢幕往內撥動五隻手指";
@@ -586,15 +587,21 @@
 	"EVENT_TITLE_libactivator.force-touch.statusbar" = "狀態列";
 	"EVENT_DESCRIPTION_libactivator.force-touch.statusbar" = "強制點按狀態列";
 
-	"EVENT_TITLE_libactivator.watch.connected" = "連接到 Apple Watch";
-	"EVENT_DESCRIPTION_libactivator.watch.connected" = "檢測到 Apple Watch 已連接";
+	"EVENT_TITLE_libactivator.watch.connected" = "連結 Apple Watch";
+	"EVENT_DESCRIPTION_libactivator.watch.connected" = "連結到 Apple Watch";
 
-	"EVENT_TITLE_libactivator.watch.disconnected" = "斷開 Apple Watch 連接";
-	"EVENT_DESCRIPTION_libactivator.watch.disconnected" = "檢測到 Apple Watch 的連接已斷開";
+	"EVENT_TITLE_libactivator.watch.disconnected" = "斷開 Apple Watch 連結";
+	"EVENT_DESCRIPTION_libactivator.watch.disconnected" = "斷開到 Apple Watch 的連結";
 
 	"EVENT_TITLE_libactivator.now-playing.info-changed" = "當前曲目已變更";
 	"EVENT_DESCRIPTION_libactivator.now-playing.info-changed" = "接收到更新的曲目資訊";
 	
+	"EVENT_TITLE_libactivator.car.connected" = "連結汽車";
+	"EVENT_DESCRIPTION_libactivator.car.connected" = "連結到 CarPlay 配件";
+
+	"EVENT_TITLE_libactivator.car.disconnected" = "斷開汽車連結";
+	"EVENT_DESCRIPTION_libactivator.car.disconnected" = "斷開到 CarPlay 配件的連結";
+
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "啟動應用程式";
@@ -658,19 +665,19 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT" = "發件人是 %1$@ 且訊息內容包括『%2$@』";
 
 	"NEW_EVENT_TITLE_libactivator.network.joined-wifi" = "加入 Wi-Fi 網路";
-	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "連接到某個 Wi-Fi 網路";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "連結到某個 Wi-Fi 網路";
 	"NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT" = "加入 %@";
 	"NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT" = "加入指定 Wi-Fi 網路";
 	"NETWORK_NAME" = "網路名";
 	"EVENT_TITLE_libactivator.network.joined-wifi" = "加入 Wi-Fi 網路";
 	"EVENT_DESCRIPTION_libactivator.network.joined-wifi" = "加入任意 Wi-Fi 網路";
-	"EVENT_TITLE_libactivator.network.left-wifi" = "斷開 Wi-Fi 連接";
-	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "斷開當前 Wi-Fi 網路連接";
+	"EVENT_TITLE_libactivator.network.left-wifi" = "斷開 Wi-Fi 連結";
+	"EVENT_DESCRIPTION_libactivator.network.left-wifi" = "斷開當前 Wi-Fi 網路連結";
 
-	"NEW_EVENT_TITLE_libactivator.network.bluetooth-connect_FORMAT" = "連接到 %@";
-	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-connect_FORMAT" = "連接到指定藍牙裝置";
-	"NEW_EVENT_TITLE_libactivator.network.bluetooth-disconnect_FORMAT" = "斷開與 %@ 的連接";
-	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "斷開與指定裝置的連接";
+	"NEW_EVENT_TITLE_libactivator.network.bluetooth-connect_FORMAT" = "連結到 %@";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-connect_FORMAT" = "連結到指定藍牙裝置";
+	"NEW_EVENT_TITLE_libactivator.network.bluetooth-disconnect_FORMAT" = "斷開與 %@ 的連結";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT" = "斷開與指定裝置的連結";
 
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT" = "檢測到匹配的指紋『%@』";
 
@@ -686,10 +693,10 @@
 	"NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT" = "電池充電到電量高於 %@%%";
 	"BATTERY_LEVEL_CHARGES_PAST" = "電池充電到電量高於 %@%%";
 
-	"NEW_EVENT_TITLE_libactivator.network.left-wifi" = "斷開 Wi-Fi 連接";
-	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi" = "斷開某個 Wi-Fi 網路連接";
+	"NEW_EVENT_TITLE_libactivator.network.left-wifi" = "斷開 Wi-Fi 連結";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi" = "斷開某個 Wi-Fi 網路連結";
 	"NEW_EVENT_TITLE_libactivator.network.left-wifi_FORMAT" = "斷開 %@";
-	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT" = "斷開指定的 Wi-Fi 網路連接";
+	"NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT" = "斷開指定的 Wi-Fi 網路連結";
 
 	"NEW_EVENT_TITLE_libactivator.icon.3d-touch" = "圖示 3D Touch";
 	"NEW_EVENT_DESCRIPTION_libactivator.icon.3d-touch" = "強制點按某個應用程式的圖示";
