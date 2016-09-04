@@ -1019,7 +1019,7 @@
 	"LISTENER_DESCRIPTION_libactivator.settings.usage" = "Open Settings to Usage page";
 
 	"LISTENER_TITLE_libactivator.settings.virtual-assistant" = "Siri";
-	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Open Settings to Virtual Assistant page";
+	"LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant" = "Open Settings to Siri page";
 
 	"LISTENER_TITLE_libactivator.settings.vpn" = "VPN";
 	"LISTENER_DESCRIPTION_libactivator.settings.vpn" = "Open Settings to VPN page";
