@@ -538,6 +538,9 @@
 	"EVENT_TITLE_libactivator.fingerprint-sensor.hold-long" = "长按";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold-long" = "长按指纹识别传感器";
 
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-hold" = "按一下后按住";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-hold" = "先按一下再松开，之后按住指纹识别传感器";
+
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "从左向右拖动";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "在屏幕底部边缘从左向右拖动";
 

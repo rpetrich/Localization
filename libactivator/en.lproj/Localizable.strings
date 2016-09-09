@@ -539,6 +539,9 @@
 	"EVENT_TITLE_libactivator.fingerprint-sensor.hold-long" = "Long Hold";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold-long" = "Touch and long hold on fingerprint sensor";
 
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-hold" = "Single Press and Hold";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-hold" = "Touch twice and hold on fingerprint sensor";
+
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Drag left to right";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Drag along screen edge from left to right";
 
