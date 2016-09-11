@@ -534,10 +534,13 @@
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold" = "Pressione e segure o sensor de impressão digital";
 
 	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Pressionar uma vez e deslizar para cima";
-	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Pressione uma vez o sensor de impressão digital e deslize para o ecrã ";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-slide-in" = "Pressione uma vez o sensor de impressão digital e deslize para o ecrã";
 
 	"EVENT_TITLE_libactivator.fingerprint-sensor.hold-long" = "Segurar prolongadamente";
 	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold-long" = "Pressione e segure prolongadamente o sensor de impressão digital";
+
+	"EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-hold" = "Pressionar e segurar brevemente";
+	"EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-hold" = "Pressione duas vezes e segure brevemente o sensor de impressão digital";
 
 	"EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right" = "Deslizar da esquerda para a direita";
 	"EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right" = "Deslize da esquerda para a direita ao longo do bordo do ecrã";
