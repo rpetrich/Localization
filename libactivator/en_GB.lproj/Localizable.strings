@@ -1084,6 +1084,9 @@
 	"LISTENER_TITLE_libactivator.clock.alarm" = "Alarm";
 	"LISTENER_DESCRIPTION_libactivator.clock.alarm" = "Open Clock app to Alarm page";
 
+	"LISTENER_TITLE_libactivator.clock.bedtime" = "Bedtime";
+	"LISTENER_DESCRIPTION_libactivator.clock.bedtime" = "Open Clock app to Bedtime page";
+
 	"LISTENER_TITLE_libactivator.clock.stopwatch" = "Stopwatch";
 	"LISTENER_DESCRIPTION_libactivator.clock.stopwatch" = "Open Clock app to Stopwatch page";
 
@@ -1208,6 +1211,7 @@
 
 	"LISTENER_TITLE_libactivator.ringtone.ping" = "Ping";
 	"LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Alert-In-Conversation" = "Message";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Go-To-Sleep" = "Go To Sleep";
 
 	"IN_CYDIA_WARNING" = "It is potentially dangerous to perform actions whilst Cydia is installing software.";
 
