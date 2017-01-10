@@ -926,6 +926,9 @@
 	"LISTENER_TITLE_libactivator.clock.alarm" = "闹钟";
 	"LISTENER_DESCRIPTION_libactivator.clock.alarm" = "打开时钟的闹钟页面";
 
+	"LISTENER_TITLE_libactivator.clock.bedtime" = "就寝";
+	"LISTENER_DESCRIPTION_libactivator.clock.bedtime" = "打开时钟的就寝页面";
+
 	"LISTENER_TITLE_libactivator.clock.stopwatch" = "秒表";
 	"LISTENER_DESCRIPTION_libactivator.clock.stopwatch" = "打开时钟的秒表页面";
 
@@ -1432,6 +1435,7 @@
 
 	"LISTENER_TITLE_libactivator.ringtone.ping" = "砰砰";
 	"LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Alert-In-Conversation" = "信息";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Go-To-Sleep" = "就寝";
 
 	"IN_CYDIA_WARNING" = "在 Cydia 安装软件时进行其它操作会有潜在的危险。";
 
