@@ -623,6 +623,7 @@
     "LISTENER_TITLE_libactivator.phone.voicemail" = "Voicemail zeigen";
     "LISTENER_TITLE_libactivator.profile.Default" = Standard;
     "LISTENER_TITLE_libactivator.ringtone.ping" = Ping;
+    "LISTENER_TITLE_libactivator.ringtone.texttone:Go-To-Sleep" = "Gehe schlafen";
     "LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Alert-In-Conversation" = Message;
     "LISTENER_TITLE_libactivator.screen.brightness.decrease" = "Helligkeit senken";
     "LISTENER_TITLE_libactivator.screen.brightness.increase" = "Helligkeit erh\U00f6hen";
@@ -842,7 +843,7 @@
     REMOVE = Entfernen;
     "RESET_ALERT_CANCEL" = Abbrechen;
     "RESET_ALERT_CONTINUE" = "Zur\U00fccksetzen";
-    "RESET_ALERT_MESSAGE" = "Bist du sicher, dass du die Activator-Einstellungen auf die Standardwerte zur\U00fccksetzen m\U00f6chtest ? \nNach diesem Schritt wird das SpringBoard wird neugestartet.";
+    "RESET_ALERT_MESSAGE" = "Bist du sicher, dass du die Activator-Einstellungen auf die Standardwerte zur\U00fccksetzen m\U00f6chtest ?\nNach diesem Schritt wird das SpringBoard wird neugestartet.";
     "RESET_ALERT_TITLE" = "Activator-Einstellungen zur\U00fccksetzen";
     "RESET_SETTINGS" = "Einstellungen zur\U00fccksetzen";
     "RESET_SETTINGS_DETAIL" = "Auf Standardwerte zur\U00fccksetzen";
