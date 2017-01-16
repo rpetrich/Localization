@@ -242,6 +242,7 @@
 	"EVENT_GROUP_TITLE_Apple Watch" = "Apple Watch";
 	"EVENT_GROUP_TITLE_Media Playback" = "Media Playback";
 	"EVENT_GROUP_TITLE_Car" = "Car";
+	"EVENT_GROUP_TITLE_Car" = "Scheduled";
 
 	/* Events */
 
@@ -604,6 +605,12 @@
 
 	"EVENT_TITLE_libactivator.car.disconnected" = "Disconnected";
 	"EVENT_DESCRIPTION_libactivator.car.disconnected" = "CarPlay accessory disconnected";
+
+	"EVENT_TITLE_libactivator.scheduled.sunrise" = "Sunrise";
+	"EVENT_DESCRIPTION_libactivator.scheduled.sunrise" = "Minute the sun appears on the horizon";
+
+	"EVENT_TITLE_libactivator.scheduled.sunset" = "Sunset";
+	"EVENT_DESCRIPTION_libactivator.scheduled.sunset" = "Minute the sun disappears below the horizon";
 
 	/* Custom Events */
 

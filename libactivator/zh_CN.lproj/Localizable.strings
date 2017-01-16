@@ -241,6 +241,7 @@
 	"EVENT_GROUP_TITLE_3D Touch" = "3D Touch";
 	"EVENT_GROUP_TITLE_Apple Watch" = "Apple Watch";
 	"EVENT_GROUP_TITLE_Media Playback" = "媒体播放";
+	"EVENT_GROUP_TITLE_Car" = "计划";
 
 	/* Events */
 
@@ -603,6 +604,12 @@
 
 	"EVENT_TITLE_libactivator.car.disconnected" = "断开汽车连接";
 	"EVENT_DESCRIPTION_libactivator.car.disconnected" = "断开到 CarPlay 配件的连接";
+
+	"EVENT_TITLE_libactivator.scheduled.sunrise" = "日出";
+	"EVENT_DESCRIPTION_libactivator.scheduled.sunrise" = "日出时分";
+
+	"EVENT_TITLE_libactivator.scheduled.sunset" = "日落";
+	"EVENT_DESCRIPTION_libactivator.scheduled.sunset" = "日落时分";
 
 	/* Custom Events */
 

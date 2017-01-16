@@ -242,6 +242,7 @@
 	"EVENT_GROUP_TITLE_Apple Watch" = "Apple Watch";
 	"EVENT_GROUP_TITLE_Media Playback" = "媒體播放";
 	"EVENT_GROUP_TITLE_Car" = "汽車";
+	"EVENT_GROUP_TITLE_Car" = "計劃";
 
 	/* Events */
 
@@ -604,6 +605,12 @@
 
 	"EVENT_TITLE_libactivator.car.disconnected" = "斷開汽車連結";
 	"EVENT_DESCRIPTION_libactivator.car.disconnected" = "斷開到 CarPlay 配件的連結";
+
+	"EVENT_TITLE_libactivator.scheduled.sunrise" = "日出";
+	"EVENT_DESCRIPTION_libactivator.scheduled.sunrise" = "日出時分";
+
+	"EVENT_TITLE_libactivator.scheduled.sunset" = "日落";
+	"EVENT_DESCRIPTION_libactivator.scheduled.sunset" = "日落時分";
 
 	/* Custom Events */
 
