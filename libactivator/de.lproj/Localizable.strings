@@ -152,7 +152,9 @@
     "EVENT_DESCRIPTION_libactivator.now-playing.info-changed" = "Neuer Titel wird wiedergegeben";
     "EVENT_DESCRIPTION_libactivator.power.connected" = "Netzstecker wird angeschlossen";
     "EVENT_DESCRIPTION_libactivator.power.disconnected" = "Netzstecker wird entfernt";
-    "EVENT_DESCRIPTION_libactivator.scheduled" = "%@";
+    "EVENT_DESCRIPTION_libactivator.scheduled" = "Zeit erreicht \"%@\"";
+    "EVENT_DESCRIPTION_libactivator.scheduled.sunrise" = "Die Minute, wenn die Sonne am Horizont erscheint";
+    "EVENT_DESCRIPTION_libactivator.scheduled.sunset" = "Die Minute, wenn die Sonne den Horizont verl\U00e4sst";
     "EVENT_DESCRIPTION_libactivator.slide-in.bottom" = "Ziehe vom unteren Rand nach oben";
     "EVENT_DESCRIPTION_libactivator.slide-in.bottom-left" = "Ziehe vom linken-unteren Rand nach oben";
     "EVENT_DESCRIPTION_libactivator.slide-in.bottom-right" = "Ziehe vom rechten-unteren Rand nach oben";
@@ -318,6 +320,8 @@
     "EVENT_TITLE_libactivator.now-playing.info-changed" = "Neuer Titel wird wiedergegeben";
     "EVENT_TITLE_libactivator.power.connected" = Verbunden;
     "EVENT_TITLE_libactivator.power.disconnected" = Getrennt;
+    "EVENT_TITLE_libactivator.scheduled.sunrise" = Sonnenaufgang;
+    "EVENT_TITLE_libactivator.scheduled.sunset" = Sonnenuntergang;
     "EVENT_TITLE_libactivator.slide-in.bottom" = "Vom unteren Rand";
     "EVENT_TITLE_libactivator.slide-in.bottom-left" = "Vom unteren Rand, links";
     "EVENT_TITLE_libactivator.slide-in.bottom-right" = "Vom unteren Rand, rechts";
@@ -418,6 +422,7 @@
     "LISTENER_DESCRIPTION_libactivator.call" = "Rufe an :";
     "LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter" = "Ausl\U00f6ser der Kamera-App bet\U00e4tigen";
     "LISTENER_DESCRIPTION_libactivator.clock.alarm" = "Startet Uhr, Seite \"Wecker\"";
+    "LISTENER_DESCRIPTION_libactivator.clock.bedtime" = "Startet Uhr, Seite \"Schlafenszeit\"";
     "LISTENER_DESCRIPTION_libactivator.clock.stopwatch" = "Startet Uhr, Seite \"Stopuhr\"";
     "LISTENER_DESCRIPTION_libactivator.clock.timer" = "Startet Uhr, Seite \"Timer\"";
     "LISTENER_DESCRIPTION_libactivator.clock.world-clock" = "Startet Uhr, Seite \"Weltuhr\"";
@@ -596,6 +601,7 @@
     "LISTENER_TITLE_libactivator.audio.volume_FORMAT" = "%@%% Lautst\U00e4rke";
     "LISTENER_TITLE_libactivator.camera.invoke-shutter" = "Ausl\U00f6ser bet\U00e4tigen";
     "LISTENER_TITLE_libactivator.clock.alarm" = "Wecker anzeigen";
+    "LISTENER_TITLE_libactivator.clock.bedtime" = Schlafenszeit;
     "LISTENER_TITLE_libactivator.clock.stopwatch" = "Stopuhr anzeigen";
     "LISTENER_TITLE_libactivator.clock.timer" = "Timer anzeigen";
     "LISTENER_TITLE_libactivator.clock.world-clock" = "Weltuhr anzeigen";
