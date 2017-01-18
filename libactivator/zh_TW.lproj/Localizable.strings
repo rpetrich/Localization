@@ -242,7 +242,7 @@
 	"EVENT_GROUP_TITLE_Apple Watch" = "Apple Watch";
 	"EVENT_GROUP_TITLE_Media Playback" = "媒體播放";
 	"EVENT_GROUP_TITLE_Car" = "汽車";
-	"EVENT_GROUP_TITLE_Car" = "計劃";
+	"EVENT_GROUP_TITLE_Scheduled" = "計劃";
 
 	/* Events */
 

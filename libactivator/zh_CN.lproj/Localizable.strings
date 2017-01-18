@@ -241,7 +241,8 @@
 	"EVENT_GROUP_TITLE_3D Touch" = "3D Touch";
 	"EVENT_GROUP_TITLE_Apple Watch" = "Apple Watch";
 	"EVENT_GROUP_TITLE_Media Playback" = "媒体播放";
-	"EVENT_GROUP_TITLE_Car" = "计划";
+	"EVENT_GROUP_TITLE_Car" = "汽车";
+	"EVENT_GROUP_TITLE_Scheduled" = "计划";
 
 	/* Events */
 
