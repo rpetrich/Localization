@@ -242,7 +242,6 @@
 	"EVENT_GROUP_TITLE_Apple Watch" = "Apple Watch";
 	"EVENT_GROUP_TITLE_Media Playback" = "Media Playback";
 	"EVENT_GROUP_TITLE_Car" = "Car";
-	"EVENT_GROUP_TITLE_Scheduled" = "Scheduled";
 
 	/* Events */
 
