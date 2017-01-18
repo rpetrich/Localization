@@ -605,6 +605,12 @@
 	"EVENT_TITLE_libactivator.car.disconnected" = "Desligado";
 	"EVENT_DESCRIPTION_libactivator.car.disconnected" = "Acessório CarPlay desligado";
 
+	"EVENT_TITLE_libactivator.scheduled.sunrise" = "Nascer-do-sol";
+	"EVENT_DESCRIPTION_libactivator.scheduled.sunrise" = "Minuto em que o Sol aparece no horizonte";
+
+	"EVENT_TITLE_libactivator.scheduled.sunset" = "Pôr-do-sol";
+	"EVENT_DESCRIPTION_libactivator.scheduled.sunset" = "Minuto em que o Sol desaparece no horizonte";
+
 	/* Custom Events */
 
 	"NEW_EVENT_TITLE_libactivator.application-launch" = "Abrir aplicação";
@@ -1084,6 +1090,9 @@
 	"LISTENER_TITLE_libactivator.clock.alarm" = "Alarme";
 	"LISTENER_DESCRIPTION_libactivator.clock.alarm" = "Abre Relógio no separador Alarme";
 
+	"LISTENER_TITLE_libactivator.clock.bedtime" = "Hora de deitar";
+	"LISTENER_DESCRIPTION_libactivator.clock.bedtime" = "Abre Relógio no separador Hora de deitar";
+
 	"LISTENER_TITLE_libactivator.clock.stopwatch" = "Cronómetro";
 	"LISTENER_DESCRIPTION_libactivator.clock.stopwatch" = "Abre Relógio no separador Cronómetro";
 
@@ -1208,6 +1217,7 @@
 
 	"LISTENER_TITLE_libactivator.ringtone.ping" = "Ping";
 	"LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Alert-In-Conversation" = "Mensagem";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Go-To-Sleep" = "Ir dormir";
 
 	"IN_CYDIA_WARNING" = "É potencialmente perigoso executar acções enquanto o Cydia instala software.";
 
