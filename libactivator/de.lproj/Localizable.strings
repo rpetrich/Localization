@@ -11,8 +11,8 @@
     "ACTIVATOR_CORRUPT" = "Activator ist besch\U00e4digt";
     "ACTIVATOR_CORRUPT_MESSAGE" = "Die meisten Funktionen von Activator wurden deaktiviert, da die internen Dateien besch\U00e4digt sind. Bitte installiere Activator in Cydia neu.";
     "ACTIVATOR_DISABLED" = "Activator ist deaktiviert";
-    "ACTIVATOR_DISABLED_MESSAGE" = "Die meisten Funktionen von Activator wurden deaktiviert, da Cydia Sustrate nicht funktioniert. Wenn sich dein iDevice im abgesicherten Modus befindet, siehst du in der Statusbar den Text \"Exit Safe Mode\". Dr\U00fccke auf diesen Text und w\U00e4hle \"Restart\" um das SpringBoard im normalen Modus zu starten.";
-    "ACTIVATOR_DISABLED_WITH_ROCKETS_MESSAGE" = "Die meisten Funktionen von Activator wurden deaktiviert, da Cydia Sustrate oder RocketBootstrap nicht funktionieren. Wenn sich dein iDevice im abgesicherten Modus befindet, siehst du in der Statusbar den Text \"Exit Safe Mode\". Dr\U00fccke auf diesen Text und w\U00e4hle \"Restart\" um das SpringBoard im normalen Modus zu starten. Versuche ansonsten, Cydia Substrate oder RocketBootstrap in Cydia neu zu installieren. Wenn du einige LaunchDaemons entfernt oder deaktiviert hast, so stelle diese bitte wieder her.";
+    "ACTIVATOR_DISABLED_MESSAGE" = "Die meisten Funktionen von Activator wurden deaktiviert, da Cydia Substrate nicht funktioniert. Wenn sich dein iDevice im abgesicherten Modus befindet, siehst du in der Statusbar den Text \"Exit Safe Mode\". Dr\U00fccke auf diesen Text und w\U00e4hle \"Restart\" um das SpringBoard im normalen Modus zu starten.";
+    "ACTIVATOR_DISABLED_WITH_ROCKETS_MESSAGE" = "Die meisten Funktionen von Activator wurden deaktiviert, da Cydia Substrate oder RocketBootstrap nicht funktionieren. Wenn sich dein iDevice im abgesicherten Modus befindet, siehst du in der Statusbar den Text \"Exit Safe Mode\". Dr\U00fccke auf diesen Text und w\U00e4hle \"Restart\" um das SpringBoard im normalen Modus zu starten. Versuche ansonsten, Cydia Substrate oder RocketBootstrap in Cydia neu zu installieren. Wenn du einige LaunchDaemons entfernt oder deaktiviert hast, so stelle diese bitte wieder her.";
     ADD = "Hinzuf\U00fcgen";
     "ADD_ACTION" = "Aktion hinzuf\U00fcgen";
     "ADD_NEW_BOOKMARK" = "Neues Lesezeichen hinzuf\U00fcgen";
@@ -75,7 +75,7 @@
     DONATE = Spenden;
     "DONATE_DETAIL" = "Via PayPal beitragen";
     ENABLED = Aktiviert;
-    "EVENT_ASSIGNMENT_WARNING_FINGERPRINT" = "Das Zuweisen mehrerer Fingerabdr\U00fccke erfordert einen Touch ID-Sensor, der langsamer konfiguriert ist, um akurater arbeiten zu k\U00f6nnen. Dadurch verringert sich die Leistung und Zuverl\U00e4ssigkeit von Reachability und anderen Fingerabdrucksensor-Zuweisungen, die in Activator ausgew\U00e4hlt sind.";
+    "EVENT_ASSIGNMENT_WARNING_FINGERPRINT" = "Das Zuweisen mehrerer Fingerabdr\U00fccke erfordert einen Touch ID-Sensor, der langsamer konfiguriert ist, um akkurater arbeiten zu k\U00f6nnen. Dadurch verringert sich die Leistung und Zuverl\U00e4ssigkeit von Reachability und anderen Fingerabdrucksensor-Zuweisungen, die in Activator ausgew\U00e4hlt sind.";
     "EVENT_DESCRIPTION_com.rpetrich.riker.center" = "Dr\U00fccke den mittleren Knopf der Riker-Steuerung";
     "EVENT_DESCRIPTION_com.rpetrich.riker.left" = "Dr\U00fccke den linken Knopf der Riker-Steuerung";
     "EVENT_DESCRIPTION_com.rpetrich.riker.right" = "Dr\U00fccke den rechten Knopf der Riker-Steuerung";
@@ -186,7 +186,7 @@
     "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom" = "Ziehe vom unteren Rand nach oben";
     "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left" = "Ziehe vom linken-unteren Rand nach oben";
     "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right" = "Ziehe vom rechten-unteren Rand nach oben";
-    "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "Ziehe vom linken Rand nachg rechts";
+    "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left" = "Ziehe vom linken Rand nach rechts";
     "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-bottom" = "Ziehe vom unteren-linken Rand";
     "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-top" = "Ziehe vom oberen-linken Rand";
     "EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right" = "Ziehe vom rechten Rand nach links";
@@ -602,7 +602,7 @@
     "LISTENER_TITLE_libactivator.camera.invoke-shutter" = "Ausl\U00f6ser bet\U00e4tigen";
     "LISTENER_TITLE_libactivator.clock.alarm" = "Wecker anzeigen";
     "LISTENER_TITLE_libactivator.clock.bedtime" = Schlafenszeit;
-    "LISTENER_TITLE_libactivator.clock.stopwatch" = "Stopuhr anzeigen";
+    "LISTENER_TITLE_libactivator.clock.stopwatch" = "Stoppuhr anzeigen";
     "LISTENER_TITLE_libactivator.clock.timer" = "Timer anzeigen";
     "LISTENER_TITLE_libactivator.clock.world-clock" = "Weltuhr anzeigen";
     "LISTENER_TITLE_libactivator.command.run_FORMAT" = "Befehl \"%@\" ausf\U00fchren";
@@ -624,7 +624,7 @@
     "LISTENER_TITLE_libactivator.phone.contacts" = "Kontakte zeigen";
     "LISTENER_TITLE_libactivator.phone.disconnect-call" = "Anruf beenden";
     "LISTENER_TITLE_libactivator.phone.favorites" = "Favoriten zeigen";
-    "LISTENER_TITLE_libactivator.phone.keypad" = "Zifernblock zeigen";
+    "LISTENER_TITLE_libactivator.phone.keypad" = "Ziffernblock zeigen";
     "LISTENER_TITLE_libactivator.phone.recents" = "Anrufliste zeigen";
     "LISTENER_TITLE_libactivator.phone.voicemail" = "Voicemail zeigen";
     "LISTENER_TITLE_libactivator.profile.Default" = Standard;
@@ -861,7 +861,7 @@
     "RESTORE_ASSIGNMENTS_DETAIL" = "Ereignis- und Men\U00fczuweisungen wiederherstellen";
     "RUN_COMMAND_WARNING" = "Sei vorsichtig mit benutzerdefinierten Befehlen. Wenn du diese falsch verwendest, kannst du unter Umst\U00e4nden dein iDevice besch\U00e4digen.";
     "SAFE_MODE_CANCEL" = Abbrechen;
-    "SAFE_MODE_MESSAGE" = "Du befindest dich im abgesichten Modus. Die meisten Funktionen von Activator wurden deaktiviert, da du dich im abgesicherten Modus befindest. Starte dein SpringBoard neu, um in den normalen Modus zur\U00fcckzukehren.";
+    "SAFE_MODE_MESSAGE" = "Du befindest dich im abgesicherten Modus. Die meisten Funktionen von Activator wurden deaktiviert, da du dich im abgesicherten Modus befindest. Starte dein SpringBoard neu, um in den normalen Modus zur\U00fcckzukehren.";
     "SAFE_MODE_RESET_SETTINGS" = "Einstellen zur\U00fccksetzen";
     "SAFE_MODE_RESTART" = "Neu starten";
     "SAFE_MODE_RESTART_DETAIL" = "Starte SpringBoard neu";
