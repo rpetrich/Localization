@@ -864,6 +864,9 @@
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "显示音量栏";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "显示音量滑块";
 
+	"LISTENER_TITLE_libactivator.audio.reset-ringer-state" = "重置响铃";
+	"LISTENER_DESCRIPTION_libactivator.audio.reset-ringer-state" = "将响铃设为与硬件开关相匹配的状态";
+
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod 控制";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "显示正在播放弹出窗口";
 

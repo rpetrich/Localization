@@ -863,6 +863,9 @@
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Show Volume Bar";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Show the volume slider";
 
+	"LISTENER_TITLE_libactivator.audio.reset-ringer-state" = "Reset Ringer";
+	"LISTENER_DESCRIPTION_libactivator.audio.reset-ringer-state" = "Set ringer state to match hardware switch";
+
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "iPod Controls";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Show now playing popup";
 
