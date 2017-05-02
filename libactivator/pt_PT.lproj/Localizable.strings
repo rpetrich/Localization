@@ -863,6 +863,9 @@
 	"LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Mostrar barra de volume";
 	"LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Mostra o ajuste de volume";
 
+	"LISTENER_TITLE_libactivator.audio.reset-ringer-state" = "Repor toque";
+	"LISTENER_DESCRIPTION_libactivator.audio.reset-ringer-state" = "Define o estado do toque de acordo com a posição do interruptor do dispositivo";
+	
 	"LISTENER_TITLE_libactivator.ipod.music-controls" = "Controlos de reprodução";
 	"LISTENER_DESCRIPTION_libactivator.ipod.music-controls" = "Mostra ecrã A reproduzir";
 
