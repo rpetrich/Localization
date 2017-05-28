@@ -215,7 +215,7 @@
     "EVENT_GROUP_TITLE_Application Launched" = "Anwendung gestartet";
     "EVENT_GROUP_TITLE_Audio" = Audio;
     "EVENT_GROUP_TITLE_Battery Level" = Batterieladung;
-    "EVENT_GROUP_TITLE_Bluetooth Devices" = "Bluetooth-ger\U00e4te";
+    "EVENT_GROUP_TITLE_Bluetooth Devices" = "Bluetooth-Ger\U00e4te";
     "EVENT_GROUP_TITLE_Car" = Auto;
     "EVENT_GROUP_TITLE_Device" = iDevice;
     "EVENT_GROUP_TITLE_Fingerprint Matches" = "Touch ID Fingerabdr\U00fccke";
@@ -415,6 +415,7 @@
     "LISTENER_DESCRIPTION_libactivator.audio.decrease-volume" = "Verringere die Lautst\U00e4rke um einen Punkt";
     "LISTENER_DESCRIPTION_libactivator.audio.increase-volume" = "Erh\U00f6he die Lautst\U00e4rke um einen Punkt";
     "LISTENER_DESCRIPTION_libactivator.audio.launch-playing-app" = "\U00d6ffne App mit der aktuellen Wiedergabe";
+    "LISTENER_DESCRIPTION_libactivator.audio.reset-ringer-state" = "Klingeltonzustand auf den Hardware-Schalter einstellen";
     "LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar" = "Zeige Lautst\U00e4rke-Anzeige an";
     "LISTENER_DESCRIPTION_libactivator.audio.volume.media_FORMAT" = "Medien-Lautst\U00e4rke auf %@%% vom Maximum einstellen";
     "LISTENER_DESCRIPTION_libactivator.audio.volume.ringer_FORMAT" = "Klingelton-Lautst\U00e4rke auf %@%% vom Maximum einstellen";
@@ -595,6 +596,7 @@
     "LISTENER_TITLE_libactivator.audio.decrease-volume" = "Lautst\U00e4rke verringern";
     "LISTENER_TITLE_libactivator.audio.increase-volume" = "Lautst\U00e4rke erh\U00f6hen";
     "LISTENER_TITLE_libactivator.audio.launch-playing-app" = "Springe zur Wiedergabe";
+    "LISTENER_TITLE_libactivator.audio.reset-ringer-state" = "Klingelton zur\U00fccksetzen";
     "LISTENER_TITLE_libactivator.audio.show-volume-bar" = "Zeige Lautst\U00e4rke-Anzeige";
     "LISTENER_TITLE_libactivator.audio.volume.media_FORMAT" = "%@%% Medien-Lautst\U00e4rke";
     "LISTENER_TITLE_libactivator.audio.volume.ringer_FORMAT" = "%@%% Klingelton-Lautst\U00e4rke";
