@@ -1,0 +1,51 @@
+{
+	RetinaPad = RetinaPad;
+
+	"Enabled Applications" = "แอพที่เปิดใช้งาน";
+	"System Applications" = "แอพระบบ";
+	"User Applications" = "แอพผู้ใช้";
+	"Customize which applications Retina mode is applied to." = "ปรับแต่งแอพที่จะใช้โหมด Retina";
+	
+	"Always Zoom" = "ขยายเสมอ";
+	"Allow Upside Down" = "ยอมแนวตั้งหัวกลับ";
+	"Show Simulated Chrome" = "แสดง Simulated Chrome";
+	"Classic apps that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "แอพปกติที่กำลังใช้งานอยู่ต้องถูกปิดผ่านแถบมัลติทาสก์เพื่อให้การเปลี่ยนแปลงนั้นมีผล";
+	
+	"Portrait in Landscape" = "มุมมองแนวตั้งในแนวนอน";
+	"This feature is in beta and is unsupported, for now." = "ฟีเจอร์นี้อยู่ในช่วงเบต้าและยังไม่รองรับ";
+	
+	"OK" = "ตกลง";
+	"Cancel" = "ยกเลิก";
+	"Apply" = "นำไปใช้";
+	
+	"To enter retina mode kill %@ via the multitasking switcher bar." = "ปิด %@ ผ่านแถบสลับแอพเพื่อใช้งานโหมด retina";
+	"To exit retina mode kill %@ via the multitasking switcher bar." = "ปิด %@ ผ่านแถบสลับแอพเพื่อออกจากโหมด retina";
+	"this application" = "แอพนี้";
+
+	"This is the first time this classic application has been launched with RetinaPad installed.\n\nDo you wish to apply retina mode?\n\nMore settings may be found in RetinaPad's Settings pane." = "นี่เป็นครั้งแรกที่แอพพื้นฐานถูกเปิดใช้เมื่อมี RetinaPad\n\nคุณต้องการเปิดใช้โหมด retina หรือไม่?\n\nสามารถปรับแต่งผ่านการตั้งค่าของ RetinaPad ได้";
+	
+	"System Information" = "ข้อมูลระบบ";
+	"Fake" = "หลอก";
+	"Nothing" = "ไม่มี";
+	"Machine Name" = "ชื่อเครื่อง";
+	"Machine and Hardware Name" = "ชื่อ (ฮาร์ดแวร์) ของเครื่อง";
+
+	"iPhone Mode" = "โหมด iPhone";
+	"Enhanced Resolution" = "ความละเอียดเพิ่มขึ้น";
+	"Tall Mode" = "โหมดสูง";
+	"Tall Mode (Cropped)" = "โหมดสูง (ครอบ)";
+	"Large Canvas" = "Canvas ใหญ่";
+	"Large Canvas (with Status Bar)" = "Canvas ใหญ่ (มีแถบสภานะ)";
+	"Larger Canvas" = "Canvas ใหญ่ขึ้น";
+	"Larger Canvas (no Status Bar)" = "Canvas ใหญ่ขึ้น (ไม่มีแถบสถานะ)";
+	"Overflow Canvas" = "Overflow Canvas";
+	"Overflow Canvas Mode (Cropped)" = "โหมด Overflow Canvas (ครอบ)";
+	"Sedan Mode" = "โหมด Sedan";
+	"iPad Mode" = "โหมด iPad";
+	
+	"iPhone Applications" = "แอพ iPhone";
+	"iPad Applications" = "แอพ iPad";
+	"Force Allow Landscape" = "บังคับยอมโหมดแนวนอน";
+	
+	"Applications that are currently running must be closed via the multitasking switcher bar for changes to take effect." = "แอพที่กำลังใช้งานอยู่จะต้องถูกปิดเพื่อให้การเปลี่ยนแปลงมีผล";
+}

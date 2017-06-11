@@ -1,0 +1,48 @@
+{
+	OK = "ตกลง";
+
+	PULL_ENABLE_PREFIX = "ดึงเพื่อเปิดใช้งาน";
+	PULL_DISABLE_PREFIX = "ดึงเพื่อปิดใช้งาน";
+	RELEASE_ENABLE_PREFIX = "ปล่อยเพื่อเปิดใช้งาน";
+	RELEASE_DISABLE_PREFIX = "ปล่อยเพื่อปิดใช้งาน";
+	PULLDOWN_TEXT = " ห้ามรบกวน";
+
+	/* Settings Main Pane */
+
+	AUTHORS = "โดย Sentry และ Ryan Petrich";
+	AUTHORS_PURCHASED = "โดย Sentry และ Ryan Petrich\nขอบคุณสำหรับการซื้อของท่าน";
+
+	LOVE_GAMES = "เราชอบ #Luna จาก @A3tweaks!";
+	CANNOT_SEND_TWEET = "ไม่สามารถทวีตได้";
+	CANNOT_SEND_TWEET_DETAILS = "เนื่องจากคุณไม่มีบัญชี Twitter คุณจึงไม่สามารถทวีตความชอบได้";
+
+	IN_NOTIFICATION_CENTER = "ในศูนย์การแจ้ง";
+	ON_LOCK_SCREEN = "ในหน้าจอล็อค";
+	ACTIVATION_INSTRUCTIONS = "เปิดใช้งานโหมดห้ามรบกวนผ่าน Luna โดยปัดลงจากด้านบนของหน้าจอในศูนย์การแจ้งหรือหน้าจอล็อค";
+
+	NOCTURNAL_BANNERS = "แบนเนอร์ตอนกลางคืน";
+	NOCTURNAL_BANNER_ALERT_TONES = "โทนการแจ้งเตือน";
+	NOCTURNAL_BANNER_INSTRUCTIONS = "เมื่อโหมดห้ามรบกวนถูกเปิดใช้งาน การแจ้งเตือนที่มาในขณะที่อุปกรณ์ไม่ถูกล็อคจะแสดงแบบแบนเนอร์กลางคืนในแถบสถานะ";
+
+	THE_CREATORS = "ผู้สร้าง";
+
+	SUPPORT_EMAIL_LINK = "การสนับสนุน A³tweaks";
+	LUNA_SUPPORT = "การสนับสนุน Luna";
+	CANNOT_SEND_MAIL = "ไม่สามารถส่งเมลล์ได้";
+	CANNOT_SEND_MAIL_DETAILS = "เนื่องจากคุณไม่มีบัญชีเมลล์ใดๆ คุณจึงไม่สามารถส่งเมลล์สนับสนุนได้";
+
+	LOCALIZATION_ABOUT = "แปลโดย PoomSmart";
+
+	/* Settings Creators Pane */
+
+	CREATORS = "ผู้สร้าง";
+
+	SENTRY = "Sentry";
+	SENTRY_HANDLE = "(@Sentry_NC)";
+	SENTRY_INFO = "นักออกแบบอินเทอร์เฟซผู้ใช้\nนักออกแบบของ Luna & Auxo\nผู้สถาปนา A Cubed";
+	RYAN_PETRICH = "Ryan Petrich";
+	RYAN_PETRICH_HANDLE = "(@rpetrich)";
+	RYAN_PETRICH_INFO = "วิศวกรซอฟต์แวร์บนมือถือ\nนักพัฒนาของ Luna\nกระตือรือร้นด้วยชา";
+	FOLLOW_A3TWEAKS = "ติดตาม A³tweaks";
+
+}

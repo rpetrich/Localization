@@ -1,0 +1,64 @@
+{
+	SETTINGS = "การตั้งค่า";
+	OPTIONS = "ตัวเลือก";
+	ADVANCED_SETTINGS = "การตั้งค่าขั้นสูง";
+
+	SWIPE_STYLE = "รูปแบบการปัด";
+	LEFT_AND_UP_TO_OPEN = "ซ้ายและขึ้นเพื่อเปิดแอพ";
+	JUST_LEFT_TO_OPEN = "ซ้ายเพื่อเปิดแอพ";
+	LEFT_AND_UP = "ซ้ายและขึ้น";
+	JUST_LEFT = "ซ้าย";
+
+	TAPPING_GRABBER = "แตะตัวเลื่อน";
+	BOUNCES_LOCK_SCREEN = "เด้งหน้าจอล็อค";
+	OPENS_FIRST_APP = "เปิดแอพแรก";
+	BOUNCES = "เด้ง";
+	SHOWS_ICONS = "แสดงไอคอน";
+
+	SHOW_GRABBER = "แสดงตัวเลื่อน";
+	ALWAYS = "เสมอ";
+	WHEN_NO_NOTIFICATION = "เมื่อไม่มีการแจ้งเตือน";
+	STANDARD = "มาตรฐาน";
+
+	SHOW_SLIDESHOW_BUTTON = "แสดงปุ่มสไลด์โชว์";
+
+	ICON_VISIBILITY_STYLE = "การมองเห็นไอคอน";
+	ICON_VISIBILITY_ALWAYS = "เสมอ";
+	ICON_VISIBILITY_REQUIRE_TAP = "อาศัยการแตะ";
+	
+	ICON_COUNT = "จำนวนไอคอน";
+	ONE = "หนึ่ง";
+	TWO = "สอง";
+	THREE = "สาม";
+	FOUR = "สี่";
+	FIVE = "ห้า";
+	SIX = "หก";
+	SEVEN = "เจ็ด";
+	EIGHT = "แปด";
+	NINE = "เก้า";
+	TEN = "สิบ";
+	ELEVEN = "สิบเอ็ด";
+	TWELVE = "สิบสอง";
+
+	SCREENSHOT_PRIVACY = "ความเป็นส่วนตัวของภาพหน้าจอ";
+
+	CLICK_SOUNDS = "เสียงการกด";
+
+	REQUIRE_PASSCODE = "ใช้รหัสผ่าน";
+
+	DRAG_STYLE = "รูปแบบการลาก";
+	SMOOTH_DRAGGING = "ลากแบบเรียบ";
+	SMOOTH = "เรียบ";
+	LOCK_TO_ICON = "ล็อคที่ไอคอน";
+	LOCKED = "ล็อค";
+
+	QUICK_LAUNCH_APPS = "เรียกใช้แอพแบบเร็ว";
+	ICON = "ไอคอน";
+	APP = "แอพ";
+
+	QUICK_LAUNCH_ACTIONS = "การเรียกแบบเร็ว";
+	ACTION = "การกระทำ";
+	IMAGE = "ภาพ";
+
+	PASSCODE_WARNING = "หากอุปกรณ์มีการตั้งรหัสผ่าน แอพที่เข้ารหัสข้อมูล (อย่างเช่น Mail) จะต้องการรหัสผ่านเพื่อให้ทำงานได้ตามปกติ";
+}

@@ -1,0 +1,148 @@
+{
+	"OK" = "ตกลง";
+	"Cancel" = "ยกเลิก";
+	"ON" = "เปิด";
+	"OFF" = "ปิด";
+	"all-day" = "ทั้งวัน";
+	"AM" = "ก่อนเที่ยง";
+	"PM" = "หลังเที่ยง";
+	"by" = "โดย";
+	"on" = "บน";
+	"lap" = "รอบ";
+	"Enabled" = "เปิดใช้งาน";
+	"Use Icons" = "ใช้ไอคอน";
+	"Actions" = "การกระทำ";
+	"More Actions..." = "การกระทำเพิ่มเติม...";
+	"Donate with PayPal" = "บริจาคผ่าน PayPal";
+	"Copy All" = "คัดลอกทั้งหมด";
+	"Debug" = "Debug";
+	"Dial" = "โทร";
+	"Favorites" = "เมนูโปรด";
+	"History" = "ประวัติ";
+	"Lookup" = "ค้นหา";
+	"Scroll" = "เลื่อน";
+	"Tweet" = "ทวีต";
+	"Pasteboard Favorites" = "Pasteboard โปรด";
+	"Delete Favorite" = "ลบเมนูโปรด";
+	"Add Favorite..." = "เพิ่มเมนูโปรด...";
+	"Add Favorite" = "เพิ่มเมนูโปรด";
+	"Create" = "สร้าง";
+	"Enter the new favorite details" = "ใส่รายละเอียดเมนูโปรดใหม่";
+	"Open in Safari" = "เปิดใน Safari";
+	"Search" = "ค้นหา";
+	"Wikipedia" = "วิกิพีเดีย";
+	"Dictionary" = "พจนานุกรม";
+	"Translate" = "แปล";
+	"Find" = "ค้นหา";
+	"Find In Page" = "ค้นหาในหน้า";
+	"Find Next" = "ค้นต่อไป";
+	"Find Previous" = "ค้นก่อนหน้า";
+	"Next" = "ต่อไป";
+	"Previous" = "ก่อนหน้า";
+	"Not Found" = "ไม่เจอ";
+	"Clear" = "ล้าง";
+	"Confirm" = "ยืนยัน";
+	"Pasteboard History" = "ประวัติ Pasteboard";
+	"Upgrade" = "อัพเกรด";
+
+	"Right to Left" = "ขวาไปซ้าย";
+	"Left to Right" = "ซ้ายไปขวา";
+	"Sorted" = "เรียง";
+	"New Favorite" = "เมนูโปรดใหม่";
+	"biteSMS" = "biteSMS";
+	"Extended Support" = "Extended Support";
+	"TRANSLATION_ABOUT" = "แปลโดย PoomSmart";
+
+	"Preferred Client" = "ไคลเอนต์ที่ต้องการ";
+
+	"Clear History" = "ล้างประวัติ";
+	"Close" = "ปิด";
+
+	"Cut" = "ตัด";
+	"Copy" = "คัดลอก";
+	"Paste" = "วาง";
+	"Select" = "เลือก";
+	"Select All" = "เลือกทั้งหมด";
+
+	"Locate" = "ไปยัง";
+	"Error retrieving location!" = "เกิดข้อผิดพลาดในการหาที่ตั้ง!";
+	"Estimated Accuracy:" = "ความแม่นยำโดยประมาณ:";
+	"%ld meters" = "%ld เมตร";
+	"My Location on Google Maps" = "ตำแหน่งของฉันบน Google แผนที่";
+	"Pastie" = "Pastie";
+	"Send to Pastie" = "ส่งไปที่ Pastie";
+	"Paste Complete" = "วางเรียบร้อย";
+	"The URL has been copied to your clipboard." = "URL นี้ถูกคัดลอกไปที่คลิบบอร์ดของท่านแล้ว";
+	"Continue" = "ทำต่อ";
+	"Error" = "ข้อผิดพลาด";
+	"Unable to submit your pastie." = "ไม่สามารถส่ง pastie ของท่านได้";
+	"No Search Results" = "ไม่มีผลลัพธ์การค้นหา";
+
+	"Edit Favorite" = "แก้ไขเมนูโปรด";
+	"To Top" = "ไปด้านบน";
+	"To Bottom" = "ลงด้านล่าง";
+	"Menu Items" = "เมนูต่างๆ";
+	"Action Buttons" = "ปุ่มการกระทำ";
+	"Save" = "บันทึก";
+
+	"Rich Text For Mail" = "Rich Text สำหรับ Mail";
+	"Format" = "รูปแบบ";
+	"Bold" = "ตัวหนา";
+	"Italic" = "ตัวเอียง";
+	"Underline" = "ขีดเส้นใต้";
+	"Strikethrough" = "ขีดทับ";
+	"Image" = "ภาพ";
+	"Text Style" = "ลักษณะข้อความ";
+	"Font Size" = "ขนาดฟอนต์";
+	"Font Family" = "กลุ่มฟอนต์";
+	"Text Color" = "สีข้อความ";
+	"Highlight Color" = "สีเน้น";
+	"Black" = "ดำ";
+	"White" = "ขาว";
+	"Silver" = "เงิน";
+	"Gray" = "เทา";
+	"Red" = "แดง";
+	"Maroon" = "น้ำตาลแดง";
+	"Yellow" = "เหลือง";
+	"Olive" = "มะกอก";
+	"Lime" = "มะนาว";
+	"Green" = "เขียว";
+	"Aqua" = "น้ำ";
+	"Teal" = "เขียวอมฟ้า";
+	"Blue" = "น้ำเงิน";
+	"Navy" = "กรมท่า";
+	"Fuchsia" = "แดงม่วง";
+	"Purple" = "ม่วง";
+	"None" = "ไม่มี";
+	"Unknown" = "ไม่ทราบ";
+
+	"Playing" = "กำลังเล่น";
+	"\"%@\" by %@ " = "\"%@\" โดย %@ ";
+	"<em>%@</em> by <strong>%@</strong> " = "<em>%@</em> โดย <strong>%@</strong> ";
+
+	"Default Actions" = "การกระทำพื้นฐาน";
+	"Replace" = "แทนที่";
+
+	"Link" = "ลิงก์";
+	"Insert" = "แทรก";
+	"Link Text" = "ลิงก์ข้อความ";
+	"Link URL" = "ลิงก์์ URL";
+
+	"Celeste" = "Celeste";
+	"Voice" = "เสียง";
+	"Today" = "วันนี้";
+
+	"Date Format" = "รูปแบบวันที่";
+	"Time Format" = "รูปแบบเวลา";
+	"None" = "ไม่มี";
+	"Short" = "สั้น";
+	"Medium" = "กลาง";
+	"Long" = "ยาว";
+	"Full" = "เต็ม";
+	
+	"Sina Weibo" = "Sina Weibo";
+	"Weibo" = "Weibo";
+	"Facebook" = "Facebook";
+	"Twitter" = "Twitter";
+	"Tweet Sheet" = "Tweet Sheet";
+}

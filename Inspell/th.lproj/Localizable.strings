@@ -1,0 +1,47 @@
+{
+	"Correct" = "แก้ไข";
+	"Add To Dictionary" = "เพิ่มลงพจนานุกรม";
+	"Cancel" = "ยกเลิก";
+
+	"Enabled" = "เปิดใช้งาน";
+	"Language" = "ภาษา";
+	"Use Heuristics" = "ใช้การแก้ไขปัญหา";
+	"Clear User Dictionary" = "ล้างพจนานุกรมของผู้ใช้";
+
+	"OK" = "ตกลง";
+	"Visit" = "เยี่ยมชม";
+	
+	"Are you sure you wish to clear your user dictionary?" = "คุณต้องการล้างพจนานุกรมของผู้ใช้หรือไม่?";
+	"Clear" = "ล้าง";
+	
+	"Autocorrections" = "การแก้ไขอัตโนมัติ";
+	"Add Correction..." = "เพิ่มการแก้ไข...";
+	"Create" = "สร้าง";
+	"Enter the new autocorrection details" = "ระบุรายละเอียดของการแก้ไขอัตโนมัติใหม่";
+	"Input" = "นำเข้า";
+	"Output" = "ผลลัพธ์";
+	"Tap to Edit" = "แตะเพื่อแก้ไข";
+	"Correction" = "การแก้ไข";
+	"Save" = "บันทึก";
+	"Enter the updated autocorrection details" = "ระบุรายละเอียดของการแก้ไขอัตโนมัติ";
+	
+	"Input Text Is Blank" = "ข้อความนำเข้าว่างเปล่า";
+	"Input text must be entered to create an autocorrect rule" = "ต้องระบุข้อความนำเข้าเพื่อสร้างกฏการแก้ไขอัตโนมัติ";
+	"Invalid Characters" = "ตัวอักษรไม่ถูกต้อง";
+	"Input text may contain only numbers and letters" = "ข้อความนำเข้าต้องประกอบมาจากตัวเลขหรือตัวอักษรเท่านั้น";
+	"Output Text Is Blank" = "ข้อความผลลัพธ์ว่างเปล่า";
+	"Output text must be entered to create an autocorrect rule" = "ต้องระบุข้อความผลลัพธ์เพื่อสร้างกฏการแก้ไขอัตโนมัติ";
+	"Delete Correction" = "ลบการแก้ไข";
+	
+	"Style" = "รูปแบบ";
+	"Squiggly Underline" = "เส้นใต้แบบไก่เขี่ย";
+	"Solid Underline" = "เส้นใต้แบบเข้ม";
+	"Dashed Underline" = "เส้นใต้แบบเส้นประ";
+	"Shaded Box" = "กล่องมีเฉด";
+	
+	"Secondary" = "รอง";
+	"(None)" = "(ไม่มี)";
+	"(none)" = "(ไม่มี)";
+	
+	"Add..." = "เพิ่ม…";
+}
