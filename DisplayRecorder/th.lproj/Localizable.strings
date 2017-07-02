@@ -1,0 +1,162 @@
+{
+	"Display Recorder" = "Display Recorder";
+
+	"DisplayRecorder on %@" = "DisplayRecorder บน %@";
+
+	"Start recording display?" = "เริ่มการอัดหน้าจอ?";
+	"Start recording display?\n\nActivation gestures may be setup via the Settings application." = "เริ่มการอัดหน้าจอ?\n\nลักษณะท่าทางเพื่อเปิดใช้คำสั่งนี้อาจติดตั้งได้ผ่านการตั้งค่า";
+	"Cancel" = "ยกเลิก";
+	"Record" = "อัด";
+
+	"Recording errored:\n%@\n(Error Code: %i)" = "การอัดผิดพลาด:\n%@\n(รหัสผิดพลาด: %i)";
+	"Recording errored:\n%@" = "การอัดผิดพลาด:\n%@";
+	"Recording completed!" = "การอัดเสร็จสมบูรณ์!";
+	"OK" = "ตกลง";
+
+	"Display cannot be recorded while uploading to YouTube." = "หน้าจอไม่สามารถอัดได้ระหว่างการอัปโหลดขึ้น YouTube";
+	
+	"Unable to load framebuffer surface" = "ไม่สามารถเรียกใช้ framebuffer surface ได้";
+	"Error creating writer: %@" = "ข้อผิดพลาดในการสร้างตัวเขียน: %@";
+	"Unable to start writing" = "ไม่สามารถเริ่มการเขียนได้";
+	"Interrupted by another app using the audio/video codec hardware." = "ถูกรบกวนโดยแอพอื่นที่ใช้ฮาร์ดแวร์การเข้ารหัสเสียงและวีดีโอ";
+	"Failed to write pixel buffer" = "การเขียน pixel buffer ล้มเหลว";
+	"Unable to open output file at path %@" = "ไม่สามารถเปิดไฟล์ผลลัพธ์ที่ %@";
+	
+	"Toggle Recording" = "เปิด/ปิด การอัด";
+	"Toggle Web Interface" = "เปิด/ปิดอินเตอร์เฟสเว็บ";
+
+	"Begin/end screen recording" = "เริ่ม/หยุดการอัดหน้าจอ";
+	"Enable/disable web interface" = "เปิด/ปิดอินเตอร์เฟสแบบเว็บ";
+	
+	"Upload Details" = "รายละเอียดการอัปโหลด";
+	"Upload" = "อัปโหลด";
+	"Cancel Upload" = "ยกเลิกการอัปโหลด";
+	
+	"YouTube Terms" = "เงื่อนไขของ YouTube";
+	"By clicking 'upload,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service" = "การกด 'อัพโหลด' นั้นหมายถึงท่านรับรองว่าท่านเป็นเจ้าของผลงาน หรือท่านได้รับอนุมัติจากเจ้าของว่าสามารถนำผลงานขึ้นเป็นสาธารณะบน YouTube ได้ อีกนัยหนึ่ง คือเป็นไปตามเงื่อนไขการให้บริการของ YouTube";
+	"Show Terms" = "แสดงเงื่อนไข";
+
+	"Title" = "หัวข้อ";
+	"Description" = "คำอธิบาย";
+	"Category" = "หมวดหมู่";
+	"Public Video" = "วีดีโอสาธารณะ";
+
+	"Film & Animation" = "ภาพยนตร์และแอนิเมชัน";
+	"Autos & Vehicles" = "ยายนต์และพาหนะ";
+	"Music" = "เพลง";
+	"Pets & Animals" = "สัตว์เลี้ยงและสัตว์";
+	"Sports" = "กีฬา";
+	"Travel & Events" = "ท่องเที่ยวและกิจกรรม";
+	"Gaming" = "เกม";
+	"Comedy" = "ตลก";
+	"People & Blogs" = "บุคคลและบล็อค";
+	"News & Politics" = "ข่าวและการเมือง";
+	"Entertainment" = "บันเทิง";
+	"Education" = "การศึกษา";
+	"Howto & Style" = "แนวปฏิบัติและการใช้ชีวิต";
+	"Nonprofits & Activism" = "ไม่แสวงหากำไรและนักเคลื่อนไหว";
+	"Science & Technology" = "วิทยาศาสตร์และเทคโนโลยี";
+	"Movies" = "ภาพยนตร์";
+	
+	"YouTube Login Missing" = "ไม่มีการลงชื่อเข้าใช้ YouTube";
+	"Fill in your login details via the Display Recorder pane in the Settings application." = "กรอกข้อมูลการลงชื่อเข้าใช้ผ่านการตั้งค่าของ Display Recorder ในแอพการตั้งค่า";
+	"Oversize Video" = "วีดีโอเกินขนาด";
+	"In some cases, YouTube will not accept videos with large dimensions from a mobile device.\nFor best results, transfer the video to a computer and upload via YouTube's web interface or record your video again using the half scale option in Settings." = "ในบางกรณี YouTube จะไม่รองรับวีดีโอความละเอียดสูงจากอุปกรณ์มือถือ\nเพื่อผลลัพธ์ที่ดีที่สุด นำวีดีโอลงคอมพิวเตอร์ของท่านและอัปโหลดผ่านเว็บไซต์ YouTube หรืออัดวีดีโอของท่านอีกครั้ง โดยปรับอัตราส่วนขยายเป็นเพียงครึ่งเดียวผ่านการตั้งค่าของแอพ";
+	"Continue" = "ทำต่อ";
+	
+	"Title is empty" = "ไม่มีหัวข้อ";
+	"YouTube requires that all videos have a title." = "YouTube กำหนดให้ทุกวีดีโอมีหัวข้อ";
+	"Description is empty" = "ไม่มีคำอธิบาย";
+	"YouTube requires that all videos have a description." = "YouTube กำหนดให้ทุกวีดีโอมีคำอธิบาย";
+
+	"Upload failed because your login credentials were refused. Go to the settings application and reenter them.\nIf you are logging in via a Google account, ensure it is linked with your YouTube username." = "การอัปโหลดล้มเหลวเนื่องจากข้อมูลการลงชื่อเข้าใช้ของท่านถูกปฏิเสธ ไปที่แอพการตั้งค่าเพื่อกรอกข้อมูลใหม่\nหากท่านลงชื่อเข้าใช้ผ่านบัญชี Google ให้แน่ใจว่าบัญชีถูกผูกกับชื่อใช้งานใน YouTube ของท่านแล้ว";
+	"Upload failed with error:\n" = "การอัปโหลดล้มเหลวด้วยข้อผิดพลาด:\n";
+	"Upload completed successfully\nYouTube link is on the pasteboard" = "การอัปโหลดเสร็จสมบูรณ์\nลิงก์ YouTube อยู่บน pasteboard แล้ว";
+	
+	"Help" = "ช่วยเหลือ";
+	"Enable" = "เปิดใช้งาน";
+	"Disable" = "ปิดใช้งาน";
+
+	"Not connected to Wi-Fi" = "ไม่ได้เชื่อมต่อ Wi-Fi";
+	"Web server disabled" = "เซอร์เวอร์เว็บปิดใช้งาน";
+	
+	"Saving to Camera Roll…" = "บันทึกไปยังกล้อง…";
+	"Save Failed!" = "การบันทึกล้มเหลว!";
+	"Unable to save video to camera roll." = "ไม่สามารถบันทึกวีดีโอไปที่กล้องได";
+	
+	"Recording…" = "กำลังอัด…";
+	"Stop Recording" = "หยุดการอัด";
+	
+	"1 day" = "1 วัน";
+	"%u days" = "%u วัน";
+	"1 hr" = "1 ชม.";
+	"1 hour" = "1 ชั่วโมง";
+	"%u hrs" = "%u ชม.";
+	"%u hours" = "%u ชั่วโมง";
+	"1 min" = "1 นาที";
+	"1 minute" = "1 นาที";
+	"%u mins" = "%u นาที";
+	"%u minutes" = "%u นาที";
+	"1 sec" = "1 วิ";
+	"1 second" = "1 วินาที";
+	"%u secs" = "%u วิ";
+	"%u seconds" = "%u วินาที";
+	" " = " ";
+
+	"%llu GB" = "%llu กิกะไบต์";
+	"%llu MB" = "%llu เมกะไบต์";
+	"%llu KB" = "%llu กิโลไบต์";
+	"%llu bytes" = "%llu ไบต์";
+	
+	"Recordings" = "การอัด";
+	
+	"Delete Recording" = "ลบการอัด";
+	"Upload to YouTube" = "อัปโหลดผ่าน YouTube";
+	"Play Video" = "เล่นวีดีโอ";
+	"Add to Camera Roll" = "เพิ่มลงกล้อง";
+
+	"Activation Methods" = "วิธีเปิดใช้งาน";
+	"Always" = "เสมอ";
+	"Cancel" = "ยกเลิก";
+	"Continue" = "ทำต่อ";
+	"Display Recorder" = "Display Recorder";
+	"For best performance, select the native device orientation" = "เพื่อประสิทธิภาพสูงสุด เลือกแนวจอตามระบบ";
+	"For best results, use the Google login that is linked to your YouTube account" = "เพื่อผลลัพธ์ที่ดีที่สุด ลงชื่อเข้าใช้ผ่าน Google ที่ผูกอยู่กับบัญชี YouTube ของท่าน";
+	"Framerate" = "อัตราเฟรม";
+	"Full" = "เต็ม";
+	"Grayscale" = "เทา";
+	"H.264/MOV (experimental)" = "H.264/MOV (ขั้นทดลองใช้)";
+	"H.264/MOV" = "H.264/MOV";
+	"H.264/MOV with Mic Audio" = "H.264/MOV และเสียงไมโครโฟน";
+	"H.264" = "H.264";
+	"H.264 + Mic" = "H.264 + Mic";
+	"Half" = "ครึ่งเดียว";
+	"Half-scale is not supported when OpenGL capture is enabled" = "อัตราส่วนขยายครึ่งเดียวไม่รองรับหากใช้การอัดด้วย OpenGL";
+	"Hidden" = "ซ่อน";
+	"High" = "สูง";
+	"Landscape Left" = "แนวนอนซ้าย";
+	"Landscape Right" = "แนวนอนขวา";
+	"Large" = "ใหญ่";
+	"Lock Framerate" = "ล็อคอัตราเฟรม";
+	"Low" = "ต่ำ";
+	"Medium" = "กลาง";
+	"MJPEG/AVI (stable)" = "MJPEG/AVI (เสถียร)";
+	"Open in Safari" = "เปิดใน Safari";
+	"OpenGL capture" = "บันทึกแบบ OpenGL";
+	"Password" = "รหัสผ่าน";
+	"Portrait" = "แนวตั้ง";
+	"Record Audio" = "อัดเสียง";
+	"Rotation" = "การหมุน";
+	"Scale" = "อัตราส่วนขยาย";
+	"Show Taps" = "แสดงวงการแตะ";
+	"Small" = "เล็ก";
+	"Tap Size" = "ขนาดวงการแตะ";
+	"Upside Down" = "แนวตั้งกลับหัว";
+	"User's Guide" = "คู่มือผู้ใช้";
+	"Video Format" = "รูปแบบวีดีโอ";
+	"Video Quality" = "คุณภาพวีดีโอ";
+	"Web Server" = "เว็บเซอร์เวอร์";
+	"When Recording" = "เมื่อทำการอัด";
+	"YouTube Account" = "บัญชี YouTube";
+	"YouTube or Google Account" = "บัญชี YouTube หรือ Google";
+}

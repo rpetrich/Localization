@@ -1,0 +1,49 @@
+{
+	"Trigger Events" = "เหตุการณ์กระตุ้น";
+	"Key Pressed" = "กดปุ่ม";
+	"Key Released" = "เลิกกดปุ่ม";
+	"Key Repeated" = "กดปุ่มซ้ำ";
+
+	"Trigger Controls" = "การควบคุมกระตุ้น";
+	"Keyboard" = "แป้นพิมพ์";
+	"Buttons" = "ปุ่ม";
+	"Table Cells" = "แถบตาราง";
+	"Web Links" = "ลิงก์เว็บ";
+
+	"Duration" = "ระยะเวลา";
+
+	"Test Keyboard" = "แป้นพิมพ์ทดสอบ";
+
+	"HapticPro-Advanced" = "การตั้งค่าขั้นสูง";
+	"Reset to Defaults" = "รีเซตเป็นการตั้งค่ามาตรฐาน";
+	"Are you sure you wish to reset HapticPro to the default settings?" = "ท่านแน่ใจที่จะรีเซตการตั้งค่า HapticPro ไปเป็นแบบมาตรฐานหรือไม่?";
+
+	"Cancel" = "ยกเลิก";
+
+	"Reset" = "รีเซต";
+
+	
+	"Due to limitations of iPhone OS 3.0, HapticPro will be disabled when audio is playing." = "เนื่องจากข้อจำกัดใน iPhone OS 3.0 HapticPro จะถูกปิดใช้งานหากมีการเล่นเพลง";
+	
+	
+	"Intensity" = "ความเข้ม";
+	"Adjust the strength of the vibration." = "ปรับความแรงของการสั่น";
+	"Has no effect on the iPhone 3G" = "ไม่มีผลใน iPhone 3G";
+	
+	"Only Special Keys" = "เฉพาะปุ่มพิเศษ";
+	"Activates HapticPro only from the keyboard's modifier keys." = "ใช้ HapticPro บนปุ่มพิเศษบนแป้นพิมพ์เท่านั้น";
+
+	"Buttons" = "ปุ่ม";
+	"Add Click Sounds" = "เพิ่มเสียงการกด";
+	"Enable keyboard click sounds on regular buttons." = "เปิดใช้เสียงการกดปุ่มบนปุ่มทั่วไป";
+	
+	"Ringer Switch" = "สวิตซ์กริ่ง";
+	"Trigger In Ring" = "กระตุ้นในโหมดกริ่ง";
+	"Trigger In Silent" = "กระตุ้นในโหมดเงียบ";
+	"Enable/disable haptic feedback based on the status of the ringer switch." = "เปิด/ปิดการสั่นโดยขึ้นกับสถานะของสวิตซ์กริ่ง";
+
+	"Duration Factor Pressed" = "ตัวประกอบระยะเวลาเมื่อกด";
+	"Duration Factor Released" = "ตัวประกอบระยะเวลาเมื่อปล่อย";
+	"Duration Factor Repeated" = "ตัวประกอบระยะเวลาเมื่อกดซ้ำ";
+	"Control the duration of each type of haptic feedback independently." = "ควบคุมระยะเวลาในแต่ละแบบของการสั่นแบบแยกจากกัน";
+}

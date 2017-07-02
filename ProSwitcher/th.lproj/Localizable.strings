@@ -1,0 +1,63 @@
+{
+	PROSWITCHER = ProSwitcher;
+	
+	/* Settings Controller */
+	
+	ACTIVATION_METHODS = "วิธีการใช้งาน";
+	
+	BECOME_HOME_SCREEN = "ไปเป็นหน้าโฮม";
+	BECOME_HOME_SCREEN_DISABLED = "ปิดใช้งาน";
+	BECOME_HOME_SCREEN_ENABLED = "เปิดใช้งาน";
+	BECOME_HOME_SCREEN_BACKGROUND = "พื้นหลัง";
+	
+	SHOW_ICON = "แสดงไอคอน";
+	
+	DISPLAY_GROUP = "การแสดงผล";
+	SHOW_APPLICATION_TITLE = "หัวข้อแอพ";
+	SHOW_BADGES = "แสดงสัญลักษณ์";
+	ZOOM_ACTIVE_CARD = "ขยายการ์ดที่ใช้งานอยู่";
+	SHOW_CLOSE_BUTTON = "ปุ่มปิด";
+	EMPTY_TAP_TO_CLOSE = "แตะว่างเปล่าเพื่อปิด";
+	
+	ROUNDED_CORNERS = "ความมนของขอบมุม";
+	ROUNDED_CORNERS_NONE = "ไม่มน";
+	ROUNDED_CORNERS_SMALL = "เล็กน้อย";
+	ROUNDED_CORNERS_MEDIUM = "ปานกลาง";
+	ROUNDED_CORNERS_LARGE = "มนมาก";
+	
+	SHOW_PAGE_CONTROL = "จุดแสดงหน้า";
+	SHOW_SPRINGBOARD_CARD = "การ์ด SpringBoard";
+	SHOW_DEFAULT_APPS = "แสดงแอพพื้นฐาน";
+	SWIPE_TO_CLOSE = "ปัดเพื่อปิด";
+	
+	EMPTY_STYLE = "รูปแบบว่างเปล่า";
+	EMPTY_STYLE_TEXT = "ข้อความ";
+	EMPTY_STYLE_BLANK = "ว่างเปล่า";
+	EMPTY_STYLE_DISABLED = "ปิดใช้งาน";
+	
+	SNAPSHOT_INSET = "การ์ดที่มองเห็น";
+	SNAPSHOT_INSET_40 = "สาม";
+	SNAPSHOT_INSET_0 = "หนึ่ง";
+	
+	TAPS_TO_ACTIVATE = "จำนวนนิ้วแตะเพื่อเปิดใช้งาน";
+	TAPS_TO_ACTIVATE_SINGLE = "หนึ่ง";
+	TAPS_TO_ACTIVATE_DOUBLE = "สอง";
+	
+	THEMING_GROUP = "ธีม";
+	
+	THEMED_ICONS = "ไอคอนที่ถูกธีม";
+	SHOW_DOCK = "แสดง Dock";
+	DIM_BACKGROUND = "ภาพพื้นหลังมืดลง";
+	
+	BACKGROUND_STYLE = "รูปแบบพื้นหลัง";
+	BACKGROUND_STYLE_NONE = "ใส";
+	BACKGROUND_STYLE_IMAGE = "ธีม";
+	
+	ABOUT_COPYRIGHT = "ProSwitcher เป็น © 2009-2010 Ryan Petrich และ Grant Paul และมีใบอนุญาตแบบ GNU LGPL";
+	
+	NO_APPS_RUNNING = "ไม่มีแอพที่เปิดอยู่";
+	
+	WELCOME_TITLE = "ยินดีต้อนรับสู่ ProSwitcher";
+	WELCOME_MESSAGE = "ไปที่การตั้งค่าเพื่อปรับเปลี่ยนหรือสร้างลักษณะท่าทาง\n\n(c) 2009 Ryan Petrich และ Grant Paul\nใบอนุญาตแบบ LGPL";
+	WELCOME_CONTINUE_BUTTON = "ทำต่อ";
+}

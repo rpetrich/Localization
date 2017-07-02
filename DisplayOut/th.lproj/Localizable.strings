@@ -1,0 +1,87 @@
+"Display Out" = "Display Out";
+
+"Enabled" = "เปิดใช้งาน";
+
+"Orientation" = "แนว";
+"Follow Interface" = "ตามอินเตอร์เฟซ";
+"Follow SpringBoard" = "ตาม SpringBoard";
+"Landscape Left" = "แนวนอนซ้าย";
+"Landscape Right" = "แนวนอนขวา";
+"Portrait" = "แนวตั้ง";
+"Upside-Down" = "แนวตั้งกลับหัว";
+
+"Max Screen Resolution" = "ความละเอียดหน้าจอสูงสุด";
+"480" = "480";
+"640x480 (all)" = "640x480 (ทั้งหมด)";
+"600" = "600";
+"800x600 (VGA/HDMI)" = "800x600 (VGA/HDMI)";
+"720p" = "720p";
+"720p (HDMI-only)" = "720p (HDMI เท่านั้น)";
+"768p" = "768p";
+"1024x768 (VGA/HDMI)" = "1024x768 (VGA/HDMI)";
+"1280x1024 (HDMI+iPad 2)" = "1280x1024 (HDMI+4S/iPad 2)";
+"1024" = "1024";
+"1920x1200 (HDMI+iPad 2)" = "1920x1200 (HDMI+4S/iPad 2)";
+"1080p" = "1080p";
+
+"Scale" = "กำลังขยาย แนวตั้ง/แนวนอน";
+
+"Aspect Adjust" = "ปรับมุมมอง แนวตั้ง/แนวนอน";
+"Preserve" = "คงเดิม";
+"16:10" = "16:10";
+"16:10 Display Stretch" = "16:10 แบบยืดออก";
+"16:9" = "16:9";
+"16:9 Display Stretch" = "16:9 แบบยืดออก";
+
+"Horizontal Offset" = "ชดเชยแนวราบ แนวตั้ง/แนวนอน";
+"Vertical Offset" = "ชดเชยแนวดิ่ง แนวตั้ง/แนวนอน";
+
+"Show Taps" = "แสดงวงการแตะ";
+"Never" = "ไม่แสดง";
+"Always" = "แสดงเสมอ";
+"Skip Keyboard/OpenGL" = "ไม่ใช้ แป้นพิมพ์/OpenGL";
+
+"Tap Size" = "ขนาดวงการแตะ";
+"Huge" = "ใหญ่ที่สุด";
+"Giant" = "ใหญ่มาก";
+"Big" = "ใหญ่ขึ้น";
+"Large" = "ใหญ่";
+"Medium" = "กลาง";
+"Small" = "เล็ก";
+"Little" = "เล็กมาก";
+"Tiny" = "เล็กที่สุด";
+
+"Showing taps may cause flicker" = "Showing taps may cause flicker";
+
+"Experimental" = "Experimental";
+
+"Native Support" = "Native Support";
+
+"This app" = "This app";
+" appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily." = " appears to have built-in support for external displays.\nYou may consider disabling Display Out temporarily.";
+"OK" = "OK";
+
+"Just Main Content" = "Just Main Content";
+"Shows only the main content on the external display" = "Shows only the main content on the external display";
+
+"Connection Alerts" = "Connection Alerts";
+"Show" = "Show";
+"External display connected." = "External display connected.";
+"External display disconnected." = "External display disconnected.";
+
+"OpenGL" = "OpenGL";
+"Suppressing flicker may reduce performance or cause additional memory use in some games" = "Suppressing flicker may reduce performance or cause additional memory use in some games";
+"Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games" = "Suppressing OpenGL flicker may cause additional memory use or unexpected behaviour in some games";
+"Suppress Flicker" = "Suppress Flicker";
+"Allow On Lock Screen" = "Allow On Lock Screen";
+
+"Show On" = "Show On";
+"External Display" = "External Display";
+"Both Displays" = "Both Displays";
+
+"Render Quality" = "Render Quality";
+"Low Quality" = "Low Quality";
+"High Quality" = "High Quality";
+
+"Dim Brightness" = "Dim Brightness";
+"On Connect" = "On Connect";

@@ -1,0 +1,47 @@
+{
+	
+	ACTIVATION_METHODS = "วิธีเปิดใช้งาน";
+	HOME_BUTTON = "ปุ่มโฮม";
+	DOUBLE_HOME_BUTTON = "ปุ่มโฮมคู่";
+	SPRINGBOARD_ICON = "ไอคอน SpringBoard";
+	SPRINGBOARD_PINCH = "ขยุ้มใน SpringBoard";
+	SPRINGBOARD_SPREAD = "กระจายออกใน SpringBoard";
+	
+	VISIBLE_ELEMENTS = "สิ่งที่มองเห็น";
+	COLUMNS = "จำนวนคอลัมน์";
+	ONE = "หนึ่ง";
+	TWO = "สอง";
+	THREE = "สาม";
+	FOUR = "สี่";
+	FIVE = "ห้า";
+	AUTO = "อัตโนมัติ";
+	DOCK = "Dock";
+	SEARCH_PAGE = "หน้าค้นหา";
+	ANIMATED = "เล่นเอนิเมชัน";
+	REVERSE_ORDER = "อันดับถอยหลัง";
+	SHOW_AS_HOME_SCREEN = "เป็นหน้าโฮม";
+
+	BADGE_STYLE = "รูปแบบสัญลักษณ์";
+	BADGE_STYLE_HIDDEN = "ซ่อน";
+	BADGE_STYLE_ON_ICONS = "บนไอคอน";
+	BADGE_STYLE_ON_PAGES = "บนหน้า";
+	BADGE_STYLE_ON_BOTH = "บนทั้งคู่";
+	
+	PLAY_SOUNDS = "เล่นเสียง";
+
+	"CLEAR_ICON_CACHE" = "ล้างแคชไอคอน";
+	"CLEAR_ICON_CACHE_QUESTION" = "ล้างแคชไอคอนหรือไม่?";
+	
+	CONTINUE = "ทำต่อ";
+	CANCEL = "ยกเลิก";
+	
+	BACKGROUND_STYLE = "รูปแบบพื้นหลัง";
+	THEME_BACKGROUND = "ธีมพื้นหลัง";
+	SYSTEM_WALLPAPER = "ภาพพื้นหลังระบบ";
+	THEME = "ธีม";
+	WALLPAPER = "ภาพพื้นหลัง";
+
+	PAGE_TITLES = "หัวข้อหน้า";
+	SHOW_TITLES = "แสดงหัวข้อ";
+	TITLES = "หัวข้อ";
+}

@@ -1,0 +1,38 @@
+{
+	"OK" = "ตกลง";
+	"Cancel" = "ยกเลิก";
+
+	"Close All Apps?" = "ปิดแอพทั้งหมด?";
+	"Close All" = "ปิดทั้งหมด";
+
+	"App Switcher" = "แถบสลับแอพ";
+	"Pagination" = "เป็นหน้าๆ";
+	"Swipe Up:" = "ปัดขึ้น:";
+	"Swipe Down:" = "ปัดลง:";
+	"Preview/Open App" = "มุมมอง/เปิดแอพ";
+	"Close App" = "ปิดแอพ";
+	"Close All Apps" = "ปิดแอพทั้งหมด";
+	"Tap & Hold to Close All" = "แตะค้างเพื่อปิดทั้งหมด";
+	"Show Active App" = "แสดงแอพที่กำลังเปิดอยู่";
+
+	"Auxiliary Pages" = "หน้าตัวช่วย";
+	"Playback" = "การเล่น";
+	"Tap track title to alternate between controls" = "แตะหัวข้อแทรคเพื่อสลับตัวควบคุม";
+	"Volume Slider" = "แถบปรับเสียง";
+	"Track Scrubber" = "ตัวปรับแทรค";
+	"Settings" = "การตั้งค่า";
+	"Swipe up on toggles to access more" = "ปัดขึ้นที่ตัวเปิด/ปิดเพื่อเข้าถึงมากขึ้น";
+	"AirPlay / AirDrop" = "AirPlay / AirDrop";
+	"Double Row Toggles" = "ตัวเปิด/ปิดแบบ 2 แถว";
+	"Swap Auxiliary Page Order" = "สลับลำดับหน้าตัวช่วย";
+	"Puts Settings page left of the Playback page." = "หน้าการตั้งค่าไปทางซ้ายของหน้าการเล่น";
+
+	"Advanced Options" = "ตัวเลือกขั้นสูง";
+	"Open To:" = "เปิด:";
+	"Visible Pages" = "หน้าที่มองเห็น";
+	"Last Opened Page" = "หน้าสุดท้ายที่เปิด";
+	"Playback Page" = "หน้าการเล่น";
+	"Settings Page" = "หน้าการตั้งค่า";
+	"If Playing, Open to Playback" = "หากกำลังเล่น เปิดไปหน้าการเล่น";
+	"If Not Playing, Hide Playback" = "หากไม่มีการเล่น ซ่อนหน้าการเล่น";
+}

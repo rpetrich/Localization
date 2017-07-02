@@ -58,9 +58,9 @@
 	<key>API_ACCESS_WARNING_FORMAT</key>
 	<string>%@ กำลังร้องขอการกระทำและแก้ไขเหตุการณ์ที่กำหนดไว้</string>
 	<key>APPLICATIONS</key>
-	<string>แอปพลิเคชั่น</string>
+	<string>แอพพลิเคชั่น</string>
 	<key>APPLICATION_KEYCHAIN_WARNING</key>
-	<string>หากอุปกรณ์ของท่านมีรหัสผ่าน แอปที่เข้ารหัสข้อมูล (อย่างเช่น Mail) จะต้องการรหัสผ่านเพื่อให้ทำงานได้อย่างปกติ</string>
+	<string>หากอุปกรณ์ของท่านมีรหัสผ่าน แอพที่เข้ารหัสข้อมูล (อย่างเช่น Mail) จะต้องการรหัสผ่านเพื่อให้ทำงานได้อย่างปกติ</string>
 	<key>ASK_FOR_PASSCODE</key>
 	<string>ถามรหัสผ่าน</string>
 	<key>ASSIGN</key>
@@ -81,9 +81,9 @@
 	<key>Advertisement</key>
 	<string>โฆษณา</string>
 	<key>App receives "touches cancelled" event</key>
-	<string>แอปได้รับเหตุการณ์ ยกเลิกการแตะ</string>
+	<string>แอพได้รับเหตุการณ์ ยกเลิกการแตะ</string>
 	<key>App receives subsequent touch events</key>
-	<string>แอปได้รับเหตุการณ์ การแตะที่ตามมา</string>
+	<string>แอพได้รับเหตุการณ์ การแตะที่ตามมา</string>
 	<key>BACKUP_ASSIGNMENTS</key>
 	<string>สำรองการกำหนด</string>
 	<key>BACKUP_ASSIGNMENTS_DETAIL</key>
@@ -97,7 +97,7 @@
 	<key>BLACKLIST</key>
 	<string>บัญชีดำ</string>
 	<key>BLACKLIST_DETAIL</key>
-	<string>ละทิ้งเหตุการณ์ในแอปพลิเคชั่นที่เลือก</string>
+	<string>ละทิ้งเหตุการณ์ในแอพพลิเคชั่นที่เลือก</string>
 	<key>BOOKMARKS</key>
 	<string>ตัวคั่นหน้าเว็บ</string>
 	<key>BOOKMARKS_DETAIL</key>
@@ -178,9 +178,9 @@
 	<key>EVENT_DESCRIPTION_libactivator.clamshell.open</key>
 	<string>เปิดแผ่นป้องกันหน้าจอ</string>
 	<key>EVENT_DESCRIPTION_libactivator.device.locked</key>
-	<string>อุปกรณ์ล๊อคโดยปุ่ม sleep หรือหลังจากเวลาที่กำหนด</string>
+	<string>อุปกรณ์ล็อคโดยปุ่ม sleep หรือหลังจากเวลาที่กำหนด</string>
 	<key>EVENT_DESCRIPTION_libactivator.device.unlocked</key>
-	<string>อุปกรณ์ปลดล๊อคโดยการเลื่อนเพื่อปลดล๊อค</string>
+	<string>อุปกรณ์ปลดล็อคโดยการเลื่อนเพื่อปลดล็อค</string>
 	<key>EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right</key>
 	<string>ปัดที่ขอบหน้าจอล่าง ซ้ายไปขวา</string>
 	<key>EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.right-to-left</key>
@@ -218,7 +218,7 @@
 	<key>EVENT_DESCRIPTION_libactivator.five-finger.pinch</key>
 	<string>ขยุ้มเข้าหน้าจอด้วย 5 นิ้ว</string>
 	<key>EVENT_DESCRIPTION_libactivator.five-finger.spread</key>
-	<string>ขยุ้มออกหน้าจอด้วย 5 นิ้ว</string>
+	<string>กระจายออกหน้าจอด้วย 5 นิ้ว</string>
 	<key>EVENT_DESCRIPTION_libactivator.five-finger.tap</key>
 	<string>แตะหน้าจอด้วย 5 นิ้ว</string>
 	<key>EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom</key>
@@ -236,7 +236,7 @@
 	<key>EVENT_DESCRIPTION_libactivator.four-finger.pinch</key>
 	<string>ขยุ้มเข้าหน้าจอด้วย 4 นิ้ว</string>
 	<key>EVENT_DESCRIPTION_libactivator.four-finger.spread</key>
-	<string>ขยุ้มออกหน้าจอด้วย 4 นิ้ว</string>
+	<string>กระจายออกหน้าจอด้วย 4 นิ้ว</string>
 	<key>EVENT_DESCRIPTION_libactivator.four-finger.tap</key>
 	<string>แตะหน้าจอด้วย 4 นิ้ว</string>
 	<key>EVENT_DESCRIPTION_libactivator.headset-button.hold.short</key>
@@ -250,21 +250,21 @@
 	<key>EVENT_DESCRIPTION_libactivator.icon.3d-touch_FORMAT</key>
 	<string>Force touch %@ ที่ไอคอนใน SpringBoard</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.down</key>
-	<string>ปัดลงที่ไอคอนใน SpringBoard</string>
+	<string>ตวัดลงที่ไอคอนใน SpringBoard</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.down_FORMAT</key>
-	<string>ปัดลงที่ไอคอน %@ ใน SpringBoard</string>
+	<string>ตวัดลงที่ไอคอน %@ ใน SpringBoard</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.left</key>
-	<string>ปัดซ้ายที่ไอคอนใน SpringBoard</string>
+	<string>ตวัดซ้ายที่ไอคอนใน SpringBoard</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.left_FORMAT</key>
-	<string>ปัดลงที่ไอคอน%@ ใน SpringBoard</string>
+	<string>ตวัดลงที่ไอคอน%@ ใน SpringBoard</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.right</key>
-	<string>ปัดขวาที่ไอคอนใน SpringBoard</string>
+	<string>ตวัดขวาที่ไอคอนใน SpringBoard</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT</key>
-	<string>ปัดขวาที่ไอคอน %@ ใน SpringBoard</string>
+	<string>ตวัดขวาที่ไอคอน %@ ใน SpringBoard</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.up</key>
-	<string>ปัดขึ้นที่ไอคอนใน SpringBoard</string>
+	<string>ตวัดขึ้นที่ไอคอนใน SpringBoard</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.up_FORMAT</key>
-	<string>ปัดขึ้นที่ไอคอน %@ ใน SpringBoard</string>
+	<string>ตวัดขึ้นที่ไอคอน %@ ใน SpringBoard</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT</key>
 	<string>แตะค้างที่ไอคอน %@ ใน SpringBoard</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT</key>
@@ -342,7 +342,7 @@
 	<key>EVENT_DESCRIPTION_libactivator.springboard.pinch</key>
 	<string>ขยุ้มเข้าที่ไอคอนใน springboard ด้วย 2 นิ้ว</string>
 	<key>EVENT_DESCRIPTION_libactivator.springboard.spread</key>
-	<string>ขยุ้มออกที่ไอคอนใน springboard ด้วย 2 นิ้ว</string>
+	<string>กระจายออกที่ไอคอนใน springboard ด้วย 2 นิ้ว</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.hold</key>
 	<string>แตะค้างที่แถบสถานะ</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.hold.left</key>
@@ -370,7 +370,7 @@
 	<key>EVENT_DESCRIPTION_libactivator.three-finger.pinch</key>
 	<string>ขยุ้มเข้าที่หน้าจอด้วย 3 นิ้ว</string>
 	<key>EVENT_DESCRIPTION_libactivator.three-finger.spread</key>
-	<string>ขยุ้มออกที่หน้าจอด้วย 3 นิ้ว</string>
+	<string>กระจายออกที่หน้าจอด้วย 3 นิ้ว</string>
 	<key>EVENT_DESCRIPTION_libactivator.three-finger.tap</key>
 	<string>แตะหน้าจอด้วย 3 นิ้ว</string>
 	<key>EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom</key>
@@ -432,7 +432,7 @@
 	<key>EVENT_GROUP_TITLE_Apple Watch</key>
 	<string>Apple Watch</string>
 	<key>EVENT_GROUP_TITLE_Application Launched</key>
-	<string>แอปพลิเคชั่นถูกเรียกใช้</string>
+	<string>แอพพลิเคชั่นถูกเรียกใช้</string>
 	<key>EVENT_GROUP_TITLE_Audio</key>
 	<string>เสียง</string>
 	<key>EVENT_GROUP_TITLE_Battery Level</key>
@@ -452,7 +452,7 @@
 	<key>EVENT_GROUP_TITLE_Home Button</key>
 	<string>ปุ่มโฮม</string>
 	<key>EVENT_GROUP_TITLE_Lock Screen</key>
-	<string>ล๊อคสกรีน</string>
+	<string>หน้าจอล็อค</string>
 	<key>EVENT_GROUP_TITLE_Media Playback</key>
 	<string>การเล่นเพลง</string>
 	<key>EVENT_GROUP_TITLE_Motion</key>
@@ -516,9 +516,9 @@
 	<key>EVENT_TITLE_libactivator.clamshell.open</key>
 	<string>เปิด Cover</string>
 	<key>EVENT_TITLE_libactivator.device.locked</key>
-	<string>ล๊อค</string>
+	<string>ล็อค</string>
 	<key>EVENT_TITLE_libactivator.device.unlocked</key>
-	<string>ไม่ได้ล๊อค</string>
+	<string>ไม่ไดล็อค</string>
 	<key>EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right</key>
 	<string>ปัดซ้ายไปขวา</string>
 	<key>EVENT_TITLE_libactivator.drag-along.screen-bottom.right-to-left</key>
@@ -552,9 +552,9 @@
 	<key>EVENT_TITLE_libactivator.fingerprint-sensor.press.twice</key>
 	<string>กด 2 ครั้ง</string>
 	<key>EVENT_TITLE_libactivator.five-finger.pinch</key>
-	<string>5 นิ้วขยุ้มออก</string>
+	<string>5 นิ้วกระจายออก</string>
 	<key>EVENT_TITLE_libactivator.five-finger.spread</key>
-	<string>5 นิ้วขยุ้มออก</string>
+	<string>5 นิ้วกระจายออก</string>
 	<key>EVENT_TITLE_libactivator.five-finger.tap</key>
 	<string>5 นิ้วแตะ</string>
 	<key>EVENT_TITLE_libactivator.force-touch.screen-bottom</key>
@@ -572,7 +572,7 @@
 	<key>EVENT_TITLE_libactivator.four-finger.pinch</key>
 	<string>4 นิ้วขยุ้มเข้า</string>
 	<key>EVENT_TITLE_libactivator.four-finger.spread</key>
-	<string>4 นิ้วขยุ้มออก</string>
+	<string>4 นิ้วกระจายออก</string>
 	<key>EVENT_TITLE_libactivator.four-finger.tap</key>
 	<string>4 นิ้วแตะ</string>
 	<key>EVENT_TITLE_libactivator.headset-button.hold.short</key>
@@ -586,21 +586,21 @@
 	<key>EVENT_TITLE_libactivator.icon.3d-touch_FORMAT</key>
 	<string>%@ ไอคอน 3D Touch</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.down</key>
-	<string>ปัดไอคอนลง</string>
+	<string>ตวัดไอคอนลง</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.down_FORMAT</key>
-	<string>%@ ปัดไอคอนลง</string>
+	<string>%@ ตวัดไอคอนลง</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.left</key>
-	<string>ปัดไอคอนทางซ้าย</string>
+	<string>ตวัดไอคอนทางซ้าย</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.left_FORMAT</key>
-	<string>%@ ปัดไอคอนทางซ้าย</string>
+	<string>%@ ตวัดไอคอนทางซ้าย</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.right</key>
-	<string>ปัดไอคอนทางขวา</string>
+	<string>ตวัดไอคอนทางขวา</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.right_FORMAT</key>
-	<string>%@ ปัดไอคอนทางขวา</string>
+	<string>%@ ตวัดไอคอนทางขวา</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.up</key>
-	<string>ปัดไอคอนทางขึ้น</string>
+	<string>ตวัดไอคอนทางขึ้น</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.up_FORMAT</key>
-	<string>%@ ปัดไอคอนทางขึ้น</string>
+	<string>%@ ตวัดไอคอนทางขึ้น</string>
 	<key>EVENT_TITLE_libactivator.icon.hold_FORMAT</key>
 	<string>%@ แตะไอคอนค้าง</string>
 	<key>EVENT_TITLE_libactivator.icon.tap.double_FORMAT</key>
@@ -704,7 +704,7 @@
 	<key>EVENT_TITLE_libactivator.three-finger.pinch</key>
 	<string>3 นิ้วขยุ้มเข้า</string>
 	<key>EVENT_TITLE_libactivator.three-finger.spread</key>
-	<string>3 นิ้วขยุ้มออก</string>
+	<string>3 นิ้วกระจายออก</string>
 	<key>EVENT_TITLE_libactivator.three-finger.tap</key>
 	<string>3 นิ้วแตะ</string>
 	<key>EVENT_TITLE_libactivator.two-finger-slide-in.bottom</key>
@@ -768,7 +768,7 @@
 	<key>GRANT ACCESS</key>
 	<string>ให้สิทธิ์</string>
 	<key>IF_ACTIVATED_WHILE_PASSCODE_LOCKED</key>
-	<string>หากเปิดใช้ระหว่างมีรหัสผ่านล๊อค</string>
+	<string>หากเปิดใช้ระหว่างมีรหัสผ่านล็อค</string>
 	<key>INCOMPATIBLE_ASSIGNMENT</key>
 	<string>การกำหนดที่ไม่รองรับ</string>
 	<key>INCOMPATIBLE_WARNING_BOTH_PLURAL</key>
@@ -792,11 +792,11 @@
 	<key>LISTENER_DESCRIPTION_SETTINGS_FORMAT</key>
 	<string>เปิดการตั้งค่าไปยังหน้า %@</string>
 	<key>LISTENER_DESCRIPTION_application</key>
-	<string>เรียกใช้แอปพลิเคชั่น</string>
+	<string>เรียกใช้แอพพลิเคชั่น</string>
 	<key>LISTENER_DESCRIPTION_application_shortcut_FORMAT</key>
 	<string>เรียกใช้ %@ shortcut</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.activoice.apps</key>
-	<string>เปิดใช้รายการแอป Google</string>
+	<string>เปิดใช้รายการแอพ Google</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.activoice.goggles</key>
 	<string>เปิดใช้ Google's goggles</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.activoice.search</key>
@@ -804,7 +804,7 @@
 	<key>LISTENER_DESCRIPTION_com.rpetrich.activoice.voice</key>
 	<string>เปิดใช้การค้นหาด้วยเสียงใน Google</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.smartclose</key>
-	<string>ปิดแอปพื้นหลังอย่างชาญฉลาด</string>
+	<string>ปิดแอพพื้นหลังอย่างชาญฉลาด</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown</key>
 	<string>เลื่อนลงต่อเนื่อง</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.superscroller.autoup</key>
@@ -840,7 +840,7 @@
 	<key>LISTENER_DESCRIPTION_libactivator.audio.increase-volume</key>
 	<string>ปรับเสียงเพิ่มขึ้น 1 ระดับ</string>
 	<key>LISTENER_DESCRIPTION_libactivator.audio.launch-playing-app</key>
-	<string>เปิดแอปพลิเคชั่นที่กำลังเล่นเสียงอยู่</string>
+	<string>เปิดแอพพลิเคชั่นที่กำลังเล่นเสียงอยู่</string>
 	<key>LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar</key>
 	<string>แสดงตัวเลื่อนระดับเสียง</string>
 	<key>LISTENER_DESCRIPTION_libactivator.audio.volume.media_FORMAT</key>
@@ -852,17 +852,17 @@
 	<key>LISTENER_DESCRIPTION_libactivator.call</key>
 	<string>โทร</string>
 	<key>LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter</key>
-	<string>ใช้งานการกดปุ่ม shutter ในแอปกล้อง</string>
+	<string>ใช้งานการกดปุ่ม shutter ในแอพกล้อง</string>
 	<key>LISTENER_DESCRIPTION_libactivator.clock.alarm</key>
-	<string>เปิดแอปนาฬิกาไปแท็บนาฬิกาปลุก</string>
+	<string>เปิดแอพนาฬิกาไปแท็บนาฬิกาปลุก</string>
 	<key>LISTENER_DESCRIPTION_libactivator.clock.bedtime</key>
-	<string>เปิดแอปนาฬิกาไปแท็บเวลานอน</string>
+	<string>เปิดแอพนาฬิกาไปแท็บเวลานอน</string>
 	<key>LISTENER_DESCRIPTION_libactivator.clock.stopwatch</key>
-	<string>เปิดแอปนาฬิกาไปแท็บจับเวลาถอยหลัง</string>
+	<string>เปิดแอพนาฬิกาไปแท็บจับเวลาถอยหลัง</string>
 	<key>LISTENER_DESCRIPTION_libactivator.clock.timer</key>
-	<string>เปิดแอปนาฬิกาไปแท็บนาฬิกาจับเวลา</string>
+	<string>เปิดแอพนาฬิกาไปแท็บนาฬิกาจับเวลา</string>
 	<key>LISTENER_DESCRIPTION_libactivator.clock.world-clock</key>
-	<string>เปิดแอปนาฬิกาไปแท็บนาฬิกาโลก</string>
+	<string>เปิดแอพนาฬิกาไปแท็บนาฬิกาโลก</string>
 	<key>LISTENER_DESCRIPTION_libactivator.facebook.compose-post</key>
 	<string>เปิดหน้าเขียนโพส Facebook</string>
 	<key>LISTENER_DESCRIPTION_libactivator.ipod.music-controls</key>
@@ -880,11 +880,11 @@
 	<key>LISTENER_DESCRIPTION_libactivator.keyboard.dictation</key>
 	<string>Dictate into active text field</string>
 	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss</key>
-	<string>ออกจากล๊อคสกรีน</string>
+	<string>ออกจากหน้าจอล็อค</string>
 	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.show</key>
-	<string>แสดงล็อคสกรีน</string>
+	<string>แสดงหน้าจอล็อค</string>
 	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.toggle</key>
-	<string>เปิด/ปิดการแสดงหน้าล๊อคสกรีน</string>
+	<string>เปิด/ปิดการแสดงหน้าจอล็อค</string>
 	<key>LISTENER_DESCRIPTION_libactivator.mail</key>
 	<string>Mail</string>
 	<key>LISTENER_DESCRIPTION_libactivator.mail.compose-message</key>
@@ -920,7 +920,7 @@
 	<key>LISTENER_DESCRIPTION_libactivator.settings.accessibility</key>
 	<string>ไปยังการตั้งค่าการเข้าถึงอุปกรณ์</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.auto-lock</key>
-	<string>ไปยังการตั้งค่าล๊อคอัตโนมัติ</string>
+	<string>ไปยังการตั้งค่าล็อคอัตโนมัติ</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.background-app-refresh</key>
 	<string>ไปยังการตั้งค่าการอัพเดตพื้นหลัง</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.battery</key>
@@ -930,13 +930,13 @@
 	<key>LISTENER_DESCRIPTION_libactivator.settings.brightness</key>
 	<string>ไปยังการตั้งค่าความสว่าง</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper</key>
-	<string>ไปยังการตั้งค่าความสว่างและวอลล์เปเปอร์</string>
+	<string>ไปยังการตั้งค่าความสว่างและภาพพื้นหลัง</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.carplay</key>
 	<string>ไปยังการตั้งค่า CarPlay</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.cellular</key>
-	<string>ไปยังการตั้งค่า Cellular</string>
+	<string>ไปยังการตั้งค่าเซลลูลาร์</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.control-center</key>
-	<string>ไปยังการตั้งค่า Control Center</string>
+	<string>ไปยังการตั้งค่าศูนย์ควบคุม</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.date-time</key>
 	<string>ไปยังการตั้งค่าวันที่และเวลา</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.display</key>
@@ -1006,7 +1006,7 @@
 	<key>LISTENER_DESCRIPTION_libactivator.settings.vpn</key>
 	<string>ไปยังการตั้งค่า VPN</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.wallpaper</key>
-	<string>ไปยังการตั้งค่าวอลเปเปอร์</string>
+	<string>ไปยังการตั้งค่าภาพพื้นหลัง</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.wifi</key>
 	<string>ไปยังการตั้งค่า Wi-Fi</string>
 	<key>LISTENER_DESCRIPTION_libactivator.sms.compose-message</key>
@@ -1014,21 +1014,21 @@
 	<key>LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT</key>
 	<string>ให้อุปกรณ์พูดตามข้อความที่กำหนด</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.activate-control-center</key>
-	<string>แสดงการตั้งค่า control center</string>
+	<string>แสดงการตั้งค่าศูนย์ควบคุม</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.activate-notification-center</key>
 	<string>เรียกใช้ศูนย์การแจ้ง</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.activate-reachability</key>
 	<string>ดึง iOS มากอด!</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.activate-switcher</key>
-	<string>แสดง switcher</string>
+	<string>แสดงแถบสลับแอพ</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.back</key>
 	<string>ย้อนกลับไป 1 หน้า</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.clear-switcher</key>
-	<string>นำแอปทั้งหมดออกจาก Switcher</string>
+	<string>นำแอพทั้งหมดออกจากแถบสลับแอพ</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.first-springboard-page</key>
 	<string>ไปยังหน้าแรกของ SpringBoard</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.haptic.flick</key>
-	<string>ใช้การปัดใน taptic engine</string>
+	<string>ใช้การตวัดใน taptic engine</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.haptic.quirk</key>
 	<string>ใช้การพลิกใน taptic engine</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.haptic.tap</key>
@@ -1090,7 +1090,7 @@
 	<key>LISTENER_GROUP_TITLE_Activoice</key>
 	<string>Activoice</string>
 	<key>LISTENER_GROUP_TITLE_Application Shortcuts</key>
-	<string>ชอร์ตคัตแอปพลิเคชั่น</string>
+	<string>ชอร์ตคัตแอพพลิเคชั่น</string>
 	<key>LISTENER_GROUP_TITLE_Ask Siri</key>
 	<string>ถามสิริ</string>
 	<key>LISTENER_GROUP_TITLE_Audio</key>
@@ -1106,7 +1106,7 @@
 	<key>LISTENER_GROUP_TITLE_Fingerprint Sensor</key>
 	<string>เซนเซอร์ลายนิ้วมือ</string>
 	<key>LISTENER_GROUP_TITLE_Lock Screen</key>
-	<string>ล๊อคสกรีน</string>
+	<string>หน้าจอล็อค</string>
 	<key>LISTENER_GROUP_TITLE_Message Alert</key>
 	<string>แจ้งเตือนข้อความ</string>
 	<key>LISTENER_GROUP_TITLE_Phone</key>
@@ -1144,9 +1144,9 @@
 	<key>LISTENER_GROUP_TITLE_System Actions</key>
 	<string>การกระทำโดยระบบ</string>
 	<key>LISTENER_GROUP_TITLE_System Applications</key>
-	<string>แอปพลิเคชั่นระบบ</string>
+	<string>แอพพลิเคชั่นระบบ</string>
 	<key>LISTENER_GROUP_TITLE_User Applications</key>
-	<string>แอปพลิเคชั่นผู้ใช้</string>
+	<string>แอพพลิเคชั่นผู้ใช้</string>
 	<key>LISTENER_GROUP_TITLE_Vibration</key>
 	<string>การสั่น</string>
 	<key>LISTENER_GROUP_TITLE_VideoPane</key>
@@ -1156,7 +1156,7 @@
 	<key>LISTENER_GROUP_TITLE_iPod</key>
 	<string>iPod</string>
 	<key>LISTENER_TITLE_com.rpetrich.activoice.apps</key>
-	<string>แอป Google</string>
+	<string>แอพ Google</string>
 	<key>LISTENER_TITLE_com.rpetrich.activoice.goggles</key>
 	<string>Goggles</string>
 	<key>LISTENER_TITLE_com.rpetrich.activoice.search</key>
@@ -1200,7 +1200,7 @@
 	<key>LISTENER_TITLE_libactivator.audio.increase-volume</key>
 	<string>ปรับเสียงขึ้น</string>
 	<key>LISTENER_TITLE_libactivator.audio.launch-playing-app</key>
-	<string>เปิดแอปที่กำลังเล่นเพลง</string>
+	<string>เปิดแอพที่กำลังเล่นเพลง</string>
 	<key>LISTENER_TITLE_libactivator.audio.show-volume-bar</key>
 	<string>แสดงแถบเสียง</string>
 	<key>LISTENER_TITLE_libactivator.audio.volume.media_FORMAT</key>
@@ -1240,11 +1240,11 @@
 	<key>LISTENER_TITLE_libactivator.keyboard.dictation</key>
 	<string>การป้อนตามคำบอก</string>
 	<key>LISTENER_TITLE_libactivator.lockscreen.dismiss</key>
-	<string>ปลดล๊อคเครื่อง</string>
+	<string>ปลดล็อคเครื่อง</string>
 	<key>LISTENER_TITLE_libactivator.lockscreen.show</key>
-	<string>ล๊อคเครื่อง</string>
+	<string>ล็อคเครื่อง</string>
 	<key>LISTENER_TITLE_libactivator.lockscreen.toggle</key>
-	<string>ล๊อค/ปลดล๊อค</string>
+	<string>ล็อค/ปลดล็อค</string>
 	<key>LISTENER_TITLE_libactivator.mail.compose-message</key>
 	<string>สร้าง Mail</string>
 	<key>LISTENER_TITLE_libactivator.message.show_FORMAT</key>
@@ -1284,7 +1284,7 @@
 	<key>LISTENER_TITLE_libactivator.settings.accessibility</key>
 	<string>ตัวช่วยการเข้าถึง</string>
 	<key>LISTENER_TITLE_libactivator.settings.auto-lock</key>
-	<string>ตั้งล๊อคอัตโนมัติ</string>
+	<string>ตั้งล็อคอัตโนมัติ</string>
 	<key>LISTENER_TITLE_libactivator.settings.background-app-refresh</key>
 	<string>การอัพเดตพื้นหลัง</string>
 	<key>LISTENER_TITLE_libactivator.settings.battery</key>
@@ -1294,13 +1294,13 @@
 	<key>LISTENER_TITLE_libactivator.settings.brightness</key>
 	<string>Brightness</string>
 	<key>LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper</key>
-	<string>ความสว่างและวอลล์เปเปอร์</string>
+	<string>ความสว่างและภาพพื้นหลัง</string>
 	<key>LISTENER_TITLE_libactivator.settings.carplay</key>
 	<string>CarPlay</string>
 	<key>LISTENER_TITLE_libactivator.settings.cellular</key>
-	<string>Cellular</string>
+	<string>เซลลูลาร์</string>
 	<key>LISTENER_TITLE_libactivator.settings.control-center</key>
-	<string>Control Center</string>
+	<string>ศูนย์ควบคุม</string>
 	<key>LISTENER_TITLE_libactivator.settings.date-time</key>
 	<string>วันที่และเวลา</string>
 	<key>LISTENER_TITLE_libactivator.settings.display</key>
@@ -1370,7 +1370,7 @@
 	<key>LISTENER_TITLE_libactivator.settings.vpn</key>
 	<string>VPN</string>
 	<key>LISTENER_TITLE_libactivator.settings.wallpaper</key>
-	<string>วอลล์เปเปอร์</string>
+	<string>ภาพพื้นหลัง</string>
 	<key>LISTENER_TITLE_libactivator.settings.wifi</key>
 	<string>Wi-Fi</string>
 	<key>LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:FAVORITES</key>
@@ -1386,21 +1386,21 @@
 	<key>LISTENER_TITLE_libactivator.speech.synthesize_FORMAT</key>
 	<string>พูด "%@"</string>
 	<key>LISTENER_TITLE_libactivator.system.activate-control-center</key>
-	<string>เรียกใช้ Control Center</string>
+	<string>เรียกใชศูนย์ควบคุม</string>
 	<key>LISTENER_TITLE_libactivator.system.activate-notification-center</key>
 	<string>เรียกใช้ศูนย์การแจ้ง</string>
 	<key>LISTENER_TITLE_libactivator.system.activate-reachability</key>
 	<string>เรียกใช้ Reachability</string>
 	<key>LISTENER_TITLE_libactivator.system.activate-switcher</key>
-	<string>เรียกใช้ Switcher</string>
+	<string>เรียกใช้แถบสลับแอพ</string>
 	<key>LISTENER_TITLE_libactivator.system.back</key>
 	<string>กลับ</string>
 	<key>LISTENER_TITLE_libactivator.system.clear-switcher</key>
-	<string>ล้าง App Switcher</string>
+	<string>ล้างแถบสลับแอพ</string>
 	<key>LISTENER_TITLE_libactivator.system.first-springboard-page</key>
 	<string>หน้าแรกของ SpringBoard</string>
 	<key>LISTENER_TITLE_libactivator.system.haptic.flick</key>
-	<string>ปัด</string>
+	<string>ตวัด</string>
 	<key>LISTENER_TITLE_libactivator.system.haptic.quirk</key>
 	<string>พลิก</string>
 	<key>LISTENER_TITLE_libactivator.system.haptic.tap</key>
@@ -1496,19 +1496,19 @@
 	<key>MODE_DESCRIPTION_all</key>
 	<string></string>
 	<key>MODE_DESCRIPTION_application</key>
-	<string>เมื่อแอปพลิเคชั่นแสดงอยู่</string>
+	<string>เมื่อแอพพลิเคชั่นแสดงอยู่</string>
 	<key>MODE_DESCRIPTION_lockscreen</key>
-	<string>เมื่ออุปกรณ์ถูกล๊อคและหน้าล๊อคสกรีนแสดงอยู่</string>
+	<string>เมื่ออุปกรณ์ถูกล็อคและหน้าจอล็อคแสดงอยู่</string>
 	<key>MODE_DESCRIPTION_springboard</key>
 	<string>เมื่อไอคอนใน SpringBoard แสดงอยู่</string>
 	<key>MODE_TITLE_all</key>
 	<string>ที่ไหนก็ได้</string>
 	<key>MODE_TITLE_application</key>
-	<string>ในแอปพลิเคชั่น</string>
+	<string>ในแอพพลิเคชั่น</string>
 	<key>MODE_TITLE_lockscreen</key>
-	<string>ที่หน้าล๊อคสรีน</string>
+	<string>ที่หน้าจอล็อค</string>
 	<key>MODE_TITLE_springboard</key>
-	<string>ที่โฮมสกรีน</string>
+	<string>ที่หน้าโฮม</string>
 	<key>MORE</key>
 	<string>เพิ่มเติม</string>
 	<key>MORE_ACTIONS</key>
@@ -1528,17 +1528,17 @@
 	<key>NEW_BOOKMARK</key>
 	<string>ที่คั่นหน้าเว็บใหม่</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.application-launch</key>
-	<string>แอปพลิเคชั่นที่กำหนดถูกเรียกใช้</string>
+	<string>แอพพลิเคชั่นที่กำหนดถูกเรียกใช้</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.3d-touch</key>
 	<string>ไอคอนที่กำหนดถูก force touch</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down</key>
-	<string>ไอคอนที่กำหนดถูกปัดลง</string>
+	<string>ไอคอนที่กำหนดถูกตวัดลง</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left</key>
-	<string>ไอคอนที่กำหนดถูกปัดซ้าย</string>
+	<string>ไอคอนที่กำหนดถูกตวัดซ้าย</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right</key>
-	<string>ไอคอนที่กำหนดถูกปัดขวา</string>
+	<string>ไอคอนที่กำหนดถูกตวัดขวา</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up</key>
-	<string>ไอคอนที่กำหนดถูกปัดขึ้น</string>
+	<string>ไอคอนที่กำหนดถูกตวัดขึ้น</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.hold</key>
 	<string>ไอคอนที่กำหนดถูกแตะค้าง</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.tap.double</key>
@@ -1582,17 +1582,17 @@
 	<key>NEW_EVENT_DESCRIPTION_libactivator.scheduled</key>
 	<string>ระบุวันทำงานและเวลาที่ผ่านไป</string>
 	<key>NEW_EVENT_TITLE_libactivator.application-launch</key>
-	<string>เปิดแอปพลิเคชั่น</string>
+	<string>เปิดแอพพลิเคชั่น</string>
 	<key>NEW_EVENT_TITLE_libactivator.icon.3d-touch</key>
 	<string>3D Touch ที่ไอคอน</string>
 	<key>NEW_EVENT_TITLE_libactivator.icon.flick.down</key>
-	<string>ปัดลงที่ไอคอน</string>
+	<string>ตวัดลงที่ไอคอน</string>
 	<key>NEW_EVENT_TITLE_libactivator.icon.flick.left</key>
-	<string>ปัดซ้ายที่ไอคอน</string>
+	<string>ตวัดซ้ายที่ไอคอน</string>
 	<key>NEW_EVENT_TITLE_libactivator.icon.flick.right</key>
-	<string>ปัดขวาที่ไอคอน</string>
+	<string>ตวัดขวาที่ไอคอน</string>
 	<key>NEW_EVENT_TITLE_libactivator.icon.flick.up</key>
-	<string>ปัดขึ้นที่ไอคอน</string>
+	<string>ตวัดขึ้นที่ไอคอน</string>
 	<key>NEW_EVENT_TITLE_libactivator.icon.hold</key>
 	<string>แตะค้างที่ไอคอน</string>
 	<key>NEW_EVENT_TITLE_libactivator.icon.tap.double</key>
@@ -1682,7 +1682,7 @@
 	<key>Normal</key>
 	<string>ปกติ</string>
 	<key>OPEN_APP_IMMEDIATELY</key>
-	<string>เปิดแอปทันที</string>
+	<string>เปิดแอพทันที</string>
 	<key>OUT_OF_DATE_MESSAGE</key>
 	<string>Activator ทำงานได้ดีที่สุดใน iOS เวอร์ชั่นใหม่
 แนะนำให้อัพเดตระบบ</string>

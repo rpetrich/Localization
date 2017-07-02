@@ -1,0 +1,125 @@
+{
+	APPLICATION_ACTION_TEXT_FORMAT = "%@ %@";
+	SWITCH_ACTION_TEXT_FORMAT = "%@ %@";
+	SETTINGS_PANE_ACTION_TEXT_FORMAT = "%@ %@";
+	FINGERPRINT_REQUIRED_TO_PREFIX = "ต้องใช้ลายนิ้วมือในการ ";
+	PASSCODE_REQUIRED_TO_PREFIX = "ต้องใช้รหัสผ่านในการ ";
+	CANCEL_BUTTON_TEXT = "ยกเลิก";
+	USE_PASSCODE_BUTTON_TEXT = "ใช้รหัสผ่าน";
+	AUTHENTICATE_BUTTON_TEXT = "ยืนยันตัวตน";
+	OPEN_ACTION_TEXT = "เปิด";
+	REOPEN_ACTION_TEXT = "เปิดใหม่";
+	LAUNCH_ACTION_TEXT = "เปิดใช้";
+	SWITCH_TO_ACTION_TEXT = "สลับไปที่";
+	ENABLE_ACTION_TEXT = "ใช้งาน";
+	DISABLE_ACTION_TEXT = "ไม่ใช้งาน";
+	ADJUST_ACTION_TEXT = "ปรับ";
+	TOGGLE_ACTION_TEXT = "เปิด/ปิด";
+	HOLD_ACTION_TEXT = "แตะค้าง";
+	DELETE_ACTION_TEXT = "ลบ";
+	MESSAGE_ACTION_TEXT = "ข้อความ";
+	PLACE_CALL_ACTION_TEXT = "โทรศัพท์ถึง";
+	ANSWER_CALL_ACTION_TEXT = "รับสาย";
+	REARRANGE_ICONS_ACTION_TEXT = "จัดวางไอคอนใหม่";
+	SHUT_DOWN_DEVICE_ACTION_TEXT = "ปิดเครื่อง";
+	ACTIVATE_SIRI_ACTION_TEXT = "เรียกใช้สิริ";
+	ACTIVATE_SPOTLIGHT = "เรียกใช้ Spotlight";
+	ACTIVATE_CONTROL_CENTER_ACTION_TEXT = "เรียกใช้ศูนย์ควบคุม";
+	ACTIVATE_NOTIFICATION_CENTER_ACTION_TEXT = "เรียกใช้ศูนย์แจ้งเตือน";
+	ACTIVATE_APP_SWITCHER_ACTION_TEXT = "เรียกใช้แถบสลับ";
+
+	RESTRICTION_TYPE_APPLICATION = "แอพ";
+	RESTRICTION_TYPE_APPLICATION_PLURAL = "แอพ";
+	RESTRICTION_TYPE_SETTINGS_PANE = "แถบการตั้งค่า";
+	RESTRICTION_TYPE_SETTINGS_PANE_PLURAL = "แถบการตั้งค่า";
+	RESTRICTION_TYPE_SWITCH = "สวิตซ์";
+	RESTRICTION_TYPE_SWITCH_PLURAL = "สวิตซ์";
+	RESTRICTION_TYPE_FEATURE = "ฟีเจอร์";
+	RESTRICTION_TYPE_FEATURE_PLURAL = "ฟีเจอร์";
+	RESTRICTION_TYPE_FOLDER = "แฟ้ม";
+	RESTRICTION_TYPE_FOLDER_PLURAL = "แฟ้ม";
+	RESTRICTION_TYPE_UNKNOWN = "ไม่ทราบ";
+
+	FOLDER_RESTRICTION_WARNING = "Only access to the folder will be protected. Apps within the folder may still be launched via Spotlight or Siri";
+	
+	RESTRICTIONS_HEADER = "Restrictions";
+	NO_FINGERPRINTS_WARNING = "No fingerprints on file. You must add fingerprints via Touch ID before using BioLockdown.";
+	SELF_RESTRICTIONS_WARNING = "For best results, be sure to lock access to either the Settings app or the BioLockdown settings pane";
+
+	GLOBAL_ENABLED_SETTING = "Enabled";
+	GRACE_PERIOD_SETTING = "Grace Period";
+	GRACE_PERIOD_EXPLANATION = "Shorter times are more secure";
+
+	GRACE_PERIOD_EXPIRES_TITLE = "Grace Period Expires";
+	GRACE_PERIOD_VALUE_0 = "Immediately";
+	GRACE_PERIOD_VALUE_60 = "After 1 minute";
+	GRACE_PERIOD_VALUE_120 = "After 2 minutes";
+	GRACE_PERIOD_VALUE_300 = "After 5 minutes";
+	GRACE_PERIOD_VALUE_600 = "After 10 minutes";
+	GRACE_PERIOD_VALUE_900 = "After 15 minutes";
+	GRACE_PERIOD_VALUE_1800 = "After 30 minutes";
+	GRACE_PERIOD_VALUE_3600 = "After 1 hour";
+
+	GRACE_PERIOD_VALUE_UPON_DEVICE_LOCK = "Upon Device Lock";
+
+	TOUCH_ID_SETTING = "Touch ID";
+	TOUCH_ID_EXPLANATION = "Add or remove fingerprints";
+
+	NEW_RESTRICTION_BUTTON = "New Restriction";
+	NEW_RESTRICTION_EXPLANATION = "Restrict apps, settings panes or switches";
+
+	NEW_RESTRICTION_TITLE = "New Restriction";
+
+	ACCESS_TYPES_SETTING = "Access Types";
+	FINGERPRINTS_SETTING_HEADER = "Fingerprints";
+	PASSCODES_SETTING_HEADER = "Passcodes";
+	WIFI_NETWORKS_SETTING_HEADER = "Wi-Fi Networks";
+
+	WIFI_NETWORK_NAME_SETTING_PREFIX = "Network Name: ";
+
+	DEVICE_PASSCODE_SETTING = "Device Passcode";
+	CUSTOM_PASSCODE_SETTING_PREFIX = "Custom: ";
+
+	ALL_PRINTS_DESCRIPTION = "All prints";
+	DEVICE_PASSCODE_DESCRIPTION = "Device passcode";
+	CUSTOM_PASSCODE_DESCRIPTION = "Custom passcode";
+	ACCESS_TYPE_DESCRIPTION_SEPARATOR = ", ";
+
+	CONNECTED_DEVICES_SETTING_HEADER = "Connected Devices";
+
+	VIBRATION_SETTING = "Vibration";
+	VIBRATION_EXPLANATION = "Vibrate upon receiving a passcode/fingerprint";
+
+	VIBRATION_TITLE = "Vibration";
+	VIBRATION_VALUE_0 = "No Vibration";
+	VIBRATION_VALUE_1 = "Only Upon Failure";
+	VIBRATION_VALUE_2 = "Only Upon Success";
+	VIBRATION_VALUE_3 = "Upon Either Success or Failure";
+
+	APP_SWITCHER_PRIVACY_SETTING = "App Switcher Privacy";
+	APP_SWITCHER_PRIVACY_EXPLANATION = "Adjust styling of locked apps in switcher";
+
+	APP_SWITCHER_PRIVACY_TITLE = "App Switcher Privacy";
+	APP_SWITCHER_PRIVACY_VALUE_0 = "Visible";
+	APP_SWITCHER_PRIVACY_VALUE_1 = "Blurred";
+	APP_SWITCHER_PRIVACY_VALUE_2 = "Black";
+	APP_SWITCHER_PRIVACY_VALUE_3 = "White";
+
+	LOCK_DEVICE_ON_FAIL_SETTING = "Lock Device On Cancel";
+	LOCK_DEVICE_ON_FAIL_EXPLANATION = "Adjust behavior of cancel button";
+	LOCK_DEVICE_ON_FAIL_TITLE = "Cancel Button Behavior";
+	LOCK_DEVICE_ON_FAIL_VALUE_0 = "Cancel locks device";
+	LOCK_DEVICE_ON_FAIL_VALUE_1 = "Cancel dismisses authentication prompt";
+
+	SHARE_THE_LOVE = "I'm using BioLockdown to protect access to my iPhone's apps, settings and switches!";
+
+	"feature:device-power-off" = "Power Off Device";
+	"feature:rearrange-icons" = "Rearrange Icons";
+	"feature:assistant" = "Siri";
+	"feature:spotlight" = "Spotlight";
+	"feature:answer-call" = "Answer Call";
+	"feature:place-call" = "Place Call";
+	"feature:app-switcher" = "App Switcher";
+	"feature:notification-center" = "Notification Center";
+	"feature:control-center" = "Control Center";
+}
