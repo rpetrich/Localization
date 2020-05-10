@@ -2,1099 +2,1469 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>(unknown)</key>
+	<string>(غير معروف)</string>
 	<key>ACTION</key>
-	<string>الادا</string>
+	<string>الإجراء</string>
 	<key>ACTION_BANNERS</key>
-	<string>شريط الإجراءت</string>
+	<string>إجراءات الشعارات</string>
 	<key>ACTION_BANNERS_ALWAYS</key>
-	<string>دائما</string>
+	<string>دائمًا</string>
 	<key>ACTION_BANNERS_NEVER</key>
-	<string>أبدا</string>
+	<string>أبدًا</string>
 	<key>ACTION_BANNERS_SHOW_WHEN_PERFORMING_AN_ACTION</key>
-	<string>اظهار عند تنفيذ الإجراء</string>
+	<string>عرض عند تنفيذ الإجراء</string>
 	<key>ACTION_BANNERS_TOGGLES_AND_SWITCHES</key>
-	<string>للازرار السريعة</string>
+	<string>لمفاتيح التبديل</string>
 	<key>ACTIVATED</key>
-	<string>تم تنشيطة</string>
+	<string>مُنشط</string>
 	<key>ACTIVATOR</key>
-	<string>التنشيط</string>
+	<string>Activator</string>
 	<key>ACTIVATOR_CORRUPT</key>
-	<string>ملفات معطوبة </string>
+	<string>أداة Activator تالفة</string>
 	<key>ACTIVATOR_CORRUPT_MESSAGE</key>
-	<string>معظم خصائص هذا البرنامج لا تعمل لان بعض ملفات البرنامج معطوبة، يرجى محاولة اعادة تثبيته من سيديا.</string>
+	<string>معظم مميزات Activator معطلة حاليًا لأن ملفات Activator الداخلية تبدو غير سليمة. جرب الذهاب إلى Cydia وإعادة تثبيت Activator.</string>
 	<key>ACTIVATOR_DISABLED</key>
-	<string>Activator لا يعمل </string>
+	<string>أداة Activator معطلة</string>
 	<key>ACTIVATOR_DISABLED_MESSAGE</key>
-	<string>معظم خصائص هذا البرنامج لا تعمل لان Mobile Substrate لا تعمل. اذا كان جهازك في الوضع الأمن سوف تجد كلمة الوضع الأمن او Exit Safe mode اضغط على الجملة واختر اعادة تشغيل او Restart لكي يتم استرجاع الجهاز الى الوضع الطبيعي .</string>
+	<string>معظم مميزات Activator معطلة حاليًا لأن Cydia Substrate لا تعمل. إذا كان جهازك في الوضع الآمن فسترى "Exit Safe Mode" أعلى الشاشة، اضغط عليها للخروج من الوضع الآمن والعودة إلى الوضع الطبيعي، أو اضغط على زر إعادة التشغيل أدناه لنفس الأمر.</string>
+	<key>ACTIVATOR_DISABLED_WITH_ROCKETS_MESSAGE</key>
+	<string>معظم مميزات Activator معطلة حاليًا نظرًا لأن Cydia Substrate أو RocketBootstrap لا تعمل. إذا كان جهازك في الوضع الآمن فسترى "Exit Safe Mode" أعلى الشاشة، اضغط عليها لتخرج من الوضع الآمن وتعود إلى الوضع الطبيعي، أو اضغط على زر إعادة التشغيل أدناه لنفس الأمر. بخلاف ذلك، حاول إعادة تثبيت Cydia Substrate أو RocketBootstrap من Cydia. إذا قمت بتعطيل أو إزالة أي عمليات تشغيل خفية، فقم باستعادتها للحصول على أفضل نتائج.</string>
 	<key>ADD</key>
-	<string>اضافة</string>
+	<string>إضافة</string>
 	<key>ADD_ACTION</key>
-	<string>اضافة أدا </string>
+	<string>إضافة إجراء</string>
 	<key>ADD_NEW_BOOKMARK</key>
-	<string>اضافة مفضلة جديدة</string>
+	<string>إضافة إشارة مرجعية جديدة</string>
 	<key>ADD_NEW_MENU</key>
-	<string>اضافة قائمة جديدة </string>
+	<string>إضافة قائمة جديدة</string>
 	<key>ADD_NEW_PROFILE</key>
-	<string>إضافة وضع جديد</string>
+	<string>إضافة ملف تعريف جديد</string>
 	<key>ALERT_CANCEL</key>
-	<string>الغاء</string>
+	<string>إلغاء</string>
 	<key>ALERT_IGNORE</key>
-	<string>تجاهل </string>
+	<string>تجاهل</string>
 	<key>ALERT_OK</key>
-	<string>موافق</string>
+	<string>حسنًا</string>
 	<key>ALERT_REASSIGN</key>
-	<string>اعادة تعيين</string>
+	<string>إعادة التعيين</string>
 	<key>ALERT_VALUE_AND</key>
 	<string>و</string>
 	<key>ALREADY_ASSIGNED_TO</key>
-	<string>تم تخصيصة مسبقآ ل %@</string>
+	<string>تم تعيينه بالفعل لـ
+%@</string>
 	<key>ANY_DAY_OF_THE_WEEK_LOWERCASE</key>
-	<string>أي يوم من أيام الأسبوع</string>
+	<string>أي يوم في الأسبوع</string>
+	<key>API_ACCESS_WARNING_FORMAT</key>
+	<string>يطلب %@ الإذن لإرسال الإجراءات وتعديل تعيينات الأحداث.</string>
+	<key>APPLICATIONS</key>
+	<string>التطبيقات</string>
+	<key>APPLICATION_KEYCHAIN_WARNING</key>
+	<string>إذا تم تعيين رمز دخول الجهاز، فإن التطبيقات التي تتضمن الوصول إلى بياناتها باستخدام التشفير (مثل تطبيق البريد) ستتطلب رمز الدخول لتعمل بشكل صحيح.</string>
+	<key>ASK_FOR_PASSCODE</key>
+	<string>طلب رمز الدخول</string>
+	<key>ASSIGN</key>
+	<string>تعيين</string>
 	<key>ASSIGNMENTS</key>
-	<string>تعيينات</string>
+	<string>التعيينات</string>
 	<key>ASSIGNMENTS_DETAIL</key>
-	<string>اظهار جميع تعيينات الاختصارات</string>
+	<string>نظرة عامة على كل تعيينات الأحداث</string>
+	<key>ASSIGNMENT_WARNING</key>
+	<string>تحذير بشأن التعيين</string>
+	<key>ASSIGN_AFTER_PAUSE</key>
+	<string>تعيين بعد الإيقاف المؤقت</string>
+	<key>ASSIGN_MULTIPLE</key>
+	<string>تعيين متعدد</string>
 	<key>AT_LEAST_ONE_ASSIGNMENT_REQUIRED</key>
-	<string>يجب تعيين على الاقل حالة واحدة ل %@</string>
+	<string>يجب أن يكون هناك حدث واحد على الأقل مخصص لـ %@</string>
 	<key>Advertisement</key>
-	<string>إعلانات </string>
+	<string>الإعلانات</string>
+	<key>App receives "touches cancelled" event</key>
+	<string>يتلقى التطبيق حدث "اللمسات الملغاة"</string>
+	<key>App receives subsequent touch events</key>
+	<string>يستقبل التطبيق أحداث اللمس اللاحقة</string>
 	<key>BACKUP_ASSIGNMENTS</key>
-	<string>حفظ التعيينات</string>
+	<string>نسخ التعيينات احتياطيًا</string>
 	<key>BACKUP_ASSIGNMENTS_DETAIL</key>
-	<string>تصدير التعيينات والقوائم</string>
+	<string>تصدير الحدث وقائمة التعيينات</string>
 	<key>BACKUP_RESTORE_ASSIGNMENT_FOOTER</key>
-	<string>يتم حفظ النسخة الاحتياطية في %@ ويتم حفظها عند عمل مزامنة مع الايتونز او الاي كلود</string>
+	<string>يتم تخزين النسخة الاحتياطية التي تم تصديرها في %@، ويتم نسخها احتياطيًا عند المزامنة مع الـ iTunes أو الـ iCloud.</string>
 	<key>BATTERY_LEVEL_CHARGES_PAST</key>
-	<string> مستوى شحن البطارية ارفع من %@%%</string>
+	<string>مستوى طاقة الشحن أكثر من %@%%</string>
 	<key>BATTERY_LEVEL_DRAINS_PAST</key>
-	<string> مستوى شحن البطارية اقل من %@%%</string>
+	<string>مستوى طاقة الشحن أقل من %@%%</string>
 	<key>BLACKLIST</key>
-	<string>القائمة السودا</string>
+	<string>القائمة السوداء</string>
 	<key>BLACKLIST_DETAIL</key>
-	<string>تجاهل الأحداث في تطبيقات معينة </string>
+	<string>تجاهل الأحداث في تطبيقات محددة</string>
 	<key>BOOKMARKS</key>
-	<string>المفضله</string>
+	<string>الإشارات المرجعية</string>
 	<key>BOOKMARKS_DETAIL</key>
-	<string>إدارة اعمال المفضلة المخصصة </string>
+	<string>إدارة إجراءات إشارة مرجعية مخصصة</string>
 	<key>BOOKMARK_DESCRIPTION_FORMAT</key>
 	<string>قم بزيارة %@</string>
 	<key>BOOKMARK_TITLE</key>
-	<string>عنوان المفضلة</string>
+	<string>عنوان الإشارة المرجعية</string>
 	<key>BOOKMARK_URL</key>
-	<string>رابط المفضلة </string>
+	<string>عنوان URL الإشارة المرجعية</string>
+	<key>BUILD</key>
+	<string>بناء</string>
+	<key>BUY</key>
+	<string>شراء</string>
+	<key>Build Actions</key>
+	<string>بناء إجراءات</string>
+	<key>Build Events</key>
+	<string>بناء أحداث</string>
 	<key>Build New Actions</key>
-	<string>انشاء اعمال جديدة</string>
+	<string>بناء إجراءات جديدة</string>
 	<key>Build New Events</key>
-	<string>انشاء أحداث جديدة</string>
+	<string>بناء أحداث جديدة</string>
 	<key>CANCEL</key>
-	<string>الغاء</string>
+	<string>إلغاء</string>
 	<key>CANT_DEACTIVATE_REMAINING</key>
-	<string>لا يمكن تعطيل الاحداث المتبقية 
-   </string>
+	<string>لا يمكن إلغاء تنشيط الحدث المتبقي</string>
+	<key>CANT_REMOVE_PAUSE_MESSAGE</key>
+	<string>ستؤدي إزالة هذا الإيقاف المؤقت إلى تنفيذ إجراءين غير متوافقين في نفس الوقت.</string>
+	<key>CANT_REMOVE_PAUSE_TITLE</key>
+	<string>لا يمكن إزالة الإيقاف المؤقت</string>
+	<key>CLEAR</key>
+	<string>مسح</string>
+	<key>COMMAND</key>
+	<string>أمر</string>
 	<key>CORRUPT_CANCEL</key>
-	<string>الغاء</string>
+	<string>إلغاء</string>
 	<key>CORRUPT_LAUNCH_CYDIA</key>
-	<string>فتح سيديا</string>
+	<string>تشغيل Cydia</string>
 	<key>CURRENTLY_ASSIGNED_TO</key>
-	<string>الان تم تخصيص ل:</string>
+	<string>معين حاليًا لـ:</string>
+	<key>Continue delivering touches</key>
+	<string>الاستمرار في إيصال اللمسات</string>
 	<key>Custom Actions</key>
-	<string>عمليات مخصصة</string>
+	<string>إجراءات مخصصة</string>
 	<key>Custom Events</key>
-	<string>تأثيرات مخصصة</string>
+	<string>أحداث مخصصة</string>
+	<key>DELETE</key>
+	<string>حذف</string>
+	<key>DENY ACCESS</key>
+	<string>منع الوصول</string>
 	<key>DISABLED</key>
-	<string>غير مفعل</string>
+	<string>تعطيل</string>
 	<key>DONATE</key>
-	<string>تبرع</string>
+	<string>التبرع</string>
 	<key>DONATE_DETAIL</key>
-	<string>تبرع عبر PayPal </string>
+	<string>المساهمة عبر PayPal</string>
 	<key>ENABLED</key>
-	<string>مفعل</string>
+	<string>تفعيل</string>
+	<key>EVENT_ASSIGNMENT_WARNING_FINGERPRINT</key>
+	<string>يتطلب تعيين بصمات أصابع محددة تكوين مستشعر Touch ID في جهازك في وضع مطابقة أبطأ وأكثر دقة. يؤدي ذلك إلى تقليل أداء وموثوقية اختصار إمكانية الوصول الافتراضي وتعيينات مستشعر بصمات الأصابع المحددة الأخرى في Activator.</string>
+	<key>EVENT_DESCRIPTION_com.rpetrich.riker.center</key>
+	<string>اضغط زر الوسط في منطقة إيماءة Riker</string>
+	<key>EVENT_DESCRIPTION_com.rpetrich.riker.left</key>
+	<string>اضغط الزر الأيسر في منطقة إيماءة Riker</string>
+	<key>EVENT_DESCRIPTION_com.rpetrich.riker.right</key>
+	<string>اضغط الزر الأيمن في منطقة إيماءة Riker</string>
 	<key>EVENT_DESCRIPTION_com.rpetrich.videopane.double-tap</key>
-	<string>الضغط مرتين على نافذة VideoPane النشطة</string>
+	<string>النقر مرتين على تنشيط VideoPane</string>
 	<key>EVENT_DESCRIPTION_libactivator.application-launch_FORMAT</key>
-	<string>يتم تشغيل التطبيق  %@</string>
+	<string>%@ تطبيق مُشغل</string>
+	<key>EVENT_DESCRIPTION_libactivator.car.connected</key>
+	<string>ملحق CarPlay متصل</string>
+	<key>EVENT_DESCRIPTION_libactivator.car.disconnected</key>
+	<string>ملحق CarPlay غير متصل</string>
 	<key>EVENT_DESCRIPTION_libactivator.clamshell.close</key>
-	<string>إغلاق غطاء الشاشة </string>
+	<string>إغلاق غطاء الشاشة الواقي</string>
 	<key>EVENT_DESCRIPTION_libactivator.clamshell.open</key>
-	<string>فتح غطاء الشاشة </string>
+	<string>فتح غطاء الشاشة الواقي</string>
 	<key>EVENT_DESCRIPTION_libactivator.device.locked</key>
-	<string>عند قفل الجهاز عن طريق زر التشغيل او انتهاء مهلة القفل</string>
+	<string>قفل الجهاز عبر زر السكون أو عند انتهاء الوقت</string>
 	<key>EVENT_DESCRIPTION_libactivator.device.unlocked</key>
-	<string>عند فتح القفل عن طريق السحب للفتح</string>
+	<string>فتح قفل الجهاز عبر السحب لفتح القفل</string>
 	<key>EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.left-to-right</key>
-	<string>سحب على طول حافة الشاشة من اليسار إلى اليمين</string>
+	<string>السحب على طول حافة الشاشة من اليسار لليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.drag-along.screen-bottom.right-to-left</key>
-	<string>سحب على طول حافة الشاشة من اليمين إلى اليسار</string>
+	<string>السحب على طول حافة الشاشة من اليمين لليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.drag-along.screen-left.bottom-to-top</key>
-	<string>سحب على طول حافة الشاشة من أسفل إلى أعلى</string>
+	<string>السحب على طول حافة الشاشة من الأسفل للأعلى</string>
 	<key>EVENT_DESCRIPTION_libactivator.drag-along.screen-left.top-to-bottom</key>
-	<string>سحب على طول حافة الشاشة من أعلى إلى أسفل</string>
+	<string>السحب على طول حافة الشاشة من الأعلى للأسفل</string>
 	<key>EVENT_DESCRIPTION_libactivator.drag-along.screen-right.bottom-to-top</key>
-	<string>سحب على طول حافة الشاشة من أسفل إلى أعلى</string>
+	<string>السحب على طول حافة الشاشة من الأسفل للأعلى</string>
 	<key>EVENT_DESCRIPTION_libactivator.drag-along.screen-right.top-to-bottom</key>
-	<string>سحب على طول حافة الشاشة من أعلى إلى أسفل</string>
+	<string>السحب على طول حافة الشاشة من الأعلى للأسفل</string>
 	<key>EVENT_DESCRIPTION_libactivator.drag-off.bottom</key>
-	<string>سحب خارج الشاشة إلى أسفل</string>
+	<string>السحب من خارج الشاشة إلى الأسفل</string>
 	<key>EVENT_DESCRIPTION_libactivator.drag-off.left</key>
-	<string>سحب خارج الشاشة إلى اليسار</string>
+	<string>السحب من خارج الشاشة إلى اليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.drag-off.right</key>
-	<string>سحب خارج الشاشة إلى اليمين</string>
+	<string>السحب من خارج الشاشة إلى اليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.drag-off.top</key>
-	<string>سحب خارج الشاشة إلى الأعلى</string>
+	<string>السحب من خارج الشاشة إلى الأعلى</string>
+	<key>EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold</key>
+	<string>اللمس مطولًا على مستشعر بصمات الأصابع</string>
+	<key>EVENT_DESCRIPTION_libactivator.fingerprint-sensor.hold-long</key>
+	<string>اللمس مطولًا على مستشعر بصمات الأصابع</string>
 	<key>EVENT_DESCRIPTION_libactivator.fingerprint-sensor.match_FORMAT</key>
-	<string>Recieve "%@" fingerprint match</string>
+	<string>تلقي تطابق بصمة "%@"</string>
 	<key>EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single</key>
-	<string>Touch fingerprint sensor once</string>
+	<string>لمس مستشعر بصمات الأصابع مرة واحدة</string>
+	<key>EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-hold</key>
+	<string>لمس مستشعر بصمات الأصابع مرتين مع الاستمرار</string>
+	<key>EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.single.with-slide-in</key>
+	<string>لمس مستشعر بصمات الأصابع والسحب على الشاشة</string>
+	<key>EVENT_DESCRIPTION_libactivator.fingerprint-sensor.press.twice</key>
+	<string>لمس مستشعر بصمات الأصابع مرتين</string>
 	<key>EVENT_DESCRIPTION_libactivator.five-finger.pinch</key>
-	<string>تجميع بخمس اصابع على الشاشة</string>
+	<string>التجميع على الشاشة بخمس أصابع</string>
 	<key>EVENT_DESCRIPTION_libactivator.five-finger.spread</key>
-	<string>تفريق بخمس اصابع على الشاشة</string>
+	<string>التفريق على الشاشة بخمس أصابع</string>
 	<key>EVENT_DESCRIPTION_libactivator.five-finger.tap</key>
-	<string>ضغط بخمس اصابع</string>
+	<string>الضغط على الشاشة بخمس أصابع</string>
+	<key>EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom</key>
+	<string>الضغط بقوة على الحافة السفلية الوسطى للشاشة</string>
+	<key>EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom-left</key>
+	<string>الضغط بقوة على الحافة السفلية اليسرى للشاشة</string>
+	<key>EVENT_DESCRIPTION_libactivator.force-touch.screen-bottom-right</key>
+	<string>الضغط بقوة على الحافة السفلية اليمنى للشاشة</string>
+	<key>EVENT_DESCRIPTION_libactivator.force-touch.screen-left</key>
+	<string>الضغط بقوة على الحافة اليسرى للشاشة</string>
+	<key>EVENT_DESCRIPTION_libactivator.force-touch.screen-right</key>
+	<string>الضغط بقوة على الحافة اليمنى للشاشة</string>
+	<key>EVENT_DESCRIPTION_libactivator.force-touch.statusbar</key>
+	<string>الضغط بقوة على شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.four-finger.pinch</key>
-	<string>تجميع باربع اصابع على الشاشة</string>
+	<string>التجميع على الشاشة بأربع أصابع</string>
 	<key>EVENT_DESCRIPTION_libactivator.four-finger.spread</key>
-	<string>تفريق باربع اصابع على الشاشة</string>
+	<string>التفريق على الشاشة بأربع أصابع</string>
 	<key>EVENT_DESCRIPTION_libactivator.four-finger.tap</key>
-	<string>ضغط باربع اصابع</string>
+	<string>الضغط على الشاشة بأربع أصابع</string>
 	<key>EVENT_DESCRIPTION_libactivator.headset-button.hold.short</key>
-	<string>ضغط باستمرار على زر السماعة </string>
+	<string>الضغط مطولًا على زر سماعة الرأس</string>
 	<key>EVENT_DESCRIPTION_libactivator.headset-button.press.single</key>
-	<string>ضغط زر السماعة مرة واحدة</string>
+	<string>الضغط على زر سماعة الرأس مرة واحدة</string>
 	<key>EVENT_DESCRIPTION_libactivator.headset.connected</key>
-	<string>عند توصيل السماعة للجهاز</string>
+	<string>توصيل سماعة الرأس بالجهاز</string>
 	<key>EVENT_DESCRIPTION_libactivator.headset.disconnected</key>
-	<string>عند فصل السماعة من الجهاز</string>
+	<string>فصل سماعة الرأس من الجهاز</string>
+	<key>EVENT_DESCRIPTION_libactivator.icon.3d-touch_FORMAT</key>
+	<string>لمس أيقونة %@ واجهة النظام بقوة</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.down</key>
-	<string>سحب ايقونات الشاشة الرئيسية للاسفل</string>
+	<string>تمرير أيقونات واجهة النظام للأسفل</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.down_FORMAT</key>
-	<string>سحب ايقونة %@ للاسفل</string>
+	<string>تمرير أيقونة %@ في واجهة النظام للأسفل</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.left</key>
-	<string>سحب ايقونات الشاشة الرئيسية لليسار</string>
+	<string>تمرير أيقونات واجهة النظام لليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.left_FORMAT</key>
-	<string>سحب ايقونة %@ لليسار</string>
+	<string>تمرير أيقونة %@ في واجهة النظام لليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.right</key>
-	<string>سحب ايقونات الشاشة الرئيسية لليمين</string>
+	<string>تمرير أيقونات واجهة النظام لليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.right_FORMAT</key>
-	<string>سحب ايقونة %@ لليمين</string>
+	<string>تمرير أيقونة %@ في واجهة النظام لليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.up</key>
-	<string>سحب ايقونات الشاشة الرئيسية للاعلى</string>
+	<string>تمرير أيقونات واجهة النظام للأعلى</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.flick.up_FORMAT</key>
-	<string>سحب ايقونة %@ للاعلى</string>
+	<string>تمرير أيقونة %@ في واجهة النظام لأعلى</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.hold_FORMAT</key>
-	<string>اضغط باستمرار على ايقونة %@ </string>
+	<string>الضغط مع الاستمرار على أيقونة %@ في واجهة النظام</string>
 	<key>EVENT_DESCRIPTION_libactivator.icon.tap.double_FORMAT</key>
-	<string>اضغط مرتين على ايقونة %@ </string>
+	<string>الضغط مرتين على أيقونة %@ في واجهة النظام</string>
 	<key>EVENT_DESCRIPTION_libactivator.lock.hold.long</key>
-	<string>الضغط لفترة طويلة على زر التشغيل</string>
+	<string>الضغط مع الاستمرار على زر السكون</string>
 	<key>EVENT_DESCRIPTION_libactivator.lock.hold.short</key>
-	<string>الضغط باستمرار زر التشغيل</string>
+	<string>الضغط مع الاستمرار على زر السكون</string>
 	<key>EVENT_DESCRIPTION_libactivator.lock.press.double</key>
-	<string>الضغط بسرعة على زر التشغيل مرتين</string>
+	<string>الضغط بسرعة على زر السكون مرتين</string>
 	<key>EVENT_DESCRIPTION_libactivator.lock.press.with-menu</key>
-	<string>الضغط على الاثنين الازرار في وقت واحد</string>
+	<string>الضغط على الزرين في نفس الوقت</string>
 	<key>EVENT_DESCRIPTION_libactivator.lockscreen.clock.double-tap</key>
-	<string>نقرتين متتالية على الساعة/ التاريخ </string>
+	<string>النقر مرتين على منطقة الوقت/التاريخ</string>
 	<key>EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-down</key>
-	<string>السحب للاسفل في منطقة الساعة / التاريخ</string>
+	<string>السحب للأسفل على منطقة الوقت/التاريخ</string>
 	<key>EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-left</key>
-	<string>السحب لليسار على منطقة الساعة / التاريخ</string>
+	<string>السحب لليسار على منطقة الوقت/التاريخ</string>
 	<key>EVENT_DESCRIPTION_libactivator.lockscreen.clock.swipe-right</key>
-	<string>السحب لليمين على منطقة الساعة / التاريخ</string>
+	<string>السحب لليمين على منطقة الوقت/التاريخ</string>
 	<key>EVENT_DESCRIPTION_libactivator.lockscreen.clock.tap-hold</key>
-	<string>ضغط متواصل على منطقة الساعة / التاريخ</string>
+	<string>نقرة واحدة مع الاستمرار على منطقة الوقت/التاريخ</string>
 	<key>EVENT_DESCRIPTION_libactivator.menu.hold.long</key>
-	<string>ضغط زر الهوم لفترة طويلة</string>
+	<string>الضغط مع الاستمرار على زر الرئيسية</string>
 	<key>EVENT_DESCRIPTION_libactivator.menu.hold.short</key>
-	<string>الضغط باستمرار زر الهوم</string>
+	<string>الضغط مع الاستمرار على زر الرئيسية</string>
 	<key>EVENT_DESCRIPTION_libactivator.menu.press.at-springboard</key>
-	<string>الضغط على زر الهوم وانت الشاشة الرئيسية</string>
+	<string>الضغط على زر الرئيسية عندما تكون في واجهة النظام</string>
 	<key>EVENT_DESCRIPTION_libactivator.menu.press.double</key>
-	<string>الضغط مرتين بسرعة على زر الهوم</string>
+	<string>الضغط على زر الرئيسية مرتين بسرعة</string>
 	<key>EVENT_DESCRIPTION_libactivator.menu.press.single</key>
-	<string>الضغط على زر الهوم مرة واحدة</string>
+	<string>الضغط على زر الرئيسية مرة واحدة</string>
 	<key>EVENT_DESCRIPTION_libactivator.menu.press.triple</key>
-	<string>الضغط على زر الهوم ثلاث مرات</string>
+	<string>الضغط على زر الرئيسية ثلاث مرات</string>
 	<key>EVENT_DESCRIPTION_libactivator.motion.shake</key>
-	<string>هز الجهاز</string>
+	<string>الهز فالفتح!</string>
 	<key>EVENT_DESCRIPTION_libactivator.network.joined-wifi</key>
-	<string>متصلة بأي شبكة واي فاي</string>
+	<string>الاتصال بأي شبكة Wi-Fi</string>
 	<key>EVENT_DESCRIPTION_libactivator.network.left-wifi</key>
-	<string>مفصول عن شبكة واي فاي</string>
+	<string>انقطاع الاتصال من شبكة الـ Wi-Fi</string>
+	<key>EVENT_DESCRIPTION_libactivator.now-playing.info-changed</key>
+	<string>استلام معلومات المسار المحدثة</string>
 	<key>EVENT_DESCRIPTION_libactivator.power.connected</key>
-	<string>عند بداية شحن الجهاز</string>
+	<string>البدء في تلقي طاقة A/C</string>
 	<key>EVENT_DESCRIPTION_libactivator.power.disconnected</key>
-	<string>عند توقف شحن الجهاز</string>
+	<string>التوقف عن تلقي طاقة A/C</string>
 	<key>EVENT_DESCRIPTION_libactivator.scheduled</key>
 	<string>مرور الوقت على %@</string>
+	<key>EVENT_DESCRIPTION_libactivator.scheduled.sunrise</key>
+	<string>دقيقة شروق الشمس</string>
+	<key>EVENT_DESCRIPTION_libactivator.scheduled.sunset</key>
+	<string>دقيقة غروب الشمس</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom</key>
-	<string>سحب الى الشاشة من الأسفل </string>
+	<string>السحب إلى الشاشة من الأسفل</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom-left</key>
-	<string>سحب الى الشاشة من الأسفل - يسار</string>
+	<string>السحب إلى الشاشة من أسفل اليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.bottom-right</key>
-	<string>سحب الى الشاشة من الأسفل - يمين</string>
+	<string>السحب إلى الشاشة من أسفل اليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.left</key>
-	<string>سحب الى الشاشة من اليسار</string>
+	<string>السحب إلى الشاشة من اليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.left-bottom</key>
-	<string>سحب الى الشاشة من اليسار- الاسفل</string>
+	<string>السحب إلى الشاشة من أسفل اليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.left-top</key>
-	<string>سحب الى الشاشة من اليسار- الاعلى</string>
+	<string>السحب إلى الشاشة من أعلى اليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.right</key>
-	<string>سحب الى الشاشة من اليمين</string>
+	<string>السحب إلى الشاشة من اليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.right-bottom</key>
-	<string>سحب الى الشاشة من اليمين- الاسفل</string>
+	<string>السحب إلى الشاشة من أسفل اليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.right-top</key>
-	<string>سحب الى الشاشة من اليمين- الاعلى</string>
+	<string>السحب إلى الشاشة من أعلى اليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.top-left</key>
-	<string>سحب الى الشاشة من الاعلى - يسار</string>
+	<string>السحب إلى الشاشة من أعلى اليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.slide-in.top-right</key>
-	<string>سحب الى الشاشة من الاعلى - يمين</string>
+	<string>السحب إلى الشاشة من أعلى اليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.springboard.pinch</key>
-	<string>تجميع الأيقونات باصبعين في الشاشة الرئيسية </string>
+	<string>التجميع على الشاشة بإصبعين</string>
 	<key>EVENT_DESCRIPTION_libactivator.springboard.spread</key>
-	<string>تفريق الأيقونات باصبعين في الشاشة الرئيسية </string>
+	<string>التفريق على الشاشة بإصبعين</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.hold</key>
-	<string>الضغط لفترة قصيرة على شريط المهام</string>
+	<string>الضغط مع الاستمرار على شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.hold.left</key>
-	<string>الضغط لفترة قصيرة على شريط المهام-الجزء الايسر</string>
+	<string>الضغط مع الاستمرار على الجزء الأيسر من شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.hold.right</key>
-	<string>الضغط لفترة قصيرة على شريط المهام-الجزء الايمن</string>
+	<string>الضغط مع الاستمرار على الجزء الأيمن من شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.swipe.down</key>
-	<string>سحب الى الشاشة من شريط المهام العلوي</string>
+	<string>السحب إلى الشاشة من شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.swipe.left</key>
-	<string>سحب الى اليسار في شريط المهام</string>
+	<string>النقر ثم السحب لليسار على شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.swipe.right</key>
-	<string>سحب الى اليمين في شريط المهام</string>
+	<string>التقر ثم السحب لليمين على شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.tap.double</key>
-	<string>ضغط مرتين على شريط المهام</string>
+	<string>النقر مرتين على شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.tap.double.left</key>
-	<string>ضغط مرتين على شريط المهام - الجزء الايسر</string>
+	<string>النقر مرتين على الجزء الأيسر من شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.tap.double.right</key>
-	<string>ضغط مرتين على شريط المهام - الجزء الايمن</string>
+	<string>النقر مرتين على الجزء الأيمن من شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.tap.single</key>
-	<string>الضغط مرة واحدة على شريط المهام</string>
+	<string>النقر مرة واحدة على شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.tap.single.left</key>
-	<string>الضغط مرة واحدة على شريط المهام-الجزء الايسر</string>
+	<string>النقر مرة واحدة على الجزء الأيسر من شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.statusbar.tap.single.right</key>
-	<string>الضغط مرة واحدة على شريط المهام-الجزء الايمن</string>
+	<string>النقر مرة واحدة على الجزء الأيمن من شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.three-finger.pinch</key>
-	<string>تجميع بثلاث اصابع على الشاشة</string>
+	<string>التجميع على الشاشة بثلاث أصابع</string>
 	<key>EVENT_DESCRIPTION_libactivator.three-finger.spread</key>
-	<string>تفريق بثلاث اصابع على الشاشة</string>
+	<string>التفريق على الشاشة بثلاث أصابع</string>
 	<key>EVENT_DESCRIPTION_libactivator.three-finger.tap</key>
-	<string>ضغط بثلاث اصابع</string>
+	<string>الضغط على الشاشة بثلاث أصابع</string>
 	<key>EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom</key>
-	<string>سحب الى الشاشة من الأسفل </string>
+	<string>السحب إلى الشاشة من الأسفل</string>
 	<key>EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-left</key>
-	<string>سحب الى الشاشة من الأسفل - يسار</string>
+	<string>السحب إلى الشاشة من أسفل اليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.two-finger-slide-in.bottom-right</key>
-	<string>سحب الى الشاشة من الأسفل - يمين</string>
+	<string>السحب إلى الشاشة من أسفل اليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left</key>
-	<string>سحب الى الشاشة من اليسار</string>
+	<string>السحب إلى الشاشة من اليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-bottom</key>
-	<string>سحب الى الشاشة من اليسار-الاسفل</string>
+	<string>السحب إلى الشاشة من أسفل اليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.two-finger-slide-in.left-top</key>
-	<string>سحب الى الشاشة من اليسار-الاعلى</string>
+	<string>السحب إلى الشاشة من أعلى اليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right</key>
-	<string>سحب الى الشاشة من اليمين</string>
+	<string>السحب إلى الشاشة من اليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-bottom</key>
-	<string>سحب الى الشاشة من اليمين-الاسفل</string>
+	<string>السحب إلى الشاشة من أسفل اليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.two-finger-slide-in.right-top</key>
-	<string>سحب الى الشاشة من اليمين-الاعلى</string>
+	<string>الشحب إلى الشاشة من أعلى اليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top</key>
-	<string>سحب الى الشاشة من شريط المهام</string>
+	<string>السحب إلى الشاشة من شريط الحالة</string>
 	<key>EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-left</key>
-	<string>سحب الى الشاشة من الاعلى - يسار</string>
+	<string>السحب إلى الشاشة من أعلى اليسار</string>
 	<key>EVENT_DESCRIPTION_libactivator.two-finger-slide-in.top-right</key>
-	<string>سحب الى الشاشة من الاعلى - يمين</string>
+	<string>السحب إلى الشاشة من أعلى اليمين</string>
 	<key>EVENT_DESCRIPTION_libactivator.volume.both.press</key>
-	<string>الضغط على الزريين في وقت واحد</string>
+	<string>الضغط على الزرين في نفس الوقت</string>
 	<key>EVENT_DESCRIPTION_libactivator.volume.display-tap</key>
-	<string>ضغط رمز مكبر الصوت عند تغيير مستوى الصوت</string>
+	<string>النقر على واجهة الصوت المنبثقة</string>
 	<key>EVENT_DESCRIPTION_libactivator.volume.down-up</key>
-	<string>ضغط زر الصوت الأسفل ثم الاعلى</string>
+	<string>الضغط على زر خفض مستوى الصوت، ثم زر رفعه</string>
 	<key>EVENT_DESCRIPTION_libactivator.volume.down.hold.short</key>
-	<string>ضغط باستمرار زر الصوت الأسفل </string>
+	<string>الضغط مع الاستمرار على زر الخفض</string>
 	<key>EVENT_DESCRIPTION_libactivator.volume.down.press</key>
-	<string>ضغط زر الصوت الأسفل </string>
+	<string>الضغط على زر خفض مستوى الصوت</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.down.press.with-menu</key>
+	<string>الضغط على الزرين في نفس الوقت</string>
 	<key>EVENT_DESCRIPTION_libactivator.volume.mute</key>
-	<string>تشغيل زر الصامت</string>
+	<string>قلب مبدل الرنين إلى وضع الإيقاف</string>
 	<key>EVENT_DESCRIPTION_libactivator.volume.toggle-mute-twice</key>
-	<string>تشغيل وإغلاق زر الصامت او العكس</string>
+	<string>قلب مبدل الرنين تشغيل/إيقاف ثم العودة</string>
 	<key>EVENT_DESCRIPTION_libactivator.volume.unmute</key>
-	<string>إغلاق زر الصامت</string>
+	<string>قلب مبدل الرنين إلى وضع التشغيل</string>
 	<key>EVENT_DESCRIPTION_libactivator.volume.up-down</key>
-	<string>ضغط زر الصوت الاعلى ثم الأسفل </string>
+	<string>الضغط على زر رفع مستوى الصوت، ثم زر خفضه</string>
 	<key>EVENT_DESCRIPTION_libactivator.volume.up.hold.short</key>
-	<string>الضغط باستمرار على زر الصوت الاعلى</string>
+	<string>الضغط مع الاستمرار على زر الرفع</string>
 	<key>EVENT_DESCRIPTION_libactivator.volume.up.press</key>
-	<string>ضغط زر الصوت الاعلى</string>
+	<string>الضغط على زر رفع مستوى الصوت</string>
+	<key>EVENT_DESCRIPTION_libactivator.volume.up.press.with-menu</key>
+	<string>الضغط على الزرين في نفس الوقت</string>
+	<key>EVENT_DESCRIPTION_libactivator.watch.connected</key>
+	<string>عند اكتشاف الاتصال بساعة</string>
+	<key>EVENT_DESCRIPTION_libactivator.watch.disconnected</key>
+	<string>عند اكتشاف فقدان الاتصال بالساعة</string>
+	<key>EVENT_GROUP_TITLE_3D Touch</key>
+	<string>3D Touch</string>
+	<key>EVENT_GROUP_TITLE_Apple Watch</key>
+	<string>Apple Watch</string>
 	<key>EVENT_GROUP_TITLE_Application Launched</key>
-	<string>تشغيل التطبيق</string>
+	<string>التطبيقات المشغلة</string>
 	<key>EVENT_GROUP_TITLE_Audio</key>
-	<string>صوت</string>
+	<string>الصوت</string>
 	<key>EVENT_GROUP_TITLE_Battery Level</key>
 	<string>مستوى البطارية</string>
 	<key>EVENT_GROUP_TITLE_Bluetooth Devices</key>
-	<string>أجهزة بلوتوث</string>
+	<string>أجهزة الـ Bluetooth</string>
+	<key>EVENT_GROUP_TITLE_Car</key>
+	<string>السيارة</string>
 	<key>EVENT_GROUP_TITLE_Device</key>
 	<string>الجهاز</string>
+	<key>EVENT_GROUP_TITLE_Fingerprint Matches</key>
+	<string>تطابق بصمات أصابع Touch ID</string>
 	<key>EVENT_GROUP_TITLE_Fingerprint Sensor</key>
-	<string>مستشعر البصمة</string>
+	<string>مستشعر بصمات أصابع Touch ID</string>
 	<key>EVENT_GROUP_TITLE_Headset</key>
-	<string>السماعة السلكية</string>
+	<string>سماعة الرأس اللاسلكية</string>
 	<key>EVENT_GROUP_TITLE_Home Button</key>
-	<string>زر الهوم (الزر الرئيسي)</string>
+	<string>زر الرئيسية</string>
 	<key>EVENT_GROUP_TITLE_Lock Screen</key>
 	<string>شاشة القفل</string>
+	<key>EVENT_GROUP_TITLE_Media Playback</key>
+	<string>مشغل الوسائط</string>
 	<key>EVENT_GROUP_TITLE_Motion</key>
 	<string>الحركة</string>
 	<key>EVENT_GROUP_TITLE_Multi-Touch Gesture</key>
-	<string>اختصارات اللمس المتعدد</string>
+	<string>إيماءة اللمس المتعدد</string>
 	<key>EVENT_GROUP_TITLE_Network Status</key>
 	<string>حالة الشبكة</string>
 	<key>EVENT_GROUP_TITLE_Power</key>
 	<string>الطاقة</string>
 	<key>EVENT_GROUP_TITLE_Received Email</key>
-	<string>تلقي بريد إلكتروني</string>
+	<string>استلام بريد إلكتروني</string>
 	<key>EVENT_GROUP_TITLE_Received Message</key>
-	<string>تلقي رسالة</string>
+	<string>استلام رسالة</string>
+	<key>EVENT_GROUP_TITLE_Riker</key>
+	<string>Riker</string>
 	<key>EVENT_GROUP_TITLE_Scheduled</key>
-	<string>تم ادراج الجدول</string>
+	<string>مجدول</string>
 	<key>EVENT_GROUP_TITLE_Settings</key>
-	<string>الإعدادات </string>
+	<string>الإعدادات</string>
 	<key>EVENT_GROUP_TITLE_Sleep Button</key>
-	<string>زر وضع الاستعداد (زر التشغيل)</string>
+	<string>زر السكون</string>
 	<key>EVENT_GROUP_TITLE_Slide Along Screen Bottom</key>
-	<string>السحب على طول أسفل الشاشة</string>
+	<string>طول حافة أسفل الشاشة</string>
 	<key>EVENT_GROUP_TITLE_Slide Along Screen Left</key>
-	<string>السحب على طول يسار الشاشة</string>
+	<string>طول حافة يسار الشاشة</string>
 	<key>EVENT_GROUP_TITLE_Slide Along Screen Right</key>
-	<string>السحب على طول يمين الشاشة</string>
+	<string>طول حافة يمين الشاشة</string>
 	<key>EVENT_GROUP_TITLE_Slide In Gesture</key>
-	<string>اختصارات السحب الى الشاشة</string>
+	<string>إيماءات السحب إلى الداخل</string>
 	<key>EVENT_GROUP_TITLE_Slide Out Gesture</key>
-	<string>اختصارات السحب الى خارج الشاشة</string>
+	<string>إيماءات السحب من الخارج</string>
 	<key>EVENT_GROUP_TITLE_Smart Cover</key>
-	<string>الغلاف الذكي</string>
+	<string>الغطاء الذكي</string>
 	<key>EVENT_GROUP_TITLE_SpringBoard</key>
-	<string>الشاشة الرئيسية (سبرينج بورد)</string>
+	<string>واجهة النظام</string>
 	<key>EVENT_GROUP_TITLE_Status Bar</key>
-	<string>شريط المهام (شريط الحاله العلوي)</string>
-	<key>EVENT_GROUP_TITLE_Switches</key>
-	<string>الازرار</string>
-	<key>EVENT_GROUP_TITLE_Switches (Activate)</key>
-	<string>الازرار (تنشيط)</string>
-	<key>EVENT_GROUP_TITLE_Switches (Deactivate)</key>
-	<string>الازرار (تعطيل)</string>
+	<string>شريط الحالة</string>
 	<key>EVENT_GROUP_TITLE_Two Finger Slide In Gesture</key>
-	<string>السحب الى الشاشة باصبعين</string>
+	<string>إيماءة السحب بإصبعين من الداخل</string>
 	<key>EVENT_GROUP_TITLE_VideoPane</key>
 	<string>VideoPane</string>
 	<key>EVENT_GROUP_TITLE_Volume Buttons</key>
-	<string>أزرار الصوت الجانبية</string>
+	<string>أزرار الصوت</string>
+	<key>EVENT_TITLE_com.rpetrich.riker.center</key>
+	<string>زر الوسط</string>
+	<key>EVENT_TITLE_com.rpetrich.riker.left</key>
+	<string>الزر الأيسر</string>
+	<key>EVENT_TITLE_com.rpetrich.riker.right</key>
+	<string>الزر الأيمن</string>
 	<key>EVENT_TITLE_com.rpetrich.videopane.double-tap</key>
-	<string>ضغط مرتين على النافذة</string>
+	<string>جزء النقر مرتين</string>
 	<key>EVENT_TITLE_libactivator.application-launch_FORMAT</key>
 	<string>تشغيل %@</string>
+	<key>EVENT_TITLE_libactivator.car.connected</key>
+	<string>متصل</string>
+	<key>EVENT_TITLE_libactivator.car.disconnected</key>
+	<string>غير متصل</string>
 	<key>EVENT_TITLE_libactivator.clamshell.close</key>
-	<string>اغلاق الغلاف</string>
+	<string>إغلاق الغطاء</string>
 	<key>EVENT_TITLE_libactivator.clamshell.open</key>
-	<string>فتح الغلاف</string>
+	<string>فتح الغطاء</string>
 	<key>EVENT_TITLE_libactivator.device.locked</key>
-	<string>قفل</string>
+	<string>القفل</string>
 	<key>EVENT_TITLE_libactivator.device.unlocked</key>
 	<string>فتح القفل</string>
 	<key>EVENT_TITLE_libactivator.drag-along.screen-bottom.left-to-right</key>
-	<string>سحب من اليسار إلى اليمين</string>
+	<string>السحب من اليسار لليمين</string>
 	<key>EVENT_TITLE_libactivator.drag-along.screen-bottom.right-to-left</key>
-	<string>سحب من اليمين إلى اليسار</string>
+	<string>السحب من اليمين لليسار</string>
 	<key>EVENT_TITLE_libactivator.drag-along.screen-left.bottom-to-top</key>
-	<string>سحب من الأسفل  إلى الأعلى </string>
+	<string>السحب من الأسفل للأعلى</string>
 	<key>EVENT_TITLE_libactivator.drag-along.screen-left.top-to-bottom</key>
-	<string>سحب من الأعلى إلى الأسفل</string>
+	<string>السحب من الأعلى للأسفل</string>
 	<key>EVENT_TITLE_libactivator.drag-along.screen-right.bottom-to-top</key>
-	<string>سحب من الأسفل  إلى الأعلى </string>
+	<string>السحب من الأسفل للأعلى</string>
 	<key>EVENT_TITLE_libactivator.drag-along.screen-right.top-to-bottom</key>
-	<string>سحب من الأعلى إلى الأسفل</string>
+	<string>السحب من الأعلى للأسفل</string>
 	<key>EVENT_TITLE_libactivator.drag-off.bottom</key>
-	<string>سحب خارج الشاشة إلى أسفل</string>
+	<string>أسفل الشاشة</string>
 	<key>EVENT_TITLE_libactivator.drag-off.left</key>
-	<string>سحب خارج الشاشة إلى اليسار</string>
+	<string>يسار الشاشة</string>
 	<key>EVENT_TITLE_libactivator.drag-off.right</key>
-	<string>سحب خارج الشاشة إلى اليمين</string>
+	<string>يمين الشاشة</string>
 	<key>EVENT_TITLE_libactivator.drag-off.top</key>
-	<string>سحب خارج الشاشة إلى الاعلى</string>
+	<string>أعلى الشاشة</string>
+	<key>EVENT_TITLE_libactivator.fingerprint-sensor.hold</key>
+	<string>الضغطة القصيرة</string>
+	<key>EVENT_TITLE_libactivator.fingerprint-sensor.hold-long</key>
+	<string>الضغطة الطويلة</string>
 	<key>EVENT_TITLE_libactivator.fingerprint-sensor.press.single</key>
-	<string>ضغطة واحدة</string>
+	<string>الضغط لمرة واحدة</string>
+	<key>EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-hold</key>
+	<string>الضغط لمرة واحدة مع الاستمرار</string>
+	<key>EVENT_TITLE_libactivator.fingerprint-sensor.press.single.with-slide-in</key>
+	<string>الضغط لمرة واحدة ثم التمرير لأعلى</string>
+	<key>EVENT_TITLE_libactivator.fingerprint-sensor.press.twice</key>
+	<string>الضغط مرتين</string>
 	<key>EVENT_TITLE_libactivator.five-finger.pinch</key>
-	<string>تجميع بخمس اصابع</string>
+	<string>التجميع بخمس أصابع</string>
 	<key>EVENT_TITLE_libactivator.five-finger.spread</key>
-	<string>تفريق بخمس اصابع</string>
+	<string>التفريق بخمس أصابع</string>
 	<key>EVENT_TITLE_libactivator.five-finger.tap</key>
-	<string>ضغط بخمس اصابع</string>
+	<string>الضغط بخمس أصابع</string>
+	<key>EVENT_TITLE_libactivator.force-touch.screen-bottom</key>
+	<string>أسفل منتصف الشاشة</string>
+	<key>EVENT_TITLE_libactivator.force-touch.screen-bottom-left</key>
+	<string>أسفل يسار الشاشة</string>
+	<key>EVENT_TITLE_libactivator.force-touch.screen-bottom-right</key>
+	<string>أسفل يمين الشاشة</string>
+	<key>EVENT_TITLE_libactivator.force-touch.screen-left</key>
+	<string>حافة يسار الشاشة</string>
+	<key>EVENT_TITLE_libactivator.force-touch.screen-right</key>
+	<string>حافة يمين الشاشة</string>
+	<key>EVENT_TITLE_libactivator.force-touch.statusbar</key>
+	<string>شريط الحالة</string>
 	<key>EVENT_TITLE_libactivator.four-finger.pinch</key>
-	<string>تجميع باربع اصابع</string>
+	<string>التحميع بأربع أصابع</string>
 	<key>EVENT_TITLE_libactivator.four-finger.spread</key>
-	<string>تفريق بخمس اصابع</string>
+	<string>التفريق بأربع أصابع</string>
 	<key>EVENT_TITLE_libactivator.four-finger.tap</key>
-	<string>ضغط باربع اصابع</string>
+	<string>الضغط بأربع أصابع</string>
 	<key>EVENT_TITLE_libactivator.headset-button.hold.short</key>
-	<string>الضغط لفترة قصيرة</string>
+	<string>ضغطة زر قصيرة</string>
 	<key>EVENT_TITLE_libactivator.headset-button.press.single</key>
-	<string>الضغط مرة واحدة</string>
+	<string>الضغط على الزر مرة واحدة</string>
 	<key>EVENT_TITLE_libactivator.headset.connected</key>
-	<string>عند التوصيل</string>
+	<string>متصل</string>
 	<key>EVENT_TITLE_libactivator.headset.disconnected</key>
-	<string>عند الفصل</string>
+	<string>غير متصل</string>
+	<key>EVENT_TITLE_libactivator.icon.3d-touch_FORMAT</key>
+	<string>%@ أيقونات 3D Touch</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.down</key>
-	<string>سحب الايقونات للاسفل</string>
+	<string>تمرير الأيقونة لأسفل</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.down_FORMAT</key>
-	<string>سحب ايقونة %@ للاسفل</string>
+	<string>تمرير أيقونة %@ لأسفل</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.left</key>
-	<string>سحب الايقونات لليسار</string>
+	<string>تمرير الأيقونة لليسار</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.left_FORMAT</key>
-	<string>سحب ايقونة %@ لليسار</string>
+	<string>تمرير أيقونة %@ لليسار</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.right</key>
-	<string>سحب الايقونات لليمين</string>
+	<string>تمرير الأيقونة لليمين</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.right_FORMAT</key>
-	<string>سحب ايقونة %@ لليمين</string>
+	<string>تمرير أيقونة %@ لليمين</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.up</key>
-	<string>سحب الايقونات للاعلى</string>
+	<string>تمرير الأيقونة لأعلى</string>
 	<key>EVENT_TITLE_libactivator.icon.flick.up_FORMAT</key>
-	<string>سحب ايقونة %@ للاعلى</string>
+	<string>تمرير أيقونة %@ لأعلى</string>
 	<key>EVENT_TITLE_libactivator.icon.hold_FORMAT</key>
-	<string> ضغط مطول على ايقونة %@</string>
+	<string>الضغط على أيقونة %@</string>
 	<key>EVENT_TITLE_libactivator.icon.tap.double_FORMAT</key>
-	<string> ضغط مرتين على ايقونة %@</string>
+	<string>النقر على أيقونة %@ مرتين</string>
 	<key>EVENT_TITLE_libactivator.lock.hold.long</key>
-	<string>ضغط مطول</string>
+	<string>الضغط لفترة طويلة</string>
 	<key>EVENT_TITLE_libactivator.lock.hold.short</key>
-	<string>ضغط لفترة قصيرة</string>
+	<string>الضغط لفترة قصيرة</string>
 	<key>EVENT_TITLE_libactivator.lock.press.double</key>
 	<string>الضغط مرتين</string>
 	<key>EVENT_TITLE_libactivator.lock.press.with-menu</key>
-	<string>ضغط مع زر القائمة</string>
+	<string>الضغط مع زر القائمة</string>
 	<key>EVENT_TITLE_libactivator.lockscreen.clock.double-tap</key>
-	<string>ضغط مرتين على الساعة</string>
+	<string>النقر على الوقت مرتين</string>
 	<key>EVENT_TITLE_libactivator.lockscreen.clock.swipe-down</key>
-	<string>سحب الساعة للاسفل</string>
+	<string>سحب الوقت لأسفل</string>
 	<key>EVENT_TITLE_libactivator.lockscreen.clock.swipe-left</key>
-	<string>سحب الساعة لليسار</string>
+	<string>سحب الوقت لليسار</string>
 	<key>EVENT_TITLE_libactivator.lockscreen.clock.swipe-right</key>
-	<string>سحب الساعة لليمين</string>
+	<string>سحب الوقت لليمين</string>
 	<key>EVENT_TITLE_libactivator.lockscreen.clock.tap-hold</key>
-	<string>ضغط باستمرار على الساعة</string>
+	<string>النقر على الوقت مع الاستمرار</string>
 	<key>EVENT_TITLE_libactivator.menu.hold.long</key>
 	<string>الضغط لفترة طويلة</string>
 	<key>EVENT_TITLE_libactivator.menu.hold.short</key>
 	<string>الضغط لفترة قصيرة</string>
 	<key>EVENT_TITLE_libactivator.menu.press.at-springboard</key>
-	<string>ضغطه واحدة من الشاشة الرئيسية </string>
+	<string>الضغط لمرة واحدة في واجهة النظام</string>
 	<key>EVENT_TITLE_libactivator.menu.press.double</key>
-	<string>ضغط مرتين</string>
+	<string>الضغط مرتين</string>
 	<key>EVENT_TITLE_libactivator.menu.press.single</key>
-	<string>ضغطة واحدة فقط</string>
+	<string>الضغط لمرة واحدة</string>
 	<key>EVENT_TITLE_libactivator.menu.press.triple</key>
-	<string>ضغط ثلاث مرات</string>
+	<string>الضغط ثلاث مرات</string>
 	<key>EVENT_TITLE_libactivator.motion.shake</key>
 	<string>هز الجهاز</string>
 	<key>EVENT_TITLE_libactivator.network.joined-wifi</key>
-	<string>ارتباط بالواي فاي</string>
+	<string>الانضمام إلى شبكة Wi-Fi</string>
 	<key>EVENT_TITLE_libactivator.network.left-wifi</key>
-	<string>الانقطاع من الواي فاي</string>
+	<string>مغادرة شبكة الـ Wi-Fi</string>
+	<key>EVENT_TITLE_libactivator.now-playing.info-changed</key>
+	<string>تغير المسار الحالي</string>
 	<key>EVENT_TITLE_libactivator.power.connected</key>
 	<string>متصل</string>
 	<key>EVENT_TITLE_libactivator.power.disconnected</key>
 	<string>غير متصل</string>
+	<key>EVENT_TITLE_libactivator.scheduled.sunrise</key>
+	<string>شروق الشمس</string>
+	<key>EVENT_TITLE_libactivator.scheduled.sunset</key>
+	<string>غروب الشمس</string>
 	<key>EVENT_TITLE_libactivator.slide-in.bottom</key>
-	<string>من اسفل الشاشة</string>
+	<string>من أسفل الشاشة</string>
 	<key>EVENT_TITLE_libactivator.slide-in.bottom-left</key>
-	<string>من اسفل الشاشة - يسار</string>
+	<string>من أسفل يسار الشاشة</string>
 	<key>EVENT_TITLE_libactivator.slide-in.bottom-right</key>
-	<string>من اسفل الشاشة - يمين</string>
+	<string>من أسفل يمين الشاشة</string>
 	<key>EVENT_TITLE_libactivator.slide-in.left</key>
-	<string>من يسار الشاشة </string>
+	<string>من يسار الشاشة</string>
 	<key>EVENT_TITLE_libactivator.slide-in.left-bottom</key>
-	<string>من يسار الشاشة_ الجزء الاسفل</string>
+	<string>من أسفل يسار الشاشة</string>
 	<key>EVENT_TITLE_libactivator.slide-in.left-top</key>
-	<string>من يسار الشاشة_ الجزء الاعلى</string>
+	<string>من أعلى يسار الشاشة</string>
 	<key>EVENT_TITLE_libactivator.slide-in.right</key>
 	<string>من يمين الشاشة</string>
 	<key>EVENT_TITLE_libactivator.slide-in.right-bottom</key>
-	<string>من يمين الشاشة_ الجزء الاسفل</string>
+	<string>من أسفل يمين الشاشة</string>
 	<key>EVENT_TITLE_libactivator.slide-in.right-top</key>
-	<string>من يمين الشاشة_ الجزء الاعلى</string>
+	<string>من أعلى يمين الشاشة</string>
 	<key>EVENT_TITLE_libactivator.slide-in.top-left</key>
-	<string>من اعلى الشاشة - يسار </string>
+	<string>من أعلى يسار الشاشة</string>
 	<key>EVENT_TITLE_libactivator.slide-in.top-right</key>
-	<string>من اعلى الشاشة يمين</string>
+	<string>من أعلى يمين الشاشة</string>
 	<key>EVENT_TITLE_libactivator.springboard.pinch</key>
-	<string>تجميع الأيقونات </string>
+	<string>تجميع الأيقونات</string>
 	<key>EVENT_TITLE_libactivator.springboard.spread</key>
-	<string>تفريق الأيقونات </string>
+	<string>تفريق الأيقونات</string>
 	<key>EVENT_TITLE_libactivator.statusbar.hold</key>
-	<string>باستمرار </string>
+	<string>الضغط</string>
 	<key>EVENT_TITLE_libactivator.statusbar.hold.left</key>
-	<string>ضغط لفترة قصيرة في اليسار</string>
+	<string>الضغط يسارًا</string>
 	<key>EVENT_TITLE_libactivator.statusbar.hold.right</key>
-	<string>ضغط لفترة قصيرة في اليمين</string>
+	<string>الضغط يمينًا</string>
 	<key>EVENT_TITLE_libactivator.statusbar.swipe.down</key>
-	<string>من اعلى الشاشة </string>
+	<string>من أعلى الشاشة</string>
 	<key>EVENT_TITLE_libactivator.statusbar.swipe.left</key>
-	<string>سحب لليسار </string>
+	<string>السحب لليسار</string>
 	<key>EVENT_TITLE_libactivator.statusbar.swipe.right</key>
-	<string>سحب لليمين </string>
+	<string>السحب لليمين</string>
 	<key>EVENT_TITLE_libactivator.statusbar.tap.double</key>
-	<string>ضغط مرتين </string>
+	<string>النقر مرتين</string>
 	<key>EVENT_TITLE_libactivator.statusbar.tap.double.left</key>
-	<string>ضغط مرتين- اليسار</string>
+	<string>النقر مرتين يسارًا</string>
 	<key>EVENT_TITLE_libactivator.statusbar.tap.double.right</key>
-	<string>ضغط مرتين- اليمين</string>
+	<string>النقر مرتين يمينًا</string>
 	<key>EVENT_TITLE_libactivator.statusbar.tap.single</key>
-	<string>ضغط مرة واحدة فقط</string>
+	<string>النقر مرة واحدة</string>
 	<key>EVENT_TITLE_libactivator.statusbar.tap.single.left</key>
-	<string>ضغطة واحدة - اليسار</string>
+	<string>النقر مرة واحدة يسارًا</string>
 	<key>EVENT_TITLE_libactivator.statusbar.tap.single.right</key>
-	<string>ضغطة واحدة - اليمين</string>
+	<string>النقر مرة واحدة يمينًا</string>
 	<key>EVENT_TITLE_libactivator.three-finger.pinch</key>
-	<string>تجميع بثلاث اصابع</string>
+	<string>التجميع بثلاث أصابع</string>
 	<key>EVENT_TITLE_libactivator.three-finger.spread</key>
-	<string>تفريق بثلاث اصابع</string>
+	<string>التفريق بثلاث أصابع</string>
 	<key>EVENT_TITLE_libactivator.three-finger.tap</key>
-	<string>ضغط بثلاث اصابع</string>
+	<string>الضغط بثلاث أصابع</string>
 	<key>EVENT_TITLE_libactivator.two-finger-slide-in.bottom</key>
-	<string>من اسفل الشاشة </string>
+	<string>من أسفل الشاشة</string>
 	<key>EVENT_TITLE_libactivator.two-finger-slide-in.bottom-left</key>
-	<string>من اسفل الشاشة - يسار</string>
+	<string>من أسفل يسار الشاشة</string>
 	<key>EVENT_TITLE_libactivator.two-finger-slide-in.bottom-right</key>
-	<string>من اسفل الشاشة - يمين</string>
+	<string>من أسفل يمين الشاشة</string>
 	<key>EVENT_TITLE_libactivator.two-finger-slide-in.left</key>
-	<string>من يسار الشاشة </string>
+	<string>من يسار الشاشة</string>
 	<key>EVENT_TITLE_libactivator.two-finger-slide-in.left-bottom</key>
-	<string>من يسار الشاشة- الجزء الاسفل</string>
+	<string>من أسفل يسار الشاشة</string>
 	<key>EVENT_TITLE_libactivator.two-finger-slide-in.left-top</key>
-	<string>من يسار الشاشة- الجزء الاعلى</string>
+	<string>من أعلى يسار الشاشة</string>
 	<key>EVENT_TITLE_libactivator.two-finger-slide-in.right</key>
 	<string>من يمين الشاشة</string>
 	<key>EVENT_TITLE_libactivator.two-finger-slide-in.right-bottom</key>
-	<string>من يمين الشاشة-الجزء الاسفل</string>
+	<string>من أسفل يمين الشاشة</string>
 	<key>EVENT_TITLE_libactivator.two-finger-slide-in.right-top</key>
-	<string>من يمين الشاشة-الجزء الاعلى</string>
+	<string>من أعلى يمين الشاشة</string>
 	<key>EVENT_TITLE_libactivator.two-finger-slide-in.top</key>
-	<string>من اعلى الشاشة </string>
+	<string>من أعلى الشاشة</string>
 	<key>EVENT_TITLE_libactivator.two-finger-slide-in.top-left</key>
-	<string>من اعلى الشاشة - يسار </string>
+	<string>من أعلى يسار الشاشة</string>
 	<key>EVENT_TITLE_libactivator.two-finger-slide-in.top-right</key>
-	<string>من اعلى الشاشة - يمين </string>
+	<string>من أعلى يمين الشاشة</string>
 	<key>EVENT_TITLE_libactivator.volume.both.press</key>
-	<string>ضغط الاثنين معا بعض</string>
+	<string>الضغط على الاثنين</string>
 	<key>EVENT_TITLE_libactivator.volume.display-tap</key>
-	<string>ضغط ايقونة العرض </string>
+	<string>نقرة العرض</string>
 	<key>EVENT_TITLE_libactivator.volume.down-up</key>
-	<string>اسفل ، اعلى</string>
+	<string>خفض، رفع</string>
 	<key>EVENT_TITLE_libactivator.volume.down.hold.short</key>
-	<string>الأسفل لفترة قصيرة</string>
+	<string>الضغط على الخفض لفترة قصيرة</string>
 	<key>EVENT_TITLE_libactivator.volume.down.press</key>
-	<string>ضغط الأسفل </string>
+	<string>الضغط على الخفض</string>
+	<key>EVENT_TITLE_libactivator.volume.down.press.with-menu</key>
+	<string>الضغط مع خفض الصوت</string>
 	<key>EVENT_TITLE_libactivator.volume.mute</key>
-	<string>وضع الصامت </string>
+	<string>إيقاف مبدل الرنين</string>
 	<key>EVENT_TITLE_libactivator.volume.toggle-mute-twice</key>
-	<string>ضغط زر الصامت مرتين</string>
+	<string>تبديل الرنين مرتين</string>
 	<key>EVENT_TITLE_libactivator.volume.unmute</key>
-	<string>الغاء وضع الصامت </string>
+	<string>تشغيل مبدل الرنين</string>
 	<key>EVENT_TITLE_libactivator.volume.up-down</key>
-	<string>الاعلى ، الأسفل </string>
+	<string>رفع، خفض</string>
 	<key>EVENT_TITLE_libactivator.volume.up.hold.short</key>
-	<string>الاعلى لفترة قصيرة </string>
+	<string>الضغط على الرفع لفترة قصيرة</string>
 	<key>EVENT_TITLE_libactivator.volume.up.press</key>
-	<string>ضغط الزر الاعلى</string>
+	<string>الضغط على الرفع</string>
+	<key>EVENT_TITLE_libactivator.volume.up.press.with-menu</key>
+	<string>الضغط مع رفع الصوت</string>
+	<key>EVENT_TITLE_libactivator.watch.connected</key>
+	<string>متصل</string>
+	<key>EVENT_TITLE_libactivator.watch.disconnected</key>
+	<string>غير متصل</string>
 	<key>FAILED_TO_OPEN_SETTINGS_FILE</key>
-	<string>فشل في فتح ملف الاعدادات لحفظها</string>
+	<string>فشل في فتح ملف الإعدادات للكتابة</string>
 	<key>FAILED_TO_WRITE_SETTINGS_FILE</key>
-	<string>فشل في حفظ التالي الى ملف الاعدادات: </string>
+	<string>فشلت الكتابة لملف الإعدادات:</string>
+	<key>GRANT ACCESS</key>
+	<string>منح الوصول</string>
+	<key>IF_ACTIVATED_WHILE_PASSCODE_LOCKED</key>
+	<string>إذا تم التنشيط أثناء قفل رمز الدخول</string>
+	<key>INCOMPATIBLE_ASSIGNMENT</key>
+	<string>تعيين غير متوافق</string>
+	<key>INCOMPATIBLE_WARNING_BOTH_PLURAL</key>
+	<string>%@ غير متوافق مع %@ و %@.
+سيتم تعيينه لـ %@ و %@ فقط.</string>
+	<key>INCOMPATIBLE_WARNING_COMPATIBLE_PLURAL</key>
+	<string>%@ غير متوافق مع %@.
+سيتم تعيينه لـ %@ و %@ فقط.</string>
+	<key>INCOMPATIBLE_WARNING_INCOMPATIBLE_PLURAL</key>
+	<string>%@ غير متوافق مع %@ و %@.
+سيتم تعيينه لـ %@ فقط.</string>
+	<key>INCOMPATIBLE_WARNING_NEITHER_PLURAL</key>
+	<string>%@ غير متوافق مع %@.
+سيتم تعيينه لـ %@ فقط.</string>
+	<key>INSTALL</key>
+	<string>تثبيت</string>
 	<key>IN_CYDIA_WARNING</key>
-	<string>قد تشكل خطر عند محاوله استخدام الاختصارات في نفس الوقت الذي يتم فيه تثبيت برامج من السيديا</string>
+	<string>تنفيذ الإجراءات أثناء تثبيت Cydia للبرمجيات قد يكون أمرًا خطيرًا.</string>
+	<key>JUST_ONE_LISTENER_ASSIGNMENT</key>
+	<string>فقط %@</string>
+	<key>LISTENER_DESCRIPTION_SETTINGS_FORMAT</key>
+	<string>فتح الإعدادات لصفحة %@</string>
 	<key>LISTENER_DESCRIPTION_application</key>
-	<string>تفعيل تطبيق</string>
+	<string>تنشيط التطبيق</string>
+	<key>LISTENER_DESCRIPTION_application_shortcut_FORMAT</key>
+	<string>تنشيط اختصار تطبيق %@</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.activoice.apps</key>
-	<string>تفعيل قائمة تطبيقات جوجل</string>
+	<string>تنشيط قائمة تطبيقات Google</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.activoice.goggles</key>
-	<string>تفعيل ميزة تطبيق goggles</string>
+	<string>تنشيط ميزة نظارات Google</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.activoice.search</key>
-	<string>تفعيل بحث جوجل النصي</string>
+	<string>تنشيط بحث Google النصي</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.activoice.voice</key>
-	<string>تفعيل بحث جوجل الصوتي</string>
+	<string>تنشيط بحث Google الصوتي</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.smartclose</key>
-	<string>اغلاق التطبيقات التي في الخلفية، بطريقة ذكية</string>
+	<string>إغلاق تطبيقات الخلفية، بالطريقة الذكية</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.superscroller.autodown</key>
-	<string>تحريك مستمر لأسفل الشاشة</string>
+	<string>التمرير المستمر للأسفل</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.superscroller.autoup</key>
-	<string>تحريك مستمر لأعلى الشاشة</string>
+	<string>التمرير المستمر للأعلى</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.superscroller.down</key>
-	<string>تحريك الى الصفحة التالية </string>
+	<string>تمرير صفحة واحدة للأسفل</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.superscroller.up</key>
-	<string>تحريك الى الصفحة السابقة </string>
+	<string>تمرير صفحة واحدة للأعلى</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.videopane.destroy-pane</key>
-	<string>اغلاق نافذة  VideoPane الحالية</string>
+	<string>إنهاء VideoPane الحالي</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.videopane.detach-pane</key>
-	<string>فصل الفيديو الحالي إلى نافذة</string>
+	<string>فصل الفيديو الحالي إلى جزء</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.videopane.pause-playback</key>
-	<string>تعليق تشغيل VideoPane </string>
+	<string>إيقاف مشغل VideoPane</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.videopane.ressurect-pane</key>
-	<string>اظهار اخر نافذة تم تشغيلها عبر VideoPane</string>
+	<string>إحياء أحدث VideoPane</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.videopane.resume-playback</key>
-	<string>استئناف تشغيل VideoPane</string>
+	<string>استئناف مشغل VideoPane</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-fullscreen</key>
-	<string>تشغيل ملئ الشاشة لـ  VideoPane</string>
+	<string>تبديل ملء الشاشة لـ VideoPane</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-playback</key>
-	<string>تشغيل  VideoPane</string>
+	<string>تبديل مشغل VideoPane</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.videopane.toggle-transparency</key>
-	<string>تشغيل الشفافية لنافذة VideoPane النشطة</string>
+	<string>تبديل تنشيط شفافية VideoPane</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.voicekeys</key>
-	<string>تشغيل/إيقاف الأوامر الصوتية</string>
+	<string>بدء/إيقاف التعرف على الصوت</string>
 	<key>LISTENER_DESCRIPTION_com.rpetrich.voicememotoggle</key>
-	<string>تفعيل تسجيل مذكرة صوتية</string>
+	<string>تبديل تسجيل مذكرة صوتية</string>
 	<key>LISTENER_DESCRIPTION_libactivator.assistant.ask_FORMAT</key>
-	<string>اجعل سيري تجيب على سؤال</string>
+	<string>الطلب من Siri الإجابة على سؤال</string>
 	<key>LISTENER_DESCRIPTION_libactivator.audio.decrease-volume</key>
-	<string>خفض الصوت درجة واحدة</string>
+	<string>خفض مستوى الصوت بخطوة واحدة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.audio.increase-volume</key>
-	<string>رفع الصوت درجة واحدة</string>
+	<string>رفع مستوى الصوت بخطوة واحدة</string>
+	<key>LISTENER_DESCRIPTION_libactivator.audio.launch-playing-app</key>
+	<string>فتح التطبيق الذي يقوم بتشغيل الصوت حاليًا</string>
+	<key>LISTENER_DESCRIPTION_libactivator.audio.reset-ringer-state</key>
+	<string>تعيين حالة الرنين إلى مطابقة زر المبدل</string>
 	<key>LISTENER_DESCRIPTION_libactivator.audio.show-volume-bar</key>
-	<string>إظهار شريط مستوى الصوت</string>
+	<string>إظهار شريط الصوت</string>
+	<key>LISTENER_DESCRIPTION_libactivator.audio.volume.media_FORMAT</key>
+	<string>تعيين مستوى صوت الوسائط إلى %@%% من الحد الأقصى</string>
+	<key>LISTENER_DESCRIPTION_libactivator.audio.volume.ringer_FORMAT</key>
+	<string>تعيين مستوى صوت الرنين إلى %@%% من الحد الأقصى</string>
 	<key>LISTENER_DESCRIPTION_libactivator.audio.volume_FORMAT</key>
-	<string>ضبط مستوى الصوت الاقصى الى %@%%</string>
+	<string>تعيين الصوت إلى %@%% من الحد الأقصى</string>
 	<key>LISTENER_DESCRIPTION_libactivator.call</key>
-	<string>اتصال</string>
+	<string>الاتصال</string>
 	<key>LISTENER_DESCRIPTION_libactivator.camera.invoke-shutter</key>
-	<string>اخذ صورة عن طريق الكاميرا</string>
+	<string>فتح تطبيق الكاميرا</string>
+	<key>LISTENER_DESCRIPTION_libactivator.clock.alarm</key>
+	<string>فتح تطبيق الساعة على صفحة المنبه</string>
+	<key>LISTENER_DESCRIPTION_libactivator.clock.bedtime</key>
+	<string>فتح تطبيق الساعة على صفحة وقت النوم</string>
+	<key>LISTENER_DESCRIPTION_libactivator.clock.stopwatch</key>
+	<string>فتح تطبيق الساعة على صفحة ساعة الإيقاف</string>
+	<key>LISTENER_DESCRIPTION_libactivator.clock.timer</key>
+	<string>فتح تطبيق الساعة على صفحة المؤقت</string>
+	<key>LISTENER_DESCRIPTION_libactivator.clock.world-clock</key>
+	<string>فتح تطبيق الساعة على صفحة الساعة العالمية</string>
 	<key>LISTENER_DESCRIPTION_libactivator.facebook.compose-post</key>
-	<string>فتح نافذة الفيسبوك</string>
+	<string>تشغيل نمط مؤلف فيسبوك</string>
 	<key>LISTENER_DESCRIPTION_libactivator.ipod.music-controls</key>
-	<string>إظهار الذي يتم تشغيله الان</string>
+	<string>عرض نافذة ما يجرِ تشغيله المنبثقة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.ipod.next-track</key>
-	<string>الانتقال الى مقطع الصوت التالي </string>
+	<string>التخطي إلى الأغنية التالية</string>
 	<key>LISTENER_DESCRIPTION_libactivator.ipod.pause-playback</key>
-	<string>إيقاف موقت لتشغيل الايبود</string>
+	<string>إيقاف مشغل iPod</string>
 	<key>LISTENER_DESCRIPTION_libactivator.ipod.previous-track</key>
-	<string>الانتقال الى مقطع الصوت السابق</string>
+	<string>العودة إلى الأغنية السابقة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.ipod.resume-playback</key>
-	<string>مواصلة تشغيل الايبود</string>
+	<string>استئناف مشغل iPod</string>
 	<key>LISTENER_DESCRIPTION_libactivator.ipod.toggle-playback</key>
-	<string>تفعيل ميزة اعادة التشغيل في الايبود</string>
+	<string>تبديل مشغل iPod</string>
 	<key>LISTENER_DESCRIPTION_libactivator.keyboard.dictation</key>
-	<string>تنشيط النطق لإدخال النص</string>
+	<string>الإملاء في حقل النص النشط</string>
 	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.dismiss</key>
 	<string>تجاهل شاشة القفل</string>
 	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.show</key>
-	<string>إظهار شاشة القفل </string>
+	<string>إظهار شاشة القفل</string>
 	<key>LISTENER_DESCRIPTION_libactivator.lockscreen.toggle</key>
-	<string>إظهار/ إخفاء شاشة القفل</string>
+	<string>تبديل إظهار شاشة القفل</string>
 	<key>LISTENER_DESCRIPTION_libactivator.mail</key>
 	<string>البريد</string>
 	<key>LISTENER_DESCRIPTION_libactivator.mail.compose-message</key>
-	<string>فتح نافذة انشاء ايميل</string>
+	<string>تشغيل نمط مؤلف البريد الإلكتروني</string>
 	<key>LISTENER_DESCRIPTION_libactivator.message.show_FORMAT</key>
-	<string>اظهار رسالة تنبيه مخصصة</string>
+	<string>إظهار رسالة تنبيه مخصصة</string>
+	<key>LISTENER_DESCRIPTION_libactivator.notes.compose-note</key>
+	<string>تشغيل نمط مؤلف الملاحظات</string>
+	<key>LISTENER_DESCRIPTION_libactivator.phone.answer-call</key>
+	<string>الرد على المكالمة الواردة أو استئناف المكالمة المعلقة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.phone.contacts</key>
-	<string>فتح تطبيق الهاتف الى دفتر الهاتف</string>
+	<string>تشغيل تطبيق الهاتف على تبويب جهات الاتصال</string>
+	<key>LISTENER_DESCRIPTION_libactivator.phone.disconnect-call</key>
+	<string>قطع الاتصال على المكالمة النشطة أو الواردة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.phone.favorites</key>
-	<string>فتح تطبيق الهاتف الى المفضلة</string>
+	<string>تشغيل تطبيق الهاتف على تبويب المفضلة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.phone.keypad</key>
-	<string>فتح تطبيق الهاتف الى شاشة ادخال رقم الاتصال</string>
+	<string>تشغيل تطبيق الهاتف على تبويب لوحة المفاتيح</string>
 	<key>LISTENER_DESCRIPTION_libactivator.phone.recents</key>
-	<string>فتح تطبيق الهاتف الى المكالمات الاخيرة</string>
+	<string>تشغيل تطبيق الهاتف على تبويب الحديثة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.phone.voicemail</key>
-	<string>فتح تطبيق الهاتف الى البريد الصوتي </string>
+	<string>تشغيل تطبيق الهاتف على تبويب البريد الصوتي</string>
 	<key>LISTENER_DESCRIPTION_libactivator.ringtone</key>
-	<string>تشغيل النغمة</string>
+	<string>تشغيل نغمة الرنين</string>
+	<key>LISTENER_DESCRIPTION_libactivator.screen.brightness.decrease</key>
+	<string>تقليل سطوع الشاشة بخطوة واحدة</string>
+	<key>LISTENER_DESCRIPTION_libactivator.screen.brightness.increase</key>
+	<string>زيادة سطوع الشاشة بخطوة واحدة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.screen.brightness_FORMAT</key>
-	<string>ضبط مستوى سطوع الشاشة الاقصى الى %@%%</string>
+	<string>تعيين السطوع إلى %@%% من الحد الأقصى</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.about</key>
-	<string>فتح الإعدادات الى حول</string>
+	<string>فتح الإعدادات لصفحة حول</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.accessibility</key>
-	<string>فتح الإعدادات الى </string>
+	<string>فتح الإعدادات لصفحة إمكانية الوصول</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.auto-lock</key>
-	<string>فتح الإعدادات الى قفل تلقائي </string>
+	<string>فتح الإعدادات لصفحة القفل التلقائي</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.background-app-refresh</key>
+	<string>فتح الإعدادات لصفحة تحديث التطبيقات في الخلفية</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.battery</key>
+	<string>فتح الإعدادات لصفحة البطارية</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.bluetooth</key>
-	<string>فتح الإعدادات الى بلوتوث</string>
+	<string>فتح الإعدادات لصفحة الـ Bluetooth</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.brightness</key>
-	<string>فتح الإعدادات الى السطوع </string>
+	<string>فتح الإعدادات لصفحة الإضاءة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.brightness-and-wallpaper</key>
-	<string>فتح الإعدادات إلى  السطوع / الخلفية</string>
+	<string>فتح الإعدادات لصفحة خلفية الشاشة</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.carplay</key>
+	<string>فتح الإعدادات لصفحة CarPlay</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.cellular</key>
-	<string>فتح الإعدادات إلى  الخلوي</string>
+	<string>فتح الإعدادات لصفحة البيانات الخلوية</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.control-center</key>
+	<string>فتح الإعدادات لصفحة مركز التحكم</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.date-time</key>
-	<string>فتح الإعدادات الى التاريخ والوقت </string>
+	<string>فتح الإعدادات لصفحة الوقت والتاريخ</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.display</key>
+	<string>فتح الإعدادات لصفحة شاشة العرض والإضاءة</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.do-not-disturb</key>
+	<string>فتح الإعدادات لصفحة عدم الإزعاج</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.equalizer</key>
-	<string>فتح الإعدادات الى موازن الصوت</string>
+	<string>فتح الإعدادات لصفحة الموازن</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.facebook</key>
+	<string>فتح الإعدادات لصفحة فيسبوك</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.facetime</key>
-	<string>فتح الإعدادات الى فيس تايم</string>
+	<string>فتح الإعدادات لصفحة FaceTime</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.game-center</key>
+	<string>فتح الإعدادات لصفحة Game Center</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.general</key>
-	<string>فتح الإعدادات الى عام</string>
+	<string>فتح الإعدادات لصفحة عام</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.handoff</key>
+	<string>فتح الإعدادات لصفحة Handoff</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.icloud</key>
-	<string>فتح الإعدادات الى iCloud </string>
+	<string>فتح الإعدادات لصفحة iCloud</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.international</key>
-	<string>فتح الإعدادات الى دولي </string>
+	<string>فتح الإعدادات لصفحة اللغة والمنطقة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.keyboard</key>
-	<string>فتح الإعدادات الى الكيبورد</string>
+	<string>فتح الإعدادات لصفحة لوحة المفاتيح</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.location-services</key>
-	<string>فتح الإعدادات الى خدمات الموقع</string>
+	<string>فتح الإعدادات لصفحة خدمات الموقع</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.mail</key>
+	<string>فتح الإعدادات لصفحة الحسابات</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.managed-configuration</key>
+	<string>فتح الإعدادات لصفحة إدارة الجهاز</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.maps</key>
+	<string>فتح الإعدادات لصفحة الخرائط</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.messages</key>
+	<string>فتح الإعدادات لصفحة الرسائل</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.music</key>
-	<string>فتح الإعدادات الى الموسيقى</string>
+	<string>فتح الإعدادات لصفحة الموسيقى</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.network</key>
-	<string>فتح الإعدادات الى الشبكة</string>
+	<string>فتح الإعدادات لصفحة الشبكة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.notes</key>
-	<string>فتح الإعدادات الى الملاحظات </string>
+	<string>فتح الإعدادات لصفحة الملاحظات</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.notifications</key>
-	<string>فتح الإعدادات الى الإشعارات</string>
+	<string>فتح الإعدادات لصفحة الإشعارات</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.passcode</key>
+	<string>فتح الإعدادات لصفحة Touch ID ورمز الدخول</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.phone</key>
-	<string>فتح الإعدادات الى الهاتف </string>
+	<string>فتح الإعدادات لصفحة الهاتف</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.photos</key>
-	<string>فتح الإعدادات الى الصور </string>
+	<string>فتح الإعدادات لصفحة الصور</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.privacy</key>
+	<string>فتح الإعدادات لصفحة الخصوصية</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.reminders</key>
+	<string>فتح الإعدادات لصفحة التذكيرات</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.safari</key>
-	<string>فتح الإعدادات الى سفاري </string>
+	<string>فتح الإعدادات لصفحة Safari</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.sounds</key>
-	<string>فتح الإعدادات الى الأصوات </string>
+	<string>فتح الإعدادات لصفحة الأصوات</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.store</key>
-	<string>فتح الإعدادات الى Store</string>
+	<string>فتح الإعدادات لصفحة المتجر</string>
+	<key>LISTENER_DESCRIPTION_libactivator.settings.tethering</key>
+	<string>فتح الإعدادات لصفحة نقطة اتصال شخصية</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.twitter</key>
-	<string>فتح الإعدادات الى تويتر</string>
+	<string>فتح الإعدادات لصفحة تويتر</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.usage</key>
-	<string>فتح الإعدادات الى الاستعمال </string>
+	<string>فتح الإعدادات لصفحة مساحة التخزين</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.virtual-assistant</key>
-	<string>فتح الإعدادات الى سيري </string>
+	<string>فتح الإعدادات لصفحة Siri</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.vpn</key>
-	<string>فتح الإعدادات الى VPN</string>
+	<string>فتح الإعدادات لصفحة الـ VPN</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.wallpaper</key>
-	<string>فتح الإعدادات الى خلفية الشاشة</string>
+	<string>فتح الإعدادات لصفحة خلفية الشاشة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.settings.wifi</key>
-	<string>فتح الإعدادات الى وأي فاي</string>
+	<string>فتح الإعدادات لصفحة الـ Wi-Fi</string>
 	<key>LISTENER_DESCRIPTION_libactivator.sms.compose-message</key>
-	<string>فتح نافذة انشاء رسالة قصيرة</string>
+	<string>تشغيل نمط مؤلف الرسالة النصية</string>
 	<key>LISTENER_DESCRIPTION_libactivator.speech.synthesize_FORMAT</key>
-	<string>جعل الجهاز يتكلم نص مخصص</string>
+	<string>طلب نطق نص مخصص من الجهاز</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.activate-control-center</key>
-	<string>اظهار إعدادات مركز التحكم </string>
+	<string>إظهار إعدادات مركز التحكم</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.activate-notification-center</key>
-	<string>إظهار مركز الاشعارات </string>
+	<string>سحب مركز الإشعارات للأسفل</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.activate-reachability</key>
+	<string>استخدام ميزة تسهيل الوصول</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.activate-switcher</key>
-	<string>إظهار البرامج التي تعمل في الخلفية</string>
+	<string>إظهار مبدل التطبيقات</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.back</key>
+	<string>العودة لشاشة واحدة</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.clear-switcher</key>
+	<string>إزالة كل التطبيقات من المبدل</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.first-springboard-page</key>
-	<string>الانتقال الى الصفحة الاولى من البرامج</string>
+	<string>الانتقال إلى الصفحة الأولى من الأيقونات</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.haptic.flick</key>
+	<string>تبديل نقرة Taptic Engine</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.haptic.quirk</key>
+	<string>تبديل حدة Taptic Engine</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.haptic.tap</key>
+	<string>تبديل ضغطة Taptic Engine</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.homebutton</key>
-	<string>ضغط زر الهوم</string>
+	<string>محاكاة الضغط على زر الرئيسية</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.local-back</key>
+	<string>الرجوع لشاشة واحدة في التطبيق الحالي</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.nothing</key>
-	<string>تعدي العمل الاصلي</string>
+	<string>إيقاف الإجراء الأصلي</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.power-menu</key>
+	<string>إظهار واجهة إيقاف التشغيل</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.powerdown</key>
-	<string>إيقاف تشغيل الجهاز </string>
+	<string>إيقاف تشغيل الجهاز فورًا</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.reboot</key>
-	<string>اعادة تشغيل الجهاز </string>
+	<string>إعادة تشغيل الجهاز فورًا</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.respring</key>
-	<string>اعادة تشغيل الشاشة الرئيسية </string>
+	<string>إعادة تشغيل واجهة النظام بصورة طبيعية</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.safemode</key>
-	<string>اعادة تشغيل الشاشة الرئيسية في الوضع الأمن </string>
+	<string>إعادة تشغيل واجهة النظام في الوضع الآمن</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.show-now-playing-bar</key>
-	<string>إظهار تحكم الميديا العادي</string>
+	<string>إظهار عناصر التحكم الأساسية في الوسائط</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.sleepbutton</key>
-	<string>ضغط زر التشغيل </string>
+	<string>محاكاة الضغط على زر النوم</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.spotlight</key>
-	<string>الذهاب الى صفحة البحث في الشاشة الرئيسية </string>
+	<string>تنشيط صفحة بحث واجهة النظام</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.take-screenshot</key>
-	<string>حفظ محتويات الشاشة الى صورة</string>
+	<string>حفظ محتويات الشاشة للصور</string>
+	<key>LISTENER_DESCRIPTION_libactivator.system.vibrate</key>
+	<string>تبديل اهتزاز الجهاز</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.virtual-assistant</key>
-	<string>تشغيل سيري </string>
+	<string>تنشيط Siri</string>
 	<key>LISTENER_DESCRIPTION_libactivator.system.voice-control</key>
-	<string>تفعيل الأوامر الصوتية</string>
+	<string>تنشيط التحكم الصوتي</string>
 	<key>LISTENER_DESCRIPTION_libactivator.text</key>
 	<string>رسالة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.twitter.compose-tweet</key>
-	<string>فتح نص تويتر جديد</string>
+	<string>تنشيط نمط مؤلف التغريدة</string>
+	<key>LISTENER_DESCRIPTION_libactivator.watch.haptic.tap</key>
+	<string>تبديل نقرة Taptic Engine الخاصة بالساعة</string>
 	<key>LISTENER_DESCRIPTION_libactivator.weibo.compose-post</key>
-	<string>فتح نافذة انشاء Weibo</string>
+	<string>تنشيط نمط مؤلف Weibo</string>
 	<key>LISTENER_DESCRIPTION_profile</key>
-	<string>تفعيل الوضع</string>
+	<string>تنشيط ملف التعريف</string>
+	<key>LISTENER_DESCRIPTION_switch-action</key>
+	<string>تنشيط إجراء التبديل</string>
 	<key>LISTENER_DESCRIPTION_switch-flip</key>
-	<string> تفعيل / تعطيل الزر </string>
+	<string>تنشيط/إلغاء تنشيط التبديل</string>
 	<key>LISTENER_DESCRIPTION_switch-off</key>
-	<string>تعطيل الزر</string>
+	<string>إلغاء تنشيط التبديل</string>
 	<key>LISTENER_DESCRIPTION_switch-on</key>
-	<string> تفعيل الزر </string>
+	<string>تنشيط التبديل</string>
 	<key>LISTENER_DESCRIPTION_toggle</key>
-	<string>تشغيل/إغلاق الزر</string>
+	<string>تنشيط/إلغاء تنشيط المبدل</string>
 	<key>LISTENER_DESCRIPTION_toggle_disable</key>
-	<string>تعطيل الزر</string>
+	<string>إلغاء تنشيط المبدل</string>
 	<key>LISTENER_DESCRIPTION_toggle_enable</key>
-	<string>تفعيل الزر</string>
+	<string>تنشيط المبدل</string>
 	<key>LISTENER_GROUP_TITLE_Activoice</key>
-	<string>تفعيل الصوت</string>
+	<string>تنشيط</string>
+	<key>LISTENER_GROUP_TITLE_Application Shortcuts</key>
+	<string>اختصارات التطبيقات</string>
 	<key>LISTENER_GROUP_TITLE_Ask Siri</key>
-	<string>أسأل سيري</string>
+	<string>اسأل Siri</string>
 	<key>LISTENER_GROUP_TITLE_Audio</key>
-	<string>صوت</string>
+	<string>الصوت</string>
 	<key>LISTENER_GROUP_TITLE_Camera</key>
 	<string>الكاميرا</string>
+	<key>LISTENER_GROUP_TITLE_Clock</key>
+	<string>الساعة</string>
+	<key>LISTENER_GROUP_TITLE_Color Profiles</key>
+	<string>لون ملفات التعريف</string>
 	<key>LISTENER_GROUP_TITLE_Contacts</key>
 	<string>جهات الاتصال</string>
 	<key>LISTENER_GROUP_TITLE_Fingerprint Sensor</key>
-	<string>مستشعر البصمة</string>
+	<string>مستشعر بصمات الأصابع</string>
 	<key>LISTENER_GROUP_TITLE_Lock Screen</key>
 	<string>شاشة القفل</string>
 	<key>LISTENER_GROUP_TITLE_Message Alert</key>
-	<string>رسالة تنبيه</string>
+	<string>تنبيه الرسائل</string>
 	<key>LISTENER_GROUP_TITLE_Phone</key>
-	<string>الهاتف </string>
+	<string>الهاتف</string>
 	<key>LISTENER_GROUP_TITLE_Power</key>
 	<string>الطاقة</string>
 	<key>LISTENER_GROUP_TITLE_Profiles</key>
-	<string>الاوضاع</string>
+	<string>ملفات التعريف</string>
 	<key>LISTENER_GROUP_TITLE_Ringtones</key>
 	<string>النغمات</string>
+	<key>LISTENER_GROUP_TITLE_Run Command</key>
+	<string>تشغيل أمر</string>
 	<key>LISTENER_GROUP_TITLE_SBSettings Toggles</key>
-	<string>SBSettings أزرار </string>
+	<string>المبدلات</string>
 	<key>LISTENER_GROUP_TITLE_SBSettings Toggles (Disable)</key>
-	<string>الازرار- تعطيل</string>
+	<string>المبدلات (تعطيل)</string>
 	<key>LISTENER_GROUP_TITLE_SBSettings Toggles (Enable)</key>
-	<string>الازرار- تفعيل</string>
+	<string>المبدلات (تفعيل)</string>
 	<key>LISTENER_GROUP_TITLE_Screen Brightness</key>
 	<string>سطوع الشاشة</string>
+	<key>LISTENER_GROUP_TITLE_Settings</key>
+	<string>الإعدادات</string>
 	<key>LISTENER_GROUP_TITLE_Sharing</key>
 	<string>المشاركة</string>
 	<key>LISTENER_GROUP_TITLE_Speech Synthesis</key>
-	<string>تأثير بالكلام</string>
+	<string>اصطناع الكلام</string>
 	<key>LISTENER_GROUP_TITLE_SuperScroller</key>
-	<string>SuperScroller</string>
+	<string>التمرير الفائق</string>
 	<key>LISTENER_GROUP_TITLE_Switches</key>
-	<string>الازرار</string>
+	<string>مفاتيح التبديل</string>
 	<key>LISTENER_GROUP_TITLE_Switches (Activate)</key>
-	<string>الازرار (تنشيط)</string>
+	<string>مفاتيح التبديل (تنشيط)</string>
 	<key>LISTENER_GROUP_TITLE_Switches (Deactivate)</key>
-	<string>الازرار (تعطيل)</string>
+	<string>مفاتيح التبديل (إلغاء التنشيط)</string>
 	<key>LISTENER_GROUP_TITLE_System Actions</key>
-	<string>اعمال النظام</string>
+	<string>إجراءات النظام</string>
 	<key>LISTENER_GROUP_TITLE_System Applications</key>
-	<string>تطبيقات النظام </string>
+	<string>تطبيقات النظام</string>
 	<key>LISTENER_GROUP_TITLE_User Applications</key>
-	<string>تطبيقات المستخدم </string>
+	<string>تطبيقات المستخدم</string>
+	<key>LISTENER_GROUP_TITLE_Vibration</key>
+	<string>الاهتزاز</string>
 	<key>LISTENER_GROUP_TITLE_VideoPane</key>
 	<string>VideoPane</string>
 	<key>LISTENER_GROUP_TITLE_Web Clips</key>
-	<string>فيديوهات ويب</string>
+	<string>مقاطع الويب</string>
 	<key>LISTENER_GROUP_TITLE_iPod</key>
-	<string>اي بود</string>
+	<string>iPod</string>
 	<key>LISTENER_TITLE_com.rpetrich.activoice.apps</key>
-	<string>تطبيقات جوجل</string>
+	<string>تطبيقات Google</string>
 	<key>LISTENER_TITLE_com.rpetrich.activoice.goggles</key>
-	<string>Goggles</string>
+	<string>النظارات</string>
 	<key>LISTENER_TITLE_com.rpetrich.activoice.search</key>
-	<string>بحث نصي</string>
+	<string>Text Search</string>
 	<key>LISTENER_TITLE_com.rpetrich.activoice.voice</key>
-	<string>بحث صوتي</string>
+	<string>البحث الصوتي</string>
 	<key>LISTENER_TITLE_com.rpetrich.smartclose</key>
-	<string>SmartClose</string>
+	<string>الإغلاق الذكي</string>
 	<key>LISTENER_TITLE_com.rpetrich.superscroller.autodown</key>
-	<string>النزول الى الأسفل تلقائيا </string>
+	<string>التمرير التلقائي لأسفل</string>
 	<key>LISTENER_TITLE_com.rpetrich.superscroller.autoup</key>
-	<string>الطلوع الى الاعلى تلقائيا </string>
+	<string>التمرير التلقائي لأعلى</string>
 	<key>LISTENER_TITLE_com.rpetrich.superscroller.down</key>
-	<string>الأسفل </string>
+	<string>أسفل</string>
 	<key>LISTENER_TITLE_com.rpetrich.superscroller.up</key>
-	<string>الاعلى</string>
+	<string>أعلى</string>
 	<key>LISTENER_TITLE_com.rpetrich.videopane.destroy-pane</key>
-	<string>اغلاق الفيديو</string>
+	<string>إنهاء الفيديو</string>
 	<key>LISTENER_TITLE_com.rpetrich.videopane.detach-pane</key>
-	<string>فصل الفيديو</string>
+	<string>فصل VideoPane</string>
 	<key>LISTENER_TITLE_com.rpetrich.videopane.pause-playback</key>
-	<string>ايقاف مؤقت</string>
+	<string>إيقاف مؤقت</string>
 	<key>LISTENER_TITLE_com.rpetrich.videopane.ressurect-pane</key>
-	<string>تشغيل اخر فيديو</string>
+	<string>إحياء الفيديو</string>
 	<key>LISTENER_TITLE_com.rpetrich.videopane.resume-playback</key>
 	<string>تشغيل</string>
 	<key>LISTENER_TITLE_com.rpetrich.videopane.toggle-fullscreen</key>
-	<string>ملء الشاشة</string>
+	<string>تبديل ملء الشاشة</string>
 	<key>LISTENER_TITLE_com.rpetrich.videopane.toggle-playback</key>
-	<string>تشغيل / إيقاف مؤقت</string>
+	<string>تشغيل/إيقاف مؤقت</string>
 	<key>LISTENER_TITLE_com.rpetrich.videopane.toggle-transparency</key>
-	<string>الشفافية</string>
+	<string>تبديل الشفافية</string>
 	<key>LISTENER_TITLE_com.rpetrich.voicekeys</key>
-	<string>VoiceKeys</string>
+	<string>المفاتيح الصوتية</string>
 	<key>LISTENER_TITLE_com.rpetrich.voicememotoggle</key>
-	<string>مذكرة صوتة</string>
+	<string>المذكرة الصوتية</string>
 	<key>LISTENER_TITLE_libactivator.assistant.ask_FORMAT</key>
-	<string>سؤال "%@"</string>
+	<string>اسأل "%@"</string>
 	<key>LISTENER_TITLE_libactivator.audio.decrease-volume</key>
-	<string>خفض مستوى الصوت</string>
+	<string>خفض الصوت</string>
 	<key>LISTENER_TITLE_libactivator.audio.increase-volume</key>
-	<string>رفع مستوى الصوت</string>
+	<string>رفع الصوت</string>
+	<key>LISTENER_TITLE_libactivator.audio.launch-playing-app</key>
+	<string>تشغيل التطبيق المُشغل</string>
+	<key>LISTENER_TITLE_libactivator.audio.reset-ringer-state</key>
+	<string>إعادة تعيين الرنين</string>
 	<key>LISTENER_TITLE_libactivator.audio.show-volume-bar</key>
-	<string>اظهار شريط الصوت</string>
+	<string>إظهار شريط الصوت</string>
+	<key>LISTENER_TITLE_libactivator.audio.volume.media_FORMAT</key>
+	<string>حجم صوت الوسائط %@%%</string>
+	<key>LISTENER_TITLE_libactivator.audio.volume.ringer_FORMAT</key>
+	<string>حجم صوت الرنين %@%%</string>
 	<key>LISTENER_TITLE_libactivator.audio.volume_FORMAT</key>
-	<string>%@%% صوت</string>
+	<string>الصوت %@%%</string>
 	<key>LISTENER_TITLE_libactivator.camera.invoke-shutter</key>
-	<string>اخذ صورة</string>
+	<string>لاقط الكاميرا</string>
+	<key>LISTENER_TITLE_libactivator.clock.alarm</key>
+	<string>المنبه</string>
+	<key>LISTENER_TITLE_libactivator.clock.bedtime</key>
+	<string>وقت النوم</string>
+	<key>LISTENER_TITLE_libactivator.clock.stopwatch</key>
+	<string>ساعة الإيقاف</string>
+	<key>LISTENER_TITLE_libactivator.clock.timer</key>
+	<string>المؤقت</string>
+	<key>LISTENER_TITLE_libactivator.clock.world-clock</key>
+	<string>الساعة العالمية</string>
+	<key>LISTENER_TITLE_libactivator.command.run_FORMAT</key>
+	<string>تشغيل أمر "%@"</string>
 	<key>LISTENER_TITLE_libactivator.facebook.compose-post</key>
-	<string>انشاء مشاركة في الفيسبوك</string>
+	<string>مؤلف منشور فيسبوك</string>
 	<key>LISTENER_TITLE_libactivator.ipod.music-controls</key>
-	<string>تحكم بالايبود</string>
+	<string>تحكمات iPod</string>
 	<key>LISTENER_TITLE_libactivator.ipod.next-track</key>
-	<string>المقطع التالي</string>
+	<string>المسار التالي</string>
 	<key>LISTENER_TITLE_libactivator.ipod.pause-playback</key>
-	<string>إيقاف موقت</string>
+	<string>إيقاف مؤقت</string>
 	<key>LISTENER_TITLE_libactivator.ipod.previous-track</key>
-	<string>المقطع السابق</string>
+	<string>المسار السابق</string>
 	<key>LISTENER_TITLE_libactivator.ipod.resume-playback</key>
 	<string>تشغيل</string>
 	<key>LISTENER_TITLE_libactivator.ipod.toggle-playback</key>
-	<string>تشغيل/إيقاف موقت</string>
+	<string>تشغيل/إيقاف مؤقت</string>
 	<key>LISTENER_TITLE_libactivator.keyboard.dictation</key>
-	<string>الادخال الصوتي</string>
+	<string>الإملاء</string>
 	<key>LISTENER_TITLE_libactivator.lockscreen.dismiss</key>
-	<string>الغاء قفل الجهاز</string>
+	<string>فتح قفل الجهاز</string>
 	<key>LISTENER_TITLE_libactivator.lockscreen.show</key>
 	<string>قفل الجهاز</string>
 	<key>LISTENER_TITLE_libactivator.lockscreen.toggle</key>
-	<string>قفل/الغاء القفل</string>
+	<string>قفل/فتح القفل</string>
 	<key>LISTENER_TITLE_libactivator.mail.compose-message</key>
-	<string>انشاء بريد</string>
+	<string>مؤلف البريد</string>
 	<key>LISTENER_TITLE_libactivator.message.show_FORMAT</key>
-	<string>اظهار "%@" رسالة</string>
+	<string>عرض رسالة "%@"</string>
+	<key>LISTENER_TITLE_libactivator.notes.compose-note</key>
+	<string>مؤلف الملاحظة</string>
+	<key>LISTENER_TITLE_libactivator.phone.answer-call</key>
+	<string>إجابة الاتصال</string>
 	<key>LISTENER_TITLE_libactivator.phone.contacts</key>
 	<string>إظهار جهات الاتصال</string>
+	<key>LISTENER_TITLE_libactivator.phone.disconnect-call</key>
+	<string>قطع الاتصال</string>
 	<key>LISTENER_TITLE_libactivator.phone.favorites</key>
 	<string>إظهار المفضلة</string>
 	<key>LISTENER_TITLE_libactivator.phone.keypad</key>
-	<string>إظهار لوحة مفاتيح الهاتف</string>
+	<string>إظهار لوحة المفاتيح</string>
 	<key>LISTENER_TITLE_libactivator.phone.recents</key>
-	<string>إظهار المكالمات الاخيرة</string>
+	<string>إظهار الحديثة</string>
 	<key>LISTENER_TITLE_libactivator.phone.voicemail</key>
 	<string>إظهار البريد الصوتي</string>
 	<key>LISTENER_TITLE_libactivator.profile.Default</key>
 	<string>الافتراضي</string>
+	<key>LISTENER_TITLE_libactivator.ringtone.ping</key>
+	<string>وكز</string>
+	<key>LISTENER_TITLE_libactivator.ringtone.texttone:Go-To-Sleep</key>
+	<string>الذهاب إلى النوم</string>
+	<key>LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Alert-In-Conversation</key>
+	<string>الرسالة</string>
+	<key>LISTENER_TITLE_libactivator.screen.brightness.decrease</key>
+	<string>تقليل السطوع</string>
+	<key>LISTENER_TITLE_libactivator.screen.brightness.increase</key>
+	<string>زيادة السطوع</string>
 	<key>LISTENER_TITLE_libactivator.screen.brightness_FORMAT</key>
-	<string>%@%% سطوع</string>
+	<string>السطوع %@%%</string>
 	<key>LISTENER_TITLE_libactivator.settings.about</key>
 	<string>حول</string>
 	<key>LISTENER_TITLE_libactivator.settings.accessibility</key>
-	<string>امكانية الوصول</string>
+	<string>إمكانية الوصول</string>
 	<key>LISTENER_TITLE_libactivator.settings.auto-lock</key>
-	<string>قفل تلقائي</string>
+	<string>القفل التلقائي</string>
+	<key>LISTENER_TITLE_libactivator.settings.background-app-refresh</key>
+	<string>تحديث التطبيقات في الخلفية</string>
+	<key>LISTENER_TITLE_libactivator.settings.battery</key>
+	<string>البطارية</string>
 	<key>LISTENER_TITLE_libactivator.settings.bluetooth</key>
-	<string>بلوتوث</string>
+	<string>الـ Bluetooth</string>
 	<key>LISTENER_TITLE_libactivator.settings.brightness</key>
-	<string>سطوع الشاشة</string>
+	<string>السطوع</string>
 	<key>LISTENER_TITLE_libactivator.settings.brightness-and-wallpaper</key>
-	<string>السطوع والخلفيات</string>
+	<string>السطوع والخلفية</string>
+	<key>LISTENER_TITLE_libactivator.settings.carplay</key>
+	<string>CarPlay</string>
 	<key>LISTENER_TITLE_libactivator.settings.cellular</key>
-	<string>خلوي</string>
+	<string>البيانات الخلوية</string>
+	<key>LISTENER_TITLE_libactivator.settings.control-center</key>
+	<string>مركز التحكم</string>
 	<key>LISTENER_TITLE_libactivator.settings.date-time</key>
-	<string>التاريخ والوقت</string>
+	<string>الوقت والتاريخ</string>
+	<key>LISTENER_TITLE_libactivator.settings.display</key>
+	<string>شاشة العرض والإضاءة</string>
+	<key>LISTENER_TITLE_libactivator.settings.do-not-disturb</key>
+	<string>عدم الإزعاج</string>
 	<key>LISTENER_TITLE_libactivator.settings.equalizer</key>
-	<string>موازن الصوت</string>
+	<string>الموازن</string>
+	<key>LISTENER_TITLE_libactivator.settings.facebook</key>
+	<string>فيسبوك</string>
 	<key>LISTENER_TITLE_libactivator.settings.facetime</key>
-	<string>فيس تايم</string>
+	<string>FaceTime</string>
+	<key>LISTENER_TITLE_libactivator.settings.game-center</key>
+	<string>Game Center</string>
 	<key>LISTENER_TITLE_libactivator.settings.general</key>
 	<string>عام</string>
+	<key>LISTENER_TITLE_libactivator.settings.handoff</key>
+	<string>Handoff</string>
 	<key>LISTENER_TITLE_libactivator.settings.icloud</key>
 	<string>iCloud</string>
 	<key>LISTENER_TITLE_libactivator.settings.international</key>
-	<string>دولي</string>
+	<string>اللغة والمنطقة</string>
 	<key>LISTENER_TITLE_libactivator.settings.keyboard</key>
-	<string>كيبورد</string>
+	<string>لوحة المفاتيح</string>
 	<key>LISTENER_TITLE_libactivator.settings.location-services</key>
-	<string>خدمات المواقع</string>
+	<string>خدمات الموقع</string>
+	<key>LISTENER_TITLE_libactivator.settings.mail</key>
+	<string>البريد، جهات الاتصال، التقويم</string>
+	<key>LISTENER_TITLE_libactivator.settings.managed-configuration</key>
+	<string>ملفات التعريف وإدارة الجهاز</string>
+	<key>LISTENER_TITLE_libactivator.settings.maps</key>
+	<string>الخرائط</string>
+	<key>LISTENER_TITLE_libactivator.settings.messages</key>
+	<string>الرسائل</string>
 	<key>LISTENER_TITLE_libactivator.settings.music</key>
 	<string>الموسيقى</string>
 	<key>LISTENER_TITLE_libactivator.settings.network</key>
 	<string>الشبكة</string>
 	<key>LISTENER_TITLE_libactivator.settings.notes</key>
-	<string>الملاحظات </string>
+	<string>الملاحظات</string>
 	<key>LISTENER_TITLE_libactivator.settings.notifications</key>
-	<string>الاشعارات</string>
+	<string>الإشعارات</string>
+	<key>LISTENER_TITLE_libactivator.settings.passcode</key>
+	<string>رمز الدخول و Touch ID</string>
 	<key>LISTENER_TITLE_libactivator.settings.phone</key>
-	<string>الهاتف </string>
+	<string>الهاتف</string>
 	<key>LISTENER_TITLE_libactivator.settings.photos</key>
 	<string>الصور</string>
+	<key>LISTENER_TITLE_libactivator.settings.privacy</key>
+	<string>الخصوصية</string>
+	<key>LISTENER_TITLE_libactivator.settings.reminders</key>
+	<string>التذكيرات</string>
 	<key>LISTENER_TITLE_libactivator.settings.safari</key>
-	<string>سفاري</string>
+	<string>Safari</string>
 	<key>LISTENER_TITLE_libactivator.settings.sounds</key>
-	<string>الأصوات </string>
+	<string>الأصوات</string>
 	<key>LISTENER_TITLE_libactivator.settings.store</key>
 	<string>المتجر</string>
+	<key>LISTENER_TITLE_libactivator.settings.tethering</key>
+	<string>نقطة اتصال شخصية</string>
 	<key>LISTENER_TITLE_libactivator.settings.twitter</key>
 	<string>تويتر</string>
 	<key>LISTENER_TITLE_libactivator.settings.usage</key>
-	<string>الاستعمال </string>
+	<string>الاستخدام</string>
 	<key>LISTENER_TITLE_libactivator.settings.virtual-assistant</key>
-	<string>سيري</string>
+	<string>Siri</string>
 	<key>LISTENER_TITLE_libactivator.settings.vpn</key>
 	<string>VPN</string>
 	<key>LISTENER_TITLE_libactivator.settings.wallpaper</key>
 	<string>الخلفية</string>
 	<key>LISTENER_TITLE_libactivator.settings.wifi</key>
-	<string>وأي فاي</string>
+	<string>Wi-Fi</string>
+	<key>LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:FAVORITES</key>
+	<string>المفضلة</string>
+	<key>LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:MOST_RECENT_PHOTO</key>
+	<string>أحدث صورة</string>
+	<key>LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:ONE_YEAR_AGO</key>
+	<string>منذ سنة</string>
+	<key>LISTENER_TITLE_libactivator.shortcut:com.apple.mobileslideshow:SEARCH</key>
+	<string>البحث</string>
 	<key>LISTENER_TITLE_libactivator.sms.compose-message</key>
-	<string>انشاء رسالة نصية</string>
+	<string>مؤلف النص</string>
 	<key>LISTENER_TITLE_libactivator.speech.synthesize_FORMAT</key>
-	<string>نطق "%@"</string>
+	<string>قل "%@"</string>
 	<key>LISTENER_TITLE_libactivator.system.activate-control-center</key>
-	<string>تشغيل مركز التحكم</string>
+	<string>تنشيط مركز التحكم</string>
 	<key>LISTENER_TITLE_libactivator.system.activate-notification-center</key>
-	<string>تشغيل مركز الإشعارات</string>
+	<string>تنشيط مركز الإشعارات</string>
+	<key>LISTENER_TITLE_libactivator.system.activate-reachability</key>
+	<string>تنشيط إمكانية الوصول</string>
 	<key>LISTENER_TITLE_libactivator.system.activate-switcher</key>
-	<string>إظهار شريط برامج الخلفية </string>
+	<string>تنشيط المبدل</string>
+	<key>LISTENER_TITLE_libactivator.system.back</key>
+	<string>رجوع</string>
+	<key>LISTENER_TITLE_libactivator.system.clear-switcher</key>
+	<string>مسح مبدل التطبيقات</string>
 	<key>LISTENER_TITLE_libactivator.system.first-springboard-page</key>
-	<string>الصفحة الاولى في الشاشة </string>
+	<string>صفحة واجهة النظام الأولى</string>
+	<key>LISTENER_TITLE_libactivator.system.haptic.flick</key>
+	<string>التمرير</string>
+	<key>LISTENER_TITLE_libactivator.system.haptic.quirk</key>
+	<string>الحدة</string>
+	<key>LISTENER_TITLE_libactivator.system.haptic.tap</key>
+	<string>النقر</string>
 	<key>LISTENER_TITLE_libactivator.system.homebutton</key>
-	<string>زر الهوم</string>
+	<string>زر الرئيسية</string>
+	<key>LISTENER_TITLE_libactivator.system.local-back</key>
+	<string>العودة محليًا</string>
 	<key>LISTENER_TITLE_libactivator.system.nothing</key>
-	<string>عمل لاشي </string>
+	<string>عدم فعل شيء</string>
+	<key>LISTENER_TITLE_libactivator.system.power-menu</key>
+	<string>واجهة إيقاف التشغيل</string>
 	<key>LISTENER_TITLE_libactivator.system.powerdown</key>
-	<string>إيقاف التشغيل </string>
+	<string>إيقاف التشغيل</string>
 	<key>LISTENER_TITLE_libactivator.system.reboot</key>
-	<string>اعادة تشغيل </string>
+	<string>إعادة التشغيل</string>
 	<key>LISTENER_TITLE_libactivator.system.respring</key>
-	<string>اعادة تشغيل الشاشة الرئيسية </string>
+	<string>إعادة التشغيل السريع</string>
 	<key>LISTENER_TITLE_libactivator.system.safemode</key>
-	<string>الوضع الأمن </string>
+	<string>الوضع الآمن</string>
 	<key>LISTENER_TITLE_libactivator.system.show-now-playing-bar</key>
-	<string>إظهار الذي يتم تشغيله</string>
+	<string>إظهار شريط ما يجرِ تشغيله</string>
 	<key>LISTENER_TITLE_libactivator.system.sleepbutton</key>
-	<string>زر وضع الاستعداد</string>
+	<string>زر السكون</string>
 	<key>LISTENER_TITLE_libactivator.system.spotlight</key>
-	<string>صفحة البحث</string>
+	<string>مركز البحث</string>
 	<key>LISTENER_TITLE_libactivator.system.take-screenshot</key>
-	<string>تصوير الشاشة</string>
+	<string>أخذ لقطة شاشة</string>
+	<key>LISTENER_TITLE_libactivator.system.vibrate</key>
+	<string>الاهتزاز</string>
 	<key>LISTENER_TITLE_libactivator.system.virtual-assistant</key>
-	<string>سيري</string>
+	<string>Siri</string>
 	<key>LISTENER_TITLE_libactivator.system.voice-control</key>
-	<string>الأوامر الصوتية</string>
+	<string>التحكم الصوتي</string>
 	<key>LISTENER_TITLE_libactivator.twitter.compose-tweet</key>
-	<string>انشأ تويت</string>
+	<string>مؤلف التغريدة</string>
+	<key>LISTENER_TITLE_libactivator.watch.haptic.tap</key>
+	<string>نقرة الساعة</string>
 	<key>LISTENER_TITLE_libactivator.weibo.compose-post</key>
-	<string>انشاء مشاركة Weibo</string>
+	<string>مؤلف منشور Weibo</string>
 	<key>LISTENER_TITLE_toggle_3G</key>
-	<string>ثري جي</string>
+	<string>3G</string>
 	<key>LISTENER_TITLE_toggle_Bluetooth</key>
-	<string>بلوتوث</string>
+	<string>Bluetooth</string>
 	<key>LISTENER_TITLE_toggle_Data</key>
-	<string>البيانات </string>
+	<string>البيانات</string>
 	<key>LISTENER_TITLE_toggle_Location</key>
-	<string>تحديد المواقع</string>
+	<string>الموقع</string>
 	<key>LISTENER_TITLE_toggle_Phone</key>
-	<string>الهاتف </string>
+	<string>الهاتف</string>
 	<key>LISTENER_TITLE_toggle_SSH</key>
 	<string>SSH</string>
 	<key>LISTENER_TITLE_toggle_Syslog</key>
-	<string>Syslog</string>
+	<string>سجل النظام</string>
 	<key>LISTENER_TITLE_toggle_Wi-Fi</key>
-	<string>وأي فاي </string>
+	<string>Wi-Fi</string>
 	<key>LOCALIZATION_ABOUT</key>
 	<string></string>
 	<key>Lenient</key>
 	<string>متساهل</string>
 	<key>Loose</key>
-	<string>فضفاض</string>
+	<string>واسع</string>
 	<key>MAIL_ANY_SENDER</key>
 	<string>(أي مرسل)</string>
 	<key>MAIL_ANY_SUBJECT</key>
@@ -1105,14 +1475,18 @@
 	<string>غير معروف</string>
 	<key>MAIL_SUBJECT</key>
 	<string>الموضوع</string>
+	<key>MAY_BE_ASSIGNED_SIMULTANEOUSLY_MESSAGE</key>
+	<string>يمكن تعيين %@ و %@ معًا في نفس الوقت.</string>
+	<key>MAY_BE_ASSIGNED_SIMULTANEOUSLY_WITH_PAUSE_MESSAGE</key>
+	<string>يمكن تعيين %@ و %@ معًا إذا تم إضافة إيقاف مؤقت.</string>
 	<key>MENUS</key>
-	<string>القوائم </string>
+	<string>القوائم</string>
 	<key>MENUS_DETAIL</key>
-	<string>إدارة القوائم المخصصة.</string>
+	<string>إدارة قوائم Activator المخصصة</string>
 	<key>MENU_TITLE</key>
-	<string>عنوان القائمة </string>
+	<string>عنوان القائمة</string>
 	<key>MESSAGE</key>
-	<string>رسالة</string>
+	<string>الرسالة</string>
 	<key>MESSAGE_ANY_MESSAGE</key>
 	<string>(أي رسالة)</string>
 	<key>MESSAGE_ANY_SENDER</key>
@@ -1124,109 +1498,119 @@
 	<key>MODE_DESCRIPTION_all</key>
 	<string></string>
 	<key>MODE_DESCRIPTION_application</key>
-	<string>عندما يكون أحد البرامج ظاهر على الشاشة</string>
+	<string>عندما يكون التطبيق مرئيًا</string>
 	<key>MODE_DESCRIPTION_lockscreen</key>
-	<string>عندما يكون الجهاز مقفل وشاشة القفل ظاهرة</string>
+	<string>عندما يكون الجهاز مقفلًا وشاشة القفل مرئية</string>
 	<key>MODE_DESCRIPTION_springboard</key>
-	<string>عندما تكون أيقونات البرامج ظاهرة على الشاشة</string>
+	<string>عندما تكون أيقونات واجهة النظام مرئية</string>
 	<key>MODE_TITLE_all</key>
-	<string>في كل مكان</string>
+	<string>في أي مكان</string>
 	<key>MODE_TITLE_application</key>
-	<string>في التطبيقات </string>
+	<string>داخل التطبيقات</string>
 	<key>MODE_TITLE_lockscreen</key>
-	<string>في شاشة القفل </string>
+	<string>في شاشة القفل</string>
 	<key>MODE_TITLE_springboard</key>
-	<string>في الشاشة الرئيسية </string>
+	<string>في الشاشة الرئيسية</string>
 	<key>MORE</key>
 	<string>المزيد</string>
 	<key>MORE_ACTIONS</key>
-	<string>برامج اخرى</string>
+	<string>المزيد من الإجراءات</string>
 	<key>MORE_ACTIONS_DETAIL</key>
-	<string>يمكنك الحصول على المزيد من البرامج من سيديا</string>
+	<string>الحصول على المزيد من الإجراءات عبر Cydia</string>
 	<key>MULTIPLE_ASSIGNMENTS</key>
-	<string>(اكثر من واحد)</string>
+	<string>(متعدد)</string>
+	<key>MULTIPLE_ASSIGNMENTS_TITLE</key>
+	<string>تعيينات متعددة</string>
+	<key>MULTIPLE_ASSIGNMENTS_WITH_PAUSE_TITLE</key>
+	<string>تعيينات متعددة</string>
+	<key>Multi-touch Gestures</key>
+	<string>إيماءات اللمس المتعدد</string>
 	<key>NETWORK_NAME</key>
 	<string>اسم الشبكة</string>
 	<key>NEW_BOOKMARK</key>
-	<string>مفضلة جديدة</string>
+	<string>إشارة مرجعية جديدة</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.application-launch</key>
-	<string> تشغيل تطبيق معين</string>
+	<string>تشغيل تطبيق محدد</string>
+	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.3d-touch</key>
+	<string>لمس أيقونة معينة بقوة</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.flick.down</key>
-	<string>سحب ايقونة تطبيق معين للاسفل</string>
+	<string>تمرير أيقونة معينة للأسفل</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.flick.left</key>
-	<string>عند سحب ايقونة تطبيق معين لليسار</string>
+	<string>تمرير أيقونة معينة لليسار</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.flick.right</key>
-	<string>عند سحب ايقونة تطبيق معين لليمين</string>
+	<string>تمرير أيقونة معينة لليمين</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.flick.up</key>
-	<string>عند سحب ايقونة تطبيق معين للاعلى</string>
+	<string>تمرير أيقونة معينة للأعلى</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.hold</key>
-	<string>عند الضغط باستمرار على ايقونة معينة</string>
+	<string>لمس أيقونة معينة مع الاستمرار</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.icon.tap.double</key>
-	<string>عند الضغط مرتين على ايقونة معينة</string>
+	<string>النقر مرتين على أيقونة معينة</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.mail-received</key>
-	<string>عند تلقى بريد مع معايير محددة</string>
+	<string>استلام بريد بمعايير محددة</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.mail-received_SENDER_FORMAT</key>
-	<string>المرسل يكون %@</string>
+	<string>المرسل هو %@</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT</key>
-	<string> الموضوع يحتوي على "%2$@", والمرسل يكون %1$@</string>
+	<string>احتواء الموضوع على "%2$@"، المرسل هو %1$@</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.mail-received_SUBJECT_FORMAT</key>
-	<string>الموضوع يحتوي على "%@"</string>
+	<string>احتواء الموضوع على "%@"</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.message-received</key>
-	<string>تلقى رسالة مع معايير محددة</string>
+	<string>استلام رسالة بمعايير محددة</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT</key>
-	<string>الرسالة تحتوي على "%2$@", والمرسل يكون %1$@</string>
+	<string>احتواء الرسالة على "%2$@"، المرسل هو %1$@</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.message-received_MESSAGE_FORMAT</key>
-	<string> الرسالة تحتوي على "%@"</string>
+	<string>احتواء الرسالة على "%@"</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.message-received_SENDER_FORMAT</key>
-	<string>المرسل يكون %@</string>
+	<string>المرسل هو %@</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-connect_FORMAT</key>
-	<string>اتصال بجهاز بلوتوث محدد</string>
+	<string>الاتصال بجهاز Bluetooth محدد</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.network.bluetooth-disconnect_FORMAT</key>
-	<string>قطع الاتصال من جهاز بلوتوث محدد</string>
+	<string>قطع الاتصال عن جهاز Bluetooth محدد</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi</key>
-	<string>متصلاّ بشبكة واي فاي </string>
+	<string>الاتصال بشبكة Wi-Fi</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.network.joined-wifi_FORMAT</key>
-	<string>متصلاّ بشبكة واي فاي محددة</string>
+	<string>الاتصال بشبكة Wi-Fi محددة</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi</key>
-	<string>قطع الاتصال من اي شبكة واي فاي</string>
+	<string>قطع الاتصال عن شبكة Wi-Fi محددة</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.network.left-wifi_FORMAT</key>
-	<string>قطع الاتصال من شبكة واي فاي محددة</string>
+	<string>قطع الاتصال عن شبكة Wi-Fi محددة</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.power.charge-past</key>
-	<string>مستوى شحن البطارية أعلى من مستوى محدد</string>
+	<string>مستوى طاقة الشحن أعلى من مستوى محدد</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.power.charge-past_FORMAT</key>
-	<string>مستوى شحن البطارية أعلى من %@%%</string>
+	<string>مستوى طاقة الشحن أعلى من %@%%</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.power.drain-past</key>
-	<string>مستوى شحن البطارية أقل من مستوى محدد</string>
+	<string>مستوى طاقة الشحن أقل من مستوى محدد</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.power.drain-past_FORMAT</key>
-	<string>مستوى شحن البطارية أقل من %@%%</string>
+	<string>مستوى طاقة الشحن أقل من %@%%</string>
 	<key>NEW_EVENT_DESCRIPTION_libactivator.scheduled</key>
-	<string>يوم محدد من ايام الاسبوع ووقت معين</string>
+	<string>مرور يوم أسبوع ووقت محدد</string>
 	<key>NEW_EVENT_TITLE_libactivator.application-launch</key>
 	<string>تشغيل التطبيق</string>
+	<key>NEW_EVENT_TITLE_libactivator.icon.3d-touch</key>
+	<string>3D Touch الأيقونة</string>
 	<key>NEW_EVENT_TITLE_libactivator.icon.flick.down</key>
-	<string>سحب الايقونات للاسفل</string>
+	<string>تمرير الأيقونة لأسفل</string>
 	<key>NEW_EVENT_TITLE_libactivator.icon.flick.left</key>
-	<string>سحب الايقونات لليسار</string>
+	<string>تمرير الأيقونة لليسار</string>
 	<key>NEW_EVENT_TITLE_libactivator.icon.flick.right</key>
-	<string>سحب الايقونات لليمين</string>
+	<string>تمرير الأيقونة لليمين</string>
 	<key>NEW_EVENT_TITLE_libactivator.icon.flick.up</key>
-	<string>سحب الايقونات للاعلى</string>
+	<string>تمرير الأيقونة لأعلى</string>
 	<key>NEW_EVENT_TITLE_libactivator.icon.hold</key>
-	<string>ضغط متواصل على الايقونة</string>
+	<string>الضغط على الأيقونة</string>
 	<key>NEW_EVENT_TITLE_libactivator.icon.tap.double</key>
-	<string>ضغط مرتين على الايقونة</string>
+	<string>النقر مرتين على الأيقونة</string>
 	<key>NEW_EVENT_TITLE_libactivator.mail-received</key>
-	<string>تلقى بريد إلكتروني</string>
+	<string>استلام بريد</string>
 	<key>NEW_EVENT_TITLE_libactivator.mail-received_SENDER_FORMAT</key>
 	<string>من %@</string>
 	<key>NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_AND_SENDER_FORMAT</key>
-	<string>من %@, "%@" في الموضوع</string>
+	<string>من %@، "%@" في الموضوع</string>
 	<key>NEW_EVENT_TITLE_libactivator.mail-received_SUBJECT_FORMAT</key>
 	<string>"%@" في الموضوع</string>
 	<key>NEW_EVENT_TITLE_libactivator.message-received</key>
-	<string>تلقى رسالة</string>
+	<string>استلام رسالة</string>
 	<key>NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_AND_SENDER_FORMAT</key>
-	<string>من %@, "%@" في الرسالة</string>
+	<string>من %@، "%@" في الرسالة</string>
 	<key>NEW_EVENT_TITLE_libactivator.message-received_MESSAGE_FORMAT</key>
 	<string>"%@" في الرسالة</string>
 	<key>NEW_EVENT_TITLE_libactivator.message-received_SENDER_FORMAT</key>
@@ -1236,133 +1620,174 @@
 	<key>NEW_EVENT_TITLE_libactivator.network.bluetooth-disconnect_FORMAT</key>
 	<string>قطع الاتصال من %@</string>
 	<key>NEW_EVENT_TITLE_libactivator.network.joined-wifi</key>
-	<string>ارتباط بشبكة الواي فاي</string>
+	<string>الانضمام إلى شبكة Wi-Fi</string>
 	<key>NEW_EVENT_TITLE_libactivator.network.joined-wifi_FORMAT</key>
-	<string>مرتبط بـ %@</string>
+	<string>الانضمام إلى %@</string>
 	<key>NEW_EVENT_TITLE_libactivator.network.left-wifi</key>
-	<string>الانقطاع عن شبكة واي فاي</string>
+	<string>ترك شبكة الـ Wi-Fi</string>
 	<key>NEW_EVENT_TITLE_libactivator.network.left-wifi_FORMAT</key>
-	<string>الانقطاع عن %@</string>
+	<string>ترك %@</string>
 	<key>NEW_EVENT_TITLE_libactivator.power.charge-past</key>
 	<string>شحن البطارية</string>
 	<key>NEW_EVENT_TITLE_libactivator.power.charge-past_FORMAT</key>
 	<string>شحن البطارية بعد %@%%</string>
 	<key>NEW_EVENT_TITLE_libactivator.power.drain-past</key>
-	<string>استنزاف البطارية</string>
+	<string>شحن البطارية</string>
 	<key>NEW_EVENT_TITLE_libactivator.power.drain-past_FORMAT</key>
-	<string>استنزاف البطارية بعد %@%%</string>
+	<string>شحن البطارية بعد %@%%</string>
 	<key>NEW_EVENT_TITLE_libactivator.scheduled</key>
-	<string>مجدول</string>
+	<string>جدولة</string>
 	<key>NEW_LISTENER_DESCRIPTION_libactivator.assistant.ask</key>
-	<string>جعل سيري تجيب عن سؤال</string>
+	<string>طلب من Siri الإجابة على سؤال</string>
 	<key>NEW_LISTENER_DESCRIPTION_libactivator.audio.volume</key>
-	<string>تطبيق حجم الصوت محدد للنظام</string>
+	<string>تطبيق مستوى صوت نظام محدد</string>
+	<key>NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.media</key>
+	<string>تطبيق صوت وسائط محدد</string>
+	<key>NEW_LISTENER_DESCRIPTION_libactivator.audio.volume.ringer</key>
+	<string>تطبيق صوت رنين محدد</string>
+	<key>NEW_LISTENER_DESCRIPTION_libactivator.command.run</key>
+	<string>تشغيل أمر shell مخصص</string>
 	<key>NEW_LISTENER_DESCRIPTION_libactivator.message.show</key>
-	<string>اظهار رسالة تنبيه مخصصة</string>
+	<string>إظهار رسالة تنبيه مخصصة</string>
 	<key>NEW_LISTENER_DESCRIPTION_libactivator.screen.brightness</key>
 	<string>تطبيق سطوع شاشة محدد</string>
 	<key>NEW_LISTENER_DESCRIPTION_libactivator.speech.synthesize</key>
-	<string>اجعل الجهاز يتكلم نص مخصص</string>
+	<string>طلب نطق نص مخصص من الجهاز</string>
 	<key>NEW_LISTENER_TITLE_libactivator.assistant.ask</key>
-	<string>أسال سيري</string>
+	<string>اسأل Siri</string>
 	<key>NEW_LISTENER_TITLE_libactivator.audio.volume</key>
-	<string>تعيين حجم الصوت</string>
+	<string>تعيين مستوى الصوت</string>
+	<key>NEW_LISTENER_TITLE_libactivator.audio.volume.media</key>
+	<string>تعيين مستوى صوت الوسائط</string>
+	<key>NEW_LISTENER_TITLE_libactivator.audio.volume.ringer</key>
+	<string>تعيين مستوى صوت الرنين</string>
+	<key>NEW_LISTENER_TITLE_libactivator.command.run</key>
+	<string>تشغيل أمر</string>
 	<key>NEW_LISTENER_TITLE_libactivator.message.show</key>
-	<string>اظهار رسالة تنبيه</string>
+	<string>إظهار تنبيه الرسالة</string>
 	<key>NEW_LISTENER_TITLE_libactivator.screen.brightness</key>
-	<string>ضبط سطوع الشاشة</string>
+	<string>تعيين السطوع</string>
 	<key>NEW_LISTENER_TITLE_libactivator.speech.synthesize</key>
-	<string>تأثير بالكلام</string>
+	<string>اصطناع الكلام</string>
 	<key>NEW_MENU</key>
 	<string>قائمة جديدة</string>
 	<key>NEW_PROFILE</key>
-	<string>وضع جديد</string>
+	<string>ملف تعريف جديد</string>
 	<key>N_ACTIONS</key>
-	<string>%d عمليات</string>
+	<string>%d إجراء</string>
 	<key>N_ADDITIONAL_EVENTS</key>
-	<string>%i تاثيرات إضافية</string>
+	<string>%i حدث إضافي</string>
 	<key>New Action</key>
-	<string>عملية جديد</string>
+	<string>إجراء جديد</string>
 	<key>New Event</key>
-	<string>تأثير جديد</string>
+	<string>حدث جديد</string>
 	<key>Normal</key>
 	<string>طبيعي</string>
+	<key>OPEN_APP_IMMEDIATELY</key>
+	<string>فتح التطبيق فورًا</string>
 	<key>OUT_OF_DATE_MESSAGE</key>
-	<string>يعمل هذا البرنامج بشكل افضل على التحديثات الجديدة. ينصح بالتحديث اذا كان التحديث الجديد له جيلبريك</string>
+	<string>تعمل Activator على الإصدارات الحديثة من iOS بشكل أفضل. يرجى التفكير في الترقية.</string>
 	<key>OUT_OF_DATE_TITLE</key>
-	<string>نظام الجهاز قديم</string>
+	<string>إصدار النظام قديم</string>
+	<key>PAUSE_N_SECONDS_DIVIDER</key>
+	<string>— إيقاف %@ ثانية مؤقتًا —</string>
+	<key>PAUSE_ONE_SECOND_DIVIDER</key>
+	<string>— إيقاف ثانية واحدة مؤقتًا —</string>
+	<key>PREVIEW_MENU</key>
+	<string>قائمة المعاينة</string>
 	<key>PROFILES</key>
-	<string>الاوضاع</string>
+	<string>ملفات التعريف</string>
 	<key>PROFILES_DETAIL</key>
-	<string>تعيين اوضاع مخصصة</string>
+	<string>إعداد ملف تعريف تعيين مخصص</string>
 	<key>PROFILE_NAME</key>
-	<string>اسم الوضع</string>
+	<string>اسم ملف التعريف</string>
 	<key>Precise</key>
 	<string>دقيق</string>
 	<key>QUESTION</key>
 	<string>سؤال</string>
+	<key>REMOVE</key>
+	<string>إزالة</string>
 	<key>RESET_ALERT_CANCEL</key>
-	<string>الغاء</string>
+	<string>إلغاء</string>
 	<key>RESET_ALERT_CONTINUE</key>
-	<string>اعادة تعيين</string>
+	<string>إعادة التعيين</string>
 	<key>RESET_ALERT_MESSAGE</key>
-	<string>هل تريد بالتأكيد اعادة تعيين إعدادات هذا البرنامج؟ سوف يتم اعادة تشغيل الشاشة الرئيسية</string>
+	<string>هل أنت متأكد أنك تريد إعادة تعيين إعدادات Activator إلى الوضع الافتراضي؟
+سيتم عمل إعادة تشغيل سريع لجهازك في حال الاستمرار.</string>
 	<key>RESET_ALERT_TITLE</key>
-	<string>اعادة تعيين الإعدادات</string>
+	<string>إعادة تعيين إعدادات Activator</string>
 	<key>RESET_SETTINGS</key>
-	<string>اعادة تعيين الإعدادات </string>
+	<string>إعادة تعيين الإعدادات</string>
 	<key>RESET_SETTINGS_DETAIL</key>
-	<string>إعادة جميع الإعدادات الى القيم الافتراضية</string>
+	<string>إعادة جميع الإعدادات إلى القيم الافتراضية</string>
 	<key>RESTORE_ALERT_CANCEL</key>
 	<string>إلغاء</string>
 	<key>RESTORE_ALERT_CONTINUE</key>
 	<string>استعادة</string>
 	<key>RESTORE_ALERT_MESSAGE</key>
-	<string>هل تريد بالتاكيد استعادة الاعدادات من النسخة الاحتياطية سوف يتم عمل ريسبرينج عن الانتهاء</string>
+	<string>هل أنت متأكد أنك تريد استعادة اعداداتك إلى النسخة المصدرة؟
+سيتم عمل إعادة تشغيل سريع لجهازك في حال المتابعة.</string>
 	<key>RESTORE_ALERT_TITLE</key>
-	<string>استعادة اعدادات الاداة</string>
+	<string>استعادة إعدادات Activator</string>
 	<key>RESTORE_ASSIGNMENTS</key>
-	<string>استعادة الخصائص</string>
+	<string>استعادة التعيينات</string>
 	<key>RESTORE_ASSIGNMENTS_DETAIL</key>
-	<string>استعادة الخصائص التي تم تصديرها</string>
+	<string>استعادة التعيينات المصدرة</string>
+	<key>RUN_COMMAND_WARNING</key>
+	<string>الأوامر المخصصة قد تضر جهازك إذا تم استخدامها بشكل غير صحيح. يرجى المتابعة بحذر.</string>
 	<key>SAFE_MODE_CANCEL</key>
 	<string>إلغاء</string>
 	<key>SAFE_MODE_MESSAGE</key>
-	<string>الجهاز يعمل في الوضع الأمن، معظم خصائص هذا البرنامج لا تعمل في الوضع الأمن. قم بإعادة تشغيل الشاشة الرئيسية للعودة الى الوضع الطبيعي.</string>
+	<string>يعمل جهازك حاليًا في الوضع الآمن. معظم مميزات Activator تتعطل عندما يكون الجهاز في الوضع الآمن. أعد تشغيل واجهة النظام للعودة إلى الوضع الطبيعي.</string>
+	<key>SAFE_MODE_RESET_SETTINGS</key>
+	<string>إعادة تعيين الإعدادات</string>
 	<key>SAFE_MODE_RESTART</key>
-	<string>اعادة تشغيل </string>
+	<string>إعادة التشغيل</string>
+	<key>SAFE_MODE_RESTART_DETAIL</key>
+	<string>إعادة تشغيل واجهة النظام</string>
 	<key>SAFE_MODE_TITLE</key>
-	<string>في الوضع الأمن</string>
+	<string>في الوضع الآمن</string>
 	<key>SEARCH</key>
 	<string>بحث</string>
 	<key>SET_BRIGHTNESS_TO_FORMAT</key>
-	<string>تعيين السطوع الى %@%%</string>
+	<string>تعيين السطوع إلى %@%%</string>
+	<key>SET_MEDIA_VOLUME_TO_FORMAT</key>
+	<string>تعيين مستوى صوت الوسائط إلى %@%%</string>
+	<key>SET_RINGER_VOLUME_TO_FORMAT</key>
+	<string>تعيين مستوى صوت الرنين إلى %@%%</string>
 	<key>SET_VOLUME_TO_FORMAT</key>
-	<string>تعيين مستوى الصوت الى %@%%</string>
+	<string>تعيين مستوى الصوت إلى %@%%</string>
 	<key>SHARE_THE_LOVE</key>
-	<string>أنا استخدم أداة Activator التي تضيف العديد من الإختصارات المميزة لجهازي</string>
+	<string>أنا أستخدم ActivatorApp@ لإضافة إيماءات مخصصة واختصارات لـ %@ الخاص بي!</string>
 	<key>SHOW_ACTIVATOR_ICON_ON_SPRINGBOARD</key>
-	<string>إظهار أيقونة هذا البرنامج في الشاشة الرئيسية</string>
+	<string>إظهار أيقونة Activator على واجهة النظام</string>
+	<key>SHOW_AS_BANNER</key>
+	<string>إظهار كشعار</string>
 	<key>SHOW_BANNER_WHEN_PERFORMING_AN_ACTION</key>
-	<string>اظهار عند تنفيذ العملية</string>
+	<string>إظهار شعار عند تنفيذ إجراء</string>
 	<key>SHOW_ICON</key>
-	<string>إظهار أيقونة البرنامج</string>
+	<string>إظهار الأيقونة</string>
 	<key>Sensitivity</key>
-	<string>مستشعر</string>
+	<string>الحساسية</string>
 	<key>Slide Gestures</key>
-	<string>اختصارات السحب</string>
+	<string>إيماءات السحب</string>
+	<key>Stop delivering touches</key>
+	<string>إيقاف توصيل اللمسات</string>
 	<key>TEXT</key>
-	<string>النص</string>
+	<string>نص</string>
 	<key>TITLE</key>
 	<string>العنوان</string>
 	<key>TOO_NEW_MESSAGE</key>
-	<string>لم يتم تجربة هذا البرنامج على هذا الاصدار الجديد، بعض الخصائص قد لا تعمل</string>
+	<string>لم يتم اختبار Activator بعد على هذا الإصدار من iOS.
+بعض المميزات لن تعمل على النحو المطلوب.</string>
 	<key>TOO_NEW_TITLE</key>
-	<string>اصدار النظام جديد</string>
+	<string>إصدار النظام جديد جدًا</string>
 	<key>Tight</key>
 	<string>ضيق</string>
+	<key>UNASSIGN</key>
+	<string>إلغاء التعيين</string>
 	<key>UNASSIGNED</key>
-	<string>لم يتم تخصيصة</string>
+	<string>(غير معين)</string>
 	<key>UNKNOWN_ASSIGNMENT</key>
 	<string>(غير معروف)</string>
 	<key>VERSION_PROMPT_CONTINUE</key>
@@ -1370,16 +1795,18 @@
 	<key>VERSION_PROMPT_IGNORE</key>
 	<string>تجاهل</string>
 	<key>VERSION_PROMPT_MORE_INFO</key>
-	<string>معلومات زيادة</string>
+	<string>المزيد من المعلومات</string>
 	<key>Very Lenient</key>
-	<string>متساهل جدا</string>
+	<string>متساهل جدًا</string>
 	<key>Very Loose</key>
-	<string>حر جدا</string>
+	<string>واسع جدًا</string>
 	<key>Very Precise</key>
-	<string>دقيق جدا</string>
+	<string>دقيق جدًا</string>
 	<key>WEEKDAYS_LOWERCASE</key>
 	<string>أيام الأسبوع</string>
 	<key>WEEKENDS_LOWERCASE</key>
-	<string>أجازة نهاية الأسبوع</string>
+	<string>عطلات نهاية الأسبوع</string>
+	<key>When Event is Handled</key>
+	<string>عندما يتم التعامل مع الحدث</string>
 </dict>
 </plist>
