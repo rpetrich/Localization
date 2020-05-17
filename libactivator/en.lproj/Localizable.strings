@@ -1221,6 +1221,21 @@
 	"LISTENER_TITLE_libactivator.ringtone.ping" = "Ping";
 	"LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Alert-In-Conversation" = "Message";
 	"LISTENER_TITLE_libactivator.ringtone.texttone:Go-To-Sleep" = "Go To Sleep";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:App-Notification-Critical-Alert" = "Critical Alert";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:FaceTime-Group-Invitation" = "Group Invitation";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:FaceTime-Participant-Joined" = "Participant Joined";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Health" = "Health";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Passbook-NFC-Scan-Complete" = "Scan Complete";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Photos Memory" = "Memory Chime";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Photos Sharing Post" = "Sharing Post";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Acknowledgment-Exclamation" = "Exclamation Reaction";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Acknowledgment-HaHa" = "Ha Ha Reaction";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Acknowledgment-Heart" = "Heart Reaction";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Acknowledgment-Question-Mark" = "Question Reaction";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Acknowledgment-Thumbs-Down" = "Thumbs Down Reaction";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Text-Message-Acknowledgment-Thumbs-Up" = "Thumbs Up Reaction";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:Health" = "Health";
+	"LISTENER_TITLE_libactivator.ringtone.texttone:System Background Mic Usage" = "Background Usage";
 
 	"IN_CYDIA_WARNING" = "It is potentially dangerous to perform actions while Cydia is installing software.";
 
